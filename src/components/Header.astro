@@ -1,0 +1,37 @@
+---
+import home from "../data/spawn-home.json";
+import BrandMark from "./BrandMark.astro";
+const id = home.brand.identity;
+const v = id.headerVariant || "editorial";
+const eyebrow = id.eyebrowText || "";
+---
+{v === "minimal" && (
+  <header class="border-b border-ink/10 bg-cream">
+    <nav class="mx-auto flex max-w-6xl items-center justify-between gap-4 px-4 py-3">
+      <BrandMark />
+      <span class="hidden text-sm text-ink/70 sm:inline">{home.brand.taglineShort}</span>
+    </nav>
+  </header>
+)}
+{v === "masthead" && (
+  <header class="border-b-2 border-primary bg-cream">
+    <div class="mx-auto max-w-6xl px-4 py-4">
+      <div class="font-display text-2xl font-semibold text-ink md:text-3xl">{home.brand.fullName}</div>
+      <div class="mt-1 h-px w-24 bg-accent" />
+      <nav class="mt-3 flex flex-wrap gap-4 text-sm font-medium text-ink/80">
+        <span>{home.brand.taglineShort}</span>
+      </nav>
+    </div>
+  </header>
+)}
+{v === "editorial" && (
+  <header class="border-b border-ink/10 bg-cream">
+    <div class="mx-auto max-w-6xl px-4 py-4 text-center">
+      {eyebrow ? <p class="mb-1 text-xs font-semibold uppercase tracking-widest text-accent">{eyebrow}</p> : null}
+      <div class="flex justify-center">
+        <BrandMark />
+      </div>
+      <p class="mt-2 text-sm text-ink/75">{home.brand.taglineShort}</p>
+    </div>
+  </header>
+)}

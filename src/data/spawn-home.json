@@ -1,0 +1,49 @@
+{
+  "brand": {
+    "shortName": "InkLedger",
+    "fullName": "InkLedger",
+    "taglineShort": "Stop overpaying for printer ink.",
+    "identity": {
+      "palette": {
+        "primary": "#1E3A8A",
+        "accent": "#F59E0B",
+        "cream": "#FAF7F2",
+        "ink": "#0F172A"
+      },
+      "fonts": {
+        "display": "Playfair Display",
+        "body": "Inter",
+        "mono": "JetBrains Mono"
+      },
+      "mark": {
+        "svgPath": "brand/inkledger-mark.svg",
+        "svgPublicPath": "/brand/inkledger-mark.svg",
+        "sizeRem": 1.75,
+        "position": "left-of-wordmark"
+      },
+      "wordmark": {
+        "weight": 600,
+        "tracking": "tight",
+        "case": "normal"
+      },
+      "headerVariant": "minimal",
+      "eyebrowText": "INK PRICING WATCHDOG",
+      "fontCssHref": "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Inter:wght@400;600;700&family=JetBrains+Mono:wght@400;600;700&display=swap"
+    }
+  },
+  "homepage": {
+    "eyebrow": "Printer ink pricing watchdog",
+    "h1": "Printer ink costs more than your time is worth. We catch the hikes.",
+    "subhead": "OEM cartridge prices rose 43% in the last five years. We track the increases, review the refill and compatible alternatives that actually work, and show you exactly how much your household is losing to Epson, HP, Brother, and Canon each year.",
+    "ctaPrimaryLabel": "See the ink pricing report",
+    "ctaPrimaryHref": "/pillars/ink-pricing-report",
+    "ctaSecondaryLabel": "Start with the refill guide",
+    "ctaSecondaryHref": "/pillars/refill-guide",
+    "trustLine": "No sponsorship from printer manufacturers. Affiliate revenue only on third-party refills and compatibles we would buy ourselves.",
+    "heroImageUrl": "https://images.unsplash.com/photo-1612815154858-60aa4c59eaa6?w=1600&q=85"
+  },
+  "about": {
+    "headline": "Why InkLedger exists",
+    "body": "One household, 12 years of ink receipts, and the slow realization that the printer was free and the cartridges cost more than a car payment. InkLedger is the site we wish had existed then. We do the pricing work so you can buy less ink for less money, or ditch the inkjet entirely for the tasks that do not actually need one."
+  }
+}

@@ -1,0 +1,27 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Header from "../components/Header.astro";
+import home from "../data/spawn-home.json";
+const h = home.homepage;
+const a = home.about;
+---
+<BaseLayout>
+  <Header />
+  <main class="hero mx-auto max-w-6xl px-4 py-8">
+      <img class="hero-img w-full rounded-xl object-cover" src={h.heroImageUrl} alt="" width="960" height="540" loading="eager" />
+      <div class="hero-copy mt-4">
+        {h.eyebrow ? <p class="eyebrow text-xs font-semibold uppercase tracking-widest text-ink/70">{h.eyebrow}</p> : null}
+        <h1 class="font-display text-3xl font-semibold text-ink md:text-4xl">{h.h1}</h1>
+        <p class="subhead mt-2 max-w-2xl text-lg text-ink/85">{h.subhead}</p>
+        {h.trustLine ? <p class="trust mt-3 text-sm text-ink/70">{h.trustLine}</p> : null}
+        <div class="ctas mt-4 flex flex-wrap gap-3">
+          <a class="btn primary rounded-lg bg-primary px-4 py-2 font-semibold text-white no-underline" href={h.ctaPrimaryHref}>{h.ctaPrimaryLabel}</a>
+          <a class="btn ghost rounded-lg border border-ink/15 px-4 py-2 font-semibold text-ink no-underline" href={h.ctaSecondaryHref}>{h.ctaSecondaryLabel}</a>
+        </div>
+      </div>
+    </main>
+    <section class="about-callout mx-auto mb-12 max-w-3xl rounded-xl border border-ink/10 bg-white px-4 py-5" aria-labelledby="about-h">
+      <h2 id="about-h" class="font-display text-xl font-semibold text-ink">{a.headline}</h2>
+      <p class="mt-2 text-ink/85">{a.body}</p>
+    </section>
+</BaseLayout>

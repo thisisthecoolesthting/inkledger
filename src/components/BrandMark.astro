@@ -1,0 +1,39 @@
+---
+import home from "../data/spawn-home.json";
+const id = home.brand.identity;
+const wm = id.wordmark;
+const pos = id.mark.position || "left-of-wordmark";
+const tracking =
+  wm.tracking === "wide" ? "0.08em" : wm.tracking === "slab" ? "0.02em" : wm.tracking === "normal" ? "0" : "-0.04em";
+const textCase =
+  wm.case === "uppercase" ? "uppercase" : wm.case === "small-caps" ? "small-caps" : "none";
+const weight = Number(wm.weight || 600);
+const showMark = Boolean(id.mark.svgPublicPath);
+const px = Math.round(Number(id.mark.sizeRem || 1.75) * 16);
+---
+<div class:list={["brand-mark", pos === "none" ? "brand-mark--none" : `brand-mark--${pos}`]}>
+  {showMark ? <img src={id.mark.svgPublicPath} width={px} height={px} class="mark-svg" alt="" /> : null}
+  <span
+    class="wordmark font-display text-primary"
+    style={`font-weight:${weight};letter-spacing:${tracking};text-transform:${textCase === "small-caps" ? "none" : textCase};font-variant:${textCase === "small-caps" ? "small-caps" : "normal"}`}
+  >
+    {home.brand.fullName}
+  </span>
+</div>
+<style>
+  .brand-mark {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+  .brand-mark--above-wordmark {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .brand-mark--right-of-wordmark {
+    flex-direction: row-reverse;
+  }
+  .brand-mark--none .mark-svg {
+    display: none;
+  }
+</style>

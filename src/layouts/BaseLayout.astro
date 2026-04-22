@@ -1,0 +1,29 @@
+---
+import home from "../data/spawn-home.json";
+import "../styles/global.css";
+const id = home.brand.identity;
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{home.brand.fullName}</title>
+    <meta name="description" content={home.brand.taglineShort} />
+    {id.fontCssHref ? <link rel="stylesheet" href={id.fontCssHref} /> : null}
+    <style is:global define:vars={{
+      colorPrimary: id.palette.primary,
+      colorAccent: id.palette.accent,
+      colorCream: id.palette.cream,
+      colorInk: id.palette.ink,
+    }}>
+      html {
+        background: var(--colorCream);
+        color: var(--colorInk);
+      }
+    </style>
+  </head>
+  <body class="font-body antialiased">
+    <slot />
+  </body>
+</html>
