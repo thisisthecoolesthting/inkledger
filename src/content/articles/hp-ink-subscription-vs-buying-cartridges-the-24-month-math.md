@@ -6,7 +6,7 @@ metaDescription: We crunched the numbers on HP Instant Ink subscriptions versus 
 publishedAt: '2026-04-22T00:00:00.000Z'
 excerpt: 'HP ink subscription vs buying cartridges: the 24-month math'
 pillarSlug: general
-status: draft
+status: published
 tags:
 - hp ink
 - instant ink
@@ -59,3 +59,4 @@ For those printing <50 pages/month:
 2. [Refill kits](https://www.amazon.com/dp/B0FVY8TTVN) ($12.99 for 5 refills)
 
 *Note: HP may disable third-party cartridges via firmware updates - we track these incidents in our [compatibility database](/compatibles).*
+

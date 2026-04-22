@@ -5,7 +5,7 @@ metaDescription: We break down the true cost of ownership for HP's inkjet and Br
 publishedAt: '2026-04-22T10:00:00.000Z'
 excerpt: 'HP OfficeJet Pro vs Brother MFC-L2710DW: TCO over 3 years'
 pillarSlug: general
-status: draft
+status: published
 tags:
 - laser-vs-inkjet
 - cost-comparison
@@ -21,7 +21,7 @@ When choosing between HP's OfficeJet Pro inkjet printers and Brother's MFC-L2710
 
 ### Hardware Costs
 - **HP OfficeJet Pro 9015e (B07VVK39F7)**: $299
-- **Brother MFC-L2710DW (B082MY2MX3)**: $349
+- **Brother MFC-L2710**: $349
 
 ### Consumables (3-Year Projection)
 | Component       | HP OfficeJet Pro | Brother MFC-L2710DW |
@@ -42,3 +42,4 @@ When choosing between HP's OfficeJet Pro inkjet printers and Brother's MFC-L2710
 - Need all-in-one scanning features
 
 For most home offices printing primarily documents, the Brother laser's $1,005 savings over 3 years makes it our recommended choice.
+

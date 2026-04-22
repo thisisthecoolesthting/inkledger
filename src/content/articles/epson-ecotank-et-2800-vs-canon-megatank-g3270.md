@@ -7,7 +7,7 @@ metaDescription: We compare ink costs, print speeds, and real-world reliability 
 publishedAt: '2026-04-22T00:00:00.000Z'
 excerpt: Epson EcoTank ET-2800 vs Canon MegaTank G3270
 pillarSlug: general
-status: draft
+status: published
 tags:
 - ecotank-megatank
 - printers
@@ -46,3 +46,4 @@ For **high-volume text printing**: Canon's faster speeds and marginally cheaper 
 For **mixed use with photos**: Epson's better photo quality and cheaper ink refills pull ahead
 
 Pro Tip: Both work with third-party inks (like B0B2RM68G2), but warranty voids apply. Calculate your actual page yield before committing to OEM ink.
+

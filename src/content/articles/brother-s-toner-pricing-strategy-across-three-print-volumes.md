@@ -5,7 +5,7 @@ metaDescription: Analyzing Brother's tiered toner pricing reveals how they targe
 publishedAt: '2026-04-22T00:00:00Z'
 excerpt: Brother's toner pricing strategy across three print volumes
 pillarSlug: general
-status: draft
+status: published
 tags:
 - toner
 - pricing-analysis
@@ -41,3 +41,4 @@ Brother divides its laser toner cartridges into three capacity tiers—standard,
 
 ### The Verdict
 Brother’s pricing rewards volume commitment—but only if you’ve already invested in their higher-end hardware. For most home users, [refill kits](https://www.amazon.com/s?k=brother+tn660+refill&tag=inkledger-20) or compatibles deliver better savings without printer lock-in.
+

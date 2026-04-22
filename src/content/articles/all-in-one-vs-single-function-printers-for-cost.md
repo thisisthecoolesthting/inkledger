@@ -5,7 +5,7 @@ metaDescription: Comparing the long-term costs of all-in-one printers versus sin
 publishedAt: '2026-04-22T00:00:00Z'
 excerpt: All-in-one vs single-function printers for cost
 pillarSlug: general
-status: draft
+status: published
 tags:
 - printer-costs
 - printing-savings
@@ -29,3 +29,4 @@ Key considerations:
 3. **Yield**: Check the page yield estimates - some all-in-ones have surprisingly low yields for their cartridge prices.
 
 Our testing found the best value comes from pairing a basic single-function printer with a standalone scanner if needed. The HP [B0G1R37VJC] and Brother [B0FVY8TTVN] single-function models consistently deliver the lowest cost per page, while the Epson [B0DVT2JTRN] offers reliable all-in-one functionality if you truly need the features.
+

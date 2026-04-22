@@ -6,7 +6,7 @@ metaDescription: 'Epson''s 202 ink cartridge pricing reveals a paradox: buying i
 publishedAt: '2026-04-22T00:00:00.000Z'
 excerpt: 'Epson 202 cartridges: why two colors cost more than the full set'
 pillarSlug: general
-status: draft
+status: published
 tags:
 - epson
 - ink-cartridges
@@ -34,8 +34,9 @@ Buying just cyan and magenta? That’ll run you $37.98 — $12.01 more than gett
 
 ## Smarter Alternatives
 
-- **Third-party compatibles**: Reliable brands like InkOwl (B0G1R37VJC) offer full 4-packs for $16.99 — less than Epson’s single-color price.
+- **Third-party compatibles**: offer full 4-packs for $16.99 — less than Epson’s single-color price.
 - **EcoTank printers**: If you print frequently, models like the ET-2800 (B0FVY8TTVN) cut ink costs by 90% with refillable tanks.
 - **Ink subscription services**: Epson’s ReadyPrint program (when available) can normalize costs for high-volume users.
 
 Always check yield ratings (page counts) when comparing prices. Some third-party cartridges like the AIVITON 202 series (B0DVT2JTRN) offer 30% more pages per cartridge at half the OEM price.
+

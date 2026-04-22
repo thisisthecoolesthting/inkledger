@@ -5,7 +5,7 @@ metaDescription: Canon printers often ship with 'starter' cartridges that print 
 publishedAt: '2026-04-22T00:00:00Z'
 excerpt: 'Canon''s "low yield" starter cartridges: what you actually get'
 pillarSlug: general
-status: draft
+status: published
 tags:
 - canon
 - starter-cartridges
@@ -36,3 +36,4 @@ When you unbox a new Canon printer, you'll find it comes with "starter" ink cart
 - Some third-party replacements actually outperformed OEM yields by 12-15%
 
 Pro Tip: Always check the ml volume when comparing cartridge prices - some "high yield" options just contain more diluted ink.
+

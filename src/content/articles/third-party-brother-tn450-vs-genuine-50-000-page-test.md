@@ -5,7 +5,7 @@ metaDescription: We tested third-party TN450 toner cartridges against Brother's 
 publishedAt: '2026-04-22T00:00:00Z'
 excerpt: 'Third-party Brother TN450 vs genuine: 50,000 page test'
 pillarSlug: general
-status: draft
+status: published
 tags:
 - toner
 - brother
@@ -65,3 +65,4 @@ After watching Brother TN450 toner prices fluctuate between $40-$70 for OEM cart
 Reset your printer's toner counter after installing compatibles to avoid premature low-toner warnings. For Brother lasers: Hold 'Go' button for 5 seconds when the light flashes.
 
 *Testing methodology note: All printers received identical maintenance cycles. Page counts verified via printer logs. Test conducted Feb-Aug 2026.*
+

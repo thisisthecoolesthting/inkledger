@@ -7,7 +7,7 @@ excerpt: Canon PGI-280 and CLI-281 ink cartridge prices spiked 22% in early 2025
   We tracked the pricing patterns and found three budget-friendly alternatives that
   maintain print quality without breaking the bank.
 pillarSlug: general
-status: draft
+status: published
 tags:
 - canon
 - ink-price-hike
@@ -38,3 +38,4 @@ Pro Tip: Reset your printer's ink level monitor after installing third-party car
 ## The Bottom Line
 
 While OEM ink prices fluctuate, our testing shows these alternatives deliver comparable print quality. For occasional users, consider buying single cartridges during Amazon lightning deals (we've seen the CLI-281 pack drop to $36.99 during promotions). High-volume printers should explore bulk ink systems for maximum savings.
+

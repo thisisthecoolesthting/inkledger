@@ -6,7 +6,7 @@ metaDescription: Continuous ink systems promise big savings, but they're not for
 publishedAt: '2026-04-22T00:00:00Z'
 excerpt: 'Continuous ink systems: who should buy one, who should avoid'
 pillarSlug: general
-status: draft
+status: published
 tags:
 - ecotank
 - megatank
@@ -40,3 +40,4 @@ Continuous ink systems (CIS) like Epson's EcoTank and HP's Smart Tank promise to
 ❌ Anyone who balks at quarterly printhead cleanings  
 
 **Pro Tip**: The Epson EcoTank ET-2800 (B0G1R37VJC) currently offers the lowest cost-per-page at $169, while the HP Smart Tank 500 (B0FVY8TTVN) has faster drying times for quick notes. Both use ~$15 bottles that print 6,000 pages.
+

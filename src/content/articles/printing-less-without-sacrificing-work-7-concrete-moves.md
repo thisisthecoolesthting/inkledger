@@ -5,7 +5,7 @@ metaDescription: Stop wasting ink and paper with these tactical adjustments to y
 publishedAt: '2026-04-22T00:00:00Z'
 excerpt: Printing less without sacrificing work — 7 concrete moves
 pillarSlug: general
-status: draft
+status: published
 tags:
 - ink-saving
 - productivity
@@ -49,3 +49,4 @@ A clogged printhead wastes ink on failed prints. Run a nozzle check monthly if y
 Keep only 10 sheets in your printer’s tray. Physical limitation creates mindful printing—when you have to reload paper, you’ll reconsider if the print is truly necessary.
 
 *Bonus for parents:* Set printers to grayscale by default. Kids’ homework rarely needs color, and this prevents accidental color cartridge drain.
+

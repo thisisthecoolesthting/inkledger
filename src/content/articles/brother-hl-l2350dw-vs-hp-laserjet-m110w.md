@@ -6,7 +6,7 @@ publishedAt: '2026-04-22T00:00:00.000Z'
 excerpt: Brother HL-L2350DW vs HP LaserJet M110w - which budget laser printer delivers
   better value? We analyze upfront costs, toner prices, and real-world reliability.
 pillarSlug: general
-status: draft
+status: published
 tags:
 - laser-printers
 - toner-costs
@@ -47,3 +47,4 @@ For home offices printing 100-300 pages/month, the Brother HL-L2350DW delivers:
 - Standard duplex printing
 
 HP's M110w only makes sense if you find it under $150 and commit to HP Instant Ink (which has its own limitations). Otherwise, Brother's ecosystem saves $100+ annually on supplies.
+

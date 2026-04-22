@@ -6,7 +6,7 @@ metaDescription: Don't overpay for Brother ink cartridges. We break down the rea
 publishedAt: '2026-04-22T00:00:00Z'
 excerpt: Brother LC3017 vs LC3019 — the XL trap, explained
 pillarSlug: general
-status: draft
+status: published
 tags:
 - brother
 - ink-cartridges
@@ -49,3 +49,4 @@ For most home users:
 3. If you do heavy printing, calculate your actual monthly usage before assuming XL saves money
 
 Remember: Printer manufacturers make their profits on ink, not printers. That 'XL' label is often just a psychological trick to get you to spend more.
+

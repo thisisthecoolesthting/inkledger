@@ -6,7 +6,7 @@ metaDescription: Stop overpaying for ink. We compare the most cost-effective las
 publishedAt: '2026-04-22T00:00:00.000Z'
 excerpt: Best budget laser printer for households that print less than 50 pages/month
 pillarSlug: general
-status: draft
+status: published
 tags:
 - laser-printers
 - budget-printing
@@ -61,3 +61,4 @@ Laser printers dominate for low-volume households because:
 Laser printers often ship with 'starter' toner at 30-50% capacity. Order [high-yield replacements](#) immediately to avoid mid-print outages.
 
 *Disclosure: We earn affiliate commissions on qualifying toner purchases, but never accept manufacturer sponsorship.*
+

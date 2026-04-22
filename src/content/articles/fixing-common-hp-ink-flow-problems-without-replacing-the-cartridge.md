@@ -7,7 +7,7 @@ publishedAt: '2026-04-22T10:00:00Z'
 excerpt: Don't toss that 'empty' HP cartridge yet. Many ink flow problems can be fixed
   with simple techniques that cost nothing.
 pillarSlug: general
-status: draft
+status: published
 tags:
 - hp printers
 - ink maintenance
@@ -46,3 +46,4 @@ Before you assume your HP ink cartridge is empty, check for these common flow bl
 **Pro Tip:** Store spare cartridges in a sealed bag with a damp paper towel to prevent drying.
 
 *Note: These methods work for most HP thermal inkjet models. For laser printers or EcoTank systems, see our [printer maintenance guide](#).*
+

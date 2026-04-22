@@ -5,7 +5,7 @@ metaDescription: 'Real-world testing of HP 63 ink refill kits after 15 refills: 
 publishedAt: '2026-04-22T00:00:00Z'
 excerpt: Refill ink kits for HP 63 — results after 15 refills
 pillarSlug: general
-status: draft
+status: published
 tags:
 - hp-63
 - ink-refills
@@ -32,3 +32,4 @@ B0G1R37VJC maintained >90% nozzle health after 15 fills and showed no significan
 
 ### Pro Tip
 Flush cartridges with distilled water every 3 refills to prevent pigment buildup. Store refilled cartridges nib-down in a sealed bag to slow drying.
+

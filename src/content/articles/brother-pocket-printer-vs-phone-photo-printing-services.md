@@ -6,7 +6,7 @@ metaDescription: Compare costs and convenience of Brother's portable printers ve
 publishedAt: '2026-04-22T00:00:00.000Z'
 excerpt: Brother pocket printer vs phone photo printing services
 pillarSlug: general
-status: draft
+status: published
 tags:
 - portable-printing
 - photo-printing
@@ -43,3 +43,4 @@ Brother's portable photo printers (like the [PocketJet PJ-773](https://www.amazo
 3. **Privacy**: No third-party handling of sensitive documents
 
 For most home users, services like [FreePrints](https://www.amazon.com/dp/B07VVK39F7) (200 free photos/month, just pay shipping) or local pharmacy kiosks will be cheaper. But if you need professional-grade portability, Brother's thermal printers justify their premium.
+

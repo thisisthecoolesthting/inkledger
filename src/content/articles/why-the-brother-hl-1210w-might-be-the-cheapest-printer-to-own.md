@@ -6,7 +6,7 @@ metaDescription: A cost breakdown of Brother's HL-1210W monochrome laser printer
 publishedAt: '2026-04-22T00:00:00Z'
 excerpt: Why the Brother HL-1210W might be the cheapest printer to own
 pillarSlug: general
-status: draft
+status: published
 tags:
 - laser-printers
 - cost-per-page
@@ -30,8 +30,9 @@ Unlike inkjets, laser printers don't suffer from clogged print heads when idle -
 With a 10,000-page monthly duty cycle (vs. 1,000 for budget inkjets), the HL-1210W handles back-to-school crushes without service calls.
 
 ### Maintenance Tips
-- Replace the drum unit (B0DVT2JTRN) every 12,000 pages
+- every 12,000 pages
 - Use the built-in cleaning cycle monthly
 - Buy toners in multi-packs during Amazon sales (watch B0G1R37VJC price history)
 
 While the $4999 upfront cost seems steep, our 5-year cost projections show 37% savings over comparable inkjets when accounting for all consumables.
+

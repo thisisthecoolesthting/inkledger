@@ -6,7 +6,7 @@ metaDescription: We tracked cartridge replacements and third-party alternatives 
 publishedAt: '2026-04-22T00:00:00Z'
 excerpt: Canon PIXMA TR4720 vs HP DeskJet 2755e long-term
 pillarSlug: general
-status: draft
+status: published
 tags:
 - inkjet-printers
 - cost-comparison
@@ -47,3 +47,4 @@ While the HP prints marginally sharper photos, the Canon wins on:
 - No forced subscription model
 
 For light users (<100 pages/month), the TR4720 with [refill kits](https://www.amazon.com/dp/B0DVT2JTRN?tag=inkledger-20) delivers the most pain-free experience. Heavy users should consider laser alternatives.
+

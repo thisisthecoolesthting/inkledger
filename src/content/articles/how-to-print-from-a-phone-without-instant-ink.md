@@ -5,7 +5,7 @@ metaDescription: Skip HP's subscription and print directly from your phone using
 publishedAt: '2026-04-22T00:00:00Z'
 excerpt: How to print from a phone without Instant Ink
 pillarSlug: general
-status: draft
+status: published
 tags:
 - mobile printing
 - HP alternatives
@@ -54,3 +54,4 @@ These work without subscriptions:
 - If your printer demands Instant Ink activation, perform a factory reset
 - For Wi-Fi issues, assign a static IP to your printer
 - Always buy third-party ink (we test compatible cartridges [here](/compatible-cartridges))
+

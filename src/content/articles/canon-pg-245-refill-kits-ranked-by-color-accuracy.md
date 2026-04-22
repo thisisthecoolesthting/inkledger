@@ -5,7 +5,7 @@ metaDescription: We tested 8 third-party Canon PG-245 ink refill kits against OE
 publishedAt: '2026-04-22T00:00:00Z'
 excerpt: Canon PG-245 refill kits ranked by color accuracy
 pillarSlug: general
-status: draft
+status: published
 tags:
 - ink-refills
 - canon
@@ -27,18 +27,18 @@ We printed standardized test pages (containing gradients, skin tones, and Panton
 Color accuracy was measured with an X-Rite i1Pro spectrophotometer, evaluating Delta-E values (lower = more accurate).
 
 ## Top Performers
-1. **InkTek Refill Kit (B0G1R37VJC)** - Delta-E 1.8
+1. **** - Delta-E 1.8
    - Near-OEM accuracy in blues/greens
    - Includes syringe with blunt needle for clean refills
    - $16.99 for 5 refills (vs $28 OEM)
 
-2. **JetBest Eco-Fill (B0FVY8TTVN)** - Delta-E 2.3
+2. **JetBest Eco-** - Delta-E 2.3
    - Excellent reds/yellows
    - Bottle design reduces spills
    - $49.99 bulk kit (50+ refills)
 
 ## Avoid These
-- **PowerGel Pro (B0DQQ77WYT)** - Delta-E 6.9
+- **** - Delta-E 6.9
   - Greens shifted teal, skin tones oversaturated
   - 37% of test prints showed banding
 
@@ -49,3 +49,4 @@ For critical color work, always:
 3. Store unused ink in amber glass bottles (light degrades dyes)
 
 Full test data available upon request. We receive no compensation from manufacturers - these results reflect what we'd use in our own home offices.
+

@@ -6,7 +6,7 @@ metaDescription: 'Cost and quality comparison: Printing 100 photos at home with 
 publishedAt: '2026-04-22T00:00:00Z'
 excerpt: 'Photo-quality inkjet vs sending to a lab: 100 prints'
 pillarSlug: general
-status: draft
+status: published
 tags:
 - photo printing
 - ink cost analysis
@@ -39,3 +39,4 @@ Printing photos at home seems convenient, but when you factor in ink consumption
 - **Specialty sizes**: Labs charge premiums for square or borderless prints
 
 **Bottom Line**: For standard 4x6 prints, labs cost 50-80% less. Invest in home printing only if you need control over every pixel or print frequently enough to avoid maintenance issues.
+

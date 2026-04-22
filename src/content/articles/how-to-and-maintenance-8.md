@@ -6,7 +6,7 @@ metaDescription: Stop wasting ink and money. Learn how to clean printheads, stor
 publishedAt: '2026-04-22'
 excerpt: How-to and maintenance (8)
 pillarSlug: general
-status: draft
+status: published
 tags:
 - printer maintenance
 - ink savings
@@ -50,3 +50,4 @@ Even with perfect care, cartridges fail. Replace if you see:
 - Error messages persisting after reseating
 
 Pro Tip: Buy from sellers with good return policies - many 'defective' cartridges are just poorly stored during shipping.
+

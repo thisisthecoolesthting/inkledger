@@ -6,7 +6,7 @@ metaDescription: Compare Canon MAXIFY and PIXMA printer models for home office u
 publishedAt: '2026-04-22'
 excerpt: Canon MAXIFY vs PIXMA for home office ink costs
 pillarSlug: general
-status: draft
+status: published
 tags:
 - canon
 - printer-ink
@@ -39,3 +39,4 @@ The **PIXMA** series (e.g., [PIXMA TR4720](https://www.amazon.com/dp/B0FVY8TTVN)
 **Pro Tip**: Check Canon’s [Instant Ink](https://www.amazon.com/dp/B0DQQ77WYT) subscription—it can lower costs for both lines if you print regularly.
 
 For refillable options, consider [ink tank models](https://www.amazon.com/dp/B0DPHQRLJC) to avoid cartridge markup entirely.
+

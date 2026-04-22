@@ -6,7 +6,7 @@ metaDescription: We crunched the numbers on HP Instant Ink subscriptions versus 
 publishedAt: '2026-04-22T00:00:00Z'
 excerpt: Why subscribers to HP Instant Ink are overpaying (quantified)
 pillarSlug: general
-status: draft
+status: published
 tags:
 - hp-instant-ink
 - subscription-trap
@@ -39,3 +39,4 @@ Compatible HP 61XL cartridges (yield: ~300 pages) currently sell for $12-$15:
 3. **Laser Consideration**: Brother HL-L2350DW toner costs 2.3¢/page with no subscription required
 
 *Note: HP voids printer warranties if third-party ink causes damage, but our testing shows this occurs in <3% of cases with vetted compatible brands.*
+

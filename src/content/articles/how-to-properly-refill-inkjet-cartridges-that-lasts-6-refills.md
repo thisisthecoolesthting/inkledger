@@ -6,7 +6,7 @@ metaDescription: Stop wasting money on new cartridges. Learn the right way to re
 publishedAt: '2026-04-22T00:00:00Z'
 excerpt: How to properly refill inkjet cartridges (that lasts 6+ refills)
 pillarSlug: general
-status: draft
+status: published
 tags:
 - ink refill
 - DIY printing
@@ -46,3 +46,4 @@ Even perfect technique won’t save:
 - Physical damage to print head nozzles
 
 For these, consider [remanufactured cartridges](#) that replace the entire ink delivery system.
+

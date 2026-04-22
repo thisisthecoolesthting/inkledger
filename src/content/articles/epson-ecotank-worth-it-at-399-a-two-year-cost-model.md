@@ -5,7 +5,7 @@ metaDescription: We crunch the numbers on Epson's EcoTank printers to see if the
 publishedAt: '2026-04-22T00:00:00.000Z'
 excerpt: 'Epson EcoTank: worth it at $399? A two-year cost model'
 pillarSlug: general
-status: draft
+status: published
 tags:
 - ecotank-megatank
 - printers
@@ -54,3 +54,4 @@ Not worth it for:
 - Those who upgrade printers frequently
 
 *All price data sourced from Keepa tracking as of April 2026. Assumes standard 5% page coverage.*
+

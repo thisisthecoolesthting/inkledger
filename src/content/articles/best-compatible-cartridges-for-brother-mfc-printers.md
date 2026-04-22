@@ -5,7 +5,7 @@ metaDescription: Save money on Brother MFC printer ink with these tested compati
 publishedAt: '2026-04-22T00:00:00Z'
 excerpt: Best compatible cartridges for Brother MFC printers
 pillarSlug: general
-status: draft
+status: published
 tags:
 - brother
 - compatible-cartridges
@@ -18,17 +18,17 @@ Brother's MFC series printers are workhorses in home offices, but OEM ink costs 
 
 ## Top Picks
 
-1. **PremiumBlack TN-660 Compatible (B0G1R37VJC)**  
+1. **PremiumBlack TN-660 **  
    - 30% cheaper than Brother OEM  
    - No chip errors in 6-month testing  
    - Sharp text even at small font sizes
 
-2. **InkWorks TN-730XL High-Yield (B0FVY8TTVN)**  
+2. **InkWorks TN-730XL High-**  
    - 2.5x more pages than standard capacity  
    - Matte black finish avoids fingerprint smudges  
    - Works with MFC-J995DW/J6955DW models
 
-3. **EcoTank ET-M1100 Refillable (B0DVT2JTRN)**  
+3. **EcoTank ET-M1100 **  
    - 1-year supply in one bottle  
    - Includes syringe and gloves for mess-free refills  
    - Best for high-volume users
@@ -44,3 +44,4 @@ Brother's MFC series printers are workhorses in home offices, but OEM ink costs 
 - Prices more than 60% below OEM (likely counterfeit)
 
 Pro Tip: Reset your printer's ink monitoring system after installing compatibles to avoid false 'low ink' warnings.
+
