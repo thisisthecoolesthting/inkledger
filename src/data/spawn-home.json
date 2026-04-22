@@ -31,6 +31,18 @@
       "fontCssHref": "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Inter:wght@400;600;700&family=JetBrains+Mono:wght@400;600;700&display=swap"
     }
   },
+  "persona": {
+    "ymyl": false,
+    "tone": "investigative"
+  },
+  "newsletter": {
+    "title": "The InkLedger weekly",
+    "subtitle": "Practical picks and straight answers from InkLedger, once a week. No spam.",
+    "kicker": "Stay in the loop"
+  },
+  "supportEmail": "hello@inkledger.co",
+  "defaultAuthorSlug": "marcus-inkledger",
+  "defaultMetaDescription": "OEM cartridge prices rose 43% in the last five years. We track the increases, review the refill and compatible alternatives that actually work, and show you exactly how much your household is losing t",
   "homepage": {
     "eyebrow": "Printer ink pricing watchdog",
     "h1": "Printer ink costs more than your time is worth. We catch the hikes.",
