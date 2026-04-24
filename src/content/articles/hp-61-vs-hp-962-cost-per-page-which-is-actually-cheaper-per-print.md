@@ -1,8 +1,6 @@
 ---
 title: HP 61 vs HP 962 Cost Per Page — Which Is Actually Cheaper Per Print
-metaDescription: We crunched the numbers on HP 61 vs HP 962 ink costs to reveal which
-  cartridge delivers the most prints for your dollar — and when compatible cartridges
-  make sense.
+metaDescription: We crunched the numbers on HP 61 vs HP 962 ink costs to reveal which cartridge delivers the most prints for your dollar — and when compatible cartridges make sense.
 publishedAt: '2026-04-22T00:00:00Z'
 excerpt: HP 61 vs HP 962 cost per page — which is actually cheaper per print
 pillarSlug: general
@@ -13,8 +11,7 @@ tags:
 - ink comparison
 - printer savings
 relatedProducts: []
-heroImage: ''
----
+heroImage: /images/hero/hp-61-vs-hp-962-cost-per-page-which-is-actually-cheaper-per-print.jpg---
 
 ## The HP 61 vs HP 962 Price Trap
 

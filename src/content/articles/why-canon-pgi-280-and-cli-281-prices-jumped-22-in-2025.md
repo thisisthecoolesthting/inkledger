@@ -1,11 +1,8 @@
 ---
 title: Why Canon PGI-280 and CLI-281 prices jumped 22% in 2025
-metaDescription: Canon ink cartridge prices surged unexpectedly in 2025. We analyze
-  the data and suggest cheaper alternatives that won't void your printer warranty.
+metaDescription: Canon ink cartridge prices surged unexpectedly in 2025. We analyze the data and suggest cheaper alternatives that won't void your printer warranty.
 publishedAt: '2026-04-22T00:00:00Z'
-excerpt: Canon PGI-280 and CLI-281 ink cartridge prices spiked 22% in early 2025.
-  We tracked the pricing patterns and found three budget-friendly alternatives that
-  maintain print quality without breaking the bank.
+excerpt: Canon PGI-280 and CLI-281 ink cartridge prices spiked 22% in early 2025. We tracked the pricing patterns and found three budget-friendly alternatives that maintain print quality without breaking the bank.
 pillarSlug: general
 status: published
 tags:
@@ -14,8 +11,7 @@ tags:
 - printer-ink
 - printing-costs
 relatedProducts: []
-heroImage: ''
----
+heroImage: /images/hero/why-canon-pgi-280-and-cli-281-prices-jumped-22-in-2025.jpg---
 
 ## The 2025 Canon Ink Price Surprise
 

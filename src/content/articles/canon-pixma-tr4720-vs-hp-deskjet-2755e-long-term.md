@@ -1,8 +1,6 @@
 ---
 title: 'Canon PIXMA TR4720 vs HP DeskJet 2755e: 18-Month Ink Cost Breakdown'
-metaDescription: We tracked cartridge replacements and third-party alternatives for
-  these popular budget printers. See which one actually saves money after a year and
-  a half of home use.
+metaDescription: We tracked cartridge replacements and third-party alternatives for these popular budget printers. See which one actually saves money after a year and a half of home use.
 publishedAt: '2026-04-22T00:00:00Z'
 excerpt: Canon PIXMA TR4720 vs HP DeskJet 2755e long-term
 pillarSlug: general
@@ -12,8 +10,7 @@ tags:
 - cost-comparison
 - oem-vs-compatible
 relatedProducts: []
-heroImage: ''
----
+heroImage: /images/hero/canon-pixma-tr4720-vs-hp-deskjet-2755e-long-term.jpg---
 
 After 18 months of tracking two of Amazon's best-selling budget inkjet printers, the data reveals some uncomfortable truths about long-term costs. Here's what our test households discovered:
 

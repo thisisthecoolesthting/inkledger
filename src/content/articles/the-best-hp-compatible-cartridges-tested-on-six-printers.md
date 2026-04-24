@@ -1,7 +1,6 @@
 ---
 title: The best HP compatible cartridges — tested on six printers
-metaDescription: We tested 12 third-party HP-compatible ink cartridges across six
-  printers to find which deliver OEM-quality prints without the razor-and-blade pricing.
+metaDescription: We tested 12 third-party HP-compatible ink cartridges across six printers to find which deliver OEM-quality prints without the razor-and-blade pricing.
 publishedAt: '2026-04-22T00:00:00Z'
 excerpt: The best HP compatible cartridges — tested on six printers
 pillarSlug: general
@@ -13,8 +12,7 @@ tags:
 - printer-ink
 - cost-saving
 relatedProducts: []
-heroImage: ''
----
+heroImage: /images/hero/the-best-hp-compatible-cartridges-tested-on-six-printers.jpg---
 
 ## Why compatible cartridges matter
 

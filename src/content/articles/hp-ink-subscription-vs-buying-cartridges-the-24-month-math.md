@@ -1,8 +1,6 @@
 ---
 title: 'HP Ink Subscription vs Buying Cartridges: The 24-Month Math'
-metaDescription: We crunched the numbers on HP Instant Ink subscriptions versus buying
-  cartridges outright. See which option saves you more over two years of typical home
-  printing.
+metaDescription: We crunched the numbers on HP Instant Ink subscriptions versus buying cartridges outright. See which option saves you more over two years of typical home printing.
 publishedAt: '2026-04-22T00:00:00.000Z'
 excerpt: 'HP ink subscription vs buying cartridges: the 24-month math'
 pillarSlug: general
@@ -13,8 +11,7 @@ tags:
 - subscription analysis
 - printer costs
 relatedProducts: []
-heroImage: ''
----
+heroImage: /images/hero/hp-ink-subscription-vs-buying-cartridges-the-24-month-math.jpg---
 
 ## The HP Instant Ink Dilemma
 

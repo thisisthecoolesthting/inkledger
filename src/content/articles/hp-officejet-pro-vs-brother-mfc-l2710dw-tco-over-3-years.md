@@ -1,7 +1,6 @@
 ---
 title: 'HP OfficeJet Pro vs Brother MFC-L2710DW: TCO over 3 Years'
-metaDescription: We break down the true cost of ownership for HP's inkjet and Brother's
-  laser printers over 3 years, including ink/toner, paper, and maintenance expenses.
+metaDescription: We break down the true cost of ownership for HP's inkjet and Brother's laser printers over 3 years, including ink/toner, paper, and maintenance expenses.
 publishedAt: '2026-04-22T10:00:00.000Z'
 excerpt: 'HP OfficeJet Pro vs Brother MFC-L2710DW: TCO over 3 years'
 pillarSlug: general
@@ -12,8 +11,7 @@ tags:
 - home-office
 - small-business
 relatedProducts: []
-heroImage: ''
----
+heroImage: /images/hero/hp-officejet-pro-vs-brother-mfc-l2710dw-tco-over-3-years.jpg---
 
 ## The Inkjet vs Laser Showdown
 

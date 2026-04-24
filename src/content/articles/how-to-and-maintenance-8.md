@@ -1,8 +1,6 @@
 ---
 title: 'Printer Maintenance 101: Extend Cartridge Life & Avoid Clogs'
-metaDescription: Stop wasting ink and money. Learn how to clean printheads, store
-  cartridges properly, and troubleshoot common issues with our no-nonsense maintenance
-  guide.
+metaDescription: Stop wasting ink and money. Learn how to clean printheads, store cartridges properly, and troubleshoot common issues with our no-nonsense maintenance guide.
 publishedAt: '2026-04-22'
 excerpt: How-to and maintenance (8)
 pillarSlug: general
@@ -16,8 +14,7 @@ relatedProducts:
 - B0G1R37VJC
 - B0FVY8TTVN
 - B0DVT2JTRN
-heroImage: ''
----
+heroImage: /images/hero/how-to-and-maintenance-8.jpg---
 
 ## The Ink-Saving Maintenance Routine You're Not Doing (But Should Be)
 

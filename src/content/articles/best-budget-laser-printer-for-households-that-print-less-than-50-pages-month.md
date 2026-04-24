@@ -1,8 +1,6 @@
 ---
 title: Best Budget Laser Printer for Households That Print Less Than 50 Pages/Month
-metaDescription: Stop overpaying for ink. We compare the most cost-effective laser
-  printers for light home use, with real-world price tracking on toner and maintenance
-  costs.
+metaDescription: Stop overpaying for ink. We compare the most cost-effective laser printers for light home use, with real-world price tracking on toner and maintenance costs.
 publishedAt: '2026-04-22T00:00:00.000Z'
 excerpt: Best budget laser printer for households that print less than 50 pages/month
 pillarSlug: general
@@ -12,8 +10,7 @@ tags:
 - budget-printing
 - toner-costs
 relatedProducts: []
-heroImage: ''
----
+heroImage: /images/hero/best-budget-laser-printer-for-households-that-print-less-than-50-pages-month.jpg---
 
 ## Why Laser Beats Inkjet for Light Printing
 

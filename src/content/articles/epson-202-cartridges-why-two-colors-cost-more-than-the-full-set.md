@@ -1,8 +1,6 @@
 ---
 title: 'Epson 202 Cartridges: Why Two Colors Cost More Than the Full Set'
-metaDescription: 'Epson''s 202 ink cartridge pricing reveals a paradox: buying individual
-  colors often costs more than a full multipack. We break down the math and cheaper
-  alternatives.'
+metaDescription: 'Epson''s 202 ink cartridge pricing reveals a paradox: buying individual colors often costs more than a full multipack. We break down the math and cheaper alternatives.'
 publishedAt: '2026-04-22T00:00:00.000Z'
 excerpt: 'Epson 202 cartridges: why two colors cost more than the full set'
 pillarSlug: general
@@ -13,8 +11,7 @@ tags:
 - pricing-tactics
 - printer-ink
 relatedProducts: []
-heroImage: ''
----
+heroImage: /images/hero/epson-202-cartridges-why-two-colors-cost-more-than-the-full-set.jpg---
 
 ## The Epson 202 Pricing Paradox
 

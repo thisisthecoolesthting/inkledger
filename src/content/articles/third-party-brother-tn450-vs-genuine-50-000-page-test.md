@@ -1,7 +1,6 @@
 ---
 title: 'Third-party Brother TN450 vs genuine: 50,000 page test'
-metaDescription: We tested third-party TN450 toner cartridges against Brother's genuine
-  version over 50,000 pages to see if the savings are worth the potential risks.
+metaDescription: We tested third-party TN450 toner cartridges against Brother's genuine version over 50,000 pages to see if the savings are worth the potential risks.
 publishedAt: '2026-04-22T00:00:00Z'
 excerpt: 'Third-party Brother TN450 vs genuine: 50,000 page test'
 pillarSlug: general
@@ -13,8 +12,7 @@ tags:
 - compatible-cartridges
 - cost-comparison
 relatedProducts: []
-heroImage: ''
----
+heroImage: /images/hero/third-party-brother-tn450-vs-genuine-50-000-page-test.jpg---
 
 ## The Great Toner Experiment
 

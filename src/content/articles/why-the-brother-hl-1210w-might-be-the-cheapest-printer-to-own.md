@@ -1,8 +1,6 @@
 ---
 title: Why the Brother HL-1210W Might Be the Cheapest Printer to Own
-metaDescription: A cost breakdown of Brother's HL-1210W monochrome laser printer showing
-  why its low toner costs and durability make it the most economical home printer
-  over time.
+metaDescription: A cost breakdown of Brother's HL-1210W monochrome laser printer showing why its low toner costs and durability make it the most economical home printer over time.
 publishedAt: '2026-04-22T00:00:00Z'
 excerpt: Why the Brother HL-1210W might be the cheapest printer to own
 pillarSlug: general
@@ -12,8 +10,7 @@ tags:
 - cost-per-page
 - printer-maintenance
 relatedProducts: []
-heroImage: ''
----
+heroImage: /images/hero/why-the-brother-hl-1210w-might-be-the-cheapest-printer-to-own.jpg---
 
 The Brother HL-1210W consistently ranks as one of the most cost-effective printers for home use when you factor in long-term ownership costs. Here's why:
 

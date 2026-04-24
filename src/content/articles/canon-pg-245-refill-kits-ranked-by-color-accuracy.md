@@ -1,7 +1,6 @@
 ---
 title: Canon PG-245 Refill Kits Ranked by Color Accuracy
-metaDescription: We tested 8 third-party Canon PG-245 ink refill kits against OEM
-  cartridges to find which deliver the truest colors without clogging your printhead.
+metaDescription: We tested 8 third-party Canon PG-245 ink refill kits against OEM cartridges to find which deliver the truest colors without clogging your printhead.
 publishedAt: '2026-04-22T00:00:00Z'
 excerpt: Canon PG-245 refill kits ranked by color accuracy
 pillarSlug: general
@@ -12,8 +11,7 @@ tags:
 - print-quality
 - pg-245
 relatedProducts: []
-heroImage: ''
----
+heroImage: /images/hero/canon-pg-245-refill-kits-ranked-by-color-accuracy.jpg---
 
 After testing 8 popular PG-245 refill kits against Canon's OEM cartridges, we found staggering differences in color fidelity - even between kits costing the same. Here's how they stacked up:
 

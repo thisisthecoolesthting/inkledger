@@ -1,7 +1,6 @@
 ---
 title: How to Print From a Phone Without Instant Ink
-metaDescription: Skip HP's subscription and print directly from your phone using these
-  alternative methods that work with any printer.
+metaDescription: Skip HP's subscription and print directly from your phone using these alternative methods that work with any printer.
 publishedAt: '2026-04-22T00:00:00Z'
 excerpt: How to print from a phone without Instant Ink
 pillarSlug: general
@@ -14,8 +13,7 @@ relatedProducts:
 - B0G1R37VJC
 - B0FVY8TTVN
 - B0DVT2JTRN
-heroImage: ''
----
+heroImage: /images/hero/how-to-print-from-a-phone-without-instant-ink.jpg---
 
 ### Why Avoid Instant Ink?
 

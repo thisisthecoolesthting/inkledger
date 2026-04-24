@@ -1,7 +1,6 @@
 ---
 title: 'Canon''s "Low Yield" Starter Cartridges: What You Actually Get'
-metaDescription: Canon printers often ship with 'starter' cartridges that print far
-  fewer pages than standard replacements. We break down the real costs and alternatives.
+metaDescription: Canon printers often ship with 'starter' cartridges that print far fewer pages than standard replacements. We break down the real costs and alternatives.
 publishedAt: '2026-04-22T00:00:00Z'
 excerpt: 'Canon''s "low yield" starter cartridges: what you actually get'
 pillarSlug: general
@@ -12,8 +11,7 @@ tags:
 - printer-ink
 - printing-costs
 relatedProducts: []
-heroImage: ''
----
+heroImage: /images/hero/canon-s-low-yield-starter-cartridges-what-you-actually-get.jpg---
 
 When you unbox a new Canon printer, you'll find it comes with "starter" ink cartridges marked with warnings about lower page yields. Here's what that really means for your wallet:
 
