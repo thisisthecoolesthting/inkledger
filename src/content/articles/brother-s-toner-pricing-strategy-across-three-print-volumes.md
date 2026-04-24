@@ -1,7 +1,6 @@
 ---
 title: Brother's Toner Pricing Strategy Across Three Print Volumes
-metaDescription: Analyzing Brother's tiered toner pricing reveals how they target
-  different user volumes—and where you can save with compatible alternatives.
+metaDescription: Analyzing Brother's tiered toner pricing reveals how they target different user volumes—and where you can save with compatible alternatives.
 publishedAt: '2026-04-22T00:00:00Z'
 excerpt: Brother's toner pricing strategy across three print volumes
 pillarSlug: general
@@ -12,8 +11,7 @@ tags:
 - brother-printers
 - cost-per-page
 relatedProducts: []
-heroImage: ''
----
+heroImage: /images/hero/brother-s-toner-pricing-strategy-across-three-print-volumes.jpg---
 
 ### Brother’s Tiered Toner Pricing: Volume vs. Value
 

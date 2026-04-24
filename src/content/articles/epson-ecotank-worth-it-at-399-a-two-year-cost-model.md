@@ -1,7 +1,6 @@
 ---
 title: 'Epson EcoTank: worth it at $399? A two-year cost model'
-metaDescription: We crunch the numbers on Epson's EcoTank printers to see if the high
-  upfront cost pays off in ink savings over two years of home printing.
+metaDescription: We crunch the numbers on Epson's EcoTank printers to see if the high upfront cost pays off in ink savings over two years of home printing.
 publishedAt: '2026-04-22T00:00:00.000Z'
 excerpt: 'Epson EcoTank: worth it at $399? A two-year cost model'
 pillarSlug: general
@@ -11,8 +10,7 @@ tags:
 - printers
 - cost-comparison
 relatedProducts: []
-heroImage: ''
----
+heroImage: /images/hero/epson-ecotank-worth-it-at-399-a-two-year-cost-model.jpg---
 
 ## The EcoTank Promise vs. Reality
 

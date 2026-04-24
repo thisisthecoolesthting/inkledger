@@ -1,8 +1,6 @@
 ---
 title: Amazon ink prices vs Walmart vs Staples — the hidden 30%
-metaDescription: We compared prices for popular ink cartridges across major retailers
-  and found Amazon isn't always the cheapest. See where to save up to 30% on OEM and
-  compatible cartridges.
+metaDescription: We compared prices for popular ink cartridges across major retailers and found Amazon isn't always the cheapest. See where to save up to 30% on OEM and compatible cartridges.
 publishedAt: '2026-04-22T00:00:00Z'
 excerpt: Amazon ink prices vs Walmart vs Staples — the hidden 30%
 pillarSlug: general
@@ -12,8 +10,7 @@ tags:
 - oem-cartridges
 - compatible-cartridges
 relatedProducts: []
-heroImage: ''
----
+heroImage: /images/hero/amazon-ink-prices-vs-walmart-vs-staples-the-hidden-30.jpg---
 
 We tracked 90-day pricing data for top-selling ink cartridges and found Amazon's 'everyday low prices' aren't always the lowest. Here's what the data shows:
 

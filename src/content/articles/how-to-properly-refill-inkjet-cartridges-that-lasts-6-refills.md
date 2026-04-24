@@ -1,8 +1,6 @@
 ---
 title: How to properly refill inkjet cartridges (that lasts 6+ refills)
-metaDescription: Stop wasting money on new cartridges. Learn the right way to refill
-  inkjet cartridges for 6+ uses without clogs or print defects, using tools you already
-  own.
+metaDescription: Stop wasting money on new cartridges. Learn the right way to refill inkjet cartridges for 6+ uses without clogs or print defects, using tools you already own.
 publishedAt: '2026-04-22T00:00:00Z'
 excerpt: How to properly refill inkjet cartridges (that lasts 6+ refills)
 pillarSlug: general
@@ -15,8 +13,7 @@ relatedProducts:
 - B0G1R37VJC
 - B0FVY8TTVN
 - B0DVT2JTRN
-heroImage: ''
----
+heroImage: /images/hero/how-to-properly-refill-inkjet-cartridges-that-lasts-6-refills.jpg---
 
 Refilling inkjet cartridges can save you hundreds per year, but most tutorials skip the steps that actually make refills last. After testing 14 methods across HP, Epson, and Brother cartridges, here’s what actually works:
 

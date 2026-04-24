@@ -1,7 +1,6 @@
 ---
 title: All-in-one vs single-function printers for cost
-metaDescription: Comparing the long-term costs of all-in-one printers versus single-function
-  models to help you choose the most economical option for your printing needs.
+metaDescription: Comparing the long-term costs of all-in-one printers versus single-function models to help you choose the most economical option for your printing needs.
 publishedAt: '2026-04-22T00:00:00Z'
 excerpt: All-in-one vs single-function printers for cost
 pillarSlug: general
@@ -11,8 +10,7 @@ tags:
 - printing-savings
 - ink-efficiency
 relatedProducts: []
-heroImage: ''
----
+heroImage: /images/hero/all-in-one-vs-single-function-printers-for-cost.jpg---
 
 When choosing between an all-in-one printer and a single-function model, the upfront price is just the beginning. The real cost comes from ink or toner replacements, maintenance, and how often you actually use each feature.
 

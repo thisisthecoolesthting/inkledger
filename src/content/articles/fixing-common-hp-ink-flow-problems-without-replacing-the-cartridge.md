@@ -1,11 +1,8 @@
 ---
 title: Fixing Common HP Ink Flow Problems Without Replacing the Cartridge
-metaDescription: Learn how to troubleshoot and fix HP printer ink flow issues without
-  wasting money on premature cartridge replacements. Practical steps for clogged nozzles
-  and air bubbles.
+metaDescription: Learn how to troubleshoot and fix HP printer ink flow issues without wasting money on premature cartridge replacements. Practical steps for clogged nozzles and air bubbles.
 publishedAt: '2026-04-22T10:00:00Z'
-excerpt: Don't toss that 'empty' HP cartridge yet. Many ink flow problems can be fixed
-  with simple techniques that cost nothing.
+excerpt: Don't toss that 'empty' HP cartridge yet. Many ink flow problems can be fixed with simple techniques that cost nothing.
 pillarSlug: general
 status: published
 tags:
@@ -16,8 +13,7 @@ relatedProducts:
 - B0G1R37VJC
 - B0FVY8TTVN
 - B0DVT2JTRN
-heroImage: ''
----
+heroImage: /images/hero/fixing-common-hp-ink-flow-problems-without-replacing-the-cartridge.jpg---
 
 ## Why HP Cartridges Stop Printing Prematurely
 

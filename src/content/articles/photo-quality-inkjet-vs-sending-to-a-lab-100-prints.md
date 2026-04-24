@@ -1,8 +1,6 @@
 ---
 title: 'Photo-quality inkjet vs sending to a lab: 100 prints'
-metaDescription: 'Cost and quality comparison: Printing 100 photos at home with inkjet
-  vs. professional lab services. We break down ink costs, paper choices, and hidden
-  fees.'
+metaDescription: 'Cost and quality comparison: Printing 100 photos at home with inkjet vs. professional lab services. We break down ink costs, paper choices, and hidden fees.'
 publishedAt: '2026-04-22T00:00:00Z'
 excerpt: 'Photo-quality inkjet vs sending to a lab: 100 prints'
 pillarSlug: general
@@ -12,8 +10,7 @@ tags:
 - ink cost analysis
 - home printing
 relatedProducts: []
-heroImage: ''
----
+heroImage: /images/hero/photo-quality-inkjet-vs-sending-to-a-lab-100-prints.jpg---
 
 ## The True Cost of 100 Photo Prints
 

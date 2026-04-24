@@ -1,7 +1,6 @@
 ---
 title: Refill ink kits for HP 63 — results after 15 refills
-metaDescription: 'Real-world testing of HP 63 ink refill kits after 15 refills: cost
-  savings, print quality changes, and which third-party inks held up best.'
+metaDescription: 'Real-world testing of HP 63 ink refill kits after 15 refills: cost savings, print quality changes, and which third-party inks held up best.'
 publishedAt: '2026-04-22T00:00:00Z'
 excerpt: Refill ink kits for HP 63 — results after 15 refills
 pillarSlug: general
@@ -12,8 +11,7 @@ tags:
 - cost-savings
 - printer-maintenance
 relatedProducts: []
-heroImage: ''
----
+heroImage: /images/hero/refill-ink-kits-for-hp-63-results-after-15-refills.jpg---
 
 After 15 refill cycles on an HP 63 cartridge using third-party inks, here's what we learned:
 

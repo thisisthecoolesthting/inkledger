@@ -1,8 +1,6 @@
 ---
 title: 'Continuous Ink Systems: Who Should Buy One, Who Should Avoid'
-metaDescription: Continuous ink systems promise big savings, but they're not for everyone.
-  We break down the real costs, maintenance, and ideal users for these high-capacity
-  printer setups.
+metaDescription: Continuous ink systems promise big savings, but they're not for everyone. We break down the real costs, maintenance, and ideal users for these high-capacity printer setups.
 publishedAt: '2026-04-22T00:00:00Z'
 excerpt: 'Continuous ink systems: who should buy one, who should avoid'
 pillarSlug: general
@@ -14,8 +12,7 @@ tags:
 - refilling
 - printer-maintenance
 relatedProducts: []
-heroImage: ''
----
+heroImage: /images/hero/continuous-ink-systems-who-should-buy-one-who-should-avoid.jpg---
 
 Continuous ink systems (CIS) like Epson's EcoTank and HP's Smart Tank promise to slash printing costs by up to 90% compared to cartridge-based printers. But before you ditch your old printer, here's what the marketing materials don't tell you:
 

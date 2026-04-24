@@ -1,7 +1,6 @@
 ---
 title: Printing Less Without Sacrificing Work — 7 Concrete Moves
-metaDescription: Stop wasting ink and paper with these tactical adjustments to your
-  printing habits. Real solutions for home offices and busy families.
+metaDescription: Stop wasting ink and paper with these tactical adjustments to your printing habits. Real solutions for home offices and busy families.
 publishedAt: '2026-04-22T00:00:00Z'
 excerpt: Printing less without sacrificing work — 7 concrete moves
 pillarSlug: general
@@ -14,8 +13,7 @@ relatedProducts:
 - B0G1R37VJC
 - B0FVY8TTVN
 - B0DVT2JTRN
-heroImage: ''
----
+heroImage: /images/hero/printing-less-without-sacrificing-work-7-concrete-moves.jpg---
 
 ### 1. Default to ‘Draft Mode’ for Internal Documents
 

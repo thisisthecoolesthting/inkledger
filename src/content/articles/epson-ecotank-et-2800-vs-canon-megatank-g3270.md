@@ -1,9 +1,6 @@
 ---
-title: 'Epson EcoTank ET-2800 vs Canon MegaTank G3270: Which Refillable Tank Printer
-  Saves You More?'
-metaDescription: We compare ink costs, print speeds, and real-world reliability of
-  Epson's EcoTank ET-2800 and Canon's MegaTank G3270 to help you avoid overpaying
-  for home printing.
+title: 'Epson EcoTank ET-2800 vs Canon MegaTank G3270: Which Refillable Tank Printer Saves You More?'
+metaDescription: We compare ink costs, print speeds, and real-world reliability of Epson's EcoTank ET-2800 and Canon's MegaTank G3270 to help you avoid overpaying for home printing.
 publishedAt: '2026-04-22T00:00:00.000Z'
 excerpt: Epson EcoTank ET-2800 vs Canon MegaTank G3270
 pillarSlug: general
@@ -13,8 +10,7 @@ tags:
 - printers
 - ink-cost-comparison
 relatedProducts: []
-heroImage: ''
----
+heroImage: /images/hero/epson-ecotank-et-2800-vs-canon-megatank-g3270.jpg---
 
 ## The Tank Printer Showdown: Epson EcoTank ET-2800 vs Canon MegaTank G3270
 
