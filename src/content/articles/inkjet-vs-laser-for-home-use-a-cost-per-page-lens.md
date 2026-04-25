@@ -12,7 +12,8 @@ tags:
 - laser
 - home-office
 relatedProducts: []
-heroImage: /images/hero/inkjet-vs-laser-for-home-use-a-cost-per-page-lens.jpg---
+heroImage: /images/hero/inkjet-vs-laser-for-home-use-a-cost-per-page-lens.jpg
+---
 
 When choosing between inkjet and laser printers for home use, the upfront price tag often dominates the conversation. But the real financial impact lies in the cost per page — a metric printer manufacturers don’t advertise prominently. Let’s dissect the long-term costs with data from actual cartridge prices and yields.
 

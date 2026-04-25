@@ -13,7 +13,8 @@ relatedProducts:
 - B07F97MPYT
 - B07D5DN269
 - B07VVK39F7
-heroImage: /images/hero/brother-pocket-printer-vs-phone-photo-printing-services.jpg---
+heroImage: /images/hero/brother-pocket-printer-vs-phone-photo-printing-services.jpg
+---
 
 ## The Pocket Printer Dilemma
 

@@ -10,7 +10,8 @@ tags:
 - printers
 - ink-cost-comparison
 relatedProducts: []
-heroImage: /images/hero/epson-ecotank-et-2800-vs-canon-megatank-g3270.jpg---
+heroImage: /images/hero/epson-ecotank-et-2800-vs-canon-megatank-g3270.jpg
+---
 
 ## The Tank Printer Showdown: Epson EcoTank ET-2800 vs Canon MegaTank G3270
 

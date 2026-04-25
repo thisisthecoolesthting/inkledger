@@ -14,7 +14,8 @@ relatedProducts:
 - B0G1R37VJC
 - B0FVY8TTVN
 - B0DVT2JTRN
-heroImage: /images/hero/how-to-and-maintenance-8.jpg---
+heroImage: /images/hero/how-to-and-maintenance-8.jpg
+---
 
 ## The Ink-Saving Maintenance Routine You're Not Doing (But Should Be)
 

@@ -10,7 +10,8 @@ tags:
 - cost-comparison
 - toner-savings
 relatedProducts: []
-heroImage: /images/hero/monochrome-laser-vs-inkjet-real-world-cost-comparison.jpg---
+heroImage: /images/hero/monochrome-laser-vs-inkjet-real-world-cost-comparison.jpg
+---
 
 ### The Eternal Debate: Laser or Inkjet for Black-and-White Printing?
 

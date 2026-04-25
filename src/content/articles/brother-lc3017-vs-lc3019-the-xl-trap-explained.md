@@ -11,7 +11,8 @@ tags:
 - xl-trap
 - printing-costs
 relatedProducts: []
-heroImage: /images/hero/brother-lc3017-vs-lc3019-the-xl-trap-explained.jpg---
+heroImage: /images/hero/brother-lc3017-vs-lc3019-the-xl-trap-explained.jpg
+---
 
 When your Brother printer flashes that 'low ink' warning, you'll likely find yourself staring at two nearly identical cartridge options: the LC3017 and LC3019. At first glance, the only difference appears to be that the LC3019 is an 'XL' version. But is paying extra for the XL cartridge actually worth it? Let's break down the numbers.
 

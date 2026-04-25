@@ -11,7 +11,8 @@ tags:
 - brother-printers
 - cost-per-page
 relatedProducts: []
-heroImage: /images/hero/brother-s-toner-pricing-strategy-across-three-print-volumes.jpg---
+heroImage: /images/hero/brother-s-toner-pricing-strategy-across-three-print-volumes.jpg
+---
 
 ### Brother’s Tiered Toner Pricing: Volume vs. Value
 

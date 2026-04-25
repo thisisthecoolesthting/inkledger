@@ -10,7 +10,8 @@ tags:
 - oem-cartridges
 - compatible-cartridges
 relatedProducts: []
-heroImage: /images/hero/amazon-ink-prices-vs-walmart-vs-staples-the-hidden-30.jpg---
+heroImage: /images/hero/amazon-ink-prices-vs-walmart-vs-staples-the-hidden-30.jpg
+---
 
 We tracked 90-day pricing data for top-selling ink cartridges and found Amazon's 'everyday low prices' aren't always the lowest. Here's what the data shows:
 

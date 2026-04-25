@@ -10,7 +10,8 @@ tags:
 - printer supplies
 - saving money
 relatedProducts: []
-heroImage: /images/hero/compatible-vs-remanufactured-the-3-differences-that-matter.jpg---
+heroImage: /images/hero/compatible-vs-remanufactured-the-3-differences-that-matter.jpg
+---
 
 When it comes to saving money on printer ink, third-party cartridges are a popular alternative to OEM (original equipment manufacturer) options. But not all third-party cartridges are created equal. The two main types—compatible and remanufactured—have key differences that affect performance, cost, and environmental impact. Here’s what you need to know to choose the right one for your needs.
 

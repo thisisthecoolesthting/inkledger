@@ -11,7 +11,8 @@ tags:
 - cost-savings
 - printer-maintenance
 relatedProducts: []
-heroImage: /images/hero/refill-ink-kits-for-hp-63-results-after-15-refills.jpg---
+heroImage: /images/hero/refill-ink-kits-for-hp-63-results-after-15-refills.jpg
+---
 
 After 15 refill cycles on an HP 63 cartridge using third-party inks, here's what we learned:
 

@@ -10,7 +10,8 @@ tags:
 - compatible-cartridges
 - ink-savings
 relatedProducts: []
-heroImage: /images/hero/best-compatible-cartridges-for-brother-mfc-printers.jpg---
+heroImage: /images/hero/best-compatible-cartridges-for-brother-mfc-printers.jpg
+---
 
 Brother's MFC series printers are workhorses in home offices, but OEM ink costs can sting. After testing 12 third-party options, these compatible cartridges deliver the best balance of print quality and reliability:
 

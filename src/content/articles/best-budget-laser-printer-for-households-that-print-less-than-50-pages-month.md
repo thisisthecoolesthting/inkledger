@@ -10,7 +10,8 @@ tags:
 - budget-printing
 - toner-costs
 relatedProducts: []
-heroImage: /images/hero/best-budget-laser-printer-for-households-that-print-less-than-50-pages-month.jpg---
+heroImage: /images/hero/best-budget-laser-printer-for-households-that-print-less-than-50-pages-month.jpg
+---
 
 ## Why Laser Beats Inkjet for Light Printing
 

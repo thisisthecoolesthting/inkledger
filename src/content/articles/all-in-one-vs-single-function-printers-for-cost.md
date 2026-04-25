@@ -10,7 +10,8 @@ tags:
 - printing-savings
 - ink-efficiency
 relatedProducts: []
-heroImage: /images/hero/all-in-one-vs-single-function-printers-for-cost.jpg---
+heroImage: /images/hero/all-in-one-vs-single-function-printers-for-cost.jpg
+---
 
 When choosing between an all-in-one printer and a single-function model, the upfront price is just the beginning. The real cost comes from ink or toner replacements, maintenance, and how often you actually use each feature.
 

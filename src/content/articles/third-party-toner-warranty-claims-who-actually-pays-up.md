@@ -11,7 +11,8 @@ tags:
 - compatible-cartridges
 - laser-toner
 relatedProducts: []
-heroImage: /images/hero/third-party-toner-warranty-claims-who-actually-pays-up.jpg---
+heroImage: /images/hero/third-party-toner-warranty-claims-who-actually-pays-up.jpg
+---
 
 When your third-party toner cartridge fails prematurely, warranty promises start looking awfully theoretical. Through direct testing and analysis of 47 warranty claims across 12 major third-party toner brands, we discovered:
 

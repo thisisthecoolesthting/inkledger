@@ -12,7 +12,8 @@ tags:
 - compatible-cartridges
 - cost-comparison
 relatedProducts: []
-heroImage: /images/hero/third-party-brother-tn450-vs-genuine-50-000-page-test.jpg---
+heroImage: /images/hero/third-party-brother-tn450-vs-genuine-50-000-page-test.jpg
+---
 
 ## The Great Toner Experiment
 

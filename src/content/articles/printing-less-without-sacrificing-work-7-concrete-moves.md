@@ -13,7 +13,8 @@ relatedProducts:
 - B0G1R37VJC
 - B0FVY8TTVN
 - B0DVT2JTRN
-heroImage: /images/hero/printing-less-without-sacrificing-work-7-concrete-moves.jpg---
+heroImage: /images/hero/printing-less-without-sacrificing-work-7-concrete-moves.jpg
+---
 
 ### 1. Default to ‘Draft Mode’ for Internal Documents
 
