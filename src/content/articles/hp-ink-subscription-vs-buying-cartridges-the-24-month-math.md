@@ -11,7 +11,8 @@ tags:
 - subscription analysis
 - printer costs
 relatedProducts: []
-heroImage: /images/hero/hp-ink-subscription-vs-buying-cartridges-the-24-month-math.jpg---
+heroImage: /images/hero/hp-ink-subscription-vs-buying-cartridges-the-24-month-math.jpg
+---
 
 ## The HP Instant Ink Dilemma
 

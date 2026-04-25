@@ -10,7 +10,8 @@ tags:
 - cost-comparison
 - oem-vs-compatible
 relatedProducts: []
-heroImage: /images/hero/canon-pixma-tr4720-vs-hp-deskjet-2755e-long-term.jpg---
+heroImage: /images/hero/canon-pixma-tr4720-vs-hp-deskjet-2755e-long-term.jpg
+---
 
 After 18 months of tracking two of Amazon's best-selling budget inkjet printers, the data reveals some uncomfortable truths about long-term costs. Here's what our test households discovered:
 

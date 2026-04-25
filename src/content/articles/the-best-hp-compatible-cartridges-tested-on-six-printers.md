@@ -12,7 +12,8 @@ tags:
 - printer-ink
 - cost-saving
 relatedProducts: []
-heroImage: /images/hero/the-best-hp-compatible-cartridges-tested-on-six-printers.jpg---
+heroImage: /images/hero/the-best-hp-compatible-cartridges-tested-on-six-printers.jpg
+---
 
 ## Why compatible cartridges matter
 

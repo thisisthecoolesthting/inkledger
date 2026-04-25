@@ -13,7 +13,8 @@ relatedProducts:
 - B0G1R37VJC
 - B0FVY8TTVN
 - B0DVT2JTRN
-heroImage: /images/hero/how-to-properly-refill-inkjet-cartridges-that-lasts-6-refills.jpg---
+heroImage: /images/hero/how-to-properly-refill-inkjet-cartridges-that-lasts-6-refills.jpg
+---
 
 Refilling inkjet cartridges can save you hundreds per year, but most tutorials skip the steps that actually make refills last. After testing 14 methods across HP, Epson, and Brother cartridges, here’s what actually works:
 

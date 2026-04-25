@@ -13,7 +13,8 @@ relatedProducts:
 - B0G1R37VJC
 - B0FVY8TTVN
 - B0DVT2JTRN
-heroImage: /images/hero/how-to-print-from-a-phone-without-instant-ink.jpg---
+heroImage: /images/hero/how-to-print-from-a-phone-without-instant-ink.jpg
+---
 
 ### Why Avoid Instant Ink?
 

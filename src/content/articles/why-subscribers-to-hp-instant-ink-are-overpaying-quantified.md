@@ -10,7 +10,8 @@ tags:
 - subscription-trap
 - ink-cost-analysis
 relatedProducts: []
-heroImage: /images/hero/why-subscribers-to-hp-instant-ink-are-overpaying-quantified.jpg---
+heroImage: /images/hero/why-subscribers-to-hp-instant-ink-are-overpaying-quantified.jpg
+---
 
 HP's Instant Ink program promises convenience with automatic ink deliveries, but our price tracking reveals most subscribers pay 2-3x more per page than those using third-party cartridges. Here's the breakdown:
 

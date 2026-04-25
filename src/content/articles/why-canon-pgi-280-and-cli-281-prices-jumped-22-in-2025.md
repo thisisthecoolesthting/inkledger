@@ -11,7 +11,8 @@ tags:
 - printer-ink
 - printing-costs
 relatedProducts: []
-heroImage: /images/hero/why-canon-pgi-280-and-cli-281-prices-jumped-22-in-2025.jpg---
+heroImage: /images/hero/why-canon-pgi-280-and-cli-281-prices-jumped-22-in-2025.jpg
+---
 
 ## The 2025 Canon Ink Price Surprise
 

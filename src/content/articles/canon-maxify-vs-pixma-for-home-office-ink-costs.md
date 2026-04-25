@@ -11,7 +11,8 @@ tags:
 - home-office
 - cost-comparison
 relatedProducts: []
-heroImage: /images/hero/canon-maxify-vs-pixma-for-home-office-ink-costs.jpg---
+heroImage: /images/hero/canon-maxify-vs-pixma-for-home-office-ink-costs.jpg
+---
 
 When setting up a home office, choosing the right printer can have a significant impact on your long-term ink costs. Canon offers two popular lines of inkjet printers for home office use: the MAXIFY series, designed for high-volume printing, and the PIXMA series, which caters to general home use. Here’s how they compare in terms of ink costs and efficiency.
 

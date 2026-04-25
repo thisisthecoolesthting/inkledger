@@ -6,7 +6,8 @@ excerpt: Deprecated test artifact.
 status: published
 tags: []
 relatedProducts: []
-heroImage: /images/hero/pricing-watchdog-8.jpg---
+heroImage: /images/hero/pricing-watchdog-8.jpg
+---
 
 Deprecated. This file was produced by the AFFILIATE-082 topic parser before the section-header fix. Status held at `draft` so it does not render. Safe to delete on the Windows host.
 

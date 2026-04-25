@@ -11,7 +11,8 @@ tags:
 - ink comparison
 - printer savings
 relatedProducts: []
-heroImage: /images/hero/hp-61-vs-hp-962-cost-per-page-which-is-actually-cheaper-per-print.jpg---
+heroImage: /images/hero/hp-61-vs-hp-962-cost-per-page-which-is-actually-cheaper-per-print.jpg
+---
 
 ## The HP 61 vs HP 962 Price Trap
 

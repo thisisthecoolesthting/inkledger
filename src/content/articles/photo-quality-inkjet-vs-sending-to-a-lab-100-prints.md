@@ -10,7 +10,8 @@ tags:
 - ink cost analysis
 - home printing
 relatedProducts: []
-heroImage: /images/hero/photo-quality-inkjet-vs-sending-to-a-lab-100-prints.jpg---
+heroImage: /images/hero/photo-quality-inkjet-vs-sending-to-a-lab-100-prints.jpg
+---
 
 ## The True Cost of 100 Photo Prints
 

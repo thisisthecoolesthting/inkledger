@@ -10,7 +10,8 @@ tags:
 - printers
 - cost-comparison
 relatedProducts: []
-heroImage: /images/hero/epson-ecotank-worth-it-at-399-a-two-year-cost-model.jpg---
+heroImage: /images/hero/epson-ecotank-worth-it-at-399-a-two-year-cost-model.jpg
+---
 
 ## The EcoTank Promise vs. Reality
 

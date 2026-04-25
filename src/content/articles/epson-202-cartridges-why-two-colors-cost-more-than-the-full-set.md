@@ -11,7 +11,8 @@ tags:
 - pricing-tactics
 - printer-ink
 relatedProducts: []
-heroImage: /images/hero/epson-202-cartridges-why-two-colors-cost-more-than-the-full-set.jpg---
+heroImage: /images/hero/epson-202-cartridges-why-two-colors-cost-more-than-the-full-set.jpg
+---
 
 ## The Epson 202 Pricing Paradox
 

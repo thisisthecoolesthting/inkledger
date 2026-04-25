@@ -10,7 +10,8 @@ tags:
 - toner-costs
 - home-office
 relatedProducts: []
-heroImage: /images/hero/brother-hl-l2350dw-vs-hp-laserjet-m110w.jpg---
+heroImage: /images/hero/brother-hl-l2350dw-vs-hp-laserjet-m110w.jpg
+---
 
 When shopping for an affordable laser printer, the Brother HL-L2350DW and HP LaserJet M110w often top the under-$200 lists. But which one actually saves you money long-term? We dug into the real costs beyond the sticker price.
 

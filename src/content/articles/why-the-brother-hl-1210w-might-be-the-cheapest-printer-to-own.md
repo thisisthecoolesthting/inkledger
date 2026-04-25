@@ -10,7 +10,8 @@ tags:
 - cost-per-page
 - printer-maintenance
 relatedProducts: []
-heroImage: /images/hero/why-the-brother-hl-1210w-might-be-the-cheapest-printer-to-own.jpg---
+heroImage: /images/hero/why-the-brother-hl-1210w-might-be-the-cheapest-printer-to-own.jpg
+---
 
 The Brother HL-1210W consistently ranks as one of the most cost-effective printers for home use when you factor in long-term ownership costs. Here's why:
 

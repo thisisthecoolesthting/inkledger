@@ -3,7 +3,10 @@ name: Marcus Nolan
 slug: marcus-inkledger
 role: Senior Editor
 site: InkLedger
+photoUrl: "/authors/marcus-inkledger.svg"
+shortBio: "Marcus — InkLedger"
 ---
+
 # Marcus — InkLedger
 
 We test gear and read specs so you can shortlist with confidence.

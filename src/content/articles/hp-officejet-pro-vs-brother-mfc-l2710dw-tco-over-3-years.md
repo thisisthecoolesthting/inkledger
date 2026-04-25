@@ -11,7 +11,8 @@ tags:
 - home-office
 - small-business
 relatedProducts: []
-heroImage: /images/hero/hp-officejet-pro-vs-brother-mfc-l2710dw-tco-over-3-years.jpg---
+heroImage: /images/hero/hp-officejet-pro-vs-brother-mfc-l2710dw-tco-over-3-years.jpg
+---
 
 ## The Inkjet vs Laser Showdown
 

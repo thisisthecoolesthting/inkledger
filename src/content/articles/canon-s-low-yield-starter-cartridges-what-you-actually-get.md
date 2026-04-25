@@ -11,7 +11,8 @@ tags:
 - printer-ink
 - printing-costs
 relatedProducts: []
-heroImage: /images/hero/canon-s-low-yield-starter-cartridges-what-you-actually-get.jpg---
+heroImage: /images/hero/canon-s-low-yield-starter-cartridges-what-you-actually-get.jpg
+---
 
 When you unbox a new Canon printer, you'll find it comes with "starter" ink cartridges marked with warnings about lower page yields. Here's what that really means for your wallet:
 
