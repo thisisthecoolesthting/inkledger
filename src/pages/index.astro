@@ -1,5 +1,5 @@
 ---
-import BaseLayout from '@/layouts/BaseLayout.astro';
+import CompliantLayout from '@/layouts/CompliantLayout.astro';
 import { getCollection } from 'astro:content';
 import ProductCard from '@/components/ProductCard.astro';
 import NewsletterForm from '@/components/NewsletterForm.astro';
@@ -13,7 +13,7 @@ const siteYmyl = (home as { persona?: { ymyl?: boolean } }).persona?.ymyl === tr
 
 const allProducts = await getCollection('products', ({ data }) => data.status === 'published');
 
-// Homepage "top picks" must pass the display bar — real image, real price, real rating.
+// Homepage "top picks" must pass the display bar -- real image, real price, real rating.
 // This mirrors the /products page filter; a product that fails here never ships.
 const completeProducts = allProducts.filter((p) => {
   const d = p.data;
@@ -37,15 +37,15 @@ const recentArticles = allArticles
   .sort((a, b) => +new Date(b.data.publishedAt) - +new Date(a.data.publishedAt))
   .slice(0, 3);
 
-// Concrete, factual trust line — numbers beat adjectives.
+// Concrete, factual trust line -- numbers beat adjectives.
 // Computed fresh from the content collection so it stays true as we grow.
 const trustLine =
-  `${allArticles.length} articles · ${allPillars.length} in-depth guides · ${completeProducts.length} products reviewed`;
+  `${allArticles.length} articles  -  ${allPillars.length} in-depth guides  -  ${completeProducts.length} products reviewed`;
 
 const trustLineDisplay = (h.trustLine && String(h.trustLine).trim()) || trustLine;
 ---
 
-<BaseLayout
+<CompliantLayout
   title={b.fullName}
   description={dmeta}
 >
@@ -122,7 +122,7 @@ const trustLineDisplay = (h.trustLine && String(h.trustLine).trim()) || trustLin
           <p class="text-terracotta-600 text-xs uppercase tracking-[0.2em] font-semibold mb-2">Start here</p>
           <h2 class="font-display text-3xl md:text-4xl text-ink-900 leading-tight">In-depth guides</h2>
         </div>
-        <a href="/pillars" class="text-sm text-terracotta-600 font-medium whitespace-nowrap hover:underline">All guides →</a>
+        <a href="/pillars" class="text-sm text-terracotta-600 font-medium whitespace-nowrap hover:underline">All guides -></a>
       </div>
       <div class="grid md:grid-cols-3 gap-6 md:gap-8">
         {featuredPillars.map((p) => (
@@ -154,7 +154,7 @@ const trustLineDisplay = (h.trustLine && String(h.trustLine).trim()) || trustLin
               <p class="text-terracotta-600 text-xs uppercase tracking-[0.2em] font-semibold mb-2">Product reviews</p>
               <h2 class="font-display text-3xl md:text-4xl text-ink-900 leading-tight !mt-0">Top picks this month</h2>
             </div>
-            <a href="/products" class="text-sm text-terracotta-600 font-medium whitespace-nowrap hover:underline">All reviews →</a>
+            <a href="/products" class="text-sm text-terracotta-600 font-medium whitespace-nowrap hover:underline">All reviews -></a>
           </div>
           <div class="grid grid-cols-2 md:grid-cols-3 gap-4 md:gap-6">
             {featured.map((p) => <ProductCard product={p} />)}
@@ -171,7 +171,7 @@ const trustLineDisplay = (h.trustLine && String(h.trustLine).trim()) || trustLin
           <p class="text-terracotta-600 text-xs uppercase tracking-[0.2em] font-semibold mb-2">Articles</p>
           <h2 class="font-display text-3xl md:text-4xl text-ink-900 leading-tight">Latest reads</h2>
         </div>
-        <a href="/articles" class="text-sm text-terracotta-600 font-medium whitespace-nowrap hover:underline">All articles →</a>
+        <a href="/articles" class="text-sm text-terracotta-600 font-medium whitespace-nowrap hover:underline">All articles -></a>
       </div>
       <div class="grid md:grid-cols-3 gap-6 md:gap-8">
         {recentArticles.map((a) => (
@@ -236,4 +236,4 @@ const trustLineDisplay = (h.trustLine && String(h.trustLine).trim()) || trustLin
   <section class="max-w-3xl mx-auto px-6 py-20">
     <NewsletterForm variant="hero" />
   </section>
-</BaseLayout>
+</CompliantLayout>

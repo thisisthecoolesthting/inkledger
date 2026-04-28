@@ -1,4 +1,4 @@
-// Custom sitemap generator — replaces @astrojs/sitemap which has an
+// Custom sitemap generator -- replaces @astrojs/sitemap which has an
 // upstream bug with our content collection setup. Rebuilds on every
 // Astro build, includes only published entries.
 
@@ -17,6 +17,8 @@ export const GET: APIRoute = async () => {
   // Static high-value pages
   urls.push({ loc: `${SITE}/`,          changefreq: 'weekly',  priority: '1.0' });
   urls.push({ loc: `${SITE}/about`,     changefreq: 'monthly', priority: '0.6' });
+  urls.push({ loc: `${SITE}/contact`,   changefreq: 'monthly', priority: '0.5' });
+  urls.push({ loc: `${SITE}/editorial-standards`, changefreq: 'monthly', priority: '0.5' });
   urls.push({ loc: `${SITE}/disclosure`,changefreq: 'yearly',  priority: '0.3' });
   urls.push({ loc: `${SITE}/methodology`, changefreq: 'yearly', priority: '0.4' });
   urls.push({ loc: `${SITE}/products`,  changefreq: 'daily',   priority: '0.9' });

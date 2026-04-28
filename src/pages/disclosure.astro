@@ -1,12 +1,12 @@
 ---
-import BaseLayout from '@/layouts/BaseLayout.astro';
+import CompliantLayout from '@/layouts/CompliantLayout.astro';
 import home from '@/data/spawn-home.json';
 const b = home.brand;
 const support = (home as { supportEmail?: string }).supportEmail;
 ---
 
-<BaseLayout
-  title={`Affiliate disclosure — ${b.fullName}`}
+<CompliantLayout
+  title={`Affiliate disclosure -- ${b.fullName}`}
   description="How we earn and how that affects what we cover."
   ogType="website"
 >
@@ -26,4 +26,4 @@ const support = (home as { supportEmail?: string }).supportEmail;
       Questions: <a href={`mailto:${support}`}>{support}</a>
     </p>
   </article>
-</BaseLayout>
+</CompliantLayout>

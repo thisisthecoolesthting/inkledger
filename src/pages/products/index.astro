@@ -1,12 +1,12 @@
 ---
-import BaseLayout from '@/layouts/BaseLayout.astro';
+import CompliantLayout from '@/layouts/CompliantLayout.astro';
 import ProductCard from '@/components/ProductCard.astro';
 import { getCollection } from 'astro:content';
 
 const products = await getCollection('products', ({ data }) => data.status === 'published');
 
 // Only list products that pass the display bar: real image, real price, real rating.
-// If any of those are missing, the product isn't ready to ship — hide it.
+// If any of those are missing, the product isn't ready to ship -- hide it.
 const complete = products.filter((p) => {
   const d = p.data;
   const hasImage = d.imageUrl && !d.imageUrl.includes('example') && !d.imageUrl.startsWith('data:');
@@ -25,7 +25,7 @@ const byCategory = sorted.reduce<Record<string, typeof sorted>>((acc, p) => {
 }, {});
 ---
 
-<BaseLayout
+<CompliantLayout
   title="Product reviews"
   description="Every product we&rsquo;ve reviewed for women in perimenopause, menopause, and beyond."
 >
@@ -46,4 +46,4 @@ const byCategory = sorted.reduce<Record<string, typeof sorted>>((acc, p) => {
       </section>
     ))}
   </section>
-</BaseLayout>
+</CompliantLayout>

@@ -1,5 +1,5 @@
 ---
-import BaseLayout from '@/layouts/BaseLayout.astro';
+import CompliantLayout from '@/layouts/CompliantLayout.astro';
 import { getCollection } from 'astro:content';
 import { siteOrigin } from '@/utils/site-origin';
 import home from '@/data/spawn-home.json';
@@ -44,8 +44,8 @@ const personSchema = {
 };
 ---
 
-<BaseLayout
-  title={`${entry.data.name} — ${entry.data.role}`}
+<CompliantLayout
+  title={`${entry.data.name} -- ${entry.data.role}`}
   description={entry.data.shortBio}
   image={entry.data.photoUrl}
 >
@@ -110,4 +110,4 @@ const personSchema = {
       </section>
     )}
   </article>
-</BaseLayout>
+</CompliantLayout>

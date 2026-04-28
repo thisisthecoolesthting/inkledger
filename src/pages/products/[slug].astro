@@ -1,5 +1,5 @@
 ---
-import BaseLayout from '@/layouts/BaseLayout.astro';
+import CompliantLayout from '@/layouts/CompliantLayout.astro';
 import AffiliateCTA from '@/components/AffiliateCTA.astro';
 import AuthorByline from '@/components/AuthorByline.astro';
 import MedicalDisclaimer from '@/components/MedicalDisclaimer.astro';
@@ -38,7 +38,7 @@ const reviewedForByline = (data as any).reviewedAt
   : ((data as any).lastSeen ? new Date((data as any).lastSeen) : undefined);
 
 const seoTitle = data.seoTitle || `${data.title} Review`;
-const seoDesc = data.metaDescription || `Honest review: ${data.title} — from ${b.fullName}.`;
+const seoDesc = data.metaDescription || `Honest review: ${data.title} -- from ${b.fullName}.`;
 
 // JSON-LD Product schema for rich snippets. Google requires at least one
 // of review, aggregateRating, or offers with valid fields. We provide
@@ -78,7 +78,7 @@ if (data.price) {
   };
 }
 
-// Nested editorial review — satisfies Google's "review or aggregateRating
+// Nested editorial review -- satisfies Google's "review or aggregateRating
 // required" rule for every product page, even those without Amazon rating.
 productSchema.review = {
   '@type': 'Review',
@@ -120,7 +120,7 @@ if (data.rating && data.reviewCount) {
 }
 ---
 
-<BaseLayout
+<CompliantLayout
   title={seoTitle}
   description={seoDesc}
   image={data.imageUrl}
@@ -172,4 +172,4 @@ if (data.rating && data.reviewCount) {
       <a href="/methodology/" class="text-terracotta-600 hover:underline"> How we research &rarr;</a>
     </p>
   </article>
-</BaseLayout>
+</CompliantLayout>
