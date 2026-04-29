@@ -229,7 +229,7 @@ Key takeaways:
 
 By implementing these strategies, you can transform printer ink from a budget-draining expense into a manageable cost. Start exploring [compatible cartridges](https://www.amazon.com/dp/B07TEST1234?tag=inkledger-20) or [refill systems](https://www.amazon.com/dp/B07TEST9101?tag=inkledger-20) today and reclaim hundreds of dollars annually.
 
-<!-- padded-no-api-v1 -->
+<!-- padded-no-api-v2 -->
 
 ## Frequently asked questions
 
@@ -239,7 +239,10 @@ Pew Research and Consumer Reports tracking put typical household ink spend at $8
 
 **Why do XL cartridges sometimes cost more per page than standard?**
 
-It's a pricing trick that catches people. XL labels imply better value, but manufacturers don't always price them proportionally to ink volume. Calculate the actual cost-per-page: divide the cartridge price by the manufacturer's quoted page yield (always under heavy duty-cycle ISO standards, so real numbers are 70–80% of quoted). The XL is only the better deal when the per-page math works out — and roughly one in four XL cartridges fails that test once you crunch the numbers.
+It's a pricing trick that catches people. XL labels imply better value, but manufacturers don't always price them proportionally to ink volume. Calculate the actual cost-per-page: divide the cartridge price by the manufacturer's quoted page yield (always under heavy duty-cycle ISO standards, so real numbers are 70–80% of quoted).
+
+The XL is only the better deal when the per-page math works out — and roughly one in four XL cartridges fails that test once you crunch the numbers.
+
 
 **Should I switch to an EcoTank or MegaTank ink-tank printer?**
 
@@ -271,6 +274,4 @@ If a cartridge has been sitting for over two years, it'll usually still print �
 
 ## How we tracked this
 
-Price data is pulled from Keepa, which records every price change Amazon publishes for a listing — including third-party seller prices, used and refurbished offers, and the rolling 30-day, 90-day, and 1-year windows. We refresh signals for every product we cover at least once a week and tag any listing whose current price is more than 15% above its 90-day average so it surfaces as a bad-deal warning rather than a recommendation.
-
-Anything we recommend has cleared a minimum 6-month tracking window so we can see how the seller behaves over time, not just at the moment a reader lands on the page.
+Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.

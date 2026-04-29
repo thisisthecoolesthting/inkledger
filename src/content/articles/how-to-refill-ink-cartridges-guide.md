@@ -135,29 +135,16 @@ For most home users, the [PrecisionFill Bottle System](https://www.amazon.com/dp
 
 **Final Pro Tip**: Maintain a refill log tracking dates, ink amounts, and performance notes. This helps identify when cartridges near end-of-life and optimizes your ordering schedule. After six months using these techniques, our test households reported 83% satisfaction rates—with the remaining 17% switching to laser printers for even greater long-term savings.
 
-<!-- padded-no-api-v1 -->
-
-## Recent price snapshot
-
-Tracked through Keepa over the last 12 months. Current prices update every few hours; 30-day and 1-year ranges show how the listing has moved relative to today.
-
-| Product (ASIN) | Current price | 30-day low | 30-day high | 1-year low | 1-year high |
-|---|---:|---:|---:|---:|---:|
-| Listing (`B0BVYBVHK5`) | — | — | — | — | — |
-| Listing (`B0F37SVW8G`) | — | — | — | — | — |
-| Listing (`B08GX3K9YS`) | — | — | — | — | — |
-| Listing (`B0BPMXD39R`) | — | — | — | — | — |
-| Listing (`B0BL6F7Y9H`) | — | — | — | — | — |
-| Listing (`B0DYNQ1WP7`) | — | — | — | — | — |
-| Listing (`B0CZ3VL82T`) | — | — | — | — | — |
-
-Spreads between the 30-day low and 1-year low are where most of the savings hide. If the current price is closer to the 1-year high than the 1-year low, waiting two to four weeks usually catches a better window — retailer pricing on cartridges has a recognizable monthly cycle tied to how Amazon balances inventory between OEM and third-party listings.
+<!-- padded-no-api-v2 -->
 
 ## Frequently asked questions
 
 **Why do XL cartridges sometimes cost more per page than standard?**
 
-It's a pricing trick that catches people. XL labels imply better value, but manufacturers don't always price them proportionally to ink volume. Calculate the actual cost-per-page: divide the cartridge price by the manufacturer's quoted page yield (always under heavy duty-cycle ISO standards, so real numbers are 70–80% of quoted). The XL is only the better deal when the per-page math works out — and roughly one in four XL cartridges fails that test once you crunch the numbers.
+It's a pricing trick that catches people. XL labels imply better value, but manufacturers don't always price them proportionally to ink volume. Calculate the actual cost-per-page: divide the cartridge price by the manufacturer's quoted page yield (always under heavy duty-cycle ISO standards, so real numbers are 70–80% of quoted).
+
+The XL is only the better deal when the per-page math works out — and roughly one in four XL cartridges fails that test once you crunch the numbers.
+
 
 **How long can I store unopened cartridges before the ink dries up?**
 
@@ -177,7 +164,10 @@ Pew Research and Consumer Reports tracking put typical household ink spend at $8
 
 **What's the real difference between OEM, compatible, and remanufactured cartridges?**
 
-OEM means the cartridge is built and filled by the printer's manufacturer (HP, Canon, Brother, Epson). Compatible means a third-party cartridge built from new parts to fit the same printer. Remanufactured means an OEM cartridge that's been emptied, cleaned, refilled, and tested for resale. Quality runs OEM > top-tier remanufactured > most compatibles > bargain compatibles, but price runs in the opposite direction. The remanufactured tier is the sweet spot for casual users who don't print photos.
+OEM means the cartridge is built and filled by the printer's manufacturer (HP, Canon, Brother, Epson). Compatible means a third-party cartridge built from new parts to fit the same printer. Remanufactured means an OEM cartridge that's been emptied, cleaned, refilled, and tested for resale.
+
+Quality runs OEM > top-tier remanufactured > most compatibles > bargain compatibles, but price runs in the opposite direction. The remanufactured tier is the sweet spot for casual users who don't print photos.
+
 
 ## What to watch for before you buy
 
@@ -191,6 +181,4 @@ OEM means the cartridge is built and filled by the printer's manufacturer (HP, C
 
 ## How we tracked this
 
-Price data is pulled from Keepa, which records every price change Amazon publishes for a listing — including third-party seller prices, used and refurbished offers, and the rolling 30-day, 90-day, and 1-year windows. We refresh signals for every product we cover at least once a week and tag any listing whose current price is more than 15% above its 90-day average so it surfaces as a bad-deal warning rather than a recommendation.
-
-Anything we recommend has cleared a minimum 6-month tracking window so we can see how the seller behaves over time, not just at the moment a reader lands on the page.
+Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.

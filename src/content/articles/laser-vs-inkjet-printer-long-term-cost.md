@@ -140,13 +140,16 @@ Only if you print regularly. At 100+ pages monthly, Instant Ink is roughly 30% c
 
 **For third-party savings:** If you commit to a laser printer, certified third-party toner cuts costs further without meaningful quality loss. Budget brands and refurbished cartridges introduce risk; the extra $5–$10 per cartridge is worth the reliability gain.
 
-<!-- padded-no-api-v1 -->
+<!-- padded-no-api-v2 -->
 
 ## Frequently asked questions
 
 **Why do XL cartridges sometimes cost more per page than standard?**
 
-It's a pricing trick that catches people. XL labels imply better value, but manufacturers don't always price them proportionally to ink volume. Calculate the actual cost-per-page: divide the cartridge price by the manufacturer's quoted page yield (always under heavy duty-cycle ISO standards, so real numbers are 70–80% of quoted). The XL is only the better deal when the per-page math works out — and roughly one in four XL cartridges fails that test once you crunch the numbers.
+It's a pricing trick that catches people. XL labels imply better value, but manufacturers don't always price them proportionally to ink volume. Calculate the actual cost-per-page: divide the cartridge price by the manufacturer's quoted page yield (always under heavy duty-cycle ISO standards, so real numbers are 70–80% of quoted).
+
+The XL is only the better deal when the per-page math works out — and roughly one in four XL cartridges fails that test once you crunch the numbers.
+
 
 **How long can I store unopened cartridges before the ink dries up?**
 
@@ -168,7 +171,10 @@ Reputable remanufacturers (LD Products, INKfinity, LemeroUtrust) use formulated 
 
 **Why does my printer say my cartridge is empty when there's still ink left?**
 
-Most cartridges include a smart chip that estimates ink level by counting drops fired, not by measuring actual ink. The chip's estimate is conservative — manufacturers prefer you replace early than risk a dry-fire that damages the print head. Industry studies have measured 15–40% of cartridges' ink remaining when the printer flags them empty. On many HP and Canon models, you can override the warning and continue printing until output quality actually drops.
+Most cartridges include a smart chip that estimates ink level by counting drops fired, not by measuring actual ink. The chip's estimate is conservative — manufacturers prefer you replace early than risk a dry-fire that damages the print head.
+
+Industry studies have measured 15–40% of cartridges' ink remaining when the printer flags them empty. On many HP and Canon models, you can override the warning and continue printing until output quality actually drops.
+
 
 ## What to watch for before you buy
 
@@ -182,6 +188,4 @@ Most cartridges include a smart chip that estimates ink level by counting drops 
 
 ## How we tracked this
 
-Price data is pulled from Keepa, which records every price change Amazon publishes for a listing — including third-party seller prices, used and refurbished offers, and the rolling 30-day, 90-day, and 1-year windows. We refresh signals for every product we cover at least once a week and tag any listing whose current price is more than 15% above its 90-day average so it surfaces as a bad-deal warning rather than a recommendation.
-
-Anything we recommend has cleared a minimum 6-month tracking window so we can see how the seller behaves over time, not just at the moment a reader lands on the page.
+Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
