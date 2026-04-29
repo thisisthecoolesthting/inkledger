@@ -2,7 +2,6 @@
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import AffiliateCTA from '@/components/AffiliateCTA.astro';
 import AuthorByline from '@/components/AuthorByline.astro';
-import MedicalDisclaimer from '@/components/MedicalDisclaimer.astro';
 import { getCollection, getEntry } from 'astro:content';
 import { siteOrigin } from '@/utils/site-origin';
 import home from '@/data/spawn-home.json';
@@ -150,7 +149,6 @@ if (data.rating && data.reviewCount) {
       </figure>
     )}
 
-    {needsMedicalDisclaimer && <MedicalDisclaimer />}
 
     <AffiliateCTA asin={data.asin} url={data.affiliateUrl} label="Check current price on Amazon" />
 
