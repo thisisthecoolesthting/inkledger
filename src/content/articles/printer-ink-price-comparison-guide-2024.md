@@ -26,7 +26,7 @@ tags:
 - compatible cartridges
 - printer maintenance
 - home office printing
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
+heroImage: /images/hero/printing-less-without-sacrificing-work-7-concrete-moves.jpg
 ---
 
 ## Introduction

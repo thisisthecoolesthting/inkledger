@@ -25,7 +25,7 @@ tags:
 - toner vs ink cost
 - third party cartridge warranty
 - cheapest way to print at home
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
+heroImage: /images/hero/monochrome-laser-vs-inkjet-real-world-cost-comparison.jpg
 ---
 
 ## Introduction

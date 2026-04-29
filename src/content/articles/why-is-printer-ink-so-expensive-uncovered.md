@@ -26,7 +26,7 @@ relatedProducts:
 - B0C7ZTV376
 - B099NZC4PB
 - B0848Q34F8
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
+heroImage: /images/hero/all-in-one-vs-single-function-printers-for-cost.jpg
 cardTitle: 'Stop Overpaying for Printer Ink: The Real Cost Breakdown'
 cardPick: Compatible HP 61XL cartridges cost 60% less than OEM while delivering identical
   quality prints for budget-conscious households.

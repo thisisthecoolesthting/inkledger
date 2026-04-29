@@ -26,7 +26,7 @@ relatedProducts:
 - B0C7ZTV376
 - B099NZC4PB
 - B0848Q34F8
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
+heroImage: /images/hero/best-budget-laser-printer-for-households-that-print-less-than-50-pages-month.jpg
 cardTitle: Does Third-Party Ink Really Void Your Printer Warranty?
 cardPick: HP 67XL cartridges offer genuine compatibility without sacrificing warranty
   protection or your budget.

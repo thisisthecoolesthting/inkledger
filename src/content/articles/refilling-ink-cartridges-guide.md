@@ -27,7 +27,7 @@ tags:
 - printer maintenance
 - HP ink alternatives
 - Epson refill
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
+heroImage: /images/hero/why-canon-pgi-280-and-cli-281-prices-jumped-22-in-2025.jpg
 ---
 
 ## Introduction

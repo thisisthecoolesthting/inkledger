@@ -27,7 +27,7 @@ tags:
 - toner vs ink
 - HP Instant Ink
 - Epson Ecotank
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
+heroImage: /images/hero/alternatives-and-refills-12.jpg
 ---
 
 # Introduction

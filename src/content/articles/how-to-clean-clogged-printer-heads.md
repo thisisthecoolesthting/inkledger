@@ -25,7 +25,7 @@ tags:
 - ink refill kits
 - print quality fixes
 - printer longevity
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
+heroImage: /images/hero/canon-pixma-tr4720-vs-hp-deskjet-2755e-long-term.jpg
 ---
 
 ## Introduction

@@ -27,7 +27,7 @@ relatedProducts:
 - B083BFPGD8
 - B0CYJV9X52
 - B0DYNQ1WP7
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
+heroImage: /images/hero/hp-officejet-pro-vs-brother-mfc-l2710dw-tco-over-3-years.jpg
 cardTitle: 'HP Instant Ink vs. Cartridges: Which Saves You Money?'
 cardPick: HP 61 cartridges offer predictable costs without subscription fees, perfect
   for budget-conscious households managing irregular printing needs.

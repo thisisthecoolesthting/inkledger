@@ -25,7 +25,7 @@ tags:
 - printer maintenance
 - OEM alternatives
 - DIY printing
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
+heroImage: /images/hero/compatible-vs-remanufactured-the-3-differences-that-matter.jpg
 cardTitle: 'Refill Ink Cartridges: Cut Printing Costs by 60–90% Today'
 cardPick: Canon PG-245 offers genuine quality at fraction of OEM price, trusted by
   budget-conscious households and small offices.

@@ -28,7 +28,7 @@ relatedProducts:
 - B0CYJV9X52
 - B0DYNQ1WP7
 - B09W9MF63Y
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
+heroImage: /images/hero/why-subscribers-to-hp-instant-ink-are-overpaying-quantified.jpg
 cardTitle: Save 70% on Printer Ink Without Voiding Your Warranty
 cardPick: HP 61 OEM cartridges deliver genuine quality at third-party prices, keeping
   warranty protection intact while cutting costs dramatically.

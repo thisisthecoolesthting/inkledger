@@ -25,7 +25,7 @@ relatedProducts:
 - B07TEST3456
 - B07TEST7890
 - B07TEST2345
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
+heroImage: /images/hero/third-party-toner-warranty-claims-who-actually-pays-up.jpg
 ---
 
 ## Introduction

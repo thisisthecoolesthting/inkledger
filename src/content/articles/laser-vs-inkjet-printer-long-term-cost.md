@@ -27,7 +27,7 @@ relatedProducts:
 - B07TEST2345
 - B07TEST6789
 - B07TEST0123
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
+heroImage: /images/hero/mix-of-pricing-watchdog-pieces-alternatives-guides-comparison-posts-and-teardown.jpg
 ---
 
 # Introduction

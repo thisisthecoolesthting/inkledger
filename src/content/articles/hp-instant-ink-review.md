@@ -26,7 +26,7 @@ relatedProducts:
 - B0F54TYKF9
 - B0CGW2TFSV
 - B0CGW48C3G
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
+heroImage: /images/hero/how-to-print-from-a-phone-without-instant-ink.jpg
 cardTitle: HP Instant Ink Worth It? Real Cost Breakdown for Home Printers
 cardPick: HP 67XL cartridges offer high-yield capacity, reducing replacement frequency
   and delivering genuine savings versus constant budget cartridge purchases.

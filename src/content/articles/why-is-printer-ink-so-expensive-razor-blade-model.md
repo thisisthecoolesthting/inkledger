@@ -27,7 +27,7 @@ relatedProducts:
 - B0CGW2TFSV
 - B0CGW48C3G
 - B00063RWT8
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
+heroImage: /images/hero/5-why-subscribers-to-hp-instant-ink-are-overpaying-quantified.jpg
 ---
 
 # Introduction

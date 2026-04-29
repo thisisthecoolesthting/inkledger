@@ -22,7 +22,7 @@ tags:
 - compatible cartridges
 - refill kits
 - ink alternatives
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
+heroImage: /images/hero/the-best-hp-compatible-cartridges-tested-on-six-printers.jpg
 ---
 
 ## Introduction

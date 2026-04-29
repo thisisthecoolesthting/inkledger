@@ -25,7 +25,7 @@ relatedProducts:
 - B0CGW48C3G
 - B085VZPR2Y
 - B00063RWT8
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
+heroImage: /images/hero/amazon-ink-prices-vs-walmart-vs-staples-the-hidden-30.jpg
 ---
 
 ## Introduction

@@ -26,7 +26,7 @@ relatedProducts:
 - B0846GFNCQ
 - B0C7ZTV376
 - B099NZC4PB
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
+heroImage: /images/hero/brother-lc3017-vs-lc3019-the-xl-trap-explained.jpg
 cardTitle: 'Ink Tank Printers vs. Cartridge Costs: Which Saves Most Money'
 cardPick: HP 67XL cartridges deliver high-yield printing at significantly lower per-page
   costs than traditional cartridges, maximizing your printing budget.

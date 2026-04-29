@@ -25,7 +25,7 @@ relatedProducts:
 - B09VXQ221K
 - B098JD8HD3
 - B08PZBPXLZ
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
+heroImage: /images/hero/refill-ink-kits-for-hp-63-results-after-15-refills.jpg
 ---
 
 ## Introduction

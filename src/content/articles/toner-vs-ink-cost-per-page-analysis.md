@@ -26,7 +26,7 @@ relatedProducts:
 - B0CGW48C3G
 - B085VZPR2Y
 - B00063RWT8
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
+heroImage: /images/hero/1-hp-61-vs-hp-962-cost-per-page-which-is-actually-cheaper-per-print.jpg
 ---
 
 ## Introduction

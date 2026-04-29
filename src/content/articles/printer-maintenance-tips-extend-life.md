@@ -24,7 +24,7 @@ tags:
 - printhead cleaning
 - toner maintenance
 - printer longevity
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
+heroImage: /images/hero/third-party-brother-tn450-vs-genuine-50-000-page-test.jpg
 ---
 
 ## Introduction

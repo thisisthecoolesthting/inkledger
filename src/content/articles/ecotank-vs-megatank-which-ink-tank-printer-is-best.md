@@ -28,7 +28,7 @@ tags:
 - cost per page
 - printer economics
 - home office printing
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
+heroImage: /images/hero/brother-hl-l2350dw-vs-hp-laserjet-m110w.jpg
 ---
 
 ## Introduction

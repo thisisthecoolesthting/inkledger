@@ -25,7 +25,7 @@ relatedProducts:
 - B0F54TYKF9
 - B085VZPR2Y
 - B00063RWT8
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
+heroImage: /images/hero/inkjet-vs-laser-for-home-use-a-cost-per-page-lens.jpg
 cardTitle: 'Stop Overpaying For Ink: Real Cost Per Page Breakdown'
 cardPick: Brother laser toner delivers the lowest true cost per page, beating inkjet
   by 70% over time.

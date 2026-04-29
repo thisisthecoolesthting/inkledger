@@ -27,7 +27,7 @@ tags:
 - home office printing
 - printer maintenance
 - inkjet vs laser costs
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
+heroImage: /images/hero/how-to-properly-refill-inkjet-cartridges-that-lasts-6-refills.jpg
 ---
 
 ## Introduction

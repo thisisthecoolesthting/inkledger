@@ -27,7 +27,7 @@ relatedProducts:
 - B0CYJV9X52
 - B0DYNQ1WP7
 - B09W9MF63Y
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
+heroImage: /images/hero/2-why-canon-pgi-280-and-cli-281-prices-jumped-22-in-2025.jpg
 cardTitle: 'Toner vs. Ink: Which Actually Costs Less Per Page'
 cardPick: HP 61 Black delivers the lowest cost-per-page for home printing, beating
   expensive name-brand alternatives significantly.

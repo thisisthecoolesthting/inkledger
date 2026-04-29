@@ -25,7 +25,7 @@ tags:
 - printer maintenance
 - printing costs
 - ink refills
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
+heroImage: /images/hero/3-brother-lc3017-vs-lc3019-the-xl-trap-explained.jpg
 ---
 
 ## Introduction

@@ -26,7 +26,7 @@ relatedProducts:
 - B0C7ZTV376
 - B099NZC4PB
 - B0848Q34F8
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
+heroImage: /images/hero/4-epson-202-cartridges-why-two-colors-cost-more-than-the-full-set.jpg
 cardTitle: 'Brother Laser vs Inkjet: Which Printer Truly Costs Less Long-Term'
 cardPick: Compatible HP 61XL cartridges slash ink costs dramatically, making inkjet
   printing affordable for budget-conscious households.

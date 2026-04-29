@@ -25,7 +25,7 @@ relatedProducts:
 - B083BFPGD8
 - B0CYJV9X52
 - B0DYNQ1WP7
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
+heroImage: /images/hero/epson-ecotank-et-2800-vs-canon-megatank-g3270.jpg
 cardTitle: 'HP 61 vs 962 Ink Cartridges: Real Cost Per Page Comparison'
 cardPick: HP 61 delivers lower per-page printing costs, making it the smarter choice
   for budget-conscious households and small offices.

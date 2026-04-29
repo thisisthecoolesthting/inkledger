@@ -25,7 +25,7 @@ relatedProducts:
 - B07C11YW88
 - B083BFPGD8
 - B0CYJV9X52
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
+heroImage: /images/hero/5-why-subscribers-to-hp-instant-ink-are-overpaying-quantified.jpg
 cardTitle: 'Canon PG-245 Ink Cartridge Alternatives: Save Big on Printing Costs'
 cardPick: HP 61 Black delivers genuine OEM reliability without the premium price tag,
   protecting your printer investment while cutting ink expenses significantly.

@@ -27,7 +27,7 @@ relatedProducts:
 - B0C7ZTV376
 - B099NZC4PB
 - B0848Q34F8
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
+heroImage: /images/hero/epson-ecotank-worth-it-at-399-a-two-year-cost-model.jpg
 ---
 
 ## Introduction

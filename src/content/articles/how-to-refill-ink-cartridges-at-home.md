@@ -26,7 +26,7 @@ tags:
 - cost per page
 - printer maintenance
 - home office supplies
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
+heroImage: /images/hero/comparisons-10.jpg
 ---
 
 # Introduction

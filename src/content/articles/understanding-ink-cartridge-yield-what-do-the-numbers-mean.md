@@ -26,7 +26,7 @@ relatedProducts:
 - B0CGW2TFSV
 - B0CGW48C3G
 - B085VZPR2Y
-heroImage: https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1600&q=80
+heroImage: /images/hero/4-epson-202-cartridges-why-two-colors-cost-more-than-the-full-set.jpg
 ---
 
 ## Introduction
