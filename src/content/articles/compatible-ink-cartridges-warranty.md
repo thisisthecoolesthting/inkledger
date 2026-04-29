@@ -1,8 +1,12 @@
 ---
 title: Will Using Compatible Ink Cartridges Void Your Printer Warranty?
-metaDescription: A deep dive into whether third-party ink cartridges void printer warranties, with cost comparisons, real-world testing data, and legal insights to help you save on ink without risking your printer.
+metaDescription: A deep dive into whether third-party ink cartridges void printer
+  warranties, with cost comparisons, real-world testing data, and legal insights to
+  help you save on ink without risking your printer.
 publishedAt: '2026-04-28T00:00:00.000Z'
-excerpt: Many printer manufacturers claim using compatible ink voids warranties—but is this legally enforceable? We analyze warranty fine print, test third-party cartridge performance, and calculate long-term savings to separate fact from scare tactics.
+excerpt: Many printer manufacturers claim using compatible ink voids warranties—but
+  is this legally enforceable? We analyze warranty fine print, test third-party cartridge
+  performance, and calculate long-term savings to separate fact from scare tactics.
 pillarSlug: printer-ink-alternatives
 status: published
 tags:
@@ -24,7 +28,9 @@ relatedProducts:
 - B0848Q34F8
 heroImage: /images/hero/compatible-ink-cartridges-warranty.jpg
 cardTitle: Does Third-Party Ink Really Void Your Printer Warranty?
-cardPick: HP 67XL cartridges offer genuine compatibility without sacrificing warranty protection or your budget.---
+cardPick: HP 67XL cartridges offer genuine compatibility without sacrificing warranty
+  protection or your budget.
+---
 
 ## Introduction
 

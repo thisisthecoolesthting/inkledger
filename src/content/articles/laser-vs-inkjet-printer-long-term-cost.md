@@ -1,8 +1,12 @@
 ---
 title: 'Laser vs. Inkjet Printers: Total Cost of Ownership Breakdown'
-metaDescription: Compare laser and inkjet printer costs over 5 years. We analyze cost per page, duty cycles, maintenance, and third-party cartridge savings to help you choose the cheapest printer.
+metaDescription: Compare laser and inkjet printer costs over 5 years. We analyze cost
+  per page, duty cycles, maintenance, and third-party cartridge savings to help you
+  choose the cheapest printer.
 publishedAt: '2026-04-28'
-excerpt: Laser and inkjet printers have different long-term costs. We break down cost per page, maintenance, and total cost of ownership to show you which printer type saves the most money over 5 years.
+excerpt: Laser and inkjet printers have different long-term costs. We break down cost
+  per page, maintenance, and total cost of ownership to show you which printer type
+  saves the most money over 5 years.
 pillarSlug: printer-cost-analysis
 status: published
 tags:
@@ -23,7 +27,8 @@ relatedProducts:
 - B07TEST2345
 - B07TEST6789
 - B07TEST0123
-heroImage: /images/hero/laser-vs-inkjet-printer-long-term-cost.jpg---
+heroImage: /images/hero/laser-vs-inkjet-printer-long-term-cost.jpg
+---
 
 # Introduction
 

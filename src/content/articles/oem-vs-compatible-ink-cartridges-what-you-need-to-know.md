@@ -1,8 +1,12 @@
 ---
 title: 'OEM vs. Compatible Ink Cartridges: What You Need to Know Before You Buy'
-metaDescription: Stop overpaying for printer ink. We compare OEM and compatible cartridges on cost, print quality, and longevity to help you make an informed decision without wasting money.
+metaDescription: Stop overpaying for printer ink. We compare OEM and compatible cartridges
+  on cost, print quality, and longevity to help you make an informed decision without
+  wasting money.
 publishedAt: '2026-04-29'
-excerpt: Choosing between OEM and compatible ink cartridges isn't just about price—it's about understanding yield, print quality, and hidden costs. We break down the real numbers so you can print smarter.
+excerpt: Choosing between OEM and compatible ink cartridges isn't just about price—it's
+  about understanding yield, print quality, and hidden costs. We break down the real
+  numbers so you can print smarter.
 pillarSlug: alternative-ink-solutions
 status: published
 tags:
@@ -21,7 +25,8 @@ relatedProducts:
 - B09VXQ221K
 - B098JD8HD3
 - B08PZBPXLZ
-heroImage: /images/hero/oem-vs-compatible-ink-cartridges-what-you-need-to-know.jpg---
+heroImage: /images/hero/oem-vs-compatible-ink-cartridges-what-you-need-to-know.jpg
+---
 
 ## Introduction
 

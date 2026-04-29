@@ -1,8 +1,13 @@
 ---
 title: 'HP Instant Ink Review: Is It Really Worth It?'
-metaDescription: We crunched the numbers on HP Instant Ink to see if the subscription service actually saves money compared to buying cartridges outright. Here's the real cost per page, hidden fees, and alternatives.
+metaDescription: We crunched the numbers on HP Instant Ink to see if the subscription
+  service actually saves money compared to buying cartridges outright. Here's the
+  real cost per page, hidden fees, and alternatives.
 publishedAt: '2026-04-28T00:00:00.000Z'
-excerpt: HP's Instant Ink program promises to save you money on printer ink, but does it? We analyzed 18 months of pricing data, compared it to third-party cartridges and refill kits, and calculated the true cost per page across different printing volumes.
+excerpt: HP's Instant Ink program promises to save you money on printer ink, but does
+  it? We analyzed 18 months of pricing data, compared it to third-party cartridges
+  and refill kits, and calculated the true cost per page across different printing
+  volumes.
 pillarSlug: ink-cost-savings
 relatedProducts:
 - B0CB75LML9
@@ -22,7 +27,8 @@ tags:
 - inkjet refills
 - compatible cartridges
 - printing costs
-heroImage: /images/hero/hp-instant-ink-review-worth-it.jpg---
+heroImage: /images/hero/hp-instant-ink-review-worth-it.jpg
+---
 
 # Introduction
 

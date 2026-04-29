@@ -1,8 +1,12 @@
 ---
 title: 'Printer Ink Pricing Games: How Manufacturers Lock You In and How to Escape'
-metaDescription: Uncover the razor-and-blade tactics HP, Canon, and Epson use to keep ink prices high. Learn how compatible cartridges, refill kits, and smart alternatives can save you $500+ over five years.
+metaDescription: Uncover the razor-and-blade tactics HP, Canon, and Epson use to keep
+  ink prices high. Learn how compatible cartridges, refill kits, and smart alternatives
+  can save you $500+ over five years.
 publishedAt: '2026-04-28'
-excerpt: Printer ink costs more per ounce than champagne—and it's no accident. Discover the sophisticated pricing games manufacturers play, real-world cost comparisons, and actionable strategies to save 60–80% without sacrificing print quality.
+excerpt: Printer ink costs more per ounce than champagne—and it's no accident. Discover
+  the sophisticated pricing games manufacturers play, real-world cost comparisons,
+  and actionable strategies to save 60–80% without sacrificing print quality.
 pillarSlug: printer-cost-analysis
 relatedProducts:
 - B07TEST1234
@@ -18,7 +22,8 @@ tags:
 - compatible cartridges
 - refill kits
 - ink alternatives
-heroImage: /images/hero/printer-ink-pricing-games-manufacturers-play.jpg---
+heroImage: /images/hero/printer-ink-pricing-games-manufacturers-play.jpg
+---
 
 ## Introduction
 

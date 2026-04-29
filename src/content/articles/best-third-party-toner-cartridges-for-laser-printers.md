@@ -1,8 +1,14 @@
 ---
-title: 'Best Third-Party Toner Cartridges for Laser Printers: 50% Savings Without Sacrificing Quality'
-metaDescription: Cut laser toner costs by half. We tested third-party cartridges vs. OEM for HP, Brother, and Canon—revealing yield accuracy, print quality, and real cost-per-page savings.
+title: 'Best Third-Party Toner Cartridges for Laser Printers: 50% Savings Without
+  Sacrificing Quality'
+metaDescription: Cut laser toner costs by half. We tested third-party cartridges vs.
+  OEM for HP, Brother, and Canon—revealing yield accuracy, print quality, and real
+  cost-per-page savings.
 publishedAt: '2026-04-28'
-excerpt: OEM toner cartridges exploit razor-and-blade pricing, but third-party alternatives deliver comparable print quality at 40–60% less. We tested six brands, measured toner particle consistency, and calculated true cost-per-page to show where generics match or beat name-brand toners.
+excerpt: OEM toner cartridges exploit razor-and-blade pricing, but third-party alternatives
+  deliver comparable print quality at 40–60% less. We tested six brands, measured
+  toner particle consistency, and calculated true cost-per-page to show where generics
+  match or beat name-brand toners.
 pillarSlug: ink-toner-alternatives
 status: published
 tags:
@@ -23,7 +29,8 @@ relatedProducts:
 - B07TEST2345
 - B07TEST6789
 - B07TEST0123
-heroImage: /images/hero/best-third-party-toner-cartridges-for-laser-printers.jpg---
+heroImage: /images/hero/best-third-party-toner-cartridges-for-laser-printers.jpg
+---
 
 ## Introduction
 

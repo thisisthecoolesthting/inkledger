@@ -1,8 +1,12 @@
 ---
 title: 'How to Refill Your Own Ink Cartridges: Save 60–90% vs. OEM'
-metaDescription: Step-by-step guide to refilling ink cartridges safely and affordably. Learn techniques, tools, and cost comparisons to save hundreds annually without sacrificing print quality.
+metaDescription: Step-by-step guide to refilling ink cartridges safely and affordably.
+  Learn techniques, tools, and cost comparisons to save hundreds annually without
+  sacrificing print quality.
 publishedAt: '2026-04-28'
-excerpt: Refilling cartridges cuts ink costs by 60–90% compared to OEM. This guide covers tools, refill methods, real-world performance data, and troubleshooting—plus when to choose compatible cartridges or subscription services instead.
+excerpt: Refilling cartridges cuts ink costs by 60–90% compared to OEM. This guide
+  covers tools, refill methods, real-world performance data, and troubleshooting—plus
+  when to choose compatible cartridges or subscription services instead.
 pillarSlug: ink-toner-alternatives
 relatedProducts:
 - B07TEST1234
@@ -18,7 +22,8 @@ tags:
 - cost savings
 - DIY printing
 - ink cartridge refill
-heroImage: /images/hero/how-to-refill-your-own-ink-cartridges-guide.jpg---
+heroImage: /images/hero/how-to-refill-your-own-ink-cartridges-guide.jpg
+---
 
 # Introduction
 

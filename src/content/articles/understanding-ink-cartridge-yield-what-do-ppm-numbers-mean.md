@@ -1,8 +1,11 @@
 ---
 title: 'Understanding Ink Cartridge Yield: What Do PPM Numbers Really Mean?'
-metaDescription: Decode printer PPM claims with real-world testing of 12 cartridges. Learn how to calculate true cost per page and avoid manufacturer yield exaggerations.
+metaDescription: Decode printer PPM claims with real-world testing of 12 cartridges.
+  Learn how to calculate true cost per page and avoid manufacturer yield exaggerations.
 publishedAt: '2026-04-29T00:00:00Z'
-excerpt: Printer manufacturers advertise pages per month (PPM) ratings that rarely match reality. We tested yield on 12 popular cartridges to reveal the true cost per page and how to spot inflated claims.
+excerpt: Printer manufacturers advertise pages per month (PPM) ratings that rarely
+  match reality. We tested yield on 12 popular cartridges to reveal the true cost
+  per page and how to spot inflated claims.
 pillarSlug: ink-cost-analysis
 relatedProducts:
 - B0DHV8SCLS
@@ -22,7 +25,8 @@ tags:
 - printer maintenance
 - printing costs
 - ink refills
-heroImage: /images/hero/understanding-ink-cartridge-yield-what-do-ppm-numbers-mean.jpg---
+heroImage: /images/hero/understanding-ink-cartridge-yield-what-do-ppm-numbers-mean.jpg
+---
 
 ## Introduction
 

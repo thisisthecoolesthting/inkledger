@@ -1,8 +1,13 @@
 ---
 title: 'How to Refill Ink Cartridges: Save 60–90% vs. OEM with Tested Methods'
-metaDescription: Learn hands-on refill techniques, compare kits and compatible cartridges side-by-side, and calculate exact cost-per-page savings. Our testing data shows where refills work—and where they fail.
+metaDescription: Learn hands-on refill techniques, compare kits and compatible cartridges
+  side-by-side, and calculate exact cost-per-page savings. Our testing data shows
+  where refills work—and where they fail.
 publishedAt: '2026-04-28T00:00:00.000Z'
-excerpt: We tested 14 refill methods across HP, Epson, and Brother printers to measure page yields, failure rates, and true costs. Discover which systems reliably cut ink spending by 60–90%, when refills aren't worth it, and troubleshooting steps for the most common problems.
+excerpt: We tested 14 refill methods across HP, Epson, and Brother printers to measure
+  page yields, failure rates, and true costs. Discover which systems reliably cut
+  ink spending by 60–90%, when refills aren't worth it, and troubleshooting steps
+  for the most common problems.
 pillarSlug: compatible-refill-solutions
 relatedProducts:
 - B0BVYBVHK5
@@ -22,7 +27,9 @@ tags:
 - DIY printing
 heroImage: /images/hero/how-to-refill-ink-cartridges-guide.jpg
 cardTitle: 'Refill Ink Cartridges: Cut Printing Costs by 60–90% Today'
-cardPick: Canon PG-245 offers genuine quality at fraction of OEM price, trusted by budget-conscious households and small offices.---
+cardPick: Canon PG-245 offers genuine quality at fraction of OEM price, trusted by
+  budget-conscious households and small offices.
+---
 
 ## Introduction
 

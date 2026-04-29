@@ -1,8 +1,12 @@
 ---
 title: 'Toner vs. Ink: A Cost-Per-Page Analysis for Home and Small Office'
-metaDescription: We break down the real costs of toner vs. inkjet printing with hard numbers, longevity tests, and alternatives to stop overpaying for home and small office prints.
+metaDescription: We break down the real costs of toner vs. inkjet printing with hard
+  numbers, longevity tests, and alternatives to stop overpaying for home and small
+  office prints.
 publishedAt: '2026-04-28T00:00:00.000Z'
-excerpt: Laser toner lasts longer but costs more upfront. Inkjet cartridges bleed money on refills. We ran the numbers on 18 real-world products to find where each technology wins—and how to hack the system with refills and third-party options.
+excerpt: Laser toner lasts longer but costs more upfront. Inkjet cartridges bleed
+  money on refills. We ran the numbers on 18 real-world products to find where each
+  technology wins—and how to hack the system with refills and third-party options.
 pillarSlug: ink-cost-savings
 status: published
 tags:
@@ -22,7 +26,8 @@ relatedProducts:
 - B0CGW48C3G
 - B085VZPR2Y
 - B00063RWT8
-heroImage: /images/hero/toner-vs-ink-cost-per-page-analysis.jpg---
+heroImage: /images/hero/toner-vs-ink-cost-per-page-analysis.jpg
+---
 
 ## Introduction
 

@@ -1,8 +1,11 @@
 ---
 title: 'Third-Party Ink Cartridges: Warranty Risks and Potential Benefits'
-metaDescription: Weighing OEM vs third-party ink cartridges? This deep dive compares costs, warranty implications, and real-world print quality to help you decide.
+metaDescription: Weighing OEM vs third-party ink cartridges? This deep dive compares
+  costs, warranty implications, and real-world print quality to help you decide.
 publishedAt: '2026-04-28T00:00:00Z'
-excerpt: Third-party ink cartridges can save 50-80% over OEM brands, but may void printer warranties. This guide compares 8 options with cost-per-page math and documents which printer brands actually enforce warranty exclusions.
+excerpt: Third-party ink cartridges can save 50-80% over OEM brands, but may void
+  printer warranties. This guide compares 8 options with cost-per-page math and documents
+  which printer brands actually enforce warranty exclusions.
 pillarSlug: printer-ink-alternatives
 status: published
 tags:
@@ -22,7 +25,8 @@ relatedProducts:
 - B085VZPR2Y
 - B0CGW2TFSV
 - B0CGW48C3G
-heroImage: /images/hero/third-party-ink-cartridges-warranty-risks-and-benefits.jpg---
+heroImage: /images/hero/third-party-ink-cartridges-warranty-risks-and-benefits.jpg
+---
 
 # Introduction
 

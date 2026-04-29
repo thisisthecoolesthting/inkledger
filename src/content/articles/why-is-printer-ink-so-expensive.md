@@ -1,8 +1,11 @@
 ---
 title: 'The Razor-and-Blade Model: Why Printer Ink is So Expensive'
-metaDescription: A deep dive into printer ink pricing, manufacturer tactics, and how to avoid overpaying with refills, compatible cartridges, and cost-per-page math.
+metaDescription: A deep dive into printer ink pricing, manufacturer tactics, and how
+  to avoid overpaying with refills, compatible cartridges, and cost-per-page math.
 publishedAt: '2026-04-28T00:00:00.000Z'
-excerpt: Printer ink costs more per ounce than champagne. We analyze why manufacturers use razor-and-blade pricing models, compare OEM vs third-party cartridge costs, and reveal how to slash your printing expenses by 80% with refills and smart alternatives.
+excerpt: Printer ink costs more per ounce than champagne. We analyze why manufacturers
+  use razor-and-blade pricing models, compare OEM vs third-party cartridge costs,
+  and reveal how to slash your printing expenses by 80% with refills and smart alternatives.
 pillarSlug: ink-cost-savings
 status: published
 tags:
@@ -22,7 +25,8 @@ relatedProducts:
 - B0CGW48C3G
 - B085VZPR2Y
 - B00063RWT8
-heroImage: /images/hero/why-is-printer-ink-so-expensive.jpg---
+heroImage: /images/hero/why-is-printer-ink-so-expensive.jpg
+---
 
 ## Introduction
 

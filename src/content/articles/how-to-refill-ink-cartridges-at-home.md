@@ -1,8 +1,12 @@
 ---
 title: 'DIY Ink Refill: A Step-by-Step Guide to Saving Money'
-metaDescription: Stop overpaying for printer ink. Learn how to refill ink cartridges at home with our comprehensive guide, including cost comparisons, product recommendations, and troubleshooting tips.
+metaDescription: Stop overpaying for printer ink. Learn how to refill ink cartridges
+  at home with our comprehensive guide, including cost comparisons, product recommendations,
+  and troubleshooting tips.
 publishedAt: '2026-04-29T00:00:00Z'
-excerpt: Discover how to save up to 80% on printer ink costs by refilling cartridges yourself. We compare refill kits, break down cost per page, and reveal which printers work best with third-party ink.
+excerpt: Discover how to save up to 80% on printer ink costs by refilling cartridges
+  yourself. We compare refill kits, break down cost per page, and reveal which printers
+  work best with third-party ink.
 pillarSlug: alternative-ink-solutions
 relatedProducts:
 - B0DHV8SCLS
@@ -22,7 +26,8 @@ tags:
 - cost per page
 - printer maintenance
 - home office supplies
-heroImage: /images/hero/how-to-refill-ink-cartridges-at-home.jpg---
+heroImage: /images/hero/how-to-refill-ink-cartridges-at-home.jpg
+---
 
 # Introduction
 

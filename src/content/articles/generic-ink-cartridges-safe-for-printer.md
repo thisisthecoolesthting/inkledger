@@ -1,8 +1,12 @@
 ---
 title: Are Generic Ink Cartridges Safe for Your Printer? The Truth About Compatibles
-metaDescription: We tested 15+ generic ink cartridges against OEM brands to reveal the real risks, cost savings, and performance tradeoffs of third-party printer ink alternatives.
+metaDescription: We tested 15+ generic ink cartridges against OEM brands to reveal
+  the real risks, cost savings, and performance tradeoffs of third-party printer ink
+  alternatives.
 publishedAt: '2026-04-28T00:00:00Z'
-excerpt: Generic ink cartridges can save you 70% per page, but are they safe? We analyzed print quality, warranty risks, and hidden costs across 18 months of real-world testing to help you decide.
+excerpt: Generic ink cartridges can save you 70% per page, but are they safe? We analyzed
+  print quality, warranty risks, and hidden costs across 18 months of real-world testing
+  to help you decide.
 pillarSlug: printer-ink-alternatives
 status: published
 tags:
@@ -23,7 +27,8 @@ relatedProducts:
 - B0CGW2TFSV
 - B0CGW48C3G
 - B085VZPR2Y
-heroImage: /images/hero/generic-ink-cartridges-safe-for-printer.jpg---
+heroImage: /images/hero/generic-ink-cartridges-safe-for-printer.jpg
+---
 
 ## Introduction
 

@@ -1,8 +1,13 @@
 ---
 title: 'Ecotank vs. Megatank: The Ultimate Ink Tank Printer Showdown'
-metaDescription: Detailed comparison of Epson EcoTank and HP MegaTank printers — including cost per page, real-world performance, and refill options — to help you choose the right ink tank system.
+metaDescription: Detailed comparison of Epson EcoTank and HP MegaTank printers — including
+  cost per page, real-world performance, and refill options — to help you choose the
+  right ink tank system.
 publishedAt: '2026-04-29T00:00:00.000Z'
-excerpt: We analyze Epson EcoTank and HP MegaTank printers head-to-head, comparing upfront costs, ink efficiency, reliability, and third-party refill options to determine which ink tank system delivers the best long-term value for home and office printing needs.
+excerpt: We analyze Epson EcoTank and HP MegaTank printers head-to-head, comparing
+  upfront costs, ink efficiency, reliability, and third-party refill options to determine
+  which ink tank system delivers the best long-term value for home and office printing
+  needs.
 pillarSlug: printer-buying-guides
 relatedProducts:
 - B0DHV8SCLS
@@ -23,7 +28,8 @@ tags:
 - cost per page
 - printer economics
 - home office printing
-heroImage: /images/hero/ecotank-vs-megatank-which-ink-tank-printer-is-best.jpg---
+heroImage: /images/hero/ecotank-vs-megatank-which-ink-tank-printer-is-best.jpg
+---
 
 ## Introduction
 

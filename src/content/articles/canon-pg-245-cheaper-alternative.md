@@ -1,7 +1,13 @@
 ---
-title: 'Canon PG-245 Cheaper Alternatives: Compatible Cartridges vs. Refill Kits vs. OEM XL'
-metaDescription: Stop overpaying for Canon PG-245 ink. We tested compatible cartridges, refill kits, and high-yield OEM options with real cost-per-page math. Save 50–83% without sacrificing print quality.
-excerpt: Canon PG-245 cartridges cost up to $0.19 per page. We tested six alternatives—compatibles, refill kits, and OEM XL options—across print quality, longevity, and real-world use. Most users can cut costs 50–83% with zero visible quality loss on everyday documents.
+title: 'Canon PG-245 Cheaper Alternatives: Compatible Cartridges vs. Refill Kits vs.
+  OEM XL'
+metaDescription: Stop overpaying for Canon PG-245 ink. We tested compatible cartridges,
+  refill kits, and high-yield OEM options with real cost-per-page math. Save 50–83%
+  without sacrificing print quality.
+excerpt: Canon PG-245 cartridges cost up to $0.19 per page. We tested six alternatives—compatibles,
+  refill kits, and OEM XL options—across print quality, longevity, and real-world
+  use. Most users can cut costs 50–83% with zero visible quality loss on everyday
+  documents.
 publishedAt: '2026-04-28T00:00:00.000Z'
 pillarSlug: compatible-refill-solutions
 status: published
@@ -21,7 +27,9 @@ relatedProducts:
 - B0CYJV9X52
 heroImage: /images/hero/canon-pg-245-cheaper-alternative.jpg
 cardTitle: 'Canon PG-245 Ink Cartridge Alternatives: Save Big on Printing Costs'
-cardPick: HP 61 Black delivers genuine OEM reliability without the premium price tag, protecting your printer investment while cutting ink expenses significantly.---
+cardPick: HP 61 Black delivers genuine OEM reliability without the premium price tag,
+  protecting your printer investment while cutting ink expenses significantly.
+---
 
 ## Introduction
 

@@ -1,8 +1,12 @@
 ---
 title: Is HP Instant Ink Worth It? A Cost-Benefit Analysis
-metaDescription: We crunch the numbers on HP Instant Ink vs. traditional cartridges, third-party inks, and refill kits to help you decide if this subscription service saves money or locks you into overpaying.
+metaDescription: We crunch the numbers on HP Instant Ink vs. traditional cartridges,
+  third-party inks, and refill kits to help you decide if this subscription service
+  saves money or locks you into overpaying.
 publishedAt: '2026-04-28T00:00:00Z'
-excerpt: HP Instant Ink promises to save you money on printer ink, but does it really? We compare subscription costs to OEM cartridges, refill kits, and third-party alternatives across 5 real-world printing scenarios.
+excerpt: HP Instant Ink promises to save you money on printer ink, but does it really?
+  We compare subscription costs to OEM cartridges, refill kits, and third-party alternatives
+  across 5 real-world printing scenarios.
 pillarSlug: ink-cost-savings
 status: published
 tags:
@@ -24,7 +28,9 @@ relatedProducts:
 - B0CGW48C3G
 heroImage: /images/hero/hp-instant-ink-review.jpg
 cardTitle: HP Instant Ink Worth It? Real Cost Breakdown for Home Printers
-cardPick: HP 67XL cartridges offer high-yield capacity, reducing replacement frequency and delivering genuine savings versus constant budget cartridge purchases.---
+cardPick: HP 67XL cartridges offer high-yield capacity, reducing replacement frequency
+  and delivering genuine savings versus constant budget cartridge purchases.
+---
 
 ## Introduction
 

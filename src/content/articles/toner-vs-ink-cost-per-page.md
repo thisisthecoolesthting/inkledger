@@ -1,8 +1,12 @@
 ---
 title: 'Toner vs. Ink: Real Cost Per Page (Our Testing Data)'
-metaDescription: Compare toner and inkjet cost per page with real-world testing results. We break down yields, reveal actual page costs, and show when each technology saves money.
+metaDescription: Compare toner and inkjet cost per page with real-world testing results.
+  We break down yields, reveal actual page costs, and show when each technology saves
+  money.
 publishedAt: '2026-04-28T00:00:00.000Z'
-excerpt: Inkjet or laser? We tested 18 cartridges to measure real cost per page, exposing manufacturer yield claims—and showing you exactly when to switch technologies to cut printing costs in half.
+excerpt: Inkjet or laser? We tested 18 cartridges to measure real cost per page, exposing
+  manufacturer yield claims—and showing you exactly when to switch technologies to
+  cut printing costs in half.
 pillarSlug: ink-cost-analysis
 status: published
 tags:
@@ -25,7 +29,9 @@ relatedProducts:
 - B09W9MF63Y
 heroImage: /images/hero/toner-vs-ink-cost-per-page.jpg
 cardTitle: 'Toner vs. Ink: Which Actually Costs Less Per Page'
-cardPick: HP 61 Black delivers the lowest cost-per-page for home printing, beating expensive name-brand alternatives significantly.---
+cardPick: HP 61 Black delivers the lowest cost-per-page for home printing, beating
+  expensive name-brand alternatives significantly.
+---
 
 # Introduction
 

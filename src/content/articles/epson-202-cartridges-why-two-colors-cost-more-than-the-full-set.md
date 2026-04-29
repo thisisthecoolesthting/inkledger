@@ -1,14 +1,14 @@
 ---
-"title": "Epson 202 cartridges: why two colors cost more than the full set"
-"site": "inkledger"
-"topic": "Epson 202 cartridges: why two colors cost more than the full set"
-"tier": "full"
-"relatedProducts": []
-"status": "published"
-"heroImage": "/images/hero/epson-202-cartridges-why-two-colors-cost-more-than-the-full-set.jpg"
-"metaDescription": "Epson 202 Cartridges: Why Two Colors Cost More Than the Full Set"
-"publishedAt": 2026-04-24
-"excerpt": "Epson 202 Cartridges: Why Two Colors Cost More Than the Full Set"
+title: 'Epson 202 cartridges: why two colors cost more than the full set'
+site: inkledger
+topic: 'Epson 202 cartridges: why two colors cost more than the full set'
+tier: full
+relatedProducts: []
+status: published
+heroImage: /images/hero/epson-202-cartridges-why-two-colors-cost-more-than-the-full-set.jpg
+metaDescription: "Epson 202 Cartridges: Why Two Colors Cost More Than the Full Set"
+publishedAt: 2026-04-24
+excerpt: "Epson 202 Cartridges: Why Two Colors Cost More Than the Full Set"
 ---
 ## Epson 202 Cartridges: Why Two Colors Cost More Than the Full Set
 

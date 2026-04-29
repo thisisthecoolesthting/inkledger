@@ -1,8 +1,12 @@
 ---
 title: 'OEM vs. Compatible Ink Cartridges: A Cost-Benefit Analysis'
-metaDescription: We compare OEM and compatible ink cartridges across 8 key factors—including real-world cost per page, longevity, and hidden gotchas—to help you stop overpaying for printer ink.
+metaDescription: We compare OEM and compatible ink cartridges across 8 key factors—including
+  real-world cost per page, longevity, and hidden gotchas—to help you stop overpaying
+  for printer ink.
 publishedAt: '2026-04-28T00:00:00Z'
-excerpt: Compatible ink cartridges cost 60-80% less than OEM versions, but is the savings worth potential quality tradeoffs? We analyze 18 months of pricing data and print tests across HP, Canon, and Epson models.
+excerpt: Compatible ink cartridges cost 60-80% less than OEM versions, but is the
+  savings worth potential quality tradeoffs? We analyze 18 months of pricing data
+  and print tests across HP, Canon, and Epson models.
 pillarSlug: ink-cost-savings
 relatedProducts:
 - B0CB75LML9
@@ -21,7 +25,8 @@ tags:
 - toner vs ink cost
 - third party cartridge warranty
 - cheapest way to print at home
-heroImage: /images/hero/oem-vs-compatible-ink-cartridges-cost-comparison.jpg---
+heroImage: /images/hero/oem-vs-compatible-ink-cartridges-cost-comparison.jpg
+---
 
 ## Introduction
 

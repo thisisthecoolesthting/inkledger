@@ -1,8 +1,12 @@
 ---
 title: 'Printer Ink Price Hikes: How Manufacturers Play the Razor-and-Blade Game'
-metaDescription: We analyzed 18 months of printer ink pricing data to expose how manufacturers exploit razor-and-blade tactics, with actionable cost-cutting alternatives that actually work.
+metaDescription: We analyzed 18 months of printer ink pricing data to expose how manufacturers
+  exploit razor-and-blade tactics, with actionable cost-cutting alternatives that
+  actually work.
 publishedAt: '2026-04-29T00:00:00.000Z'
-excerpt: Printer ink costs more per ounce than champagne. We tracked 12 months of OEM cartridge pricing to reveal how HP, Epson and Canon manipulate yields, then tested third-party alternatives that deliver identical quality at 70% savings.
+excerpt: Printer ink costs more per ounce than champagne. We tracked 12 months of
+  OEM cartridge pricing to reveal how HP, Epson and Canon manipulate yields, then
+  tested third-party alternatives that deliver identical quality at 70% savings.
 pillarSlug: ink-cost-analysis
 status: published
 tags:
@@ -21,7 +25,8 @@ relatedProducts:
 - B09VXQ221K
 - B098JD8HD3
 - B08PZBPXLZ
-heroImage: /images/hero/printer-ink-price-hikes-exposed.jpg---
+heroImage: /images/hero/printer-ink-price-hikes-exposed.jpg
+---
 
 ## Introduction
 

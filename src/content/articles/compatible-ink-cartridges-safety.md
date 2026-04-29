@@ -1,8 +1,11 @@
 ---
 title: Are Compatible Ink Cartridges Safe for Your Printer? What You Need to Know
-metaDescription: A deep dive into third-party ink cartridge safety, performance, and cost savings compared to OEM options—with real-world testing data and alternatives.
+metaDescription: A deep dive into third-party ink cartridge safety, performance, and
+  cost savings compared to OEM options—with real-world testing data and alternatives.
 publishedAt: '2026-04-29T00:00:00Z'
-excerpt: Third-party ink cartridges can save 50-80% over brand-name options, but are they safe? We analyze clogging risks, print quality, and warranty impacts across 12 major printer brands.
+excerpt: Third-party ink cartridges can save 50-80% over brand-name options, but are
+  they safe? We analyze clogging risks, print quality, and warranty impacts across
+  12 major printer brands.
 pillarSlug: alternative-ink-solutions
 status: published
 tags:
@@ -21,7 +24,8 @@ relatedProducts:
 - B09VXQ221K
 - B098JD8HD3
 - B08PZBPXLZ
-heroImage: /images/hero/compatible-ink-cartridges-safety.jpg---
+heroImage: /images/hero/compatible-ink-cartridges-safety.jpg
+---
 
 ## Introduction
 

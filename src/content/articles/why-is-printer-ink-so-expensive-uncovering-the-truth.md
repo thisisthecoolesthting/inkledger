@@ -1,8 +1,12 @@
 ---
 title: Why Is Printer Ink So Expensive? Uncovering the Razor-and-Blade Truth
-metaDescription: Printer ink costs more than champagne per ounce. We analyze the razor-and-blade pricing model, compare OEM vs. compatible cartridges, and reveal how to cut costs by 80% without sacrificing print quality.
+metaDescription: Printer ink costs more than champagne per ounce. We analyze the razor-and-blade
+  pricing model, compare OEM vs. compatible cartridges, and reveal how to cut costs
+  by 80% without sacrificing print quality.
 publishedAt: '2026-04-28T00:00:00Z'
-excerpt: Printer manufacturers sell printers at a loss and make profits on ink cartridges. We break down the real cost per page, compare OEM and third-party options, and show how refill kits and ink subscriptions can save you hundreds per year.
+excerpt: Printer manufacturers sell printers at a loss and make profits on ink cartridges.
+  We break down the real cost per page, compare OEM and third-party options, and show
+  how refill kits and ink subscriptions can save you hundreds per year.
 pillarSlug: ink-cost-savings
 relatedProducts:
 - B004QM8SLG
@@ -23,7 +27,8 @@ tags:
 - toner vs ink
 - HP Instant Ink
 - Epson Ecotank
-heroImage: /images/hero/why-is-printer-ink-so-expensive-uncovering-the-truth.jpg---
+heroImage: /images/hero/why-is-printer-ink-so-expensive-uncovering-the-truth.jpg
+---
 
 # Introduction
 

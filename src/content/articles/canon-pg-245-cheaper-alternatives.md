@@ -1,8 +1,12 @@
 ---
 title: Finding Cheaper Alternatives for Canon PG-245 Ink Cartridges
-metaDescription: Stop overpaying for Canon PG-245 ink. We compare OEM cartridges, third-party replacements, and refill kits to slash your printing costs without sacrificing quality.
+metaDescription: Stop overpaying for Canon PG-245 ink. We compare OEM cartridges,
+  third-party replacements, and refill kits to slash your printing costs without sacrificing
+  quality.
 publishedAt: '2026-04-28T00:00:00Z'
-excerpt: Canon PG-245 ink cartridges are notorious for their high cost-per-page. This guide compares OEM, compatible, and refill options with real-world yield tests and cost breakdowns to help you print affordably.
+excerpt: Canon PG-245 ink cartridges are notorious for their high cost-per-page. This
+  guide compares OEM, compatible, and refill options with real-world yield tests and
+  cost breakdowns to help you print affordably.
 pillarSlug: printer-ink-alternatives
 status: published
 tags:
@@ -21,7 +25,8 @@ relatedProducts:
 - B0846GFNCQ
 - B0C7ZTV376
 - B099NZC4PB
-heroImage: /images/hero/canon-pg-245-cheaper-alternatives.jpg---
+heroImage: /images/hero/canon-pg-245-cheaper-alternatives.jpg
+---
 
 ## Introduction
 
