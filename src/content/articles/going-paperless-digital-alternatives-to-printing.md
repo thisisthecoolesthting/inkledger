@@ -212,4 +212,4 @@ Transitioning to a paperless workflow requires careful planning but delivers sub
 
 Small businesses should prioritize e-signature tools for legally binding agreements and consider enterprise solutions for larger teams. The environmental impact alone justifies the transition—one medium-sized office going paperless saves approximately 24 trees annually. When you factor in the time savings from instant document retrieval and reduced physical storage needs, the case for digital alternatives becomes compelling.
 
-**Disclosure:** InkLedger earns affiliate commissions from document management and e-signature platforms when you purchase through our links. This does not affect our editorial recommendations, which are based solely on product performance, cost-effectiveness, and user feedback.
+**Disclosure:** InkLedger earns retailer commissions from document management and e-signature platforms when you purchase through our links. This does not affect our editorial recommendations, which are based solely on product performance, cost-effectiveness, and user feedback.

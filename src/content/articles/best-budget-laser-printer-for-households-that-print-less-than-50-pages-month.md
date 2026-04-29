@@ -58,5 +58,5 @@ Laser printers dominate for low-volume households because:
 
 Laser printers often ship with 'starter' toner at 30-50% capacity. Order [high-yield replacements](#) immediately to avoid mid-print outages.
 
-*Disclosure: We earn affiliate commissions on qualifying toner purchases, but never accept manufacturer sponsorship.*
+*Disclosure: We earn retailer commissions on qualifying toner purchases, but never accept manufacturer sponsorship.*
 
