@@ -1,16 +1,15 @@
 ---
-title: 1. HP 61 vs HP 962 cost per page — which is actually cheaper per print
+title: HP 61 vs HP 962 cost per page — which is actually cheaper per print
 site: inkledger
-topic: 1. HP 61 vs HP 962 cost per page — which is actually cheaper per print
+topic: HP 61 vs HP 962 cost per page — which is actually cheaper per print
 tier: full
 relatedProducts: []
 status: draft
-heroImage: /images/hero/1-hp-61-vs-hp-962-cost-per-page-which-is-actually-cheaper-per-print.jpg
+heroImage: /images/hero/hp-61-vs-hp-962-cost-per-page-which-is-actually-cheaper-per-print.jpg
 metaDescription: "HP 61 vs HP 962 Cost Per Page — Which Is Actually Cheaper Per Print?"
 publishedAt: 2026-04-24
 excerpt: "HP 61 vs HP 962 Cost Per Page — Which Is Actually Cheaper Per Print?"
 ---
-
 ## HP 61 vs HP 962 Cost Per Page — Which Is Actually Cheaper Per Print?
 
 When it comes to choosing ink cartridges for your HP printer, understanding the cost per page (CPP) can make a big difference in your running costs. Two common cartridge models you might encounter are the **HP 61** and the newer **HP 962**. Both are designed for specific HP printers, but they differ quite a bit in price and yield — and that impacts your real cost per print.

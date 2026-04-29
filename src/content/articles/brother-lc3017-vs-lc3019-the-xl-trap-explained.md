@@ -1,16 +1,15 @@
 ---
-title: 3. Brother LC3017 vs LC3019 — the XL trap, explained
+title: Brother LC3017 vs LC3019 — the XL trap, explained
 site: inkledger
-topic: 3. Brother LC3017 vs LC3019 — the XL trap, explained
+topic: Brother LC3017 vs LC3019 — the XL trap, explained
 tier: full
 relatedProducts: []
 status: draft
-heroImage: /images/hero/3-brother-lc3017-vs-lc3019-the-xl-trap-explained.jpg
+heroImage: /images/hero/brother-lc3017-vs-lc3019-the-xl-trap-explained.jpg
 metaDescription: "Brother LC3017 vs LC3019 — the XL Trap, Explained"
 publishedAt: 2026-04-24
 excerpt: "Brother LC3017 vs LC3019 — the XL Trap, Explained"
 ---
-
 ## Brother LC3017 vs LC3019 — the XL Trap, Explained
 
 When shopping for replacement ink cartridges for Brother printers, cartridge names can quickly become confusing. Two popular options — the Brother LC3017 and LC3019 — often get mixed up, especially when it comes to their “XL” versions. This article breaks down the difference between LC3017 and LC3019 cartridges, the catch with XL cartridges, and what you need to know to avoid spending more than necessary on ink.

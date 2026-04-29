@@ -1,16 +1,15 @@
 ---
-title: 5. Why subscribers to HP Instant Ink are overpaying (quantified)
+title: Why subscribers to HP Instant Ink are overpaying (quantified)
 site: inkledger
-topic: 5. Why subscribers to HP Instant Ink are overpaying (quantified)
+topic: Why subscribers to HP Instant Ink are overpaying (quantified)
 tier: full
 relatedProducts: []
 status: draft
-heroImage: /images/hero/5-why-subscribers-to-hp-instant-ink-are-overpaying-quantified.jpg
+heroImage: /images/hero/why-subscribers-to-hp-instant-ink-are-overpaying-quantified.jpg
 metaDescription: "Why Subscribers to HP Instant Ink Are Overpaying (Quantified)"
 publishedAt: 2026-04-24
 excerpt: "Why Subscribers to HP Instant Ink Are Overpaying (Quantified)"
 ---
-
 ## Why Subscribers to HP Instant Ink Are Overpaying (Quantified)
 
 HP Instant Ink markets itself as a convenient, cost-saving subscription service for printer ink. You pay a fixed monthly fee based on how many pages you print, and HP sends cartridges automatically before you run out. While the service can provide convenience and peace of mind, many subscribers end up paying more than they realize. Let’s break down why HP Instant Ink can actually be more expensive—and by how much.

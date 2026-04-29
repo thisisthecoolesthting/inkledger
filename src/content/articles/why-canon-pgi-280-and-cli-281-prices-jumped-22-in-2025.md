@@ -1,23 +1,22 @@
 ---
-title: 2. Why Canon PGI-280 and CLI-281 prices jumped 22% in 2025
+title: Why Canon PGI-280 and CLI-281 prices jumped 22% in 2025
 site: inkledger
-topic: 2. Why Canon PGI-280 and CLI-281 prices jumped 22% in 2025
+topic: Why Canon PGI-280 and CLI-281 prices jumped 22% in 2025
 tier: full
 relatedProducts: []
 status: draft
-heroImage: /images/hero/2-why-canon-pgi-280-and-cli-281-prices-jumped-22-in-2025.jpg
+heroImage: /images/hero/why-canon-pgi-280-and-cli-281-prices-jumped-22-in-2025.jpg
 metaDescription: "Why Canon PGI 280 and CLI 281 Prices Jumped 22% in 2025"
 publishedAt: 2026-04-24
 excerpt: "Why Canon PGI 280 and CLI 281 Prices Jumped 22% in 2025"
 ---
-
 ## Why Canon PGI-280 and CLI-281 Prices Jumped 22% in 2025
 
 In early 2025, many consumers and small businesses noticed a surprising and steep increase in the price of Canon’s PGI-280 and CLI-281 ink cartridges. These two popular cartridge lines, compatible with many Canon PIXMA printers, saw price hikes of around 22% compared to 2024 rates. Understanding the reasons behind this price jump can help consumers make informed decisions and plan their printer ink purchases more strategically. Here’s a breakdown of the main factors driving the price increase.
 
 ---
 
-## 1. Rising Raw Material Costs
+## Rising Raw Material Costs
 
 Ink cartridges are more complex than just ink in a plastic shell. They contain various components, including pigments, solvents, microchips, and intricate nozzles designed for precision printing. In recent years, the raw materials and chemicals required for manufacturing pigment-based inks (used in PGI-280 for black) and dye-based inks (used in CLI-281 for colors) have become more expensive.
 
@@ -27,7 +26,7 @@ Ink cartridges are more complex than just ink in a plastic shell. They contain v
 
 ---
 
-## 2. Supply Chain Disruptions and Logistics Costs
+## Supply Chain Disruptions and Logistics Costs
 
 The global supply chain challenges that started around 2020 have persisted in various forms into 2025. These disruptions affect the availability and cost of components, shipping, and manufacturing processes.
 
@@ -37,7 +36,7 @@ The global supply chain challenges that started around 2020 have persisted in va
 
 ---
 
-## 3. Inflation and Currency Fluctuations
+## Inflation and Currency Fluctuations
 
 2025 has seen inflation levels above the recent decade’s norm in many regions, including Japan (Canon’s home base), the United States, and Europe. Inflation impacts costs at every stage — from raw materials to wages and energy.
 
@@ -46,7 +45,7 @@ The global supply chain challenges that started around 2020 have persisted in va
 
 ---
 
-## 4. Strategic Pricing and Shrinking Print Volumes
+## Strategic Pricing and Shrinking Print Volumes
 
 Another dimension to consider is consumer behavior and manufacturer strategies. With the rise of digital alternatives and environmental concerns, traditional printer ink volumes continue to decline over time.
 
@@ -56,7 +55,7 @@ Another dimension to consider is consumer behavior and manufacturer strategies. 
 
 ---
 
-## 5. Environmental Regulations and Sustainability Initiatives
+## Environmental Regulations and Sustainability Initiatives
 
 Governments and consumers increasingly demand sustainable products, pushing manufacturers to change how they produce and dispose of cartridges.
 
