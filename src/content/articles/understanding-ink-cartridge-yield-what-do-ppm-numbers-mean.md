@@ -30,7 +30,11 @@ heroImage: /images/hero/3-brother-lc3017-vs-lc3019-the-xl-trap-explained.jpg
 
 ## Introduction
 
-The discrepancy between advertised and actual ink cartridge yields isn't just frustrating—it's expensive. When HP claims their [HP 61 cartridge](https://www.amazon.com/dp/B0DHV8SCLS?tag=inkledger-20) yields 480 pages but real-world tests show only 372 pages, that's a 22.5% difference that directly impacts your printing budget. Our six-month study of 12 popular cartridges revealed systemic overstatements across brands, with OEM yields averaging 18-27% below claims. The worst offender? The [Epson 502](https://www.amazon.com/dp/B00WSAXBQ0?tag=inkledger-20), which delivered just 62% of its 2,000-page promise in mixed-document testing. Understanding these yield calculations matters because printer ink remains one of the most expensive liquids by volume—more costly than premium champagne at $2,700 per gallon for some OEM inks. This guide doesn't just expose the myths; it provides actionable data from our 5,000+ page print test, including:
+The discrepancy between advertised and actual ink cartridge yields isn't just frustrating—it's expensive. When HP claims their [HP 61 cartridge](https://www.amazon.com/dp/B0DHV8SCLS?tag=inkledger-20) yields 480 pages but real-world tests show only 372 pages, that's a 22.5% difference that directly impacts your printing budget. Our six-month study of 12 popular cartridges revealed systemic overstatements across brands, with OEM yields averaging 18-27% below claims. The worst offender? The [Epson 502](https://www.amazon.com/dp/B00WSAXBQ0?tag=inkledger-20), which delivered just 62% of its 2,000-page promise in mixed-document testing.
+
+Understanding these yield calculations matters because printer ink remains one of the most expensive liquids by volume—more costly than premium champagne at $2,700 per gallon for some OEM inks.
+
+This guide doesn't just expose the myths; it provides actionable data from our 5,000+ page print test, including:
 - How ISO/IEC testing standards create unrealistic benchmarks
 - The actual coverage percentages of common documents (spoiler: your '5% coverage' resume is likely 12-15%)
 - Why high-yield cartridges like the [HP 61XL](https://www.amazon.com/dp/B0DHV7ZWH2?tag=inkledger-20) deliver better value despite higher upfront costs
@@ -38,7 +42,9 @@ The discrepancy between advertised and actual ink cartridge yields isn't just fr
 
 ## Why This Matters
 
-Consider this: A family printing 500 pages monthly with an [Epson EcoTank ET-2800](https://www.amazon.com/dp/B08PZBPXLZ?tag=inkledger-20) might budget $0.005/page based on manufacturer claims, only to discover real costs of $0.008/page—a 60% increase that adds $180 annually. IEEE's 2025 Printer Economics Report found that ink accounts for 63% of total ownership costs over three years, surpassing paper and electricity combined. The root issue lies in testing methodologies: ISO/IEC 19752 standards measure yield at:
+Consider this: A family printing 500 pages monthly with an [Epson EcoTank ET-2800](https://www.amazon.com/dp/B08PZBPXLZ?tag=inkledger-20) might budget $0.005/page based on manufacturer claims, only to discover real costs of $0.008/page—a 60% increase that adds $180 annually. IEEE's 2025 Printer Economics Report found that ink accounts for 63% of total ownership costs over three years, surpassing paper and electricity combined.
+
+The root issue lies in testing methodologies: ISO/IEC 19752 standards measure yield at:
 - 5% page coverage (a single-spaced page with 1" margins averages 12-15%)
 - Continuous printing without maintenance cycles (real printers waste 10-15% on cleanings)
 - Controlled humidity (ink evaporation reduces yields by 8-12% in dry climates)
@@ -160,9 +166,11 @@ HP Instant Ink makes sense only if:
 ## FAQ
 
 ### Do higher PPM ratings mean better quality?
+
 No. PPM measures quantity, not print quality. Some high-yield cartridges like [Brother TN-760](https://www.amazon.com/dp/B0G63G9LRJ?tag=inkledger-20) actually produce sharper text (1200x1200 dpi) than standard yield options.
 
 ### Why do my cartridges dry out before reaching yield?
+
 Inkjet cartridges lose:
 - 15-20% capacity annually to evaporation in normal climates
 - 25-30% in arid regions
@@ -171,18 +179,21 @@ Inkjet cartridges lose:
 Solution: Laser printers like [Brother HL-L2350DW](https://www.amazon.com/dp/B00WSAXBQ0?tag=inkledger-20) use dry toner that doesn't evaporate.
 
 ### Are subscription services like Instant Ink worth it?
+
 Only for consistent monthly printing. Key drawbacks:
 - Unused pages don't roll over
 - Overage fees apply ($1 per 10 extra pages)
 - Requires internet connection
 
 ### How accurate are printer page counters?
+
 Our testing found:
 - ±10% variance on inkjet printers
 - ±5% on laser printers
 - Always undercount color ink usage
 
 ### Can I mix OEM and third-party cartridges?
+
 Technically yes, but:
 - 68% of printers reduce functionality
 - 42% display persistent warnings
@@ -198,7 +209,6 @@ After testing 12 cartridges across 5,000+ pages, the [Brother TN-760](https://ww
 For precise calculations, use our free [Ink Cost Calculator](https://example.com/calculator) with your actual print mix. Remember: The cheapest cartridge isn't the one with the lowest price—it's the one that delivers the most reliable pages per dollar.
 
 <!-- padded-no-api-v1 -->
-
 
 ## Recent price snapshot
 
@@ -233,12 +243,15 @@ Pew Research and Consumer Reports tracking put typical household ink spend at $8
 
 **How long can I store unopened cartridges before the ink dries up?**
 
-Most cartridges have a 2-year shelf life from the date stamped on the box, but real-world performance drops off after 18 months. Store them upright at room temperature, away from direct sun. Refrigeration doesn't help and can actually cause condensation when the cartridge is brought back to room temp. If a cartridge has been sitting for over two years, it'll usually still print — but expect to run the printer's clean-head cycle two or three times before the output is acceptable.
+Most cartridges have a 2-year shelf life from the date stamped on the box, but real-world performance drops off after 18 months. Store them upright at room temperature, away from direct sun. Refrigeration doesn't help and can actually cause condensation when the cartridge is brought back to room temp.
+
+If a cartridge has been sitting for over two years, it'll usually still print — but expect to run the printer's clean-head cycle two or three times before the output is acceptable.
 
 **Are compatible cartridges safe for my printer?**
 
-Compatible cartridges from established remanufacturers won't void your printer's warranty in the United States — the Magnuson-Moss Warranty Act prohibits manufacturers from voiding warranties solely because non-OEM consumables were used. The risk of head clogs comes from poor-quality ink, not from the cartridge body itself, so the brand of the ink matters more than whether the cartridge is OEM. Reputable remanufacturers (LD Products, INKfinity, LemeroUtrust) use formulated inks; bargain-bin generics often use commodity ink that can dry, separate, or print poorly under heavy use.
+Compatible cartridges from established remanufacturers won't void your printer's warranty in the United States — the Magnuson-Moss Warranty Act prohibits manufacturers from voiding warranties solely because non-OEM consumables were used. The risk of head clogs comes from poor-quality ink, not from the cartridge body itself, so the brand of the ink matters more than whether the cartridge is OEM.
 
+Reputable remanufacturers (LD Products, INKfinity, LemeroUtrust) use formulated inks; bargain-bin generics often use commodity ink that can dry, separate, or print poorly under heavy use.
 
 ## What to watch for before you buy
 
@@ -250,7 +263,8 @@ Compatible cartridges from established remanufacturers won't void your printer's
 - **Refill kits work, but only on certain printers.** Tank-style models (EcoTank, MegaTank) are designed for refilling. Cartridge-based printers can be refilled, but the print-head wear from imperfect ink chemistry usually shortens printer life. Only worth attempting on a printer over 3 years old that's already past its expected life.
 - **The cheap-ink trap:** generic compatibles under $5 each typically cut ink concentration by 30–40% to hit the price point. Output looks fine for the first 20 pages, then fades visibly. The per-page cost ends up higher than the mid-tier compatibles you skipped.
 
-
 ## How we tracked this
 
-Price data is pulled from Keepa, which records every price change Amazon publishes for a listing — including third-party seller prices, used and refurbished offers, and the rolling 30-day, 90-day, and 1-year windows. We refresh signals for every product we cover at least once a week and tag any listing whose current price is more than 15% above its 90-day average so it surfaces as a bad-deal warning rather than a recommendation. Anything we recommend has cleared a minimum 6-month tracking window so we can see how the seller behaves over time, not just at the moment a reader lands on the page.
+Price data is pulled from Keepa, which records every price change Amazon publishes for a listing — including third-party seller prices, used and refurbished offers, and the rolling 30-day, 90-day, and 1-year windows. We refresh signals for every product we cover at least once a week and tag any listing whose current price is more than 15% above its 90-day average so it surfaces as a bad-deal warning rather than a recommendation.
+
+Anything we recommend has cleared a minimum 6-month tracking window so we can see how the seller behaves over time, not just at the moment a reader lands on the page.

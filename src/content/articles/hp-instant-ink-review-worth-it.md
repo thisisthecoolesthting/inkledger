@@ -32,9 +32,11 @@ heroImage: /images/hero/how-to-and-maintenance-8.jpg
 
 # Introduction
 
-"Why is my printer ink so expensive?" If you've ever shouted this at an empty cartridge while checking prices, HP Instant Ink seems like salvation. For $0.99-$24.99/month, the program ships replacement ink before you run out, adjusting your plan based on usage. But our analysis of 78 cartridge models and 14 refill kits reveals the subscription only pays off for specific users. 
+"Why is my printer ink so expensive?" If you've ever shouted this at an empty cartridge while checking prices, HP Instant Ink seems like salvation. For $0.99-$24.99/month, the program ships replacement ink before you run out, adjusting your plan based on usage. But our analysis of 78 cartridge models and 14 refill kits reveals the subscription only pays off for specific users.
 
-We tracked 18 months of Instant Ink price fluctuations across North America and Europe, comparing it to [third-party cartridges](https://www.amazon.com/dp/B0CB75LML9?tag=inkledger-20) and [refill kits](https://www.amazon.com/dp/B093TCYF9T?tag=inkledger-20). Our team printed over 5,000 test pages to measure real-world yields, discovering that HP's "pages per month" estimates assume 5% coverage—meaning a single photo-heavy document can blow through your allotment. We identified three scenarios where the math works—and five where you're better off with alternatives. Whether you print school assignments, small business invoices, or occasional photos, here's how to avoid HP's razor-and-blades pricing trap.
+We tracked 18 months of Instant Ink price fluctuations across North America and Europe, comparing it to [third-party cartridges](https://www.amazon.com/dp/B0CB75LML9?tag=inkledger-20) and [refill kits](https://www.amazon.com/dp/B093TCYF9T?tag=inkledger-20). Our team printed over 5,000 test pages to measure real-world yields, discovering that HP's "pages per month" estimates assume 5% coverage—meaning a single photo-heavy document can blow through your allotment. We identified three scenarios where the math works—and five where you're better off with alternatives.
+
+Whether you print school assignments, small business invoices, or occasional photos, here's how to avoid HP's razor-and-blades pricing trap.
 
 # Why This Matters
 
@@ -139,18 +141,23 @@ Pro Tip: Buy a [reset tool](https://www.amazon.com/dp/B0CB75LML9?tag=inkledger-2
 # FAQ
 
 ### Does Instant Ink work with any HP printer?
+
 Only enrolled models (mostly post-2018). Older printers may require firmware updates that disable third-party cartridges. Check HP's compatibility list—some OfficeJet Pro models are excluded despite being current.
 
 ### Can I cancel anytime?
+
 Yes, but unused ink credits expire immediately. Users report having 72 hours to print remaining pages before cartridges deactivate. One loophole: Downgrade to the $0.99 plan before canceling to minimize lost value.
 
 ### Are overage fees avoidable?
+
 Only by upgrading your plan mid-cycle, which resets your page count but prorates the fee. Example: Upgrading from $2.99 to $4.99 on the 15th costs $2.50 for that month.
 
 ### Do unused pages roll over indefinitely?
+
 No—they expire after 12 months of accumulation. HP clears your rollover balance annually on your sign-up date.
 
 ### Is photo printing included?
+
 Only on the $24.99 "unlimited" plan, which has daily print limits (20 4x6" or 10 8x10" prints). Each photo page deducts 5-10x more from your allotment than text pages.
 
 # Bottom Line
@@ -170,7 +177,6 @@ Only on the $24.99 "unlimited" plan, which has daily print limits (20 4x6" or 10
 For most households, buying [high-yield compatibles](https://www.amazon.com/dp/B0846GFNCQ?tag=inkledger-20) or refilling cuts costs by 50-70% without subscriptions. Small businesses printing 500+ pages/month should consider Brother laser printers at $0.015/page.
 
 <!-- padded-no-api-v1 -->
-
 
 ## Recent price snapshot
 
@@ -197,11 +203,15 @@ It's a pricing trick that catches people. XL labels imply better value, but manu
 
 **How long can I store unopened cartridges before the ink dries up?**
 
-Most cartridges have a 2-year shelf life from the date stamped on the box, but real-world performance drops off after 18 months. Store them upright at room temperature, away from direct sun. Refrigeration doesn't help and can actually cause condensation when the cartridge is brought back to room temp. If a cartridge has been sitting for over two years, it'll usually still print — but expect to run the printer's clean-head cycle two or three times before the output is acceptable.
+Most cartridges have a 2-year shelf life from the date stamped on the box, but real-world performance drops off after 18 months. Store them upright at room temperature, away from direct sun. Refrigeration doesn't help and can actually cause condensation when the cartridge is brought back to room temp.
+
+If a cartridge has been sitting for over two years, it'll usually still print — but expect to run the printer's clean-head cycle two or three times before the output is acceptable.
 
 **Should I switch to an EcoTank or MegaTank ink-tank printer?**
 
-If your annual ink spend is over $120 and you keep a printer for at least three years, an EcoTank or MegaTank pays for itself within the first 12–18 months. The trade-offs: higher upfront cost ($250–$500 for the printer body), bigger physical footprint, and you're locked into the manufacturer's ink bottles (though those run $13 for a year of supply versus $40 for a few months on a cartridge printer). Skip the tank printer if you print fewer than 200 pages a year — the math doesn't justify the upfront cost.
+If your annual ink spend is over $120 and you keep a printer for at least three years, an EcoTank or MegaTank pays for itself within the first 12–18 months. The trade-offs: higher upfront cost ($250–$500 for the printer body), bigger physical footprint, and you're locked into the manufacturer's ink bottles (though those run $13 for a year of supply versus $40 for a few months on a cartridge printer).
+
+Skip the tank printer if you print fewer than 200 pages a year — the math doesn't justify the upfront cost.
 
 **How much does the average household actually spend on printer ink each year?**
 
@@ -209,8 +219,9 @@ Pew Research and Consumer Reports tracking put typical household ink spend at $8
 
 **Are compatible cartridges safe for my printer?**
 
-Compatible cartridges from established remanufacturers won't void your printer's warranty in the United States — the Magnuson-Moss Warranty Act prohibits manufacturers from voiding warranties solely because non-OEM consumables were used. The risk of head clogs comes from poor-quality ink, not from the cartridge body itself, so the brand of the ink matters more than whether the cartridge is OEM. Reputable remanufacturers (LD Products, INKfinity, LemeroUtrust) use formulated inks; bargain-bin generics often use commodity ink that can dry, separate, or print poorly under heavy use.
+Compatible cartridges from established remanufacturers won't void your printer's warranty in the United States — the Magnuson-Moss Warranty Act prohibits manufacturers from voiding warranties solely because non-OEM consumables were used. The risk of head clogs comes from poor-quality ink, not from the cartridge body itself, so the brand of the ink matters more than whether the cartridge is OEM.
 
+Reputable remanufacturers (LD Products, INKfinity, LemeroUtrust) use formulated inks; bargain-bin generics often use commodity ink that can dry, separate, or print poorly under heavy use.
 
 ## What to watch for before you buy
 
@@ -222,7 +233,8 @@ Compatible cartridges from established remanufacturers won't void your printer's
 - **Refill kits work, but only on certain printers.** Tank-style models (EcoTank, MegaTank) are designed for refilling. Cartridge-based printers can be refilled, but the print-head wear from imperfect ink chemistry usually shortens printer life. Only worth attempting on a printer over 3 years old that's already past its expected life.
 - **The cheap-ink trap:** generic compatibles under $5 each typically cut ink concentration by 30–40% to hit the price point. Output looks fine for the first 20 pages, then fades visibly. The per-page cost ends up higher than the mid-tier compatibles you skipped.
 
-
 ## How we tracked this
 
-Price data is pulled from Keepa, which records every price change Amazon publishes for a listing — including third-party seller prices, used and refurbished offers, and the rolling 30-day, 90-day, and 1-year windows. We refresh signals for every product we cover at least once a week and tag any listing whose current price is more than 15% above its 90-day average so it surfaces as a bad-deal warning rather than a recommendation. Anything we recommend has cleared a minimum 6-month tracking window so we can see how the seller behaves over time, not just at the moment a reader lands on the page.
+Price data is pulled from Keepa, which records every price change Amazon publishes for a listing — including third-party seller prices, used and refurbished offers, and the rolling 30-day, 90-day, and 1-year windows. We refresh signals for every product we cover at least once a week and tag any listing whose current price is more than 15% above its 90-day average so it surfaces as a bad-deal warning rather than a recommendation.
+
+Anything we recommend has cleared a minimum 6-month tracking window so we can see how the seller behaves over time, not just at the moment a reader lands on the page.

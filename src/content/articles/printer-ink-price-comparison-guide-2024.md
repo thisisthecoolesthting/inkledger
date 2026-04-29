@@ -145,18 +145,23 @@ Our accountants analyzed total cost of ownership across 5 printing scenarios:
 ## FAQ
 
 ### Do third-party cartridges void warranties?
+
 No - the Magnuson-Moss Warranty Act prohibits blanket voiding for using third-party consumables. However, manufacturers may deny coverage if they prove a specific cartridge caused damage. We documented 12 cases where HP tried illegal warranty denial - all overturned by FTC complaints.
 
 ### How long do unopened cartridges last?
+
 Inkjet: 2-3 years if stored at 65-75°F (18-24°C) in original packaging. Toner: Indefinitely in climate-controlled environments. Our tests found 10-year-old laser toner still performed at 98% efficacy.
 
 ### Are bulk ink systems messy?
+
 Modern [EcoTanks](https://www.amazon.com/dp/B098JD8HD3?tag=inkledger-20) have precision-fill ports and anti-leak designs. In our stress tests, they spilled 0.2ml versus 1.5ml from traditional cartridge swaps. The [Aurora bulk system](https://www.amazon.com/dp/B08PZBPXLZ?tag=inkledger-20) includes drip-free syringes and absorbent mats.
 
 ### Why does my printer say "non-genuine"?
+
 A psychological tactic. Our teardowns reveal these messages trigger even with 100% authentic cartridges after firmware updates. On most models, holding Cancel for 5 seconds bypasses the warning permanently.
 
 ### Can I mix ink brands?
+
 Strongly discouraged. Chemical analysis shows viscosity differences up to 30% between brands, leading to:
 - Nozzle clogging (38% increase in our tests)
 - Color shifting (ΔE >5 in Pantone tests)
@@ -175,7 +180,6 @@ After analyzing 15,000 data points, our definitive recommendations:
 **Avoid at all costs**: HP Instant Ink (hidden overage fees), Epson's "PrecisionCore" cartridges (30% less ink than EcoTank equivalents), and any printer that won't function without an internet connection. Remember: printer ink remains the only liquid more expensive than human blood - arm yourself with these 2024 pricing insights to stop the bleeding in your wallet.
 
 <!-- padded-no-api-v1 -->
-
 
 ## Recent price snapshot
 
@@ -198,11 +202,15 @@ Spreads between the 30-day low and 1-year low are where most of the savings hide
 
 **How long can I store unopened cartridges before the ink dries up?**
 
-Most cartridges have a 2-year shelf life from the date stamped on the box, but real-world performance drops off after 18 months. Store them upright at room temperature, away from direct sun. Refrigeration doesn't help and can actually cause condensation when the cartridge is brought back to room temp. If a cartridge has been sitting for over two years, it'll usually still print — but expect to run the printer's clean-head cycle two or three times before the output is acceptable.
+Most cartridges have a 2-year shelf life from the date stamped on the box, but real-world performance drops off after 18 months. Store them upright at room temperature, away from direct sun. Refrigeration doesn't help and can actually cause condensation when the cartridge is brought back to room temp.
+
+If a cartridge has been sitting for over two years, it'll usually still print — but expect to run the printer's clean-head cycle two or three times before the output is acceptable.
 
 **Are compatible cartridges safe for my printer?**
 
-Compatible cartridges from established remanufacturers won't void your printer's warranty in the United States — the Magnuson-Moss Warranty Act prohibits manufacturers from voiding warranties solely because non-OEM consumables were used. The risk of head clogs comes from poor-quality ink, not from the cartridge body itself, so the brand of the ink matters more than whether the cartridge is OEM. Reputable remanufacturers (LD Products, INKfinity, LemeroUtrust) use formulated inks; bargain-bin generics often use commodity ink that can dry, separate, or print poorly under heavy use.
+Compatible cartridges from established remanufacturers won't void your printer's warranty in the United States — the Magnuson-Moss Warranty Act prohibits manufacturers from voiding warranties solely because non-OEM consumables were used. The risk of head clogs comes from poor-quality ink, not from the cartridge body itself, so the brand of the ink matters more than whether the cartridge is OEM.
+
+Reputable remanufacturers (LD Products, INKfinity, LemeroUtrust) use formulated inks; bargain-bin generics often use commodity ink that can dry, separate, or print poorly under heavy use.
 
 **How much does the average household actually spend on printer ink each year?**
 
@@ -216,7 +224,6 @@ OEM means the cartridge is built and filled by the printer's manufacturer (HP, C
 
 It's a pricing trick that catches people. XL labels imply better value, but manufacturers don't always price them proportionally to ink volume. Calculate the actual cost-per-page: divide the cartridge price by the manufacturer's quoted page yield (always under heavy duty-cycle ISO standards, so real numbers are 70–80% of quoted). The XL is only the better deal when the per-page math works out — and roughly one in four XL cartridges fails that test once you crunch the numbers.
 
-
 ## What to watch for before you buy
 
 - **Yield numbers are tested under ISO standards** that assume continuous printing at 5% page coverage. Real-world coverage with photos, charts, or color-heavy documents can cut effective yield in half.
@@ -227,7 +234,8 @@ It's a pricing trick that catches people. XL labels imply better value, but manu
 - **Refill kits work, but only on certain printers.** Tank-style models (EcoTank, MegaTank) are designed for refilling. Cartridge-based printers can be refilled, but the print-head wear from imperfect ink chemistry usually shortens printer life. Only worth attempting on a printer over 3 years old that's already past its expected life.
 - **The cheap-ink trap:** generic compatibles under $5 each typically cut ink concentration by 30–40% to hit the price point. Output looks fine for the first 20 pages, then fades visibly. The per-page cost ends up higher than the mid-tier compatibles you skipped.
 
-
 ## How we tracked this
 
-Price data is pulled from Keepa, which records every price change Amazon publishes for a listing — including third-party seller prices, used and refurbished offers, and the rolling 30-day, 90-day, and 1-year windows. We refresh signals for every product we cover at least once a week and tag any listing whose current price is more than 15% above its 90-day average so it surfaces as a bad-deal warning rather than a recommendation. Anything we recommend has cleared a minimum 6-month tracking window so we can see how the seller behaves over time, not just at the moment a reader lands on the page.
+Price data is pulled from Keepa, which records every price change Amazon publishes for a listing — including third-party seller prices, used and refurbished offers, and the rolling 30-day, 90-day, and 1-year windows. We refresh signals for every product we cover at least once a week and tag any listing whose current price is more than 15% above its 90-day average so it surfaces as a bad-deal warning rather than a recommendation.
+
+Anything we recommend has cleared a minimum 6-month tracking window so we can see how the seller behaves over time, not just at the moment a reader lands on the page.

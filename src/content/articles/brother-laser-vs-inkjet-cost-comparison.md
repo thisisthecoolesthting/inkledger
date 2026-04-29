@@ -34,7 +34,11 @@ cardPick: Compatible HP 61XL cartridges slash ink costs dramatically, making ink
 
 ## Introduction
 
-"Why does my Brother printer ink cost more than the printer itself?" This common frustration stems from manufacturers' razor-and-blades business model, where printers are sold near cost while consumables generate long-term profits. Our 18-month study of 12 Brother models reveals stark differences: the [Brother HL-L2350DW laser printer](https://www.amazon.com/dp/B0CB75LML9?tag=inkledger-20) costs just 6.2¢ per page versus 12.5¢ for the [MFC-J995DW inkjet](https://www.amazon.com/dp/B093TCYF9T?tag=inkledger-20). For a home office printing 1,200 pages annually, this translates to $75 vs. $150 in yearly ink/toner costs. But the true disparity emerges in hidden expenses—inkjets waste 30-40% of ink on maintenance cycles, while lasers like the HL-L2350DW require no printhead cleanings. We tracked five unexpected cost factors most comparisons miss: firmware restrictions on third-party cartridges, yield discrepancies between advertised and actual page counts, color printing inefficiencies, long-term component wear (like $90 inkjet printhead replacements), and the impact of printer idle time on consumable waste. Our data shows laser printers save the average user $300-600 over three years, with the gap widening significantly for high-volume users.
+"Why does my Brother printer ink cost more than the printer itself?" This common frustration stems from manufacturers' razor-and-blades business model, where printers are sold near cost while consumables generate long-term profits. Our 18-month study of 12 Brother models reveals stark differences: the [Brother HL-L2350DW laser printer](https://www.amazon.com/dp/B0CB75LML9?tag=inkledger-20) costs just 6.2¢ per page versus 12.5¢ for the [MFC-J995DW inkjet](https://www.amazon.com/dp/B093TCYF9T?tag=inkledger-20). For a home office printing 1,200 pages annually, this translates to $75 vs. $150 in yearly ink/toner costs.
+
+But the true disparity emerges in hidden expenses—inkjets waste 30-40% of ink on maintenance cycles, while lasers like the HL-L2350DW require no printhead cleanings. We tracked five unexpected cost factors most comparisons miss: firmware restrictions on third-party cartridges, yield discrepancies between advertised and actual page counts, color printing inefficiencies, long-term component wear (like $90 inkjet printhead replacements), and the impact of printer idle time on consumable waste.
+
+Our data shows laser printers save the average user $300-600 over three years, with the gap widening significantly for high-volume users.
 
 ## Why this matters
 
@@ -120,6 +124,7 @@ Critical warning: Brother's 2023 firmware updates disabled many third-party work
 ## FAQ
 
 ### Do Brother lasers really save money on color printing?
+
 Yes—but with qualifications. The HL-L3270CDW's 8.1¢/page beats inkjets' 12.5¢, but its $300 premium requires 2,000+ annual color pages to justify. Key savings come from:
 - No color ink waste during black printing
 - 50% longer actual yields than advertised
@@ -127,6 +132,7 @@ Yes—but with qualifications. The HL-L3270CDW's 8.1¢/page beats inkjets' 12.5�
 For under 500 color pages/year, a black-and-white laser plus occasional print shop visits proves cheaper.
 
 ### Can I use third-party ink in Brother inkjets?
+
 Technically yes, but Brother's firmware updates have made this increasingly difficult. Since 2023:
 - 60% of new inkjets reject non-OEM cartridges
 - Refill kits require manual chip resetting
@@ -134,6 +140,7 @@ Technically yes, but Brother's firmware updates have made this increasingly diff
 Our testing found [InkOwl's pigment-based refills](https://www.amazon.com/dp/B099NZC4PB?tag=inkledger-20) most reliable, but expect occasional nozzle checks.
 
 ### How long do Brother toner cartridges last unopened?
+
 Toner has near-indefinite shelf life when stored properly. We tested:
 - 3-year-old TN-760: 100% yield
 - 5-year-old TN-730: 98% yield
@@ -141,6 +148,7 @@ Toner has near-indefinite shelf life when stored properly. We tested:
 Store cartridges in airtight containers with desiccant packs to prevent humidity clumping.
 
 ### Do Brother inkjets still clog with daily use?
+
 Reduced but not eliminated. Our findings:
 - Daily printing: 5-9% ink waste on cleanings
 - Weekly printing: 12-15% waste
@@ -148,6 +156,7 @@ Reduced but not eliminated. Our findings:
 The [MFC-J995DW](https://www.amazon.com/dp/B093TCYF9T?tag=inkledger-20) consumed $8.70 monthly on mandatory cleanings even with daily use.
 
 ### Which Brother laser has the cheapest toner?
+
 The HL-L2350DW with TN-760 toners wins at:
 - 6.2¢/page OEM
 - 3.1¢ with [Katun TN-760](https://www.amazon.com/dp/B0848Q34F8?tag=inkledger-20)
@@ -160,10 +169,11 @@ For 90% of users, Brother laser printers deliver superior long-term value. The [
 1. You print fewer than 50 color pages monthly
 2. Need photographic-quality output
 3. Can commit to daily printing to prevent clogs
-Even then, Brother's INKvestment tank models like the [MFC-J4335DW](https://www.amazon.com/dp/B0CB75LML9?tag=inkledger-20) offer better economics than cartridge-based inkjets. For everyone else, laser technology's efficiency and third-party toner compatibility make it the clear cost winner.
+Even then, Brother's INKvestment tank models like the [MFC-J4335DW](https://www.amazon.com/dp/B0CB75LML9?tag=inkledger-20) offer better economics than cartridge-based inkjets.
+
+For everyone else, laser technology's efficiency and third-party toner compatibility make it the clear cost winner.
 
 <!-- padded-no-api-v1 -->
-
 
 ## Recent price snapshot
 
@@ -185,7 +195,9 @@ Spreads between the 30-day low and 1-year low are where most of the savings hide
 
 **How long can I store unopened cartridges before the ink dries up?**
 
-Most cartridges have a 2-year shelf life from the date stamped on the box, but real-world performance drops off after 18 months. Store them upright at room temperature, away from direct sun. Refrigeration doesn't help and can actually cause condensation when the cartridge is brought back to room temp. If a cartridge has been sitting for over two years, it'll usually still print — but expect to run the printer's clean-head cycle two or three times before the output is acceptable.
+Most cartridges have a 2-year shelf life from the date stamped on the box, but real-world performance drops off after 18 months. Store them upright at room temperature, away from direct sun. Refrigeration doesn't help and can actually cause condensation when the cartridge is brought back to room temp.
+
+If a cartridge has been sitting for over two years, it'll usually still print — but expect to run the printer's clean-head cycle two or three times before the output is acceptable.
 
 **Why do XL cartridges sometimes cost more per page than standard?**
 
@@ -197,12 +209,15 @@ Most cartridges include a smart chip that estimates ink level by counting drops 
 
 **Are compatible cartridges safe for my printer?**
 
-Compatible cartridges from established remanufacturers won't void your printer's warranty in the United States — the Magnuson-Moss Warranty Act prohibits manufacturers from voiding warranties solely because non-OEM consumables were used. The risk of head clogs comes from poor-quality ink, not from the cartridge body itself, so the brand of the ink matters more than whether the cartridge is OEM. Reputable remanufacturers (LD Products, INKfinity, LemeroUtrust) use formulated inks; bargain-bin generics often use commodity ink that can dry, separate, or print poorly under heavy use.
+Compatible cartridges from established remanufacturers won't void your printer's warranty in the United States — the Magnuson-Moss Warranty Act prohibits manufacturers from voiding warranties solely because non-OEM consumables were used. The risk of head clogs comes from poor-quality ink, not from the cartridge body itself, so the brand of the ink matters more than whether the cartridge is OEM.
+
+Reputable remanufacturers (LD Products, INKfinity, LemeroUtrust) use formulated inks; bargain-bin generics often use commodity ink that can dry, separate, or print poorly under heavy use.
 
 **Should I switch to an EcoTank or MegaTank ink-tank printer?**
 
-If your annual ink spend is over $120 and you keep a printer for at least three years, an EcoTank or MegaTank pays for itself within the first 12–18 months. The trade-offs: higher upfront cost ($250–$500 for the printer body), bigger physical footprint, and you're locked into the manufacturer's ink bottles (though those run $13 for a year of supply versus $40 for a few months on a cartridge printer). Skip the tank printer if you print fewer than 200 pages a year — the math doesn't justify the upfront cost.
+If your annual ink spend is over $120 and you keep a printer for at least three years, an EcoTank or MegaTank pays for itself within the first 12–18 months. The trade-offs: higher upfront cost ($250–$500 for the printer body), bigger physical footprint, and you're locked into the manufacturer's ink bottles (though those run $13 for a year of supply versus $40 for a few months on a cartridge printer).
 
+Skip the tank printer if you print fewer than 200 pages a year — the math doesn't justify the upfront cost.
 
 ## What to watch for before you buy
 
@@ -214,7 +229,8 @@ If your annual ink spend is over $120 and you keep a printer for at least three 
 - **Refill kits work, but only on certain printers.** Tank-style models (EcoTank, MegaTank) are designed for refilling. Cartridge-based printers can be refilled, but the print-head wear from imperfect ink chemistry usually shortens printer life. Only worth attempting on a printer over 3 years old that's already past its expected life.
 - **The cheap-ink trap:** generic compatibles under $5 each typically cut ink concentration by 30–40% to hit the price point. Output looks fine for the first 20 pages, then fades visibly. The per-page cost ends up higher than the mid-tier compatibles you skipped.
 
-
 ## How we tracked this
 
-Price data is pulled from Keepa, which records every price change Amazon publishes for a listing — including third-party seller prices, used and refurbished offers, and the rolling 30-day, 90-day, and 1-year windows. We refresh signals for every product we cover at least once a week and tag any listing whose current price is more than 15% above its 90-day average so it surfaces as a bad-deal warning rather than a recommendation. Anything we recommend has cleared a minimum 6-month tracking window so we can see how the seller behaves over time, not just at the moment a reader lands on the page.
+Price data is pulled from Keepa, which records every price change Amazon publishes for a listing — including third-party seller prices, used and refurbished offers, and the rolling 30-day, 90-day, and 1-year windows. We refresh signals for every product we cover at least once a week and tag any listing whose current price is more than 15% above its 90-day average so it surfaces as a bad-deal warning rather than a recommendation.
+
+Anything we recommend has cleared a minimum 6-month tracking window so we can see how the seller behaves over time, not just at the moment a reader lands on the page.

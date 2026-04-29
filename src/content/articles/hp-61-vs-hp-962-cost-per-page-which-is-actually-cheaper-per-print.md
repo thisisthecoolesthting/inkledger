@@ -67,21 +67,25 @@ Here's an overview of typical prices and yields (as of mid-2024):
 Let’s calculate approximate cost per page for each cartridge using the average price:
 
 ### HP 61 Black  
+
 - Price: $17.50  
 - Yield: 180 pages  
 - Cost per page = $17.50 ÷ 180 = **$0.097** (~9.7 cents)
 
 ### HP 61 Tri-color  
+
 - Price: $22.50  
 - Yield: 165 pages  
 - Cost per page = $22.50 ÷ 165 = **$0.136** (~13.6 cents)
 
 ### HP 962 Black  
+
 - Price: $32.50  
 - Yield: 400 pages  
 - Cost per page = $32.50 ÷ 400 = **$0.081** (~8.1 cents)
 
 ### HP 962 Tri-color  
+
 - Price: $42.50  
 - Yield: 700 pages  
 - Cost per page = $42.50 ÷ 700 = **$0.061** (~6.1 cents)
@@ -143,7 +147,6 @@ If you want affordable ink with reliable results, leaning toward the higher-yiel
 
 <!-- padded-no-api-v1 -->
 
-
 ## Frequently asked questions
 
 **Why do XL cartridges sometimes cost more per page than standard?**
@@ -152,7 +155,9 @@ It's a pricing trick that catches people. XL labels imply better value, but manu
 
 **How long can I store unopened cartridges before the ink dries up?**
 
-Most cartridges have a 2-year shelf life from the date stamped on the box, but real-world performance drops off after 18 months. Store them upright at room temperature, away from direct sun. Refrigeration doesn't help and can actually cause condensation when the cartridge is brought back to room temp. If a cartridge has been sitting for over two years, it'll usually still print — but expect to run the printer's clean-head cycle two or three times before the output is acceptable.
+Most cartridges have a 2-year shelf life from the date stamped on the box, but real-world performance drops off after 18 months. Store them upright at room temperature, away from direct sun. Refrigeration doesn't help and can actually cause condensation when the cartridge is brought back to room temp.
+
+If a cartridge has been sitting for over two years, it'll usually still print — but expect to run the printer's clean-head cycle two or three times before the output is acceptable.
 
 **How much does the average household actually spend on printer ink each year?**
 
@@ -164,8 +169,9 @@ OEM means the cartridge is built and filled by the printer's manufacturer (HP, C
 
 **Should I switch to an EcoTank or MegaTank ink-tank printer?**
 
-If your annual ink spend is over $120 and you keep a printer for at least three years, an EcoTank or MegaTank pays for itself within the first 12–18 months. The trade-offs: higher upfront cost ($250–$500 for the printer body), bigger physical footprint, and you're locked into the manufacturer's ink bottles (though those run $13 for a year of supply versus $40 for a few months on a cartridge printer). Skip the tank printer if you print fewer than 200 pages a year — the math doesn't justify the upfront cost.
+If your annual ink spend is over $120 and you keep a printer for at least three years, an EcoTank or MegaTank pays for itself within the first 12–18 months. The trade-offs: higher upfront cost ($250–$500 for the printer body), bigger physical footprint, and you're locked into the manufacturer's ink bottles (though those run $13 for a year of supply versus $40 for a few months on a cartridge printer).
 
+Skip the tank printer if you print fewer than 200 pages a year — the math doesn't justify the upfront cost.
 
 ## What to watch for before you buy
 
@@ -177,7 +183,8 @@ If your annual ink spend is over $120 and you keep a printer for at least three 
 - **Refill kits work, but only on certain printers.** Tank-style models (EcoTank, MegaTank) are designed for refilling. Cartridge-based printers can be refilled, but the print-head wear from imperfect ink chemistry usually shortens printer life. Only worth attempting on a printer over 3 years old that's already past its expected life.
 - **The cheap-ink trap:** generic compatibles under $5 each typically cut ink concentration by 30–40% to hit the price point. Output looks fine for the first 20 pages, then fades visibly. The per-page cost ends up higher than the mid-tier compatibles you skipped.
 
-
 ## How we tracked this
 
-Price data is pulled from Keepa, which records every price change Amazon publishes for a listing — including third-party seller prices, used and refurbished offers, and the rolling 30-day, 90-day, and 1-year windows. We refresh signals for every product we cover at least once a week and tag any listing whose current price is more than 15% above its 90-day average so it surfaces as a bad-deal warning rather than a recommendation. Anything we recommend has cleared a minimum 6-month tracking window so we can see how the seller behaves over time, not just at the moment a reader lands on the page.
+Price data is pulled from Keepa, which records every price change Amazon publishes for a listing — including third-party seller prices, used and refurbished offers, and the rolling 30-day, 90-day, and 1-year windows. We refresh signals for every product we cover at least once a week and tag any listing whose current price is more than 15% above its 90-day average so it surfaces as a bad-deal warning rather than a recommendation.
+
+Anything we recommend has cleared a minimum 6-month tracking window so we can see how the seller behaves over time, not just at the moment a reader lands on the page.

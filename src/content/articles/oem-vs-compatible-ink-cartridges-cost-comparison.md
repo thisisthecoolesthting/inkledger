@@ -49,11 +49,11 @@ Compatible cartridges bypass these restrictions, but with three legitimate conce
 1. **Yield discrepancies**: A Brother TN-660 OEM toner claims 2,600 pages but averaged 2,140 in our tests, while a [compatible version](https://www.amazon.com/dp/B0GF25F12C?tag=inkledger-20) rated for 2,400 pages delivered 2,310. We found yield variances are most pronounced with:
    - Photo printing (OEM inks yielded 12% more photos before quality degradation)
    - High-coverage documents (compatibles performed better on text-heavy pages)
-   
+
 2. **Warranty voiding**: HP's warranty states use of non-HP ink "may affect" coverage, but Magnuson-Moss Warranty Act protections apply. In practice:
    - 92% of warranty claims we reviewed were honored regardless of ink source
    - Only print head failures were routinely denied when using third-party ink
-   
+
 3. **Quality variance**: Cheap compatibles ($5-8) showed 23% more banding than mid-range ($10-15) options in our print tests. The $12-15 "premium compatible" segment (like [InkTown's HP 61](https://www.amazon.com/dp/B0CB75LML9?tag=inkledger-20)) matched OEM quality in blind tests with graphic designers.
 
 For a family printing 250 pages/month, OEM ink costs $432/year versus $104 for compatibles—enough savings to buy a new printer annually. Small businesses printing 1,000 pages/month save $1,300+/year—the cost of a commercial-grade printer.
@@ -172,6 +172,7 @@ For laser users, [toner refill kits](https://www.amazon.com/dp/B0848Q34F8?tag=in
 ## FAQ
 
 ### Do compatible cartridges damage printers?
+
 No evidence from our 18-month test of 6 printer models. Print heads clogged at nearly identical rates (OEM: 3.2%, compatibles: 3.7%). The myth persists because:
 
 1. Manufacturers void warranties for unrelated issues when third-party ink is present
@@ -179,6 +180,7 @@ No evidence from our 18-month test of 6 printer models. Print heads clogged at n
 3. Confirmation bias—users blame compatibles for pre-existing printer issues
 
 ### Why do some compatibles cost $5 while others are $15?
+
 Price reflects:
 
 - **Ink Quality**: $5 cartridges often use dye-based inks instead of pigment
@@ -187,6 +189,7 @@ Price reflects:
 - **QC Testing**: $15 cartridges undergo batch testing; $5 ones are untested
 
 ### Can I use compatibles with HP Instant Ink?
+
 No. The program's terms require:
 
 - OEM cartridges only
@@ -196,6 +199,7 @@ No. The program's terms require:
 Workaround: Cancel Instant Ink, then use [HP 61XL compatibles](https://www.amazon.com/dp/B0CB75LML9?tag=inkledger-20) for 60% savings.
 
 ### Do all printers accept compatibles?
+
 Compatibility varies by technology:
 
 **Most Compatible**
@@ -209,6 +213,7 @@ Compatibility varies by technology:
 - New Canon MAXIFY (encrypted chips)
 
 ### How can I spot quality compatibles?
+
 Look for:
 
 - **Gold-plated chips** (reduces communication errors by 73% in our tests)
@@ -235,7 +240,6 @@ Heavy users (500+ pages/month) should consider laser printers—the [Brother TN-
 
 <!-- padded-no-api-v1 -->
 
-
 ## Recent price snapshot
 
 Tracked through Keepa over the last 12 months. Current prices update every few hours; 30-day and 1-year ranges show how the listing has moved relative to today.
@@ -256,7 +260,9 @@ Spreads between the 30-day low and 1-year low are where most of the savings hide
 
 **Are compatible cartridges safe for my printer?**
 
-Compatible cartridges from established remanufacturers won't void your printer's warranty in the United States — the Magnuson-Moss Warranty Act prohibits manufacturers from voiding warranties solely because non-OEM consumables were used. The risk of head clogs comes from poor-quality ink, not from the cartridge body itself, so the brand of the ink matters more than whether the cartridge is OEM. Reputable remanufacturers (LD Products, INKfinity, LemeroUtrust) use formulated inks; bargain-bin generics often use commodity ink that can dry, separate, or print poorly under heavy use.
+Compatible cartridges from established remanufacturers won't void your printer's warranty in the United States — the Magnuson-Moss Warranty Act prohibits manufacturers from voiding warranties solely because non-OEM consumables were used. The risk of head clogs comes from poor-quality ink, not from the cartridge body itself, so the brand of the ink matters more than whether the cartridge is OEM.
+
+Reputable remanufacturers (LD Products, INKfinity, LemeroUtrust) use formulated inks; bargain-bin generics often use commodity ink that can dry, separate, or print poorly under heavy use.
 
 **Why do XL cartridges sometimes cost more per page than standard?**
 
@@ -268,12 +274,15 @@ OEM means the cartridge is built and filled by the printer's manufacturer (HP, C
 
 **How long can I store unopened cartridges before the ink dries up?**
 
-Most cartridges have a 2-year shelf life from the date stamped on the box, but real-world performance drops off after 18 months. Store them upright at room temperature, away from direct sun. Refrigeration doesn't help and can actually cause condensation when the cartridge is brought back to room temp. If a cartridge has been sitting for over two years, it'll usually still print — but expect to run the printer's clean-head cycle two or three times before the output is acceptable.
+Most cartridges have a 2-year shelf life from the date stamped on the box, but real-world performance drops off after 18 months. Store them upright at room temperature, away from direct sun. Refrigeration doesn't help and can actually cause condensation when the cartridge is brought back to room temp.
+
+If a cartridge has been sitting for over two years, it'll usually still print — but expect to run the printer's clean-head cycle two or three times before the output is acceptable.
 
 **Should I switch to an EcoTank or MegaTank ink-tank printer?**
 
-If your annual ink spend is over $120 and you keep a printer for at least three years, an EcoTank or MegaTank pays for itself within the first 12–18 months. The trade-offs: higher upfront cost ($250–$500 for the printer body), bigger physical footprint, and you're locked into the manufacturer's ink bottles (though those run $13 for a year of supply versus $40 for a few months on a cartridge printer). Skip the tank printer if you print fewer than 200 pages a year — the math doesn't justify the upfront cost.
+If your annual ink spend is over $120 and you keep a printer for at least three years, an EcoTank or MegaTank pays for itself within the first 12–18 months. The trade-offs: higher upfront cost ($250–$500 for the printer body), bigger physical footprint, and you're locked into the manufacturer's ink bottles (though those run $13 for a year of supply versus $40 for a few months on a cartridge printer).
 
+Skip the tank printer if you print fewer than 200 pages a year — the math doesn't justify the upfront cost.
 
 ## What to watch for before you buy
 
@@ -285,7 +294,8 @@ If your annual ink spend is over $120 and you keep a printer for at least three 
 - **Refill kits work, but only on certain printers.** Tank-style models (EcoTank, MegaTank) are designed for refilling. Cartridge-based printers can be refilled, but the print-head wear from imperfect ink chemistry usually shortens printer life. Only worth attempting on a printer over 3 years old that's already past its expected life.
 - **The cheap-ink trap:** generic compatibles under $5 each typically cut ink concentration by 30–40% to hit the price point. Output looks fine for the first 20 pages, then fades visibly. The per-page cost ends up higher than the mid-tier compatibles you skipped.
 
-
 ## How we tracked this
 
-Price data is pulled from Keepa, which records every price change Amazon publishes for a listing — including third-party seller prices, used and refurbished offers, and the rolling 30-day, 90-day, and 1-year windows. We refresh signals for every product we cover at least once a week and tag any listing whose current price is more than 15% above its 90-day average so it surfaces as a bad-deal warning rather than a recommendation. Anything we recommend has cleared a minimum 6-month tracking window so we can see how the seller behaves over time, not just at the moment a reader lands on the page.
+Price data is pulled from Keepa, which records every price change Amazon publishes for a listing — including third-party seller prices, used and refurbished offers, and the rolling 30-day, 90-day, and 1-year windows. We refresh signals for every product we cover at least once a week and tag any listing whose current price is more than 15% above its 90-day average so it surfaces as a bad-deal warning rather than a recommendation.
+
+Anything we recommend has cleared a minimum 6-month tracking window so we can see how the seller behaves over time, not just at the moment a reader lands on the page.

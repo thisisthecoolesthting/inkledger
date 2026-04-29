@@ -94,18 +94,23 @@ For instance, a small business owner printing 500 pages/month for invoices and l
 ## FAQ
 
 ### Does HP Instant Ink work with non-HP printers?
+
 No. The service requires compatible HP printers with firmware that supports cartridge monitoring. Attempting to use it with Brother or Epson models will fail.
 
 ### What happens if I cancel Instant Ink mid-plan?
+
 HP charges a $12 early termination fee unless you've completed your 24-month commitment period. Any unused pages are forfeited.
 
 ### Can I use Instant Ink cartridges after canceling?
+
 No. The cartridges contain proprietary chips that disable them when your subscription lapses, unlike standard [HP 962XL cartridges](https://www.amazon.com/dp/B0CB75LML9?tag=inkledger-20).
 
 ### Do third-party inks void my printer warranty?
+
 Technically yes, but manufacturers must prove the ink caused damage. Many users report no issues with [vetted third-party options](https://www.amazon.com/dp/B093TCYF9T?tag=inkledger-20).
 
 ### How do I calculate my true printing volume?
+
 Print a usage report from your printer menu before choosing a plan. Most users underestimate by 30-50%.
 
 ## Bottom line
@@ -113,7 +118,6 @@ Print a usage report from your printer menu before choosing a plan. Most users u
 HP Instant Ink makes financial sense only for very low-volume printers (under 30 pages/month) or those unwilling to use third-party inks. At typical home printing volumes, high-yield OEM cartridges like the [HP 962XL](https://www.amazon.com/dp/B0CB75LML9?tag=inkledger-20) or reliable third-party alternatives such as [Inkjet Superstore's 964XL](https://www.amazon.com/dp/B093TCYF9T?tag=inkledger-20) deliver better long-term savings without subscription lock-in. For heavy users, refill kits or switching to a laser printer like Brother's [this cartridge](https://www.amazon.com/dp/B085VZPR2Y?tag=inkledger-20) cuts costs by 60-80% compared to Instant Ink.
 
 <!-- padded-no-api-v1 -->
-
 
 ## Recent price snapshot
 
@@ -141,7 +145,9 @@ Pew Research and Consumer Reports tracking put typical household ink spend at $8
 
 **How long can I store unopened cartridges before the ink dries up?**
 
-Most cartridges have a 2-year shelf life from the date stamped on the box, but real-world performance drops off after 18 months. Store them upright at room temperature, away from direct sun. Refrigeration doesn't help and can actually cause condensation when the cartridge is brought back to room temp. If a cartridge has been sitting for over two years, it'll usually still print — but expect to run the printer's clean-head cycle two or three times before the output is acceptable.
+Most cartridges have a 2-year shelf life from the date stamped on the box, but real-world performance drops off after 18 months. Store them upright at room temperature, away from direct sun. Refrigeration doesn't help and can actually cause condensation when the cartridge is brought back to room temp.
+
+If a cartridge has been sitting for over two years, it'll usually still print — but expect to run the printer's clean-head cycle two or three times before the output is acceptable.
 
 **What's the real difference between OEM, compatible, and remanufactured cartridges?**
 
@@ -150,7 +156,6 @@ OEM means the cartridge is built and filled by the printer's manufacturer (HP, C
 **Why does my printer say my cartridge is empty when there's still ink left?**
 
 Most cartridges include a smart chip that estimates ink level by counting drops fired, not by measuring actual ink. The chip's estimate is conservative — manufacturers prefer you replace early than risk a dry-fire that damages the print head. Industry studies have measured 15–40% of cartridges' ink remaining when the printer flags them empty. On many HP and Canon models, you can override the warning and continue printing until output quality actually drops.
-
 
 ## What to watch for before you buy
 
@@ -162,7 +167,8 @@ Most cartridges include a smart chip that estimates ink level by counting drops 
 - **Refill kits work, but only on certain printers.** Tank-style models (EcoTank, MegaTank) are designed for refilling. Cartridge-based printers can be refilled, but the print-head wear from imperfect ink chemistry usually shortens printer life. Only worth attempting on a printer over 3 years old that's already past its expected life.
 - **The cheap-ink trap:** generic compatibles under $5 each typically cut ink concentration by 30–40% to hit the price point. Output looks fine for the first 20 pages, then fades visibly. The per-page cost ends up higher than the mid-tier compatibles you skipped.
 
-
 ## How we tracked this
 
-Price data is pulled from Keepa, which records every price change Amazon publishes for a listing — including third-party seller prices, used and refurbished offers, and the rolling 30-day, 90-day, and 1-year windows. We refresh signals for every product we cover at least once a week and tag any listing whose current price is more than 15% above its 90-day average so it surfaces as a bad-deal warning rather than a recommendation. Anything we recommend has cleared a minimum 6-month tracking window so we can see how the seller behaves over time, not just at the moment a reader lands on the page.
+Price data is pulled from Keepa, which records every price change Amazon publishes for a listing — including third-party seller prices, used and refurbished offers, and the rolling 30-day, 90-day, and 1-year windows. We refresh signals for every product we cover at least once a week and tag any listing whose current price is more than 15% above its 90-day average so it surfaces as a bad-deal warning rather than a recommendation.
+
+Anything we recommend has cleared a minimum 6-month tracking window so we can see how the seller behaves over time, not just at the moment a reader lands on the page.

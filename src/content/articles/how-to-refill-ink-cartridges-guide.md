@@ -107,21 +107,26 @@ For businesses, a hybrid approach balances reliability with savings: use remanuf
 ## FAQ
 
 ### Can refilling void my printer warranty?
+
 Technically yes, but manufacturers must prove the refill caused damage—a near-impossible bar. The Magnuson-Moss Warranty Act protects US consumers. We've documented 37 warranty claims where printers were serviced with refilled cartridges installed—none were denied for ink-related reasons.
 
 ### How many times can you refill a cartridge?
+
 Sponge-based cartridges (HP, Canon) last 3–5 refills. Brother's drum units often exceed 10 refills before springs weaken. Signs it's time to retire a cartridge:
 - Ink leaks from multiple seams
 - Print quality degrades even after deep cleaning
 - Chip resetters fail to recognize the cartridge
 
 ### Why does my printer say "non-genuine ink" after refilling?
+
 This is a manufacturer scare tactic. Press "Continue" or use a chip resetter (included in better kits). Some printers like the HP OfficeJet Pro 9010 series limit functionality—bypass this by resetting the cartridge chip before installation.
 
 ### Is refilled ink lower quality?
+
 Pigment-based OEM inks last longer in sunlight, but modern third-party dyes match 90% of home printing needs. For archival documents, consider specialty inks like the [Document Ink series](https://www.amazon.com/dp/B0BPMXD39R?tag=inkledger-20), which meet ISO 11798 preservation standards.
 
 ### What's the messiest cartridge to refill?
+
 Epson 200-series cartridges have intake ports facing sideways, requiring special angled syringes. We recommend the [InkFlex Angled Tip](https://www.amazon.com/dp/B08GX3K9YS?tag=inkledger-20) for these models. Always refill over a silicone mat to protect surfaces.
 
 ## Bottom Line
@@ -131,7 +136,6 @@ For most home users, the [PrecisionFill Bottle System](https://www.amazon.com/dp
 **Final Pro Tip**: Maintain a refill log tracking dates, ink amounts, and performance notes. This helps identify when cartridges near end-of-life and optimizes your ordering schedule. After six months using these techniques, our test households reported 83% satisfaction rates—with the remaining 17% switching to laser printers for even greater long-term savings.
 
 <!-- padded-no-api-v1 -->
-
 
 ## Recent price snapshot
 
@@ -157,11 +161,15 @@ It's a pricing trick that catches people. XL labels imply better value, but manu
 
 **How long can I store unopened cartridges before the ink dries up?**
 
-Most cartridges have a 2-year shelf life from the date stamped on the box, but real-world performance drops off after 18 months. Store them upright at room temperature, away from direct sun. Refrigeration doesn't help and can actually cause condensation when the cartridge is brought back to room temp. If a cartridge has been sitting for over two years, it'll usually still print — but expect to run the printer's clean-head cycle two or three times before the output is acceptable.
+Most cartridges have a 2-year shelf life from the date stamped on the box, but real-world performance drops off after 18 months. Store them upright at room temperature, away from direct sun. Refrigeration doesn't help and can actually cause condensation when the cartridge is brought back to room temp.
+
+If a cartridge has been sitting for over two years, it'll usually still print — but expect to run the printer's clean-head cycle two or three times before the output is acceptable.
 
 **Are compatible cartridges safe for my printer?**
 
-Compatible cartridges from established remanufacturers won't void your printer's warranty in the United States — the Magnuson-Moss Warranty Act prohibits manufacturers from voiding warranties solely because non-OEM consumables were used. The risk of head clogs comes from poor-quality ink, not from the cartridge body itself, so the brand of the ink matters more than whether the cartridge is OEM. Reputable remanufacturers (LD Products, INKfinity, LemeroUtrust) use formulated inks; bargain-bin generics often use commodity ink that can dry, separate, or print poorly under heavy use.
+Compatible cartridges from established remanufacturers won't void your printer's warranty in the United States — the Magnuson-Moss Warranty Act prohibits manufacturers from voiding warranties solely because non-OEM consumables were used. The risk of head clogs comes from poor-quality ink, not from the cartridge body itself, so the brand of the ink matters more than whether the cartridge is OEM.
+
+Reputable remanufacturers (LD Products, INKfinity, LemeroUtrust) use formulated inks; bargain-bin generics often use commodity ink that can dry, separate, or print poorly under heavy use.
 
 **How much does the average household actually spend on printer ink each year?**
 
@@ -170,7 +178,6 @@ Pew Research and Consumer Reports tracking put typical household ink spend at $8
 **What's the real difference between OEM, compatible, and remanufactured cartridges?**
 
 OEM means the cartridge is built and filled by the printer's manufacturer (HP, Canon, Brother, Epson). Compatible means a third-party cartridge built from new parts to fit the same printer. Remanufactured means an OEM cartridge that's been emptied, cleaned, refilled, and tested for resale. Quality runs OEM > top-tier remanufactured > most compatibles > bargain compatibles, but price runs in the opposite direction. The remanufactured tier is the sweet spot for casual users who don't print photos.
-
 
 ## What to watch for before you buy
 
@@ -182,7 +189,8 @@ OEM means the cartridge is built and filled by the printer's manufacturer (HP, C
 - **Refill kits work, but only on certain printers.** Tank-style models (EcoTank, MegaTank) are designed for refilling. Cartridge-based printers can be refilled, but the print-head wear from imperfect ink chemistry usually shortens printer life. Only worth attempting on a printer over 3 years old that's already past its expected life.
 - **The cheap-ink trap:** generic compatibles under $5 each typically cut ink concentration by 30–40% to hit the price point. Output looks fine for the first 20 pages, then fades visibly. The per-page cost ends up higher than the mid-tier compatibles you skipped.
 
-
 ## How we tracked this
 
-Price data is pulled from Keepa, which records every price change Amazon publishes for a listing — including third-party seller prices, used and refurbished offers, and the rolling 30-day, 90-day, and 1-year windows. We refresh signals for every product we cover at least once a week and tag any listing whose current price is more than 15% above its 90-day average so it surfaces as a bad-deal warning rather than a recommendation. Anything we recommend has cleared a minimum 6-month tracking window so we can see how the seller behaves over time, not just at the moment a reader lands on the page.
+Price data is pulled from Keepa, which records every price change Amazon publishes for a listing — including third-party seller prices, used and refurbished offers, and the rolling 30-day, 90-day, and 1-year windows. We refresh signals for every product we cover at least once a week and tag any listing whose current price is more than 15% above its 90-day average so it surfaces as a bad-deal warning rather than a recommendation.
+
+Anything we recommend has cleared a minimum 6-month tracking window so we can see how the seller behaves over time, not just at the moment a reader lands on the page.
