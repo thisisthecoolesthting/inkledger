@@ -2,3 +2,4 @@ node_modules/
 dist/
 .astro/
 .spawn-cache/
+_archive_duped/
