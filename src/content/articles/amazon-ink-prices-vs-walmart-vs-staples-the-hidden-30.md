@@ -16,8 +16,8 @@ heroImage: /images/hero/amazon-ink-prices-vs-walmart-vs-staples-the-hidden-30.jp
 We tracked 90-day pricing data for top-selling ink cartridges and found Amazon's 'everyday low prices' aren't always the lowest. Here's what the data shows:
 
 ### Key Findings
-1. **Amazon Premium**: For OEM cartridges like HP 61 (B0G1R37VJC) and Canon PG-245 (B0FVY8TTVN), Amazon prices averaged 12-17% higher than Walmart's in-store prices when accounting for periodic Walmart rollbacks.
-2. **Staples Surprise**: Staples consistently undercut Amazon on Brother TN-660 (B0DVT2JTRN) toner by $8-12 per cartridge, with free in-store pickup.
+1. **Amazon Premium**: For OEM cartridges like HP 61 and Canon PG-245, Amazon prices averaged 12-17% higher than Walmart's in-store prices when accounting for periodic Walmart rollbacks.
+2. **Staples Surprise**: Staples consistently undercut Amazon on Brother TN-660 toner by $8-12 per cartridge, with free in-store pickup.
 3. **Third-Party Wins**: Amazon Marketplace sellers offered better deals on compatible cartridges, with prices 30% lower than OEM options at Staples/Walmart.
 
 ### When to Buy Elsewhere

@@ -59,7 +59,7 @@ This creates a hidden cost trap. That $50 printer bargain might cost you $300 in
 - **Preemptive alerts**: Low-ink warnings triggering at 30-40% remaining capacity
 - **Region locking**: Cartridges sold in one country may not work in identical printers elsewhere
 
-Our testing reveals compatible cartridges like the [B0GF25F12C](https://www.amazon.com/dp/B0GF25F12C?tag=inkledger-20) can reduce costs by 60-80% with minimal quality differences for everyday documents. For high-volume users, bulk ink systems like Epson's EcoTank (using [B0CB75LML9](https://www.amazon.com/dp/B0CB75LML9?tag=inkledger-20) ink bottles) slash costs to under 1¢ per page.
+Our testing reveals compatible cartridges like the [this cartridge](https://www.amazon.com/dp/B0GF25F12C?tag=inkledger-20) can reduce costs by 60-80% with minimal quality differences for everyday documents. For high-volume users, bulk ink systems like Epson's EcoTank (using [this cartridge](https://www.amazon.com/dp/B0CB75LML9?tag=inkledger-20) ink bottles) slash costs to under 1¢ per page.
 
 The environmental impact is equally concerning. A lifecycle analysis by the European Toner and Inkjet Remanufacturers Association (ETIRA) found:
 
@@ -75,10 +75,10 @@ We compared four popular ink cartridge types across price, yield, and cost per p
 
 | Product | Type | Price | Page Yield | Cost/Page | Notes |
 |---------|------|-------|------------|-----------|-------|
-| [HP 302XL (B093TCYF9T)](https://www.amazon.com/dp/B093TCYF9T?tag=inkledger-20) | OEM | $38.99 | 600 | 6.5¢ | HP's "high yield" option |
-| [InkTek Compatible 302XL (B0GF25F12C)](https://www.amazon.com/dp/B0GF25F12C?tag=inkledger-20) | Compatible | $12.99 | 550 | 2.4¢ | 63% savings over OEM |
-| [Epson 502 Black (B004QM8SLG)](https://www.amazon.com/dp/B004QM8SLG?tag=inkledger-20) | OEM | $19.99 | 400 | 5.0¢ | Standard yield |
-| [EcoTank Bottle (B0CB75LML9)](https://www.amazon.com/dp/B0CB75LML9?tag=inkledger-20) | Refill | $12.99 | 4,500 | 0.3¢ | Requires EcoTank printer |
+| [HP 302XL](https://www.amazon.com/dp/B093TCYF9T?tag=inkledger-20) | OEM | $38.99 | 600 | 6.5¢ | HP's "high yield" option |
+| [InkTek Compatible 302XL](https://www.amazon.com/dp/B0GF25F12C?tag=inkledger-20) | Compatible | $12.99 | 550 | 2.4¢ | 63% savings over OEM |
+| [Epson 502 Black](https://www.amazon.com/dp/B004QM8SLG?tag=inkledger-20) | OEM | $19.99 | 400 | 5.0¢ | Standard yield |
+| [EcoTank Bottle](https://www.amazon.com/dp/B0CB75LML9?tag=inkledger-20) | Refill | $12.99 | 4,500 | 0.3¢ | Requires EcoTank printer |
 
 Key findings:
 
@@ -102,14 +102,14 @@ Beyond lab tests, we ran three months of actual usage comparisons across four pr
 
 **Document Printing**
 - OEM and compatible cartridges produced indistinguishable text quality at 10pt font size
-- [B0CGW2TFSV](https://www.amazon.com/dp/B0CGW2TFSV?tag=inkledger-20) compatible cartridges showed slight banding on photo paper when printing gradients
+- [this cartridge](https://www.amazon.com/dp/B0CGW2TFSV?tag=inkledger-20) compatible cartridges showed slight banding on photo paper when printing gradients
 - All cartridges exceeded 90% of claimed yield for mixed documents
 - Brother HL-L2350DW laser printer maintained consistent quality throughout testing
 
 **Photo Printing**
-- OEM cartridges (like [B0F54TYKF9](https://www.amazon.com/dp/B0F54TYKF9?tag=inkledger-20)) delivered 12-15% better color accuracy in Pantone matching
+- OEM cartridges (like [this cartridge](https://www.amazon.com/dp/B0F54TYKF9?tag=inkledger-20)) delivered 12-15% better color accuracy in Pantone matching
 - Compatible inks faded 5-8% faster in accelerated aging tests (simulating 1 year of display)
-- For casual photos, differences were negligible when using quality paper like [B09V3HN1MK](https://www.amazon.com/dp/B09V3HN1MK?tag=inkledger-20)
+- For casual photos, differences were negligible when using quality paper like [this cartridge](https://www.amazon.com/dp/B09V3HN1MK?tag=inkledger-20)
 - EcoTank systems showed the least variation between first and last prints
 
 **Gotchas to Watch**
@@ -174,7 +174,7 @@ These projections reveal how quickly OEM ink costs spiral compared to alternativ
 # Alternatives and Refills
 
 **Third-Party Cartridges**
-Brands like InkTek ([B0CGW48C3G](https://www.amazon.com/dp/B0CGW48C3G?tag=inkledger-20)) and LD provide reliable alternatives at 30-50% of OEM cost. Downsides include:
+Brands like InkTek ([this cartridge](https://www.amazon.com/dp/B0CGW48C3G?tag=inkledger-20)) and LD provide reliable alternatives at 30-50% of OEM cost. Downsides include:
 - Possible warranty implications
 - Slightly lower color accuracy
 - Occasional compatibility issues after updates
@@ -190,7 +190,7 @@ The best-performing compatible brands were:
 3. E-Z Ink (91% success rate)
 
 **Refill Kits**
-DIY refills for cartridges like [B00063RWT8](https://www.amazon.com/dp/B00063RWT8?tag=inkledger-20) can cost under 1¢/page but require:
+DIY refills for cartridges like [this cartridge](https://www.amazon.com/dp/B00063RWT8?tag=inkledger-20) can cost under 1¢/page but require:
 - Precise syringe work
 - Chip resetters for some models
 - Risk of leaks and printer damage
@@ -200,7 +200,7 @@ We tested five refill kits and found:
 - Success rate: 68% for first-time users
 - Improved to 92% success after three attempts
 
-The [B00063RWT8](https://www.amazon.com/dp/B00063RWT8?tag=inkledger-20) kit included the most comprehensive instructions and tools. Key tips for successful refilling:
+The [this cartridge](https://www.amazon.com/dp/B00063RWT8?tag=inkledger-20) kit included the most comprehensive instructions and tools. Key tips for successful refilling:
 1. Work on newspaper in a well-ventilated area
 2. Use the included rubber gloves
 3. Inject ink slowly to prevent air bubbles
@@ -225,7 +225,7 @@ Compared to EcoTank's 0.3¢/page or compatibles at 2.4¢/page, subscriptions rar
 No - the Digital Millennium Copyright Act specifically exempts printer ink cartridge interoperability. However, some manufacturers void warranties if third-party ink damages the printer. The 2021 FTC settlement with HP established that warranty voiding for using third-party ink alone violates the Magnuson-Moss Warranty Act.
 
 ### How can I tell if a compatible cartridge will work?
-Check reviews for your exact printer model. Cartridges like [B0CGW2TFSV](https://www.amazon.com/dp/B0CGW2TFSV?tag=inkledger-20) list compatible printers in the product description. Look for 'newly upgraded chip' in product titles, indicating recent compatibility updates.
+Check reviews for your exact printer model. Cartridges like [this cartridge](https://www.amazon.com/dp/B0CGW2TFSV?tag=inkledger-20) list compatible printers in the product description. Look for 'newly upgraded chip' in product titles, indicating recent compatibility updates.
 
 ### Why does my printer say 'non-genuine ink'?
 Manufacturers program printers to detect third-party chips. This doesn't affect functionality - you can usually press 'continue' to bypass the warning. Some models (like certain Canons) limit functionality with third-party ink, but cannot legally completely disable printing.
@@ -241,9 +241,9 @@ Unopened ink lasts 2-3 years. Once opened, use within 6 months for best results.
 
 # Bottom Line
 
-Printer manufacturers employ the razor-and-blade model to lock users into overpriced ink. For most home users, compatible cartridges like the [InkTek 302XL (B0GF25F12C)](https://www.amazon.com/dp/B0GF25F12C?tag=inkledger-20) deliver 80% of OEM quality at 30% of the cost. High-volume printers should consider:
+Printer manufacturers employ the razor-and-blade model to lock users into overpriced ink. For most home users, compatible cartridges like the [InkTek 302XL](https://www.amazon.com/dp/B0GF25F12C?tag=inkledger-20) deliver 80% of OEM quality at 30% of the cost. High-volume printers should consider:
 
-1. **Epson EcoTank** with [B0CB75LML9](https://www.amazon.com/dp/B0CB75LML9?tag=inkledger-20) ink for color printing
+1. **Epson EcoTank** with [this cartridge](https://www.amazon.com/dp/B0CB75LML9?tag=inkledger-20) ink for color printing
 2. **Brother HL-L2350DW** laser for monochrome documents
 
 For occasional use, disable automatic firmware updates and buy compatibles in multi-packs. Remember - that 'great deal' on a printer often means years of expensive ink purchases. The most shocking finding from our research? If printer ink followed the same pricing as crude oil (by volume), a gallon would cost just $0.12 instead of $4,600. That's a 38,333% markup - making printer ink perhaps the most overpriced consumer liquid on earth.

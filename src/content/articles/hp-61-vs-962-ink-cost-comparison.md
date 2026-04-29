@@ -47,7 +47,7 @@ Three critical factors most buyers miss:
 2. **Standby Performance**: After 30 days of inactivity, HP 61 cartridges showed 22% more nozzle clogging than HP 962 units in controlled humidity environments.
 3. **Yield Reporting Accuracy**: Independent testing confirms HP 962 cartridges consistently exceed their rated page yields by 8-12%, while HP 61 cartridges often fall 5% short under ISO testing conditions.
 
-The financial implications become stark when projecting long-term costs. A household printing 50 pages weekly would spend $287 annually on genuine HP 61 cartridges versus $324 for HP 962—but the latter delivers superior photo printing quality and reliability. Third-party options like the [B0CB75LML9](https://www.amazon.com/dp/B0CB75LML9?tag=inkledger-20) compatible HP 61 cartridges change this equation dramatically, offering 95% of OEM performance at 40% lower cost. However, for mission-critical business documents, our fade resistance tests show genuine HP 962 ink maintains legibility 38% longer than even premium third-party alternatives when exposed to sunlight.
+The financial implications become stark when projecting long-term costs. A household printing 50 pages weekly would spend $287 annually on genuine HP 61 cartridges versus $324 for HP 962—but the latter delivers superior photo printing quality and reliability. Third-party options like the [this cartridge](https://www.amazon.com/dp/B0CB75LML9?tag=inkledger-20) compatible HP 61 cartridges change this equation dramatically, offering 95% of OEM performance at 40% lower cost. However, for mission-critical business documents, our fade resistance tests show genuine HP 962 ink maintains legibility 38% longer than even premium third-party alternatives when exposed to sunlight.
 
 ## Head-to-head comparison
 
@@ -76,7 +76,7 @@ Key revelations from our expanded testing:
 Our stress tests simulated three years of typical usage across six printer models. The results challenge several industry assumptions:
 
 **Text Document Printing**
-Using the standard 5% coverage test page, the HP 962 delivered 8% more pages than rated before showing quality degradation. However, when printing dense legal documents with 15% coverage, the advantage grew to 22%—suggesting HP's yield estimates are conservative for text-heavy use. The [B0GF25F12C](https://www.amazon.com/dp/B0GF25F12C?tag=inkledger-20) third-party HP 61 alternative performed admirably in text applications, matching OEM yield at 30% lower cost.
+Using the standard 5% coverage test page, the HP 962 delivered 8% more pages than rated before showing quality degradation. However, when printing dense legal documents with 15% coverage, the advantage grew to 22%—suggesting HP's yield estimates are conservative for text-heavy use. The [this cartridge](https://www.amazon.com/dp/B0GF25F12C?tag=inkledger-20) third-party HP 61 alternative performed admirably in text applications, matching OEM yield at 30% lower cost.
 
 **Photo Printing**
 In controlled tests printing 4x6" photos, the HP 962 system showed remarkable efficiency:
@@ -97,7 +97,7 @@ We've modeled five usage scenarios with detailed breakdowns:
 **Casual Home User (50 pages/month)**
 - HP 61: $119.94/year (6 cartridges)
 - HP 962: $139.96/year (4 cartridges)
-- HP 962XL with [B0846GFNCQ](https://www.amazon.com/dp/B0846GFNCQ?tag=inkledger-20) refills: $59.80/year
+- HP 962XL with [this cartridge](https://www.amazon.com/dp/B0846GFNCQ?tag=inkledger-20) refills: $59.80/year
 
 **Home Office (150 pages/month)**
 - HP 61: $359.82/year
@@ -126,13 +126,13 @@ The crossover point where HP 962 systems become cheaper occurs at approximately 
 The aftermarket landscape differs dramatically between these cartridges:
 
 **HP 61 Alternatives**
-- [B0C7ZTV376](https://www.amazon.com/dp/B0C7ZTV376?tag=inkledger-20): Premium compatibles with 98% yield match
-- [B0848Q34F8](https://www.amazon.com/dp/B0848Q34F8?tag=inkledger-20): Reset tool for OEM cartridges
+- [this cartridge](https://www.amazon.com/dp/B0C7ZTV376?tag=inkledger-20): Premium compatibles with 98% yield match
+- [this cartridge](https://www.amazon.com/dp/B0848Q34F8?tag=inkledger-20): Reset tool for OEM cartridges
 - Refill challenges: 35% of users report leaks with DIY kits
 
 **HP 962 Alternatives**
 - Fewer third-party options due to complex chip technology
-- [B099NZC4PB](https://www.amazon.com/dp/B099NZC4PB?tag=inkledger-20): Reliable refill system
+- [this cartridge](https://www.amazon.com/dp/B099NZC4PB?tag=inkledger-20): Reliable refill system
 - Professional-grade compatibles scarce
 
 Critical considerations for refillers:
@@ -151,11 +151,11 @@ Through three main methods:
 2. Bulk ink purchases from secondary suppliers
 3. Reverse-engineered chips that skip HP's proprietary authentication steps
 
-We've dissected 12 third-party cartridges and found the [B0CB75LML9](https://www.amazon.com/dp/B0CB75LML9?tag=inkledger-20) uses pharmaceutical-grade pigments closest to HP's formulation.
+We've dissected 12 third-party cartridges and found the [this cartridge](https://www.amazon.com/dp/B0CB75LML9?tag=inkledger-20) uses pharmaceutical-grade pigments closest to HP's formulation.
 
 ### What's the maximum refill count for HP 962 cartridges?
 Our stress testing shows:
-- 5 refills with proper cleaning using [B099NZC4PB](https://www.amazon.com/dp/B099NZC4PB?tag=inkledger-20) kit
+- 5 refills with proper cleaning using [this cartridge](https://www.amazon.com/dp/B099NZC4PB?tag=inkledger-20) kit
 - 3 refills with generic syringes
 - 7+ refills possible with print head replacements
 
@@ -174,7 +174,7 @@ Our analysis shows:
 
 ## Bottom line
 
-The HP 61 vs. 962 decision ultimately depends on your printing profile. For light users (under 1,200 pages/year), third-party HP 61 cartridges like [B0C7ZTV376](https://www.amazon.com/dp/B0C7ZTV376?tag=inkledger-20) offer the simplest savings. Moderate users (1,200-5,000 pages/year) should consider switching to an HP 962 system—the [OfficeJet Pro 9010](https://www.amazon.com/dp/B093TCYF9T?tag=inkledger-20) pays for itself in ink savings within 14 months at 200 pages/month. Heavy users gain most from HP 962XL refills, with potential savings exceeding $1,000 annually at enterprise volumes.
+The HP 61 vs. 962 decision ultimately depends on your printing profile. For light users (under 1,200 pages/year), third-party HP 61 cartridges like [this cartridge](https://www.amazon.com/dp/B0C7ZTV376?tag=inkledger-20) offer the simplest savings. Moderate users (1,200-5,000 pages/year) should consider switching to an HP 962 system—the [OfficeJet Pro 9010](https://www.amazon.com/dp/B093TCYF9T?tag=inkledger-20) pays for itself in ink savings within 14 months at 200 pages/month. Heavy users gain most from HP 962XL refills, with potential savings exceeding $1,000 annually at enterprise volumes.
 
 Critical takeaways:
 1. HP 962's engineering advantages become significant beyond 75 pages/month

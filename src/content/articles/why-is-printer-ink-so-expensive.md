@@ -63,7 +63,7 @@ For a home user printing 100 pages/month, OEM ink costs can exceed $300/year - m
 Key findings from our 90-day print test:
 
 - **No Quality Difference**: Under 400x microscope examination, third-party inks showed identical dot precision on premium photo paper. Professional photographers in our blind test preferred prints from [E-Z Ink's](https://www.amazon.com/dp/B093TCYF9T?tag=inkledger-20) compatible Canon PGI-280 cartridges 53% of the time.
-- **Yield Variations**: Some compatibles like [B0CGW2TFSV](https://www.amazon.com/dp/B0CGW2TFSV?tag=inkledger-20) actually outlasted OEM cartridges by 12-15% due to more efficient ink utilization algorithms. The HP 902XL compatible from InkCartridgePlus yielded 1,150 pages vs. HP's claimed 1,000.
+- **Yield Variations**: Some compatibles like [this cartridge](https://www.amazon.com/dp/B0CGW2TFSV?tag=inkledger-20) actually outlasted OEM cartridges by 12-15% due to more efficient ink utilization algorithms. The HP 902XL compatible from InkCartridgePlus yielded 1,150 pages vs. HP's claimed 1,000.
 - **Warranty Impact**: Using third-party ink voids most printer warranties - a risk worth noting. However, Magnuson-Moss Warranty Act protections may apply if the alternative doesn't directly cause damage.
 - **Longevity Testing**: Accelerated aging tests showed third-party pigment black inks fade 8% faster than OEM after 5 years of light exposure, while dye-based alternatives showed no difference.
 
@@ -73,7 +73,7 @@ Beyond lab tests, we ran six months of real-world usage scenarios across three c
 
 **Document Printing**: The [Brother TN-660](https://www.amazon.com/dp/B004QM8SLG?tag=inkledger-20) compatible toner showed no fading or streaking after 5,000 pages in a law office environment. At $38 vs. $60 OEM, this saved $220 over 20,000 pages. However, in high-humidity Bangkok, the same toner exhibited slight clumping that required drum cleaning every 1,200 pages.
 
-**Photo Printing**: Third-party dye-based inks like [B0CGW48C3G](https://www.amazon.com/dp/B0CGW48C3G?tag=inkledger-20) matched OEM color accuracy for family photos but showed slight metamerism (color shift under different lighting) in professional gallery prints. Our tests under museum lighting revealed:
+**Photo Printing**: Third-party dye-based inks like [this cartridge](https://www.amazon.com/dp/B0CGW48C3G?tag=inkledger-20) matched OEM color accuracy for family photos but showed slight metamerism (color shift under different lighting) in professional gallery prints. Our tests under museum lighting revealed:
 - 3% delta-E variance in skin tones with Canon compatibles
 - 7% greater magenta shift in Epson alternatives under LED lighting
 - No visible differences in black-and-white prints
@@ -83,7 +83,7 @@ Beyond lab tests, we ran six months of real-world usage scenarios across three c
 **Gotchas to Watch**:
 - Some Epson EcoTank printers reject third-party inks after firmware updates. The ET-2800's 2025 Q3 update blocked 89% of alternative inks according to user reports.
 - HP Instant Ink subscriptions can be cheaper than OEM retail for light users (under 50 pages/month), but charge $1 per additional page - a 300% markup over bulk pricing.
-- Refill kits require careful handling - we recommend [B085VZPR2Y](https://www.amazon.com/dp/B085VZPR2Y?tag=inkledger-20) for beginners due to its spill-proof syringes and color-coded bottles.
+- Refill kits require careful handling - we recommend [this cartridge](https://www.amazon.com/dp/B085VZPR2Y?tag=inkledger-20) for beginners due to its spill-proof syringes and color-coded bottles.
 - Laser printers using [Brother TN-660](https://www.amazon.com/dp/B004QM8SLG?tag=inkledger-20) compatibles may show slight background shading on legal documents - test with critical pages first.
 
 ## Cost Math

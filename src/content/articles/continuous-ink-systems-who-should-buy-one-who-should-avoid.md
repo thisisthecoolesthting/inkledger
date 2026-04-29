@@ -37,5 +37,5 @@ Continuous ink systems (CIS) like Epson's EcoTank and HP's Smart Tank promise to
 ❌ Those needing compact printers  
 ❌ Anyone who balks at quarterly printhead cleanings  
 
-**Pro Tip**: The Epson EcoTank ET-2800 (B0G1R37VJC) currently offers the lowest cost-per-page at $169, while the HP Smart Tank 500 (B0FVY8TTVN) has faster drying times for quick notes. Both use ~$15 bottles that print 6,000 pages.
+**Pro Tip**: The Epson EcoTank ET-2800 currently offers the lowest cost-per-page at $169, while the HP Smart Tank 500 has faster drying times for quick notes. Both use ~$15 bottles that print 6,000 pages.
 

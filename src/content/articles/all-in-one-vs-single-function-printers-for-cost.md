@@ -27,5 +27,5 @@ Key considerations:
 2. **Ink costs**: Compare the cost per milliliter of ink. All-in-ones frequently use smaller, more expensive cartridges.
 3. **Yield**: Check the page yield estimates - some all-in-ones have surprisingly low yields for their cartridge prices.
 
-Our testing found the best value comes from pairing a basic single-function printer with a standalone scanner if needed. The HP [B0G1R37VJC] and Brother [B0FVY8TTVN] single-function models consistently deliver the lowest cost per page, while the Epson [B0DVT2JTRN] offers reliable all-in-one functionality if you truly need the features.
+Our testing found the best value comes from pairing a basic single-function printer with a standalone scanner if needed. The HP this cartridge and Brother this cartridge single-function models consistently deliver the lowest cost per page, while the Epson this cartridge offers reliable all-in-one functionality if you truly need the features.
 

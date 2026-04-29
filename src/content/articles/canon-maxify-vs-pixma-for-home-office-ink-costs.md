@@ -28,7 +28,7 @@ The **MAXIFY** series (like the [MAXIFY GX7021](https://www.amazon.com/dp/B0G1R3
 The **PIXMA** series (e.g., [PIXMA TR4720](https://www.amazon.com/dp/B0FVY8TTVN)) is more budget-friendly upfront but may cost more over time:
 - **Standard cartridges**: Uses smaller cartridges (e.g., PG-245/CL-246) that need frequent replacements.
 - **Cost per page**: Around **$0.08–$0.12** for black-and-white, nearly double the MAXIFY’s rate.
-- **Refill options**: Third-party compatible cartridges (like [B0DVT2JTRN](https://www.amazon.com/dp/B0DVT2JTRN)) can cut costs by 50% but may void warranties.
+- **Refill options**: Third-party compatible cartridges (like [this cartridge](https://www.amazon.com/dp/B0DVT2JTRN)) can cut costs by 50% but may void warranties.
 
 ### Which Should You Choose?
 - **High-volume users**: MAXIFY saves money long-term despite higher upfront costs.

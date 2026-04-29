@@ -110,7 +110,7 @@ Breaking down the true savings across different usage scenarios:
 
 For the [B0CGW48C3G multipack](https://www.amazon.com/dp/B0CGW48C3G?tag=inkledger-20), buying 4+ cartridges dropped the cost per ml below OEM refill bottles. Bulk purchases of certain generics could save up to 82% compared to buying individual OEM cartridges.
 
-Laser toner generics like the [B085VZPR2Y](https://www.amazon.com/dp/B085VZPR2Y?tag=inkledger-20) offered the steepest discounts at 72% savings, with the added benefit of not drying out like liquid inks. Our analysis found that for monochrome laser printers, generic toners virtually always make financial sense unless printing legal documents requiring perfect clarity.
+Laser toner generics like the [this cartridge](https://www.amazon.com/dp/B085VZPR2Y?tag=inkledger-20) offered the steepest discounts at 72% savings, with the added benefit of not drying out like liquid inks. Our analysis found that for monochrome laser printers, generic toners virtually always make financial sense unless printing legal documents requiring perfect clarity.
 
 Hidden costs to consider:
 - **Replacement printers**: 3% of generic ink users needed premature printer replacements vs 1% for OEM (based on our survey of 200 users)

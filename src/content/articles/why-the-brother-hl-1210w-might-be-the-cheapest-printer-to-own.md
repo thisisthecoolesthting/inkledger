@@ -17,7 +17,7 @@ The Brother HL-1210W consistently ranks as one of the most cost-effective printe
 
 ### 1. Toner Economics
 
-At $1699 for the TN-660 standard yield cartridge (B0G1R37VJC), each page costs approximately **1.4 cents** based on its 1,200-page yield. Compatible toners like the LD-TN660 (B0FVY8TTVN) drop this to under 1 cent per page.
+At $1699 for the TN-660 standard yield cartridge, each page costs approximately **1.4 cents** based on its 1,200-page yield. Compatible toners like the LD-TN660 drop this to under 1 cent per page.
 
 ### 2. No Ink Drying Woes
 

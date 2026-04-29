@@ -52,10 +52,10 @@ Compatible cartridges bypass these tricks but introduce new variables: pigment s
 
 | Model               | Type       | Price | Yield (pages) | Cost/page | Warranty impact | Best for          |
 |---------------------|------------|-------|---------------|-----------|-----------------|-------------------|
-| HP 61XL (OEM)       | [B0DHV8SCLS](https://www.amazon.com/dp/B0DHV8SCLS?tag=inkledger-20) | $38   | 300           | $0.127    | Full            | Photos, resumes   |
-| InkTec 61XL         | [B0G63G9LRJ](https://www.amazon.com/dp/B0G63G9LRJ?tag=inkledger-20) | $16   | 280           | $0.057    | Voided          | Homework, drafts  |
-| Canon PG-245 OEM    | [B00WSAXBQ0](https://www.amazon.com/dp/B00WSAXBQ0?tag=inkledger-20) | $29   | 180           | $0.161    | Full            | Office docs       |
-| Epson 502 Compatible | [B0DHV7ZWH2](https://www.amazon.com/dp/B0DHV7ZWH2?tag=inkledger-20) | $12   | 150           | $0.080    | Voided          | Internal reports  |
+| HP 61XL (OEM)       | [this cartridge](https://www.amazon.com/dp/B0DHV8SCLS?tag=inkledger-20) | $38   | 300           | $0.127    | Full            | Photos, resumes   |
+| InkTec 61XL         | [this cartridge](https://www.amazon.com/dp/B0G63G9LRJ?tag=inkledger-20) | $16   | 280           | $0.057    | Voided          | Homework, drafts  |
+| Canon PG-245 OEM    | [this cartridge](https://www.amazon.com/dp/B00WSAXBQ0?tag=inkledger-20) | $29   | 180           | $0.161    | Full            | Office docs       |
+| Epson 502 Compatible | [this cartridge](https://www.amazon.com/dp/B0DHV7ZWH2?tag=inkledger-20) | $12   | 150           | $0.080    | Voided          | Internal reports  |
 
 **Extended Analysis**: 
 - **Color Gamut**: OEM cartridges cover 98% of sRGB vs 89-92% for compatibles

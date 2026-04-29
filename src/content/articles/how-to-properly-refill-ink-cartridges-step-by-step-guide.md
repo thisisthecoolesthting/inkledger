@@ -67,10 +67,10 @@ The environmental impact is equally impressive - we calculated that proper refil
 Key findings from our 6-month testing period:
 - The $8.50 [EZ Ink Pro](https://www.amazon.com/dp/B093TCYF9T?tag=inkledger-20) bottles leaked in 3/5 tests and caused 2 printer failures
 - Only kits with air balance tools (like the [PrecisionFill](https://www.amazon.com/dp/B0CB75LML9?tag=inkledger-20)) prevented blotching on photo paper
-- Generic inks faded 27% faster than OEM in accelerated testing, except [B0F54TYKF9](https://www.amazon.com/dp/B0F54TYKF9?tag=inkledger-20) which matched OEM performance
+- Generic inks faded 27% faster than OEM in accelerated testing, except [this cartridge](https://www.amazon.com/dp/B0F54TYKF9?tag=inkledger-20) which matched OEM performance
 - The [JetTank Pro](https://www.amazon.com/dp/B08Y2VRSQ9?tag=inkledger-20) vacuum system reduced refill time by 63% for office use
 
-Surprising discovery: Cartridges refilled with [B0CB75LML9](https://www.amazon.com/dp/B0CB75LML9?tag=inkledger-20) ink actually yielded 12% more pages than new OEM cartridges in our Epson tests.
+Surprising discovery: Cartridges refilled with [this cartridge](https://www.amazon.com/dp/B0CB75LML9?tag=inkledger-20) ink actually yielded 12% more pages than new OEM cartridges in our Epson tests.
 
 ## Real-World Performance
 
@@ -101,7 +101,7 @@ At scale: A home printing 1,200 pages/year saves $72 annually. The [B0CGW2TFSV b
 
 For businesses:
 - Law office saving $380/month refilling 15 HP 952XL cartridges
-- School saving $2,100/year using [B0CGW2TFSV](https://www.amazon.com/dp/B0CGW2TFSV?tag=inkledger-20) in 8 printers
+- School saving $2,100/year using [this cartridge](https://www.amazon.com/dp/B0CGW2TFSV?tag=inkledger-20) in 8 printers
 - Photography studio cut ink costs by 62% while maintaining gallery-quality prints
 
 ## Alternatives and Refills
@@ -109,8 +109,8 @@ For businesses:
 For those who hate messes:
 
 1. **EcoTank printers**: The [B08HSNHJRH model](https://www.amazon.com/dp/B08HSNHJRH?tag=inkledger-20) costs $0.005/page with no refilling needed
-2. **Laser printers**: Toner doesn't dry out like ink - the [B08KJYH6P5](https://www.amazon.com/dp/B08KJYH6P5?tag=inkledger-20) yields 5,000 pages
-3. **Third-party cartridges**: But avoid [B0846GFNCQ](https://www.amazon.com/dp/B0846GFNCQ?tag=inkledger-20) — 31% failure rate in our tests
+2. **Laser printers**: Toner doesn't dry out like ink - the [this cartridge](https://www.amazon.com/dp/B08KJYH6P5?tag=inkledger-20) yields 5,000 pages
+3. **Third-party cartridges**: But avoid [this cartridge](https://www.amazon.com/dp/B0846GFNCQ?tag=inkledger-20) — 31% failure rate in our tests
 
 Advanced refill techniques:
 - Use the [B00063RWT8 surfactant](https://www.amazon.com/dp/B00063RWT8?tag=inkledger-20) (2-3 drops per 10ml ink) to prevent nozzle clogs
@@ -120,7 +120,7 @@ Advanced refill techniques:
 ## FAQ
 
 ### Will refilling void my warranty?
-Most printer warranties can't legally void coverage for using third-party ink, but they can deny claims if you damage the printer during refilling. Epson and HP specifically exclude refill-related damage. We recommend using warranty-safe kits like [B0CB75LML9](https://www.amazon.com/dp/B0CB75LML9?tag=inkledger-20) that include non-damaging tools.
+Most printer warranties can't legally void coverage for using third-party ink, but they can deny claims if you damage the printer during refilling. Epson and HP specifically exclude refill-related damage. We recommend using warranty-safe kits like [this cartridge](https://www.amazon.com/dp/B0CB75LML9?tag=inkledger-20) that include non-damaging tools.
 
 ### How many times can I refill a cartridge?
 Quality cartridges like HP 62XL handle 3-5 refills before the sponge degrades. Aftermarket cartridges often fail after 1-2 refills. Signs it's time to replace:
@@ -132,7 +132,7 @@ Quality cartridges like HP 62XL handle 3-5 refills before the sponge degrades. A
 Cheap inks lack optical brighteners. The [B0F54TYKF9 pigment ink](https://www.amazon.com/dp/B0F54TYKF9?tag=inkledger-20) matches OEM fade resistance for documents. For photos, use [B08Y2VRSQ9 archival ink](https://www.amazon.com/dp/B08Y2VRSQ9?tag=inkledger-20).
 
 ### Can I mix different ink brands?
-Never. Chemical reactions can create sludge. One user mixed [B093TCYF9T](https://www.amazon.com/dp/B093TCYF9T?tag=inkledger-20) with OEM ink and permanently clogged their print head. Always fully flush old ink before switching brands.
+Never. Chemical reactions can create sludge. One user mixed [this cartridge](https://www.amazon.com/dp/B093TCYF9T?tag=inkledger-20) with OEM ink and permanently clogged their print head. Always fully flush old ink before switching brands.
 
 ### How do I store unused ink?
 Keep ink bottles upright at 60-75°F. The [B0CB75LML9 kit](https://www.amazon.com/dp/B0CB75LML9?tag=inkledger-20) includes storage caps that prevent oxidation. For long-term storage:

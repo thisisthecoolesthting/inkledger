@@ -87,9 +87,9 @@ For those wanting to avoid subscriptions:
 1. **High-yield OEM cartridges:** The [HP 962XL](https://www.amazon.com/dp/B0CB75LML9?tag=inkledger-20) cuts per-page costs by 40% vs. standard cartridges
 2. **Reliable third-party:** [Inkjet Superstore 964XL](https://www.amazon.com/dp/B093TCYF9T?tag=inkledger-20) passed our 3-month clogging tests
 3. **Refill systems:** The [Ecotank-compatible B0GF25F12C](https://www.amazon.com/dp/B0GF25F12C?tag=inkledger-20) works for high-volume users
-4. **Laser printers:** Brother's [B085VZPR2Y](https://www.amazon.com/dp/B085VZPR2Y?tag=inkledger-20) costs $0.03/page for toner
+4. **Laser printers:** Brother's [this cartridge](https://www.amazon.com/dp/B085VZPR2Y?tag=inkledger-20) costs $0.03/page for toner
 
-For instance, a small business owner printing 500 pages/month for invoices and labels might find Instant Ink’s $24.99/month plan competitive with OEM cartridges but still more expensive than refill kits like the [Epson 502](https://www.amazon.com/dp/B004QM8SLG?tag=inkledger-20), which cost just $0.005/page. Switching to a laser printer like Brother’s [B085VZPR2Y](https://www.amazon.com/dp/B085VZPR2Y?tag=inkledger-20) could reduce costs to $0.03/page.
+For instance, a small business owner printing 500 pages/month for invoices and labels might find Instant Ink’s $24.99/month plan competitive with OEM cartridges but still more expensive than refill kits like the [Epson 502](https://www.amazon.com/dp/B004QM8SLG?tag=inkledger-20), which cost just $0.005/page. Switching to a laser printer like Brother’s [this cartridge](https://www.amazon.com/dp/B085VZPR2Y?tag=inkledger-20) could reduce costs to $0.03/page.
 
 ## FAQ
 
@@ -110,4 +110,4 @@ Print a usage report from your printer menu before choosing a plan. Most users u
 
 ## Bottom line
 
-HP Instant Ink makes financial sense only for very low-volume printers (under 30 pages/month) or those unwilling to use third-party inks. At typical home printing volumes, high-yield OEM cartridges like the [HP 962XL](https://www.amazon.com/dp/B0CB75LML9?tag=inkledger-20) or reliable third-party alternatives such as [Inkjet Superstore's 964XL](https://www.amazon.com/dp/B093TCYF9T?tag=inkledger-20) deliver better long-term savings without subscription lock-in. For heavy users, refill kits or switching to a laser printer like Brother's [B085VZPR2Y](https://www.amazon.com/dp/B085VZPR2Y?tag=inkledger-20) cuts costs by 60-80% compared to Instant Ink.
+HP Instant Ink makes financial sense only for very low-volume printers (under 30 pages/month) or those unwilling to use third-party inks. At typical home printing volumes, high-yield OEM cartridges like the [HP 962XL](https://www.amazon.com/dp/B0CB75LML9?tag=inkledger-20) or reliable third-party alternatives such as [Inkjet Superstore's 964XL](https://www.amazon.com/dp/B093TCYF9T?tag=inkledger-20) deliver better long-term savings without subscription lock-in. For heavy users, refill kits or switching to a laser printer like Brother's [this cartridge](https://www.amazon.com/dp/B085VZPR2Y?tag=inkledger-20) cuts costs by 60-80% compared to Instant Ink.

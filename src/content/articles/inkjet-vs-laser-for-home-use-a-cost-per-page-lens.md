@@ -27,7 +27,7 @@ These costs compound quickly for families printing school assignments or frequen
 
 While laser printers like the Brother HL-L2350cost more initially ($200-$300), their toner yields are dramatically higher:
 - **Brother TN-760 **: $49.99 for ~1,200 pages = **4.2¢ per page**
-- **High-yield TN-770 (B0B2RM68G2)**: $69.99 for ~3,000 pages = **2.3¢ per page**
+- **High-yield TN-770**: $69.99 for ~3,000 pages = **2.3¢ per page**
 
 ## The Breakpoint Calculation
 
@@ -43,7 +43,7 @@ After three years, the laser’s $150 higher upfront cost is offset by $31.50 in
 2. **Low-Volume Users**: If you print <200 pages/year, inkjets avoid toner drying issues
 3. **EcoTank/MegaTank Models**: Models like Epson’s can undercut laser costs
 
-## Pro Tip: Third-often cut costs by 40-60% without sacrificing print quality in our tests. For inkjets, bulk ink systems (B07F97MPYT) require more maintenance but can reduce costs to <1¢ per page.
+## Pro Tip: Third-often cut costs by 40-60% without sacrificing print quality in our tests. For inkjets, bulk ink systems require more maintenance but can reduce costs to <1¢ per page.
 
 *Methodology: Prices based on 30-day Amazon averages via Keepa. Page yields from manufacturer specifications under ISO/IEC 19752 (laser) and 24711 (inkjet) standards.*
 

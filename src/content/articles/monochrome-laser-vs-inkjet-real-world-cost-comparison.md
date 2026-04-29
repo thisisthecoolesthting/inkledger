@@ -19,7 +19,7 @@ For home offices, students, or anyone printing reams of text documents, the choi
 
 #### Upfront Costs: Laser Wins (Usually)
 
-The **Brother HL-L2350**—a best-selling monochrome laser—currently retails for $169.99. Compare that to the **HP OfficeJet Pro 8025e (B0FVY8TTVN)** at $499.99. But wait: that HP is a multifunction inkjet. A fairer comparison might be the **Canon PIXMA TR4720 (B0DVT2JTRN)** at $378.99, still over twice the Brother's price.
+The **Brother HL-L2350**—a best-selling monochrome laser—currently retails for $169.99. Compare that to the **HP OfficeJet Pro 8025e** at $499.99. But wait: that HP is a multifunction inkjet. A fairer comparison might be the **Canon PIXMA TR4720** at $378.99, still over twice the Brother's price.
 
 *Key Insight*: Basic lasers start cheaper, but all-in-one inkjets bundle scanning/copying. If you need those features, the gap narrows.
 
@@ -28,7 +28,7 @@ The **Brother HL-L2350**—a best-selling monochrome laser—currently retails f
 - **Brother TN-760 **: $998 for ~2,600 pages ($0.038/page)
 - **HP 962**: $9999 for ~2,000 pages ($0.50/page—yes, really)
 
-Even accounting for laser drums (the **Brother DR-730 (B0D9NVPCFS)** adds $2134 every 12,000 pages), lasers dominate for volume. Our testing found most home lasers deliver their rated yields, while inkjets often fall short.
+Even accounting for laser drums (the **Brother DR-730** adds $2134 every 12,000 pages), lasers dominate for volume. Our testing found most home lasers deliver their rated yields, while inkjets often fall short.
 
 #### When Inkjets Make Sense
 

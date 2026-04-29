@@ -19,7 +19,7 @@ heroImage: /images/hero/hp-officejet-pro-vs-brother-mfc-l2710dw-tco-over-3-years
 When choosing between HP's OfficeJet Pro inkjet printers and Brother's MFC-L2710DW laser printer, the upfront price is just the beginning. Here's how the costs stack up over 3 years for a typical home office printing 500 pages/month:
 
 ### Hardware Costs
-- **HP OfficeJet Pro 9015e (B07VVK39F7)**: $299
+- **HP OfficeJet Pro 9015e**: $299
 - **Brother MFC-L2710**: $349
 
 ### Consumables (3-Year Projection)
@@ -31,7 +31,7 @@ When choosing between HP's OfficeJet Pro inkjet printers and Brother's MFC-L2710
 | **Total**      | **$1,736**       | **$731**            |
 
 ### Key Findings
-1. **Toner Wins on Volume**: Brother's TN-760 high-yield cartridge (B08616PS69) prints ~3,000 pages for $92 vs HP's 902XL cartridge at $45 for just 825 pages.
+1. **Toner Wins on Volume**: Brother's TN-760 high-yield cartridge prints ~3,000 pages for $92 vs HP's 902XL cartridge at $45 for just 825 pages.
 2. **Inkjet Hidden Costs**: HP's automatic cartridge cleaning consumes 15-20% of ink capacity annually.
 3. **Laser Reliability**: No printhead clogs mean fewer service interruptions for laser users.
 

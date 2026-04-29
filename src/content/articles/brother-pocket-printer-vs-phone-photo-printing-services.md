@@ -20,7 +20,7 @@ heroImage: /images/hero/brother-pocket-printer-vs-phone-photo-printing-services.
 
 Brother's portable photo printers (like the [PocketJet PJ-773](https://www.amazon.com/dp/B07F97MPYT)) promise instant prints from your phone, but at $0.50-$1.00 per 4x6 print, the costs add up fast. Here's how they stack against popular printing services:
 
-### Brother PocketJet PJ-773 (B07F97MPYT)
+### Brother PocketJet PJ-773
 - **Current price**: $849.99 (Amazon)
 - **Print cost**: $0.80/sheet with OEM thermal paper
 - **Pros**: No ink, waterproof prints, portable
