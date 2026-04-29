@@ -1,14 +1,14 @@
 ---
-title: Why subscribers to HP Instant Ink are overpaying (quantified)
-site: inkledger
-topic: Why subscribers to HP Instant Ink are overpaying (quantified)
-tier: full
-relatedProducts: []
-status: published
-heroImage: /images/hero/why-subscribers-to-hp-instant-ink-are-overpaying-quantified.jpg
-metaDescription: "Why Subscribers to HP Instant Ink Are Overpaying (Quantified)"
-publishedAt: 2026-04-24
-excerpt: "Why Subscribers to HP Instant Ink Are Overpaying (Quantified)"
+"title": "Why subscribers to HP Instant Ink are overpaying (quantified)"
+"site": "inkledger"
+"topic": "Why subscribers to HP Instant Ink are overpaying (quantified)"
+"tier": "full"
+"relatedProducts": []
+"status": "published"
+"heroImage": "/images/hero/why-subscribers-to-hp-instant-ink-are-overpaying-quantified.jpg"
+"metaDescription": "Why Subscribers to HP Instant Ink Are Overpaying (Quantified)"
+"publishedAt": 2026-04-24
+"excerpt": "Why Subscribers to HP Instant Ink Are Overpaying (Quantified)"
 ---
 ## Why Subscribers to HP Instant Ink Are Overpaying (Quantified)
 
