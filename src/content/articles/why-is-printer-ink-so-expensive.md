@@ -7,7 +7,7 @@ excerpt: Printer ink costs more per ounce than champagne. We analyze why manufac
   use razor-and-blade pricing models, compare OEM vs third-party cartridge costs,
   and reveal how to slash your printing expenses by 80% with refills and smart alternatives.
 pillarSlug: ink-cost-savings
-status: draft
+status: published
 tags:
 - printer ink pricing
 - razor and blade model

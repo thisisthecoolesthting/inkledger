@@ -16,7 +16,7 @@ relatedProducts:
 - B09VXQ221K
 - B098JD8HD3
 - B08PZBPXLZ
-status: draft
+status: published
 tags:
 - printer head cleaning
 - ink cartridge maintenance

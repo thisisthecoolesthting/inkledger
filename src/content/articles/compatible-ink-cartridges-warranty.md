@@ -8,7 +8,7 @@ excerpt: Many printer manufacturers claim using compatible ink voids warrantiesâ
   is this legally enforceable? We analyze warranty fine print, test third-party cartridge
   performance, and calculate long-term savings to separate fact from scare tactics.
 pillarSlug: printer-ink-alternatives
-status: draft
+status: published
 tags:
 - printer warranty
 - compatible ink

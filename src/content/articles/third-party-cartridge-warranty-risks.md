@@ -9,7 +9,7 @@ excerpt: Will using compatible cartridges void your warranty? We analyzed 47 act
   across 14 printer models. Most threats are bluff—but here's where real risk exists,
   and how to avoid it.
 pillarSlug: compatible-refill-solutions
-status: draft
+status: published
 tags:
 - printer warranties
 - third-party ink

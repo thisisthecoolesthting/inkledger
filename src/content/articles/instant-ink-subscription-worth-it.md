@@ -10,7 +10,7 @@ excerpt: HP Instant Ink promises affordable printing through monthly subscriptio
   the math works—and when refillable tanks or compatible cartridges save you $50+
   annually.
 pillarSlug: ink-cost-analysis
-status: draft
+status: published
 tags:
 - hp instant ink review
 - printer subscription services

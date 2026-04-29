@@ -8,7 +8,7 @@ excerpt: We analyzed 18 printers and their consumables to determine whether lase
   or inkjet technology delivers lower costs per page. The answer depends on your print
   volume, but we found some clear winners in both categories.
 pillarSlug: ink-cost-savings
-status: draft
+status: published
 tags:
 - laser vs inkjet
 - cost per page

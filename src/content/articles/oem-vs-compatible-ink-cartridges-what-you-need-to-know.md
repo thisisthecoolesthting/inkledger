@@ -8,7 +8,7 @@ excerpt: Choosing between OEM and compatible ink cartridges isn't just about pri
   about understanding yield, print quality, and hidden costs. We break down the real
   numbers so you can print smarter.
 pillarSlug: alternative-ink-solutions
-status: draft
+status: published
 tags:
 - printer ink comparison
 - compatible cartridges

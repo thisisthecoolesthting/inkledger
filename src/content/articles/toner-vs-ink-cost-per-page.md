@@ -8,7 +8,7 @@ excerpt: Inkjet or laser? We tested 18 cartridges to measure real cost per page,
   manufacturer yield claims—and showing you exactly when to switch technologies to
   cut printing costs in half.
 pillarSlug: ink-cost-analysis
-status: draft
+status: published
 tags:
 - printer ink cost
 - toner vs ink

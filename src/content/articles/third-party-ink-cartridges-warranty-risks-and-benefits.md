@@ -7,7 +7,7 @@ excerpt: Third-party ink cartridges can save 50-80% over OEM brands, but may voi
   printer warranties. This guide compares 8 options with cost-per-page math and documents
   which printer brands actually enforce warranty exclusions.
 pillarSlug: printer-ink-alternatives
-status: draft
+status: published
 tags:
 - compatible ink cartridges
 - printer warranty

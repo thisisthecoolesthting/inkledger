@@ -8,7 +8,7 @@ excerpt: Manufacturers' page yield claims often don't match reality. We tested 1
   cartridges to reveal how ink yields actually work, when third-party options make
   sense, and how to calculate your true cost per print.
 pillarSlug: ink-cost-savings
-status: draft
+status: published
 tags:
 - ink cartridge yield
 - cost per page

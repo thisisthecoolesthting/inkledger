@@ -8,7 +8,7 @@ excerpt: Printer manufacturers use razor-and-blade pricing to lock you into over
   ink. This guide compares OEM cartridges to refill kits and third-party alternatives,
   with cost-per-page math to help you break free from the cycle.
 pillarSlug: ink-cost-savings
-status: draft
+status: published
 tags:
 - printer ink pricing
 - ink cartridge alternatives

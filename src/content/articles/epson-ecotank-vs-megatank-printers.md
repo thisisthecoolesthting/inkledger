@@ -8,7 +8,7 @@ excerpt: Epson EcoTank and Canon MegaTank printers promise to slash your ink cos
   but which one delivers better savings? We break down the numbers on ink yields,
   cost per page, and long-term reliability.
 pillarSlug: ink-cost-savings
-status: draft
+status: published
 tags:
 - ink tank printers
 - Epson EcoTank

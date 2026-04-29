@@ -9,7 +9,7 @@ excerpt: Printer ink costs significantly more per ounce than many premium bevera
   We tested 15+ solutions to find the cheapest printing methods that deliver reliable
   results, from refill kits to third-party cartridges and tank systems.
 pillarSlug: compatible-refill-solutions
-status: draft
+status: published
 tags:
 - cheap printer ink
 - ink refill kits

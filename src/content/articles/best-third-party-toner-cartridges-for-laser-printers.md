@@ -10,7 +10,7 @@ excerpt: OEM toner cartridges exploit razor-and-blade pricing, but third-party a
   toner particle consistency, and calculated true cost-per-page to show where generics
   match or beat name-brand toners.
 pillarSlug: ink-toner-alternatives
-status: draft
+status: published
 tags:
 - laser-toner
 - compatible-cartridges

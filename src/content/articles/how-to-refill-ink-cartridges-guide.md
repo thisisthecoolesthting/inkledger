@@ -17,7 +17,7 @@ relatedProducts:
 - B0DYNQ1WP7
 - B0F37SVW8G
 - B0CZ3VL82T
-status: draft
+status: published
 tags:
 - ink refill kits
 - compatible cartridges

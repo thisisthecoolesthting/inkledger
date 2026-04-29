@@ -9,7 +9,7 @@ excerpt: Third-party ink can save you 70% or more over OEM cartridges, but only 
   We analyzed 18 months of printer error reports and lab tests to identify the most
   reliable aftermarket options.
 pillarSlug: alternative-ink-solutions
-status: draft
+status: published
 tags:
 - third party ink
 - ink cartridge warranty

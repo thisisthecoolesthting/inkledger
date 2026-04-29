@@ -4,7 +4,7 @@ site: inkledger
 topic: HP 61 vs HP 962 cost per page — which is actually cheaper per print
 tier: full
 relatedProducts: []
-status: draft
+status: published
 heroImage: /images/hero/hp-61-vs-hp-962-cost-per-page-which-is-actually-cheaper-per-print.jpg
 metaDescription: "HP 61 vs HP 962 Cost Per Page — Which Is Actually Cheaper Per Print?"
 publishedAt: 2026-04-24

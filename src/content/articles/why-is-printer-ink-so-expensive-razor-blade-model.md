@@ -9,7 +9,7 @@ excerpt: Printer manufacturers sell printers at a loss and recoup profits throug
   compatible cartridges, and reveals the cheapest ways to print at home without sacrificing
   quality.
 pillarSlug: ink-cost-savings
-status: draft
+status: published
 tags:
 - printer ink pricing
 - razor and blade model

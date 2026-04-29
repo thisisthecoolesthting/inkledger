@@ -8,7 +8,7 @@ excerpt: Canon PG-245 ink cartridges are notorious for their high cost-per-page.
   guide compares OEM, compatible, and refill options with real-world yield tests and
   cost breakdowns to help you print affordably.
 pillarSlug: printer-ink-alternatives
-status: draft
+status: published
 tags:
 - canon pg-245
 - ink cartridge alternatives

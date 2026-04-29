@@ -10,7 +10,7 @@ excerpt: Canon PG-245 cartridges cost up to $0.19 per page. We tested six altern
   documents.
 publishedAt: '2026-04-28T00:00:00.000Z'
 pillarSlug: compatible-refill-solutions
-status: draft
+status: published
 tags:
 - canon pg-245
 - ink cartridge alternatives

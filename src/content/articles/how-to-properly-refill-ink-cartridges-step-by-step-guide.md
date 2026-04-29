@@ -15,7 +15,7 @@ relatedProducts:
 - B0F54TYKF9
 - B0GF25F12C
 - B0CGW2TFSV
-status: draft
+status: published
 tags:
 - ink refill guide
 - printer maintenance

@@ -17,7 +17,7 @@ relatedProducts:
 - B0CGW48C3G
 - B00063RWT8
 - B00063RWXO
-status: draft
+status: published
 tags:
 - printer ink pricing
 - OEM vs compatible cartridges

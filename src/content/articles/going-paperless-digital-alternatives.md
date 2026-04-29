@@ -8,7 +8,7 @@ excerpt: When printer ink costs more than champagne per ounce, it's time to expl
   digital alternatives. We analyze scanners, e-sign tools, and document apps against
   printing costs—with hard numbers on break-even points.
 pillarSlug: going-paperless
-status: draft
+status: published
 tags:
 - paperless office
 - document scanning

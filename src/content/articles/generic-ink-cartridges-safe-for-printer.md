@@ -8,7 +8,7 @@ excerpt: Generic ink cartridges can save you 70% per page, but are they safe? We
   print quality, warranty risks, and hidden costs across 18 months of real-world testing
   to help you decide.
 pillarSlug: printer-ink-alternatives
-status: draft
+status: published
 tags:
 - compatible ink cartridges
 - printer ink safety

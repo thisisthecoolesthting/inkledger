@@ -8,7 +8,7 @@ excerpt: HP's Instant Ink subscription promises convenience, but our cost-per-pa
   analysis reveals surprising scenarios where buying cartridges outright—or using
   third-party alternatives—can save you hundreds per year.
 pillarSlug: ink-cost-savings
-status: draft
+status: published
 tags:
 - hp instant ink review
 - printer subscription cost

@@ -8,7 +8,7 @@ excerpt: HP Instant Ink promises to save you money on printer ink, but does it r
   We compare subscription costs to OEM cartridges, refill kits, and third-party alternatives
   across 5 real-world printing scenarios.
 pillarSlug: ink-cost-savings
-status: draft
+status: published
 tags:
 - hp instant ink
 - printer subscription

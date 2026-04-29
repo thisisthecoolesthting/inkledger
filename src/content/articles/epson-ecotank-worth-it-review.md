@@ -8,7 +8,7 @@ excerpt: Epson EcoTank printers promise massive ink savings with refillable tank
   Our 18-month testing of 12 models and 250,000+ pages reveals the true cost per page,
   reliability tradeoffs, and when they beat cartridges—or don't.
 pillarSlug: printer-buying-guides
-status: draft
+status: published
 tags:
 - ecotank
 - refillable-printers

@@ -8,7 +8,7 @@ excerpt: Choosing between Brother laser and inkjet printers? Our deep-dive cost 
   compares upfront prices, cartridge yields, and long-term expenses—with real-world
   testing data on 12 models.
 pillarSlug: ink-cost-savings
-status: draft
+status: published
 tags:
 - brother printers
 - laser vs inkjet

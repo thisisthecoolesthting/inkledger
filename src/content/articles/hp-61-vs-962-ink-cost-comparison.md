@@ -9,7 +9,7 @@ excerpt: HP's 61 and 962 ink cartridges serve different printers but share simil
   when third-party alternatives make sense, and how refill kits can cut costs by up
   to 80% compared to OEM purchases.
 pillarSlug: ink-cost-savings
-status: draft
+status: published
 tags:
 - hp ink comparison
 - printer ink savings

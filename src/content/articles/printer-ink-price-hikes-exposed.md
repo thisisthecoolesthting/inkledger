@@ -8,7 +8,7 @@ excerpt: Printer ink costs more per ounce than champagne. We tracked 12 months o
   OEM cartridge pricing to reveal how HP, Epson and Canon manipulate yields, then
   tested third-party alternatives that deliver identical quality at 70% savings.
 pillarSlug: ink-cost-analysis
-status: draft
+status: published
 tags:
 - printer ink pricing
 - razor and blade model

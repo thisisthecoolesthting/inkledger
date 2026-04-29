@@ -8,7 +8,7 @@ excerpt: HP's 61 and 962 cartridges contain nearly identical ink but differ by 3
   in price. We tested actual yield, compared cost per page, and analyzed when third-party
   alternatives make financial sense for home printing.
 pillarSlug: ink-cost-analysis
-status: draft
+status: published
 tags:
 - hp ink comparison
 - cost per page

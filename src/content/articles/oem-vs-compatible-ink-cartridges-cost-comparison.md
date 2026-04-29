@@ -17,7 +17,7 @@ relatedProducts:
 - B0C7ZTV376
 - B099NZC4PB
 - B0848Q34F8
-status: draft
+status: published
 tags:
 - printer ink price comparison
 - compatible cartridges vs oem

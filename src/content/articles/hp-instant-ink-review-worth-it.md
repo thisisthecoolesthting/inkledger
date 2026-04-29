@@ -18,7 +18,7 @@ relatedProducts:
 - B0C7ZTV376
 - B099NZC4PB
 - B0848Q34F8
-status: draft
+status: published
 tags:
 - hp instant ink
 - ink subscription

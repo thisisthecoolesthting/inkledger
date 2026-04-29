@@ -8,7 +8,7 @@ excerpt: Laser toner lasts longer but costs more upfront. Inkjet cartridges blee
   money on refills. We ran the numbers on 18 real-world products to find where each
   technology wins—and how to hack the system with refills and third-party options.
 pillarSlug: ink-cost-savings
-status: draft
+status: published
 tags:
 - toner vs ink
 - cost per page

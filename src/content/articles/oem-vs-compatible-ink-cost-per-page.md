@@ -8,7 +8,7 @@ excerpt: Compatible cartridges promise 60% savings, but do they deliver? We meas
   cost per page, print quality, color accuracy, and longevity across 2,000+ test pages.
   Here's where the money really adds up—and when OEM makes sense.
 pillarSlug: ink-toner-alternatives
-status: draft
+status: published
 tags:
 - oem-vs-compatible
 - cost-per-page

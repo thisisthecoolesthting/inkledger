@@ -9,7 +9,7 @@ excerpt: HP Instant Ink promises savings, but the math is complicated. We tested
   and built real-world cost scenarios. Here's when Instant Ink actually wins—and when
   Brother lasers or Epson EcoTank printers deliver better value.
 pillarSlug: printer-cost-analysis
-status: draft
+status: published
 tags:
 - hp-instant-ink
 - ink-subscription

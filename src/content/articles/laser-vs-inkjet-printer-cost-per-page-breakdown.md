@@ -8,7 +8,7 @@ excerpt: Wondering whether a laser or inkjet printer will save you more money? O
   detailed cost breakdown compares upfront costs, ink/toner expenses, and long-term
   value to help you make an informed decision.
 pillarSlug: ink-cost-savings
-status: draft
+status: published
 tags:
 - laser vs inkjet
 - cost per page
