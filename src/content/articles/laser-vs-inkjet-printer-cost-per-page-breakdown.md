@@ -1,12 +1,8 @@
 ---
 title: 'Laser vs. Inkjet: A Detailed Cost Per Page Breakdown'
-metaDescription: Stop overpaying for printer ink. We compare laser vs. inkjet printers
-  on cost per page, real-world performance, and money-saving alternatives to help
-  you choose the right printer for your needs.
+metaDescription: Stop overpaying for printer ink. We compare laser vs. inkjet printers on cost per page, real-world performance, and money-saving alternatives to help you choose the right printer for your needs.
 publishedAt: '2026-04-28T00:00:00.000Z'
-excerpt: Wondering whether a laser or inkjet printer will save you more money? Our
-  detailed cost breakdown compares upfront costs, ink/toner expenses, and long-term
-  value to help you make an informed decision.
+excerpt: Wondering whether a laser or inkjet printer will save you more money? Our detailed cost breakdown compares upfront costs, ink/toner expenses, and long-term value to help you make an informed decision.
 pillarSlug: ink-cost-savings
 status: published
 tags:
@@ -26,8 +22,7 @@ relatedProducts:
 - B085VZPR2Y
 - B0CGW2TFSV
 - B0CGW48C3G
-heroImage: /images/hero/inkledger-45-seed-topics.jpg
----
+heroImage: /images/hero/laser-vs-inkjet-printer-cost-per-page-breakdown.jpg---
 
 ## Introduction
 

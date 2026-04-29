@@ -1,12 +1,8 @@
 ---
 title: 'Laser vs. Inkjet: Calculating Your True Cost Per Page'
-metaDescription: A data-driven comparison of laser and inkjet printers, breaking down
-  the real cost per page including ink, toner, and maintenance. Find out which technology
-  saves you money based on your printing habits.
+metaDescription: A data-driven comparison of laser and inkjet printers, breaking down the real cost per page including ink, toner, and maintenance. Find out which technology saves you money based on your printing habits.
 publishedAt: '2026-04-28T00:00:00Z'
-excerpt: We analyzed 18 printers and their consumables to determine whether laser
-  or inkjet technology delivers lower costs per page. The answer depends on your print
-  volume, but we found some clear winners in both categories.
+excerpt: We analyzed 18 printers and their consumables to determine whether laser or inkjet technology delivers lower costs per page. The answer depends on your print volume, but we found some clear winners in both categories.
 pillarSlug: ink-cost-savings
 status: published
 tags:
@@ -25,11 +21,9 @@ relatedProducts:
 - B0F54TYKF9
 - B085VZPR2Y
 - B00063RWT8
-heroImage: /images/hero/inkjet-vs-laser-for-home-use-a-cost-per-page-lens.jpg
+heroImage: /images/hero/laser-printer-vs-inkjet-cost-per-page.jpg
 cardTitle: 'Stop Overpaying For Ink: Real Cost Per Page Breakdown'
-cardPick: Brother laser toner delivers the lowest true cost per page, beating inkjet
-  by 70% over time.
----
+cardPick: Brother laser toner delivers the lowest true cost per page, beating inkjet by 70% over time.---
 
 ## Introduction
 

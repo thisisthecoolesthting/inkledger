@@ -1,12 +1,8 @@
 ---
 title: 'Brother Laser vs. Inkjet: A Long-Term Cost Comparison'
-metaDescription: We break down the true cost per page of Brother laser and inkjet
-  printers, including OEM cartridges, third-party alternatives, and refill options
-  to help you save hundreds over time.
+metaDescription: We break down the true cost per page of Brother laser and inkjet printers, including OEM cartridges, third-party alternatives, and refill options to help you save hundreds over time.
 publishedAt: '2026-04-28T00:00:00.000Z'
-excerpt: Choosing between Brother laser and inkjet printers? Our deep-dive cost analysis
-  compares upfront prices, cartridge yields, and long-term expenses—with real-world
-  testing data on 12 models.
+excerpt: Choosing between Brother laser and inkjet printers? Our deep-dive cost analysis compares upfront prices, cartridge yields, and long-term expenses—with real-world testing data on 12 models.
 pillarSlug: ink-cost-savings
 status: published
 tags:
@@ -26,11 +22,9 @@ relatedProducts:
 - B0C7ZTV376
 - B099NZC4PB
 - B0848Q34F8
-heroImage: /images/hero/4-epson-202-cartridges-why-two-colors-cost-more-than-the-full-set.jpg
+heroImage: /images/hero/brother-laser-vs-inkjet-cost-comparison.jpg
 cardTitle: 'Brother Laser vs Inkjet: Which Printer Truly Costs Less Long-Term'
-cardPick: Compatible HP 61XL cartridges slash ink costs dramatically, making inkjet
-  printing affordable for budget-conscious households.
----
+cardPick: Compatible HP 61XL cartridges slash ink costs dramatically, making inkjet printing affordable for budget-conscious households.---
 
 ## Introduction
 

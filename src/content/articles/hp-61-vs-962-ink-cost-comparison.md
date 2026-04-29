@@ -1,13 +1,8 @@
 ---
 title: 'HP 61 vs. HP 962: A Deep Dive into Ink Cartridge Cost and Yield'
-metaDescription: Stop overpaying for HP ink. We compare HP 61 and HP 962 cartridges
-  on price per page, longevity, and refill options to help you choose the most cost-effective
-  solution for your printing needs.
+metaDescription: Stop overpaying for HP ink. We compare HP 61 and HP 962 cartridges on price per page, longevity, and refill options to help you choose the most cost-effective solution for your printing needs.
 publishedAt: '2026-04-28T00:00:00Z'
-excerpt: HP's 61 and 962 ink cartridges serve different printers but share similar
-  ink formulations. Our analysis reveals which cartridge delivers more pages per dollar,
-  when third-party alternatives make sense, and how refill kits can cut costs by up
-  to 80% compared to OEM purchases.
+excerpt: HP's 61 and 962 ink cartridges serve different printers but share similar ink formulations. Our analysis reveals which cartridge delivers more pages per dollar, when third-party alternatives make sense, and how refill kits can cut costs by up to 80% compared to OEM purchases.
 pillarSlug: ink-cost-savings
 status: published
 tags:
@@ -27,8 +22,7 @@ relatedProducts:
 - B0C7ZTV376
 - B099NZC4PB
 - B0848Q34F8
-heroImage: /images/hero/epson-ecotank-worth-it-at-399-a-two-year-cost-model.jpg
----
+heroImage: /images/hero/hp-61-vs-962-ink-cost-comparison.jpg---
 
 ## Introduction
 

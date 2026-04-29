@@ -1,13 +1,8 @@
 ---
 title: 'Best Ink Refill Kits for Home Printers: Cost Breakdown & Quality Testing'
-metaDescription: We tested top refill kits for HP, Canon, Epson, and Brother printers.
-  Find which deliver OEM-quality prints at 90%+ savings, plus real cost-per-page math
-  and clogging risks.
+metaDescription: We tested top refill kits for HP, Canon, Epson, and Brother printers. Find which deliver OEM-quality prints at 90%+ savings, plus real cost-per-page math and clogging risks.
 publishedAt: '2026-04-28'
-excerpt: Refilling your own cartridges saves 80–92% versus OEM replacements. We tested
-  leading kits across 500+ pages, tracking print quality, longevity, and clogging
-  risks. The Inkjet Refill Kit Pro (HP/Canon) and Brother InkWell system emerged as
-  best-value choices for home offices and families.
+excerpt: Refilling your own cartridges saves 80–92% versus OEM replacements. We tested leading kits across 500+ pages, tracking print quality, longevity, and clogging risks. The Inkjet Refill Kit Pro (HP/Canon) and Brother InkWell system emerged as best-value choices for home offices and families.
 pillarSlug: ink-toner-alternatives
 relatedProducts:
 - B07TEST1234
@@ -26,8 +21,7 @@ tags:
 - hp-ink-alternatives
 - canon-refill-guide
 - epson-ecotank-hack
-heroImage: /images/hero/1-hp-61-vs-hp-962-cost-per-page-which-is-actually-cheaper-per-print.jpg
----
+heroImage: /images/hero/best-ink-refill-kits-for-home-printers.jpg---
 
 # Introduction
 

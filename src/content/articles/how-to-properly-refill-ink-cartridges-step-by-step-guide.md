@@ -1,12 +1,8 @@
 ---
 title: 'How to Properly Refill Ink Cartridges: A Step-by-Step Guide'
-metaDescription: Stop overpaying for printer ink. Learn how to refill cartridges safely
-  with our step-by-step guide, including cost comparisons, tool recommendations, and
-  troubleshooting tips.
+metaDescription: Stop overpaying for printer ink. Learn how to refill cartridges safely with our step-by-step guide, including cost comparisons, tool recommendations, and troubleshooting tips.
 publishedAt: '2026-04-28T00:00:00.000Z'
-excerpt: Refilling ink cartridges can save you hundreds per year, but doing it wrong
-  can ruin your printer. This guide covers the right tools, techniques, and cost comparisons
-  to make refilling worth it.
+excerpt: Refilling ink cartridges can save you hundreds per year, but doing it wrong can ruin your printer. This guide covers the right tools, techniques, and cost comparisons to make refilling worth it.
 pillarSlug: printer-maintenance-and-longevity
 relatedProducts:
 - B004QM8SLG
@@ -23,8 +19,7 @@ tags:
 - DIY printing
 - cartridge refill kits
 - printer longevity
-heroImage: /images/hero/canon-s-low-yield-starter-cartridges-what-you-actually-get.jpg
----
+heroImage: /images/hero/how-to-properly-refill-ink-cartridges-step-by-step-guide.jpg---
 
 ## Introduction
 

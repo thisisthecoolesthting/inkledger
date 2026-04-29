@@ -1,13 +1,8 @@
 ---
 title: 'HP Instant Ink Subscription: Real Cost vs. Savings (6-Month Test)'
-metaDescription: Is HP Instant Ink worth it? We tested it for 6 months across 4 printer
-  models, compared costs to OEM cartridges and compatibles, and reveal when it saves
-  money—and when you're better off with refills.
+metaDescription: Is HP Instant Ink worth it? We tested it for 6 months across 4 printer models, compared costs to OEM cartridges and compatibles, and reveal when it saves money—and when you're better off with refills.
 publishedAt: '2026-04-28'
-excerpt: HP Instant Ink promises savings, but the math is complicated. We tested the
-  subscription for 6 months, tracked hidden costs like ink priming and overage fees,
-  and built real-world cost scenarios. Here's when Instant Ink actually wins—and when
-  Brother lasers or Epson EcoTank printers deliver better value.
+excerpt: HP Instant Ink promises savings, but the math is complicated. We tested the subscription for 6 months, tracked hidden costs like ink priming and overage fees, and built real-world cost scenarios. Here's when Instant Ink actually wins—and when Brother lasers or Epson EcoTank printers deliver better value.
 pillarSlug: printer-cost-analysis
 status: published
 tags:
@@ -23,8 +18,7 @@ relatedProducts:
 - B07TEST3456
 - B07TEST7890
 - B07TEST2345
-heroImage: /images/hero/hp-61-vs-hp-962-cost-per-page-which-is-actually-cheaper-per-print.jpg
----
+heroImage: /images/hero/hp-instant-ink-subscription-scam-or-saver.jpg---
 
 # Introduction
 

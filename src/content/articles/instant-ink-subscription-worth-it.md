@@ -1,14 +1,8 @@
 ---
 title: Is HP Instant Ink Worth It? Cost Analysis vs. Cartridges & Refills
-metaDescription: We analyzed 18 months of pricing data on HP Instant Ink vs. OEM cartridges,
-  third-party refills, and tank systems. See the real costs, hidden fees, firmware
-  locks, and when the subscription actually saves money.
+metaDescription: We analyzed 18 months of pricing data on HP Instant Ink vs. OEM cartridges, third-party refills, and tank systems. See the real costs, hidden fees, firmware locks, and when the subscription actually saves money.
 publishedAt: '2026-04-28T00:00:00Z'
-excerpt: HP Instant Ink promises affordable printing through monthly subscriptions,
-  but our 18-month pricing analysis reveals overage traps, firmware-enforced lock-in,
-  and a narrow window where it beats third-party cartridges. We show exactly when
-  the math works—and when refillable tanks or compatible cartridges save you $50+
-  annually.
+excerpt: HP Instant Ink promises affordable printing through monthly subscriptions, but our 18-month pricing analysis reveals overage traps, firmware-enforced lock-in, and a narrow window where it beats third-party cartridges. We show exactly when the math works—and when refillable tanks or compatible cartridges save you $50+ annually.
 pillarSlug: ink-cost-analysis
 status: published
 tags:
@@ -27,11 +21,9 @@ relatedProducts:
 - B083BFPGD8
 - B0CYJV9X52
 - B0DYNQ1WP7
-heroImage: /images/hero/hp-officejet-pro-vs-brother-mfc-l2710dw-tco-over-3-years.jpg
+heroImage: /images/hero/instant-ink-subscription-worth-it.jpg
 cardTitle: 'HP Instant Ink vs. Cartridges: Which Saves You Money?'
-cardPick: HP 61 cartridges offer predictable costs without subscription fees, perfect
-  for budget-conscious households managing irregular printing needs.
----
+cardPick: HP 61 cartridges offer predictable costs without subscription fees, perfect for budget-conscious households managing irregular printing needs.---
 
 # Introduction
 

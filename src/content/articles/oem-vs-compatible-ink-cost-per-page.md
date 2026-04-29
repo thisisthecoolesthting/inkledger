@@ -1,12 +1,8 @@
 ---
 title: 'OEM vs. Compatible Ink: Real Cost-Per-Page Math + Performance Tests'
-metaDescription: We tested OEM vs. compatible ink cartridges across HP, Canon, and
-  Epson printers. See cost-per-page breakdowns, print quality comparisons, fade resistance
-  data, and which brands actually deliver reliable savings.
+metaDescription: We tested OEM vs. compatible ink cartridges across HP, Canon, and Epson printers. See cost-per-page breakdowns, print quality comparisons, fade resistance data, and which brands actually deliver reliable savings.
 publishedAt: '2026-04-28'
-excerpt: Compatible cartridges promise 60% savings, but do they deliver? We measured
-  cost per page, print quality, color accuracy, and longevity across 2,000+ test pages.
-  Here's where the money really adds up—and when OEM makes sense.
+excerpt: Compatible cartridges promise 60% savings, but do they deliver? We measured cost per page, print quality, color accuracy, and longevity across 2,000+ test pages. Here's where the money really adds up—and when OEM makes sense.
 pillarSlug: ink-toner-alternatives
 status: published
 tags:
@@ -27,8 +23,7 @@ relatedProducts:
 - B07TEST2345
 - B07TEST6789
 - B07TEST0123
-heroImage: /images/hero/pricing-watchdog-8.jpg
----
+heroImage: /images/hero/oem-vs-compatible-ink-cost-per-page.jpg---
 
 # Introduction
 

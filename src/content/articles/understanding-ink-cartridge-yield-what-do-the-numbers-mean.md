@@ -1,12 +1,8 @@
 ---
 title: 'Understanding Ink Cartridge Yield: What Do the Numbers Really Mean?'
-metaDescription: Stop overpaying for printer ink. We break down cartridge yield claims,
-  compare real-world performance, and show how to calculate true cost per page—with
-  data from 15+ tested products.
+metaDescription: Stop overpaying for printer ink. We break down cartridge yield claims, compare real-world performance, and show how to calculate true cost per page—with data from 15+ tested products.
 publishedAt: '2026-04-28T00:00:00Z'
-excerpt: Manufacturers' page yield claims often don't match reality. We tested 18
-  cartridges to reveal how ink yields actually work, when third-party options make
-  sense, and how to calculate your true cost per print.
+excerpt: Manufacturers' page yield claims often don't match reality. We tested 18 cartridges to reveal how ink yields actually work, when third-party options make sense, and how to calculate your true cost per print.
 pillarSlug: ink-cost-savings
 status: published
 tags:
@@ -26,8 +22,7 @@ relatedProducts:
 - B0CGW2TFSV
 - B0CGW48C3G
 - B085VZPR2Y
-heroImage: /images/hero/4-epson-202-cartridges-why-two-colors-cost-more-than-the-full-set.jpg
----
+heroImage: /images/hero/understanding-ink-cartridge-yield-what-do-the-numbers-mean.jpg---
 
 ## Introduction
 

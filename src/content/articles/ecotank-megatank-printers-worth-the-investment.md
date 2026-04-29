@@ -1,14 +1,8 @@
 ---
-title: 'EcoTank & MegaTank Printers: Worth the Investment? Cost-Per-Page Math & Real-World
-  Testing'
-metaDescription: We tested Epson EcoTank and Canon MegaTank printers against cartridge
-  alternatives for 6 months, tracking true cost per page, breakeven points, and hidden
-  maintenance costs to help you decide.
+title: 'EcoTank & MegaTank Printers: Worth the Investment? Cost-Per-Page Math & Real-World Testing'
+metaDescription: We tested Epson EcoTank and Canon MegaTank printers against cartridge alternatives for 6 months, tracking true cost per page, breakeven points, and hidden maintenance costs to help you decide.
 publishedAt: '2026-04-28'
-excerpt: Tank printers promise huge ink savings, but their $300–$600 upfront cost
-  demands careful math. We printed 5,000+ pages across four tank models to calculate
-  exact breakeven points, expose yield-claim gaps, and show when a basic cartridge
-  printer with refills still wins.
+excerpt: Tank printers promise huge ink savings, but their $300–$600 upfront cost demands careful math. We printed 5,000+ pages across four tank models to calculate exact breakeven points, expose yield-claim gaps, and show when a basic cartridge printer with refills still wins.
 pillarSlug: eco-friendly-printing
 status: published
 tags:
@@ -27,8 +21,7 @@ relatedProducts:
 - B07TEST7890
 - B07TEST2345
 - B07TEST6789
-heroImage: /images/hero/best-compatible-cartridges-for-brother-mfc-printers.jpg
----
+heroImage: /images/hero/ecotank-megatank-printers-worth-the-investment.jpg---
 
 # Introduction
 

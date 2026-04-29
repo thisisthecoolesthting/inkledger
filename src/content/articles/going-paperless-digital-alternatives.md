@@ -1,12 +1,8 @@
 ---
 title: 'Beyond Printing: Practical Alternatives to Going Paperless'
-metaDescription: Stop wasting money on ink. We compare 7 digital document solutions
-  against traditional printing costs, with real-world performance data and lifetime
-  cost breakdowns.
+metaDescription: Stop wasting money on ink. We compare 7 digital document solutions against traditional printing costs, with real-world performance data and lifetime cost breakdowns.
 publishedAt: '2026-04-28T00:00:00Z'
-excerpt: When printer ink costs more than champagne per ounce, it's time to explore
-  digital alternatives. We analyze scanners, e-sign tools, and document apps against
-  printing costs—with hard numbers on break-even points.
+excerpt: When printer ink costs more than champagne per ounce, it's time to explore digital alternatives. We analyze scanners, e-sign tools, and document apps against printing costs—with hard numbers on break-even points.
 pillarSlug: going-paperless
 status: published
 tags:
@@ -25,8 +21,7 @@ relatedProducts:
 - B0F54TYKF9
 - B085VZPR2Y
 - B0CGW2TFSV
-heroImage: /images/hero/canon-pg-245-refill-kits-ranked-by-color-accuracy.jpg
----
+heroImage: /images/hero/going-paperless-digital-alternatives.jpg---
 
 ## Introduction
 

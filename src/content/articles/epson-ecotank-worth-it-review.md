@@ -1,12 +1,8 @@
 ---
 title: Is an Epson EcoTank Printer Worth It? Cost Analysis vs. Cartridges & Lasers
-metaDescription: We analyze Epson EcoTank cost per page, reliability, and real-world
-  performance to compare against cartridge and laser printers. Includes 18-month lab
-  testing data.
+metaDescription: We analyze Epson EcoTank cost per page, reliability, and real-world performance to compare against cartridge and laser printers. Includes 18-month lab testing data.
 publishedAt: '2026-04-28T00:00:00Z'
-excerpt: Epson EcoTank printers promise massive ink savings with refillable tanks.
-  Our 18-month testing of 12 models and 250,000+ pages reveals the true cost per page,
-  reliability tradeoffs, and when they beat cartridges—or don't.
+excerpt: Epson EcoTank printers promise massive ink savings with refillable tanks. Our 18-month testing of 12 models and 250,000+ pages reveals the true cost per page, reliability tradeoffs, and when they beat cartridges—or don't.
 pillarSlug: printer-buying-guides
 status: published
 tags:
@@ -24,11 +20,9 @@ relatedProducts:
 - B07C11YW88
 - B083BFPGD8
 - B0CYJV9X52
-heroImage: /images/hero/brother-pocket-printer-vs-phone-photo-printing-services.jpg
+heroImage: /images/hero/epson-ecotank-worth-it-review.jpg
 cardTitle: 'EcoTank Printers vs. Cartridge Costs: Real Savings Breakdown'
-cardPick: HP 61 Black Ink Cartridge costs less upfront than EcoTank's initial investment
-  but fails long-term value for high-volume printing households.
----
+cardPick: HP 61 Black Ink Cartridge costs less upfront than EcoTank's initial investment but fails long-term value for high-volume printing households.---
 
 ## Introduction
 

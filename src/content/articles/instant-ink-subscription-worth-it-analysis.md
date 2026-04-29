@@ -1,12 +1,8 @@
 ---
 title: 'HP Instant Ink: Is the Subscription Model Really Worth It?'
-metaDescription: We crunch the numbers on HP Instant Ink vs. traditional cartridges,
-  third-party alternatives, and refill kits to reveal when the subscription actually
-  saves money—and when it's a rip-off.
+metaDescription: We crunch the numbers on HP Instant Ink vs. traditional cartridges, third-party alternatives, and refill kits to reveal when the subscription actually saves money—and when it's a rip-off.
 publishedAt: '2026-04-28T00:00:00.000Z'
-excerpt: HP's Instant Ink subscription promises convenience, but our cost-per-page
-  analysis reveals surprising scenarios where buying cartridges outright—or using
-  third-party alternatives—can save you hundreds per year.
+excerpt: HP's Instant Ink subscription promises convenience, but our cost-per-page analysis reveals surprising scenarios where buying cartridges outright—or using third-party alternatives—can save you hundreds per year.
 pillarSlug: ink-cost-savings
 status: published
 tags:
@@ -27,11 +23,9 @@ relatedProducts:
 - B0CGW2TFSV
 - B0CGW48C3G
 - B0DWD9NQ57
-heroImage: /images/hero/hp-ink-subscription-vs-buying-cartridges-the-24-month-math.jpg
+heroImage: /images/hero/instant-ink-subscription-worth-it-analysis.jpg
 cardTitle: 'Skip Instant Ink: Save Big With Compatible HP Cartridges'
-cardPick: Compatible cartridges cost 70% less than official HP ink while delivering
-  identical print quality for home and office use.
----
+cardPick: Compatible cartridges cost 70% less than official HP ink while delivering identical print quality for home and office use.---
 
 ## Introduction
 

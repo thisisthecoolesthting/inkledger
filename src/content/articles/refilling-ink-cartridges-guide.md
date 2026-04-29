@@ -1,12 +1,8 @@
 ---
 title: 'DIY Ink Refill Kits: A Step-by-Step Guide to Saving Money'
-metaDescription: Stop overpaying for printer ink. Our hands-on comparison of refill
-  kits and compatible cartridges reveals which options actually work—and how much
-  you'll save per page.
+metaDescription: Stop overpaying for printer ink. Our hands-on comparison of refill kits and compatible cartridges reveals which options actually work—and how much you'll save per page.
 publishedAt: '2026-04-29T00:00:00Z'
-excerpt: Printer ink costs more per ounce than champagne. We tested 8 refill kits
-  and third-party cartridges to find which deliver OEM-quality prints without the
-  razor-and-blade pricing. See the cost-per-page math.
+excerpt: Printer ink costs more per ounce than champagne. We tested 8 refill kits and third-party cartridges to find which deliver OEM-quality prints without the razor-and-blade pricing. See the cost-per-page math.
 pillarSlug: alternative-ink-solutions
 relatedProducts:
 - B0DHV8SCLS
@@ -27,8 +23,7 @@ tags:
 - printer maintenance
 - HP ink alternatives
 - Epson refill
-heroImage: /images/hero/why-canon-pgi-280-and-cli-281-prices-jumped-22-in-2025.jpg
----
+heroImage: /images/hero/refilling-ink-cartridges-guide.jpg---
 
 ## Introduction
 

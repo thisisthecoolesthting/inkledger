@@ -1,12 +1,8 @@
 ---
 title: 'Printer Ink Price Comparison Guide 2024: Stop Overpaying!'
-metaDescription: We analyzed 15+ ink cartridges to expose the real cost per page,
-  refill tricks, and how to avoid manufacturer pricing traps. Save up to 80% on printer
-  ink.
+metaDescription: We analyzed 15+ ink cartridges to expose the real cost per page, refill tricks, and how to avoid manufacturer pricing traps. Save up to 80% on printer ink.
 publishedAt: '2026-04-29T00:00:00.000Z'
-excerpt: Our 2024 ink cartridge price comparison reveals which brands charge 400%
-  markup, how third-party alternatives perform, and the cheapest ways to print at
-  home without sacrificing quality.
+excerpt: Our 2024 ink cartridge price comparison reveals which brands charge 400% markup, how third-party alternatives perform, and the cheapest ways to print at home without sacrificing quality.
 pillarSlug: ink-cost-analysis
 relatedProducts:
 - B0DHV8SCLS
@@ -26,8 +22,7 @@ tags:
 - compatible cartridges
 - printer maintenance
 - home office printing
-heroImage: /images/hero/printing-less-without-sacrificing-work-7-concrete-moves.jpg
----
+heroImage: /images/hero/printer-ink-price-comparison-guide-2024.jpg---
 
 ## Introduction
 
