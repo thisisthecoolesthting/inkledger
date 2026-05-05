@@ -2,12 +2,17 @@
 import '@/styles/global.css';
 import Header from '@/components/Header.astro';
 import Footer from '@/components/Footer.astro';
-import AffiliateDisclosure from '@/components/AffiliateDisclosure.astro';
 import home from '@/data/spawn-home.json';
 
 const id = home.brand.identity;
 const b = home.brand;
 const dmeta = (home as { defaultMetaDescription?: string }).defaultMetaDescription || '';
+
+// Analytics auto-injection — reads niche_spec.analytics.ga_measurement_id at
+// build time. When set, emits the gtag.js snippet so /analytics dashboard
+// can flip from not_connected to live without code changes.
+const ga = (home as { analytics?: { ga_measurement_id?: string; ga_property_id?: string; search_console_property?: string } }).analytics;
+const gaMeasurementId = (ga?.ga_measurement_id || '').trim();
 
 export interface Props {
   title: string;
@@ -92,10 +97,17 @@ const ogImageUrl = isAbs(og) ? og : siteUrl ? new URL(og, siteUrl + '/').toStrin
       }
       return null;
     })()}
+
+    {/* Google Analytics 4 — auto-injected when niche_spec.analytics.ga_measurement_id is set */}
+    {gaMeasurementId && (
+      <>
+        <script async src={`https://www.googletagmanager.com/gtag/js?id=${gaMeasurementId}`}></script>
+        <script set:html={`window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', '${gaMeasurementId}', { 'anonymize_ip': true });`}></script>
+      </>
+    )}
   </head>
   <body class="min-h-screen flex flex-col">
     <Header />
-    <AffiliateDisclosure />
     <main class="flex-1">
       <slot />
     </main>
