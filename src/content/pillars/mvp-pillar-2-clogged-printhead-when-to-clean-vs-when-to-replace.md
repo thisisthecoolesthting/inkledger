@@ -14,7 +14,7 @@ relatedProducts:
 - B0DVT2JTRN
 - B0DPHQRLJC
 - B0B2RM68G2
-status: draft
+status: published
 tags:
 - printhead maintenance
 - inkjet troubleshooting
@@ -88,3 +88,4 @@ Consider replacing if:
 - Consider **continuous ink systems** if you experience frequent clogs
 
 Still stuck? Our [printer maintenance guide](/printer-maintenance) covers advanced techniques for different brands.
+

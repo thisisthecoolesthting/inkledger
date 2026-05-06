@@ -14,7 +14,7 @@ relatedProducts:
 - B0DVT2JTRN
 - B0DQQ77WYT
 - B0DPHQRLJC
-status: draft
+status: published
 tags:
 - printer calibration
 - ink saving
@@ -57,3 +57,4 @@ For printers that accept them (check your manual), bulk ink systems like:
 Clogged printheads cause uneven color. Run a cleaning cycle *only* when you see streaks - unnecessary cycles waste ink. For printers sitting unused, power on weekly to prevent nozzle drying.
 
 **Final Warning:** Some 'darker print' guides suggest disabling color management entirely. This can lead to oversaturation and bleeding. Stick with the calibrated adjustments above for professional results.
+

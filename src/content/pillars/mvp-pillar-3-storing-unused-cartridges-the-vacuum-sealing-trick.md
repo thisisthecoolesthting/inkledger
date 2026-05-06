@@ -11,7 +11,7 @@ relatedProducts:
 - B08616PS69
 - B07F97MPYT
 - B07D5DN269
-status: draft
+status: published
 tags:
 - ink storage
 - cartridge maintenance
@@ -58,3 +58,4 @@ Our 12-month test with 20 sealed vs. unsealed cartridges showed:
 - Only 37% of control group cartridges remained functional
 
 Note: This method works best with OEM cartridges. Third-party inks may have different viscosity properties.
+
