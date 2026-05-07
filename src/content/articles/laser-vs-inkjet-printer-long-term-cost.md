@@ -8,7 +8,7 @@ excerpt: Laser and inkjet printers have different long-term costs. We break down
   per page, maintenance, and total cost of ownership to show you which printer type
   saves the most money over 5 years.
 pillarSlug: printer-cost-analysis
-status: published
+status: draft
 tags:
 - laser-printer-cost
 - inkjet-printer-cost

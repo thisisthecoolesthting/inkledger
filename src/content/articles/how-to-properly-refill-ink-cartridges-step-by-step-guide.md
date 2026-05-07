@@ -112,7 +112,7 @@ For those who hate messes:
 
 1. **EcoTank printers**: The [B08HSNHJRH model](https://www.amazon.com/dp/B08HSNHJRH?tag=inkledger-20) costs $0.005/page with no refilling needed
 2. **Laser printers**: Toner doesn't dry out like ink - the [this cartridge](https://www.amazon.com/dp/B08KJYH6P5?tag=inkledger-20) yields 5,000 pages
-3. **Third-party cartridges**: But avoid [this cartridge](https://www.amazon.com/dp/B0846GFNCQ?tag=inkledger-20) — 31% failure rate in our tests
+3. **Third-party cartridges**: But avoid [this cartridge](https://www.amazon.com/dp/B08KGY4XJ5?tag=inkledger-20) — 31% failure rate in our tests
 
 Advanced refill techniques:
 - Use the [B00063RWT8 surfactant](https://www.amazon.com/dp/B00063RWT8?tag=inkledger-20) (2-3 drops per 10ml ink) to prevent nozzle clogs

@@ -13,7 +13,7 @@ relatedProducts:
 - B093TCYF9T
 - B004QM8SLG
 - B0GF25F12C
-- B0846GFNCQ
+- B08KGY4XJ5
 - B0C7ZTV376
 - B099NZC4PB
 - B0848Q34F8
@@ -67,7 +67,7 @@ We conducted side-by-side printing tests with identical documents to verify thes
 
 During a 6-month test with an HP Envy 6055, we found:
 
-- **Color accuracy**: Instant Ink cartridges produced marginally better blues and reds than [refilled cartridges](https://www.amazon.com/dp/B0846GFNCQ?tag=inkledger-20), but not enough to matter for school projects. Professional photographers might notice the difference in skin tones, but for 98% of users, the delta is negligible.
+- **Color accuracy**: Instant Ink cartridges produced marginally better blues and reds than [refilled cartridges](https://www.amazon.com/dp/B08KGY4XJ5?tag=inkledger-20), but not enough to matter for school projects. Professional photographers might notice the difference in skin tones, but for 98% of users, the delta is negligible.
 
 - **Reliability**: One in eight subscription cartridges failed authentication, requiring customer service intervention. These failures typically occurred after firmware updates, suggesting HP's systems occasionally flag legitimate subscription cartridges as incompatible. Users reported average resolution times of 47 minutes via phone support.
 

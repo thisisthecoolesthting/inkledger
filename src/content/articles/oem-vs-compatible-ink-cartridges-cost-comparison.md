@@ -13,7 +13,7 @@ relatedProducts:
 - B093TCYF9T
 - B004QM8SLG
 - B0GF25F12C
-- B0846GFNCQ
+- B08KGY4XJ5
 - B0C7ZTV376
 - B099NZC4PB
 - B0848Q34F8
@@ -76,7 +76,7 @@ We tested cartridges across three key metrics: cost per page, reliability, and p
 
 Key findings:
 
-- The [Epson 502 compatible](https://www.amazon.com/dp/B0846GFNCQ?tag=inkledger-20) outperformed OEM in yield tests by 5.5% due to higher ink capacity
+- The [Epson 502 compatible](https://www.amazon.com/dp/B08KGY4XJ5?tag=inkledger-20) outperformed OEM in yield tests by 5.5% due to higher ink capacity
 - HP cartridges showed the widest quality variance (23% of cheap compatibles failed within 1 month vs 8% of OEM)
 - Canon printers were most tolerant of third-party inks in our jam tests (0.3 jams/1,000 pages vs HP's 1.2)
 - Brother laser toners showed negligible quality difference between OEM and premium compatibles

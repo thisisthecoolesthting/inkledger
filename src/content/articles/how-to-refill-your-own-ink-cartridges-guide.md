@@ -15,7 +15,7 @@ relatedProducts:
 - B07TEST1121
 - B07TEST3141
 - B07TEST5161
-status: published
+status: draft
 tags:
 - ink refill
 - printer maintenance

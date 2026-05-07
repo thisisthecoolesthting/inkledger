@@ -23,7 +23,7 @@ relatedProducts:
 - B004QM8SLG
 - B09N9SR36W
 - B0GF25F12C
-- B0846GFNCQ
+- B08KGY4XJ5
 - B0C7ZTV376
 - B099NZC4PB
 heroImage: /images/hero/epson-ecotank-vs-megatank-printers.jpg
@@ -134,7 +134,7 @@ Let's break down the actual savings using our measured yields rather than manufa
 - Annual ink cost: ~$1.68
 - Add $0.75/year for more frequent cleaning cycles
 
-Surprisingly, the Canon's ink goes further despite smaller bottles when calculating actual yields. However, using [third-party ink for the Epson](https://www.amazon.com/dp/B0846GFNCQ?tag=inkledger-20) drops costs to $0.30/year for black and $0.73 for color - just $1.03 total. Canon's [compatible inks](https://www.amazon.com/dp/B0C7ZTV376?tag=inkledger-20) reduce costs to $0.25 + $0.37 = $0.62/year.
+Surprisingly, the Canon's ink goes further despite smaller bottles when calculating actual yields. However, using [third-party ink for the Epson](https://www.amazon.com/dp/B08KGY4XJ5?tag=inkledger-20) drops costs to $0.30/year for black and $0.73 for color - just $1.03 total. Canon's [compatible inks](https://www.amazon.com/dp/B0C7ZTV376?tag=inkledger-20) reduce costs to $0.25 + $0.37 = $0.62/year.
 
 The breakeven point vs. a $99 cartridge printer:
 - Typical cartridge printer: $25 cartridge = 200 pages → $125/year
@@ -152,7 +152,7 @@ For high-volume users (5,000+ pages/year), the savings become dramatic:
 While OEM ink guarantees quality, third-party options can slash costs further. We tested 12 aftermarket ink brands and found:
 
 Top performers for Epson:
-- [InkOwl EcoTank refills](https://www.amazon.com/dp/B0846GFNCQ?tag=inkledger-20): 70ml for $7 (vs. $15 OEM) - 98% color match
+- [InkOwl EcoTank refills](https://www.amazon.com/dp/B08KGY4XJ5?tag=inkledger-20): 70ml for $7 (vs. $15 OEM) - 98% color match
 - [Hiipoo ET-3850 ink](https://www.amazon.com/dp/B0B5NQJX3X?tag=inkledger-20): $6.50/bottle - best for photo printing
 
 Top performers for Canon:

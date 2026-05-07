@@ -10,7 +10,7 @@ excerpt: Tank printers promise huge ink savings, but their $300–$600 upfront c
   exact breakeven points, expose yield-claim gaps, and show when a basic cartridge
   printer with refills still wins.
 pillarSlug: eco-friendly-printing
-status: published
+status: draft
 tags:
 - ecotank
 - megatank

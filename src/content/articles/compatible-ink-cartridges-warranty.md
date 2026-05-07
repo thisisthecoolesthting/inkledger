@@ -22,7 +22,7 @@ relatedProducts:
 - B093TCYF9T
 - B004QM8SLG
 - B0GF25F12C
-- B0846GFNCQ
+- B08KGY4XJ5
 - B0C7ZTV376
 - B099NZC4PB
 - B0848Q34F8
@@ -51,7 +51,7 @@ Manufacturers protect this revenue stream with three tactics:
 
 The FTC has fined HP $1.5 million for firmware blocks, and the 1975 Magnuson-Moss Warranty Act prohibits tying warranties to specific brands unless provided free of charge. Yet manufacturers continue implying warranty invalidation because most consumers don't know their rights. Understanding these dynamics could save the average household $327/year on ink.
 
-A 2025 Consumer Reports study found that 68% of printer owners believed warranty voiding claims were legally binding, while only 12% knew about Magnuson-Moss protections. This knowledge gap allows manufacturers to maintain ink pricing that costs consumers $12 billion annually in what the FTC calls "aftermarket monopolization." Our testing of high-yield alternatives like the [Brother TN-660 compatible](https://www.amazon.com/dp/B0846GFNCQ?tag=inkledger-20) demonstrates how breaking this monopoly can reduce printing costs by 72% without sacrificing quality.
+A 2025 Consumer Reports study found that 68% of printer owners believed warranty voiding claims were legally binding, while only 12% knew about Magnuson-Moss protections. This knowledge gap allows manufacturers to maintain ink pricing that costs consumers $12 billion annually in what the FTC calls "aftermarket monopolization." Our testing of high-yield alternatives like the [Brother TN-660 compatible](https://www.amazon.com/dp/B08KGY4XJ5?tag=inkledger-20) demonstrates how breaking this monopoly can reduce printing costs by 72% without sacrificing quality.
 
 ## Head-to-Head Comparison
 
@@ -62,7 +62,7 @@ We tested four high-volume cartridges against OEM equivalents for print quality,
 | HP 902XL | $42.99 | [$19.99 (InkCartridgePlus)](https://www.amazon.com/dp/B0CB75LML9?tag=inkledger-20) | 98% of OEM | None observed |
 | Epson 502 | $38.50 | [$16.50 (PrinterPros)](https://www.amazon.com/dp/B093TCYF9T?tag=inkledger-20) | 87% of OEM | Firmware warning |
 | Canon PG-245 | $35.99 | [$12.99 (JetInk)](https://www.amazon.com/dp/B0GF25F12C?tag=inkledger-20) | 102% of OEM | No issues |
-| Brother TN-660 | $49.99 | [$22.99 (Toners4Less)](https://www.amazon.com/dp/B0846GFNCQ?tag=inkledger-20) | 91% of OEM | Requires reset |
+| Brother TN-660 | $49.99 | [$22.99 (Toners4Less)](https://www.amazon.com/dp/B08KGY4XJ5?tag=inkledger-20) | 91% of OEM | Requires reset |
 
 Key findings:
 - **HP printers** showed the most aggressive compatibility blocks, with firmware updates disabling [third-party 902XL cartridges](https://www.amazon.com/dp/B0CB75LML9?tag=inkledger-20) until manually overridden
@@ -100,7 +100,7 @@ Breaking down the numbers shows why manufacturers fight so hard:
 - Third-party cost: $0.01-$0.03
 - **Annual savings (1,000 pages/month)**: $480+
 
-The [Brother TN-660 compatible](https://www.amazon.com/dp/B0846GFNCQ?tag=inkledger-20) pays for itself after 1,200 pages versus OEM. For high-volume users, refill kits like the [JetInk XL](https://www.amazon.com/dp/B099NZC4PB?tag=inkledger-20) can drop costs to $0.008 per page.
+The [Brother TN-660 compatible](https://www.amazon.com/dp/B08KGY4XJ5?tag=inkledger-20) pays for itself after 1,200 pages versus OEM. For high-volume users, refill kits like the [JetInk XL](https://www.amazon.com/dp/B099NZC4PB?tag=inkledger-20) can drop costs to $0.008 per page.
 
 Our forensic accounting reveals that for every $100 spent on OEM ink, only $18 covers actual manufacturing costs. The remaining $82 goes toward:
 - $32 - Retailer markup
@@ -152,7 +152,7 @@ Try resetting the cartridge chip with a tool like [TONERReset](https://www.amazo
 
 ### Are there printers designed to work with third-party ink?
 
-Yes. Epson EcoTank and Brother MegaTank models explicitly support bottled ink. For lasers, Brother's HL-L series consistently performs well with [third-party toners](https://www.amazon.com/dp/B0846GFNCQ?tag=inkledger-20).
+Yes. Epson EcoTank and Brother MegaTank models explicitly support bottled ink. For lasers, Brother's HL-L series consistently performs well with [third-party toners](https://www.amazon.com/dp/B08KGY4XJ5?tag=inkledger-20).
 
 ## Bottom Line
 

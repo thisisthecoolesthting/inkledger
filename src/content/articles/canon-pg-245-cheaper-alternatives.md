@@ -22,7 +22,7 @@ relatedProducts:
 - B093TCYF9T
 - B004QM8SLG
 - B0GF25F12C
-- B0846GFNCQ
+- B08KGY4XJ5
 - B0C7ZTV376
 - B099NZC4PB
 heroImage: /images/hero/canon-pg-245-cheaper-alternatives.jpg
@@ -75,7 +75,7 @@ Yield claims are notoriously inflated. Canon rates the PG-245 at 180 pages (ISO 
 - **EZ Ink Refill**: Variable results (380-420 pages) depending on refill technique. Our 'slow-fill' method (adding ink in 1ml increments with 5-minute pauses) extended yield by 11% compared to quick fills.
 - **InkOwl CIS**: Maintained perfect output through 5,000+ pages in stress testing, though the initial setup requires about 90 minutes and voids your warranty permanently.
 
-The [Hilife XL](https://www.amazon.com/dp/B093TCYF9T?tag=inkledger-20) matched OEM quality for text documents but showed slightly weaker photo blacks (measured at 5% less density using a spectrophotometer). Refill kits demand precision - overfilling causes leaks, while underfilling triggers "low ink" warnings prematurely. We recommend the [syringe-free bottles](https://www.amazon.com/dp/B0846GFNCQ?tag=inkledger-20) for cleaner refills, as they reduce spillage by controlling flow rate.
+The [Hilife XL](https://www.amazon.com/dp/B093TCYF9T?tag=inkledger-20) matched OEM quality for text documents but showed slightly weaker photo blacks (measured at 5% less density using a spectrophotometer). Refill kits demand precision - overfilling causes leaks, while underfilling triggers "low ink" warnings prematurely. We recommend the [syringe-free bottles](https://www.amazon.com/dp/B08KGY4XJ5?tag=inkledger-20) for cleaner refills, as they reduce spillage by controlling flow rate.
 
 Watch for firmware traps: Canon's 2025 printer updates blocked some third-party chips until consumer backlash forced a rollback. Current models like the TR4720 still occasionally "forget" cartridge levels with compatibles, requiring power cycles. Our testing found that printers connected via USB rather than WiFi experience 40% fewer chip recognition issues, suggesting some authentication occurs during wireless handshakes.
 

@@ -78,7 +78,7 @@ Key findings:
    - Print head clogs occurred after 3 weeks of inactivity
    - Color accuracy degraded noticeably after 1,000 pages
    - Ink evaporation caused 15% waste in humid environments
-   - Replacement [Epson 502 ink bottles](https://www.amazon.com/dp/B0846GFNCQ?tag=inkledger-20) now cost 40% more than 2022 prices
+   - Replacement [Epson 502 ink bottles](https://www.amazon.com/dp/B08KGY4XJ5?tag=inkledger-20) now cost 40% more than 2022 prices
 
 2. **Business laser superiority**: The [HP LaserJet Pro M404dn](https://www.amazon.com/dp/B074ND5RDT?tag=inkledger-20) achieves remarkable 0.9¢ per page costs thanks to its 5,000-page yield. However, its $150 toner price creates cash flow challenges for small businesses.
 

@@ -23,7 +23,7 @@ relatedProducts:
 - B093TCYF9T
 - B004QM8SLG
 - B0GF25F12C
-- B0846GFNCQ
+- B08KGY4XJ5
 - B0C7ZTV376
 - B099NZC4PB
 - B0848Q34F8
@@ -101,7 +101,7 @@ We've modeled five usage scenarios with detailed breakdowns:
 **Casual Home User (50 pages/month)**
 - HP 61: $119.94/year (6 cartridges)
 - HP 962: $139.96/year (4 cartridges)
-- HP 962XL with [this cartridge](https://www.amazon.com/dp/B0846GFNCQ?tag=inkledger-20) refills: $59.80/year
+- HP 962XL with [this cartridge](https://www.amazon.com/dp/B08KGY4XJ5?tag=inkledger-20) refills: $59.80/year
 
 **Home Office (150 pages/month)**
 - HP 61: $359.82/year

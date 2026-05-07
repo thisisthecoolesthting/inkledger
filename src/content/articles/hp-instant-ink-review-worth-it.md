@@ -14,7 +14,7 @@ relatedProducts:
 - B093TCYF9T
 - B004QM8SLG
 - B0GF25F12C
-- B0846GFNCQ
+- B08KGY4XJ5
 - B0C7ZTV376
 - B099NZC4PB
 - B0848Q34F8
@@ -62,7 +62,7 @@ We benchmarked Instant Ink against six competing solutions over 12 months, track
 |----------------------|------------|----------|-----------|-----------|----------|----------|
 | **Instant Ink (50pg)** | $2.99      | 50       | $0.06     | 70% OEM   | 12 mo    | Light users who value convenience |
 | [EcoTank ET-2800](https://www.amazon.com/dp/B0GF25F12C?tag=inkledger-20) | $0.00*     | 100      | $0.01     | 100% OEM  | None     | Heavy users printing 300+ pages/month |
-| [LD Compatible 62XL](https://www.amazon.com/dp/B0846GFNCQ?tag=inkledger-20) | $12.99     | 300      | $0.04     | 85% OEM   | None     | Budget-conscious families |
+| [LD Compatible 62XL](https://www.amazon.com/dp/B08KGY4XJ5?tag=inkledger-20) | $12.99     | 300      | $0.04     | 85% OEM   | None     | Budget-conscious families |
 | [Inkjet Refill Pro Kit](https://www.amazon.com/dp/B0C7ZTV376?tag=inkledger-20) | $3.33**    | 150      | $0.02     | 95% OEM   | None     | DIYers comfortable with refilling |
 | Office Depot Store Brand | $18.99    | 200      | $0.09     | 70% OEM   | None     | Emergency purchases only |
 | [Brother TN-760 Toner](https://www.amazon.com/dp/B099NZC4PB?tag=inkledger-20) | $38.00     | 2,500    | $0.015    | 100% OEM  | None     | Laser users needing volume |
@@ -81,7 +81,7 @@ Key findings from 1,200 hours of testing:
 We deployed Instant Ink across three households for six months, tracking actual usage patterns versus marketing claims:
 
 **1. School Projects Household**
-When a middle schooler printed 78 pages for a science fair (exceeding the 50-page plan), overage fees ballooned the effective cost to $0.09/page—more than [OEM cartridges](https://www.amazon.com/dp/B099NZC4PB?tag=inkledger-20). The family upgraded to the 100-page plan ($4.99), but then averaged just 62 pages, wasting $98 annually versus buying [XL cartridges](https://www.amazon.com/dp/B0846GFNCQ?tag=inkledger-20) outright.
+When a middle schooler printed 78 pages for a science fair (exceeding the 50-page plan), overage fees ballooned the effective cost to $0.09/page—more than [OEM cartridges](https://www.amazon.com/dp/B099NZC4PB?tag=inkledger-20). The family upgraded to the 100-page plan ($4.99), but then averaged just 62 pages, wasting $98 annually versus buying [XL cartridges](https://www.amazon.com/dp/B08KGY4XJ5?tag=inkledger-20) outright.
 
 **2. Tax Season CPA**
 A sole practitioner printing 400+ pages/month saved $23 vs. retail cartridges but could've saved $37 with [high-yield compatibles](https://www.amazon.com/dp/B0848Q34F8?tag=inkledger-20). Instant Ink's "unlimited" plan ($24.99) actually capped at 700 pages before charging $1 per 10 additional pages—a critical detail buried in the FAQ.
@@ -123,7 +123,7 @@ Hidden costs we uncovered:
    - Best model: [Epson EcoTank ET-3850](https://www.amazon.com/dp/B0GF25F12C?tag=inkledger-20) for its 2-year ink supply
 
 2. **Third-Party Cartridges**
-   - Brands like [LD Products](https://www.amazon.com/dp/B0846GFNCQ?tag=inkledger-20) offer 2x yield for 40% less
+   - Brands like [LD Products](https://www.amazon.com/dp/B08KGY4XJ5?tag=inkledger-20) offer 2x yield for 40% less
    - Risk: Some printers block non-HP chips via firmware updates
    - Workaround: Buy printers manufactured before 2023 which lack DRM
 
@@ -174,7 +174,7 @@ Only on the $24.99 "unlimited" plan, which has daily print limits (20 4x6" or 10
 - Want to own your ink outright without expiration dates
 - Print photos regularly (Costco/Snapfish are cheaper)
 
-For most households, buying [high-yield compatibles](https://www.amazon.com/dp/B0846GFNCQ?tag=inkledger-20) or refilling cuts costs by 50-70% without subscriptions. Small businesses printing 500+ pages/month should consider Brother laser printers at $0.015/page.
+For most households, buying [high-yield compatibles](https://www.amazon.com/dp/B08KGY4XJ5?tag=inkledger-20) or refilling cuts costs by 50-70% without subscriptions. Small businesses printing 500+ pages/month should consider Brother laser printers at $0.015/page.
 
 <!-- padded-no-api-v2 -->
 
