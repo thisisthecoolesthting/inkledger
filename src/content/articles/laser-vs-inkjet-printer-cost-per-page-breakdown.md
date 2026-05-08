@@ -38,7 +38,7 @@ relatedProducts:
 - B0CGW48C3G
 - B0F54TYKF9
 - B0GF25F12C
-heroImage: /images/hero/laser-vs-inkjet-printer-cost-per-page-breakdown.jpg
+heroImage: "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=1600&q=80"
 ---
 
 ## Introduction

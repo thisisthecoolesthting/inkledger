@@ -19,7 +19,7 @@ tags:
 - eco-friendly
 - printing-alternatives
 relatedProducts:
-heroImage: /images/hero/going-paperless-digital-alternatives-to-printing.jpg
+heroImage: "https://images.unsplash.com/photo-1619546813926-a78fa6372cd2?auto=format&fit=crop&w=1600&q=80"
 ---
 
 # Introduction

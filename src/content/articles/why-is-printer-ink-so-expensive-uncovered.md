@@ -27,7 +27,7 @@ relatedProducts:
 - B0C7ZTV376
 - B0CB75LML9
 - B0GF25F12C
-heroImage: /images/hero/why-is-printer-ink-so-expensive-uncovered.jpg
+heroImage: "https://images.unsplash.com/photo-1563770660941-10a63607a4d2?auto=format&fit=crop&w=1600&q=80"
 cardTitle: 'Stop Overpaying for Printer Ink: The Real Cost Breakdown'
 cardPick: Compatible HP 61XL cartridges cost 60% less than OEM while delivering identical
   quality prints for budget-conscious households.

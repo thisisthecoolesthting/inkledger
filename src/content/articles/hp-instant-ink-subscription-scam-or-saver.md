@@ -20,7 +20,7 @@ relatedProducts:
 - B00MFG54B6
 - B07P5Y5HGC
 - B08B3K9H7L
-heroImage: /images/hero/hp-instant-ink-subscription-scam-or-saver.jpg
+heroImage: "https://images.unsplash.com/photo-1612815154858-60aa4c59eaa6?auto=format&fit=crop&w=1600&q=80"
 ---
 
 # Introduction

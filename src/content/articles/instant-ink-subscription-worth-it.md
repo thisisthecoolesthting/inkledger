@@ -28,7 +28,7 @@ relatedProducts:
 - B0CYJV9X52
 - B0DYNQ1WP7
 - B0FT32PL8L
-heroImage: /images/hero/instant-ink-subscription-worth-it.jpg
+heroImage: "https://images.unsplash.com/photo-1563770660941-10a63607a4d2?auto=format&fit=crop&w=1600&q=80"
 cardTitle: 'HP Instant Ink vs. Cartridges: Which Saves You Money?'
 cardPick: HP 61 cartridges offer predictable costs without subscription fees, perfect
   for budget-conscious households managing irregular printing needs.

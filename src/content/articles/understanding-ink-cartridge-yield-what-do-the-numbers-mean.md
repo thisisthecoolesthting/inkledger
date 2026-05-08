@@ -32,7 +32,7 @@ relatedProducts:
 - B0CGW48C3G
 - B0F54TYKF9
 - B0GF25F12C
-heroImage: /images/hero/understanding-ink-cartridge-yield-what-do-the-numbers-mean.jpg
+heroImage: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1600&q=80"
 ---
 
 ## Introduction

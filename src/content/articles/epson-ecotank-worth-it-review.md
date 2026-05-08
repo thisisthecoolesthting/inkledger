@@ -29,7 +29,7 @@ relatedProducts:
 - B0CYJV9X52
 - B0DYNQ1WP7
 - B0FT32PL8L
-heroImage: /images/hero/epson-ecotank-worth-it-review.jpg
+heroImage: "https://images.unsplash.com/photo-1563770660941-10a63607a4d2?auto=format&fit=crop&w=1600&q=80"
 cardTitle: 'EcoTank Printers vs. Cartridge Costs: Real Savings Breakdown'
 cardPick: HP 61 Black Ink Cartridge costs less upfront than EcoTank's initial investment
   but fails long-term value for high-volume printing households.

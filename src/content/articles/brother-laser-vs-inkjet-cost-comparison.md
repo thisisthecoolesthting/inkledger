@@ -27,7 +27,7 @@ relatedProducts:
 - B0C7ZTV376
 - B0CB75LML9
 - B0GF25F12C
-heroImage: /images/hero/brother-laser-vs-inkjet-cost-comparison.jpg
+heroImage: "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=1600&q=80"
 cardTitle: 'Brother Laser vs Inkjet: Which Printer Truly Costs Less Long-Term'
 cardPick: Compatible HP 61XL cartridges slash ink costs dramatically, making inkjet
   printing affordable for budget-conscious households.

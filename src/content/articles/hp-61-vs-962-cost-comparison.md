@@ -25,7 +25,7 @@ relatedProducts:
 - B083BFPGD8
 - B0CYJV9X52
 - B0DYNQ1WP7
-heroImage: /images/hero/hp-61-vs-962-cost-comparison.jpg
+heroImage: "https://images.unsplash.com/photo-1563770660941-10a63607a4d2?auto=format&fit=crop&w=1600&q=80"
 cardTitle: 'HP 61 vs 962 Ink Cartridges: Real Cost Per Page Comparison'
 cardPick: HP 61 delivers lower per-page printing costs, making it the smarter choice
   for budget-conscious households and small offices.

@@ -33,7 +33,7 @@ relatedProducts:
 - B0CGW2TFSV
 - B0CGW48C3G
 - B0F54TYKF9
-heroImage: /images/hero/why-is-printer-ink-so-expensive.jpg
+heroImage: "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=1600&q=80"
 ---
 
 ## Introduction

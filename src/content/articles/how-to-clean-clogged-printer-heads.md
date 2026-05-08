@@ -27,7 +27,7 @@ tags:
 - ink refill kits
 - print quality fixes
 - printer longevity
-heroImage: /images/hero/how-to-clean-clogged-printer-heads.jpg
+heroImage: "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=1600&q=80"
 ---
 
 ## Introduction

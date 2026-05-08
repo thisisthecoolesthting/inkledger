@@ -27,7 +27,7 @@ relatedProducts:
 - B0CGW2TFSV
 - B0CGW48C3G
 - B0F54TYKF9
-heroImage: /images/hero/toner-vs-ink-cost-per-page-analysis.jpg
+heroImage: "https://images.unsplash.com/photo-1563986768494-4dee2763ff3f?auto=format&fit=crop&w=1600&q=80"
 ---
 
 ## Introduction

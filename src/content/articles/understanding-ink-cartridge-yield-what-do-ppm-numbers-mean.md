@@ -26,7 +26,7 @@ tags:
 - printer maintenance
 - printing costs
 - ink refills
-heroImage: /images/hero/understanding-ink-cartridge-yield-what-do-ppm-numbers-mean.jpg
+heroImage: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1600&q=80"
 ---
 
 ## Introduction

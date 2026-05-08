@@ -25,7 +25,7 @@ tags:
 - toner vs ink cost
 - third party cartridge warranty
 - cheapest way to print at home
-heroImage: /images/hero/oem-vs-compatible-ink-cartridges-cost-comparison.jpg
+heroImage: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1600&q=80"
 ---
 
 ## Introduction

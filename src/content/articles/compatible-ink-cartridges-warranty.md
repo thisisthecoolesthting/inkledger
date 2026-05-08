@@ -29,7 +29,7 @@ relatedProducts:
 - B0C7ZTV376
 - B0CB75LML9
 - B0GF25F12C
-heroImage: /images/hero/compatible-ink-cartridges-warranty.jpg
+heroImage: "https://images.unsplash.com/photo-1612815154858-60aa4c59eaa6?auto=format&fit=crop&w=1600&q=80"
 cardTitle: Does Third-Party Ink Really Void Your Printer Warranty?
 cardPick: HP 67XL cartridges offer genuine compatibility without sacrificing warranty
   protection or your budget.

@@ -29,7 +29,7 @@ relatedProducts:
 - B0C7ZTV376
 - B0CB75LML9
 - B0GF25F12C
-heroImage: /images/hero/epson-ecotank-vs-megatank-printers.jpg
+heroImage: "https://images.unsplash.com/photo-1612815154858-60aa4c59eaa6?auto=format&fit=crop&w=1600&q=80"
 cardTitle: 'Ink Tank Printers vs. Cartridge Costs: Which Saves Most Money'
 cardPick: HP 67XL cartridges deliver high-yield printing at significantly lower per-page
   costs than traditional cartridges, maximizing your printing budget.

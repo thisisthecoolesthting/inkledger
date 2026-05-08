@@ -20,7 +20,7 @@ tags:
 - laser-toner-savings
 relatedProducts:
 - B08B3K9H7L
-heroImage: /images/hero/printer-maintenance-tips-to-save-ink.jpg
+heroImage: "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=1600&q=80"
 ---
 
 ## Introduction

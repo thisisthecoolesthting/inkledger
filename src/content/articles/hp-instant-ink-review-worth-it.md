@@ -29,7 +29,7 @@ tags:
 - inkjet refills
 - compatible cartridges
 - printing costs
-heroImage: /images/hero/hp-instant-ink-review-worth-it.jpg
+heroImage: "https://images.unsplash.com/photo-1563770660941-10a63607a4d2?auto=format&fit=crop&w=1600&q=80"
 ---
 
 # Introduction

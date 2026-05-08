@@ -26,7 +26,7 @@ tags:
 - printer maintenance
 - OEM alternatives
 - DIY printing
-heroImage: /images/hero/how-to-refill-ink-cartridges-guide.jpg
+heroImage: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1600&q=80"
 cardTitle: 'Refill Ink Cartridges: Cut Printing Costs by 60–90% Today'
 cardPick: Canon PG-245 offers genuine quality at fraction of OEM price, trusted by
   budget-conscious households and small offices.

@@ -27,7 +27,7 @@ tags:
 - cost per page
 - printer maintenance
 - home office supplies
-heroImage: /images/hero/how-to-refill-ink-cartridges-at-home.jpg
+heroImage: "https://images.unsplash.com/photo-1563986768494-4dee2763ff3f?auto=format&fit=crop&w=1600&q=80"
 ---
 
 # Introduction

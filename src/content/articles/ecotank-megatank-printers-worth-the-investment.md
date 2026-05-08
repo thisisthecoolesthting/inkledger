@@ -23,7 +23,7 @@ relatedProducts:
 - B00MFG54B6
 - B08GX3K9YS
 - B08NQSHX3N
-heroImage: /images/hero/ecotank-megatank-printers-worth-the-investment.jpg
+heroImage: "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=1600&q=80"
 ---
 
 # Introduction

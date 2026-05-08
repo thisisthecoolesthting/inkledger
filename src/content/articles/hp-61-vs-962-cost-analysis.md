@@ -27,7 +27,7 @@ tags:
 - cost per page printing
 - printer maintenance
 - HP compatible ink
-heroImage: /images/hero/hp-61-vs-962-cost-analysis.jpg
+heroImage: "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=1600&q=80"
 cardTitle: 'HP 61 vs 962 Ink: Which Cartridge Costs Less Per Page'
 cardPick: HP 61XL compatible cartridges deliver page-for-page savings without sacrificing
   print quality, slashing costs dramatically.

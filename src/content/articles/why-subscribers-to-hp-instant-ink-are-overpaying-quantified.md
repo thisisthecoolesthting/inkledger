@@ -5,7 +5,7 @@ topic: Why subscribers to HP Instant Ink are overpaying (quantified)
 tier: full
 relatedProducts: []
 status: published
-heroImage: /images/hero/why-subscribers-to-hp-instant-ink-are-overpaying-quantified.jpg
+heroImage: "https://images.unsplash.com/photo-1563770660941-10a63607a4d2?auto=format&fit=crop&w=1600&q=80"
 metaDescription: "Why Subscribers to HP Instant Ink Are Overpaying (Quantified)"
 publishedAt: 2026-04-24
 excerpt: "Why Subscribers to HP Instant Ink Are Overpaying (Quantified)"

@@ -25,7 +25,7 @@ relatedProducts:
 - B09VXQ221K
 - B098JD8HD3
 - B08PZBPXLZ
-heroImage: /images/hero/oem-vs-compatible-ink-cartridges-what-you-need-to-know.jpg
+heroImage: "https://images.unsplash.com/photo-1579548122080-c35fd6820ecb?auto=format&fit=crop&w=1600&q=80"
 ---
 
 ## Introduction

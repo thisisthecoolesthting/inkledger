@@ -29,7 +29,7 @@ relatedProducts:
 - B0C7ZTV376
 - B0CB75LML9
 - B0GF25F12C
-heroImage: /images/hero/canon-pg-245-cheaper-alternatives.jpg
+heroImage: "https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?auto=format&fit=crop&w=1600&q=80"
 ---
 
 ## Introduction

@@ -24,7 +24,7 @@ tags:
 - hp-ink-alternatives
 - canon-refill-guide
 - epson-ecotank-hack
-heroImage: /images/hero/best-ink-refill-kits-for-home-printers.jpg
+heroImage: "https://images.unsplash.com/photo-1612815154858-60aa4c59eaa6?auto=format&fit=crop&w=1600&q=80"
 ---
 
 # Introduction

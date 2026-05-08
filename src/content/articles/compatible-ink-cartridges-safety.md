@@ -29,7 +29,7 @@ relatedProducts:
 - B0DHV7ZWH2
 - B0DHV8SCLS
 - B0G63G9LRJ
-heroImage: /images/hero/compatible-ink-cartridges-safety.jpg
+heroImage: "https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?auto=format&fit=crop&w=1600&q=80"
 ---
 
 ## Introduction

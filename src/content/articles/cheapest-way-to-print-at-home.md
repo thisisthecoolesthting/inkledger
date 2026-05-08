@@ -26,7 +26,7 @@ relatedProducts:
 - B083BFPGD8
 - B0CYJV9X52
 - B0DYNQ1WP7
-heroImage: /images/hero/cheapest-way-to-print-at-home.jpg
+heroImage: "https://images.unsplash.com/photo-1579548122080-c35fd6820ecb?auto=format&fit=crop&w=1600&q=80"
 cardTitle: 'Stop Overpaying for Ink: Cheapest Home Printing Solutions Compared'
 cardPick: HP 61 Black Ink Cartridge offers reliable OEM quality at lower cost than
   premium brands without sacrificing print quality.

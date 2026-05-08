@@ -27,7 +27,7 @@ relatedProducts:
 - B0CGW2TFSV
 - B0CGW48C3G
 - B0DWD9NQ57
-heroImage: /images/hero/instant-ink-subscription-worth-it-analysis.jpg
+heroImage: "https://images.unsplash.com/photo-1563770660941-10a63607a4d2?auto=format&fit=crop&w=1600&q=80"
 cardTitle: 'Skip Instant Ink: Save Big With Compatible HP Cartridges'
 cardPick: Compatible cartridges cost 70% less than official HP ink while delivering
   identical print quality for home and office use.

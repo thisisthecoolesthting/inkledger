@@ -28,7 +28,7 @@ relatedProducts:
 - B0BVYBVHK5
 - B0CYJV9X52
 - B0FT32PL8L
-heroImage: /images/hero/third-party-cartridge-warranty-risks.jpg
+heroImage: "https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?auto=format&fit=crop&w=1600&q=80"
 cardTitle: Save 70% on Printer Ink Without Voiding Your Warranty
 cardPick: HP 61 OEM cartridges deliver genuine quality at third-party prices, keeping
   warranty protection intact while cutting costs dramatically.

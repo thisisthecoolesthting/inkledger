@@ -5,7 +5,7 @@ topic: Why Canon PGI-280 and CLI-281 prices jumped 22% in 2025
 tier: full
 relatedProducts: []
 status: published
-heroImage: /images/hero/why-canon-pgi-280-and-cli-281-prices-jumped-22-in-2025.jpg
+heroImage: "https://images.unsplash.com/photo-1612815154858-60aa4c59eaa6?auto=format&fit=crop&w=1600&q=80"
 metaDescription: "Why Canon PGI 280 and CLI 281 Prices Jumped 22% in 2025"
 publishedAt: 2026-04-24
 excerpt: "Why Canon PGI 280 and CLI 281 Prices Jumped 22% in 2025"

@@ -25,7 +25,7 @@ relatedProducts:
 - B0F54TYKF9
 - B085VZPR2Y
 - B0CGW2TFSV
-heroImage: /images/hero/going-paperless-digital-alternatives.jpg
+heroImage: "https://images.unsplash.com/photo-1524781289445-ddf8d5695861?auto=format&fit=crop&w=1600&q=80"
 ---
 
 ## Introduction

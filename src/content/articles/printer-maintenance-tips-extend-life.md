@@ -24,7 +24,7 @@ tags:
 - printhead cleaning
 - toner maintenance
 - printer longevity
-heroImage: /images/hero/printer-maintenance-tips-extend-life.jpg
+heroImage: "https://images.unsplash.com/photo-1563770660941-10a63607a4d2?auto=format&fit=crop&w=1600&q=80"
 ---
 
 ## Introduction

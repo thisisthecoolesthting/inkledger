@@ -27,7 +27,7 @@ relatedProducts:
 - B0CYJV9X52
 - B0DYNQ1WP7
 - B0FT32PL8L
-heroImage: /images/hero/toner-vs-ink-cost-per-page.jpg
+heroImage: "https://images.unsplash.com/photo-1497366811353-6870744d04b2?auto=format&fit=crop&w=1600&q=80"
 cardTitle: 'Toner vs. Ink: Which Actually Costs Less Per Page'
 cardPick: HP 61 Black delivers the lowest cost-per-page for home printing, beating
   expensive name-brand alternatives significantly.

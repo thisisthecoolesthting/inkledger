@@ -31,7 +31,7 @@ tags:
 - inkjet vs laser
 - printer maintenance
 - refill kits
-heroImage: /images/hero/hp-instant-ink-review-is-it-worth-it.jpg
+heroImage: "https://images.unsplash.com/photo-1612815154858-60aa4c59eaa6?auto=format&fit=crop&w=1600&q=80"
 ---
 
 ## Introduction

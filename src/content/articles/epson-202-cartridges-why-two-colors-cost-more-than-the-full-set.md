@@ -5,7 +5,7 @@ topic: 'Epson 202 cartridges: why two colors cost more than the full set'
 tier: full
 relatedProducts: []
 status: published
-heroImage: /images/hero/epson-202-cartridges-why-two-colors-cost-more-than-the-full-set.jpg
+heroImage: "https://images.unsplash.com/photo-1612815154858-60aa4c59eaa6?auto=format&fit=crop&w=1600&q=80"
 metaDescription: "Epson 202 Cartridges: Why Two Colors Cost More Than the Full Set"
 publishedAt: 2026-04-24
 excerpt: "Epson 202 Cartridges: Why Two Colors Cost More Than the Full Set"
