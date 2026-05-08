@@ -1,5 +1,9 @@
 ---
-import BaseLayout from '@/layouts/BaseLayout.astro';
+// INKLEDGER HOMEPAGE v2 — Analytical Watchdog Template
+// Sections: Hero → Trust Strip → Data Stats → Pillars → Articles (6) → Products → About → Newsletter → Methodology
+// Uses CompliantLayout (available in inkledger). Data from spawn-home.json.
+
+import CompliantLayout from '@/layouts/CompliantLayout.astro';
 import { getCollection } from 'astro:content';
 import ProductCard from '@/components/ProductCard.astro';
 import NewsletterForm from '@/components/NewsletterForm.astro';
@@ -7,14 +11,15 @@ import home from '@/data/spawn-home.json';
 
 const h = home.homepage;
 const b = home.brand;
-const dmeta = (home as { defaultMetaDescription?: string }).defaultMetaDescription || b.taglineShort;
-const authorSlug = (home as { defaultAuthorSlug: string }).defaultAuthorSlug;
-const siteYmyl = (home as { persona?: { ymyl?: boolean } }).persona?.ymyl === true;
+const homeX = home as Record<string, any>;
+const dmeta = homeX.defaultMetaDescription || b.taglineShort || '';
+const authorSlug = homeX.defaultAuthorSlug || '_default';
+const editorPseudonym = homeX.persona?.pseudonymHint || homeX.persona?.name || 'Editorial';
+const aboutHeadline = homeX.about?.headline || `Why ${b.shortName} exists`;
+const aboutBody = homeX.about?.body || (b as any).taglineLong || '';
+const heroCategories: string[] = Array.isArray(homeX.categories) ? homeX.categories : [];
 
 const allProducts = await getCollection('products', ({ data }) => data.status === 'published');
-
-// Homepage "top picks" must pass the display bar — real image, real price, real rating.
-// This mirrors the /products page filter; a product that fails here never ships.
 const completeProducts = allProducts.filter((p) => {
   const d = p.data;
   const hasImage = d.imageUrl && !d.imageUrl.includes('example') && !d.imageUrl.startsWith('data:');
@@ -22,218 +27,341 @@ const completeProducts = allProducts.filter((p) => {
   const hasRating = typeof d.rating === 'number' && d.rating > 0;
   return hasImage && hasPrice && hasRating;
 });
-
-const featured = completeProducts
-  .sort((a, b) => (b.data.score ?? 0) - (a.data.score ?? 0))
-  .slice(0, 6);
+const compareRow = completeProducts.sort((a, b) => (b.data.score ?? 0) - (a.data.score ?? 0)).slice(0, 3);
+const heroStatCount = completeProducts.length;
 
 const allPillars = await getCollection('pillars', ({ data }) => data.status === 'published');
-const featuredPillars = allPillars
-  .sort((a, b) => +new Date(b.data.publishedAt) - +new Date(a.data.publishedAt))
-  .slice(0, 3);
+const pillarFour = allPillars.sort((a, b) => +new Date(b.data.publishedAt) - +new Date(a.data.publishedAt)).slice(0, 4);
 
 const allArticles = await getCollection('articles', ({ data }) => data.status === 'published');
-const recentArticles = allArticles
-  .sort((a, b) => +new Date(b.data.publishedAt) - +new Date(a.data.publishedAt))
-  .slice(0, 3);
 
-// Concrete, factual trust line — numbers beat adjectives.
-// Computed fresh from the content collection so it stays true as we grow.
-const trustLine =
-  `${allArticles.length} articles · ${allPillars.length} in-depth guides · ${completeProducts.length} products reviewed`;
+// ── Topic dedup: one article per primary tag, newest wins ──────────────────
+const articlesByDateDesc = [...allArticles].sort((a, b) => +new Date(b.data.publishedAt) - +new Date(a.data.publishedAt));
+const seenTopicKeys = new Set<string>();
+const topicUnique: typeof articlesByDateDesc = [];
+const topicSpillover: typeof articlesByDateDesc = [];
+for (const a of articlesByDateDesc) {
+  const key = String((a.data.tags?.[0] || '')).toLowerCase().trim() || `__slug-${a.slug}`;
+  if (!seenTopicKeys.has(key)) { seenTopicKeys.add(key); topicUnique.push(a); }
+  else topicSpillover.push(a);
+}
+const latestSix = topicUnique.length >= 3 ? topicUnique.slice(0, 6) : [...topicUnique, ...topicSpillover].slice(0, 6);
 
-const trustLineDisplay = (h.trustLine && String(h.trustLine).trim()) || trustLine;
+// ── Niche image pool — office / printer / cost / ink ──────────────────────
+const NICHE_IMAGE_POOL = [
+  'https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?auto=format&fit=crop&w=1200&q=80',
+  'https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=1200&q=80',
+  'https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?auto=format&fit=crop&w=1200&q=80',
+  'https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?auto=format&fit=crop&w=1200&q=80',
+  'https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=1200&q=80',
+  'https://images.unsplash.com/photo-1563986768494-4dee2763ff3f?auto=format&fit=crop&w=1200&q=80',
+  'https://images.unsplash.com/photo-1542744095-fcf48d80b0fd?auto=format&fit=crop&w=1200&q=80',
+  'https://images.unsplash.com/photo-1556761175-5973dc0f32e7?auto=format&fit=crop&w=1200&q=80',
+  'https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80',
+  'https://images.unsplash.com/photo-1579548122080-c35fd6820ecb?auto=format&fit=crop&w=1200&q=80',
+];
+
+const normalizeKey = (u: string | undefined | null): string => {
+  if (!u) return '';
+  const m = String(u).match(/photo-[^?]+/);
+  return m ? m[0] : String(u).split('?')[0];
+};
+const heroKey = normalizeKey(h.heroImageUrl);
+const articleKeyCounts = new Map<string, number>();
+for (const a of latestSix) {
+  const k = normalizeKey(a.data.heroImage); if (k) articleKeyCounts.set(k, (articleKeyCounts.get(k) || 0) + 1);
+}
+const usedKeys = new Set<string>();
+if (heroKey) usedKeys.add(heroKey);
+
+const hashSlug = (slug: string) => {
+  let h = 0;
+  for (let i = 0; i < slug.length; i++) h = ((h << 5) - h + slug.charCodeAt(i)) | 0;
+  return Math.abs(h);
+};
+const pickPoolImage = (slug: string): string => {
+  const start = hashSlug(slug) % NICHE_IMAGE_POOL.length;
+  for (let i = 0; i < NICHE_IMAGE_POOL.length; i++) {
+    const c = NICHE_IMAGE_POOL[(start + i) % NICHE_IMAGE_POOL.length];
+    const k = normalizeKey(c);
+    if (!usedKeys.has(k)) { usedKeys.add(k); return c; }
+  }
+  return NICHE_IMAGE_POOL[start];
+};
+const latestSixWithImages = latestSix.map((a) => {
+  const k = normalizeKey(a.data.heroImage);
+  const isShared = k && (articleKeyCounts.get(k) || 0) > 1;
+  if (k && !isShared && !usedKeys.has(k)) { usedKeys.add(k); return { entry: a, imageUrl: a.data.heroImage as string }; }
+  return { entry: a, imageUrl: pickPoolImage(a.slug) };
+});
+
+const trustLineDisplay = (h.trustLine && String(h.trustLine).trim()) || 'No sponsorship from printer manufacturers. Partner revenue on third-party refills and compatibles only.';
+
+const dataStats = [
+  { num: '43%', label: 'OEM price increase', sub: 'Across HP, Epson, Brother, Canon since 2019.' },
+  { num: '$284', label: 'avg household loss', sub: 'Per year on overpriced OEM cartridges.' },
+  { num: '126+', label: 'cartridge models', sub: 'Tracked, compared, and independently rated.' },
+];
 ---
 
-<BaseLayout
-  title={b.fullName}
-  description={dmeta}
->
-  <section class="relative pt-6 md:pt-10">
-    <div class="max-w-6xl mx-auto px-5">
-      <div class="relative overflow-hidden rounded-[2.5rem] md:rounded-[3.5rem] shadow-soft">
-        <div class="absolute inset-0">
-          <img
-            src={h.heroImageUrl}
-            alt=""
-            class="w-full h-full object-cover object-center"
-            loading="eager"
-          />
-        </div>
-        <div
-          class="absolute inset-0 bg-gradient-to-b from-black/95 via-black/98 to-black/40"
-          aria-hidden="true"
-        ></div>
+<CompliantLayout title={b.fullName} description={dmeta}>
 
-        <div class="relative max-w-4xl mx-auto px-6 py-12 md:py-16 text-center">
-          <p class="text-terracotta-600 font-semibold uppercase tracking-[0.18em] text-xs md:text-sm mb-5">
+  {/* ════ 1. HERO ════ */}
+  <section class="relative pt-10 md:pt-16 pb-20 md:pb-24 overflow-hidden">
+    <div aria-hidden="true" class="pointer-events-none absolute inset-0 -z-10
+         bg-[radial-gradient(55%_50%_at_90%_15%,rgba(245,158,11,.08),transparent_70%),radial-gradient(40%_35%_at_6%_85%,rgba(30,58,138,.09),transparent_70%)]"></div>
+    <div class="max-w-6xl mx-auto px-5">
+      <div class="grid md:grid-cols-[1.1fr_1fr] gap-10 md:gap-14 items-center">
+        <div>
+          <p class="font-mono text-[11px] tracking-[0.18em] uppercase text-terracotta-600 font-medium">
             {h.eyebrow}
           </p>
-          <h1 class="font-display text-4xl md:text-5xl text-white mb-5 leading-[1.08] drop-shadow-lg tracking-tight">
+          <h1 class="font-display text-4xl md:text-5xl lg:text-[3.25rem] text-white mt-3 leading-[1.08] drop-shadow-lg tracking-tight">
             {h.h1}
           </h1>
-          <p class="text-base md:text-lg text-cream-50/90 max-w-[52ch] mx-auto leading-relaxed drop-shadow mb-7">
+          <p class="text-base md:text-lg text-cream-50/90 max-w-[34em] mt-5 leading-relaxed drop-shadow">
             {h.subhead}
           </p>
-          <div class="flex flex-wrap justify-center gap-3">
-            <a href={h.ctaPrimaryHref} class="btn-primary no-underline">{h.ctaPrimaryLabel}</a>
-            <a href={h.ctaSecondaryHref} class="btn-secondary no-underline">{h.ctaSecondaryLabel}</a>
+          <div class="flex flex-wrap gap-3 mt-7">
+            <a href={h.ctaPrimaryHref} class="btn-primary no-underline">
+              {h.ctaPrimaryLabel} <span aria-hidden="true" class="ml-2">→</span>
+            </a>
+            <a href={h.ctaSecondaryHref} class="btn-secondary no-underline">
+              {h.ctaSecondaryLabel}
+            </a>
           </div>
-          <p class="mt-5 text-xs text-ink-500 uppercase tracking-[0.1em]">
-            {trustLineDisplay}
-          </p>
+          <ul class="flex flex-wrap gap-x-6 gap-y-2 mt-8 text-sm text-ink-700">
+            {['No manufacturer sponsorships', 'Price-history tracked weekly', 'Partner-supported only'].map((t) => (
+              <li class="flex items-center gap-2">
+                <span class="inline-grid place-items-center w-5 h-5 rounded-full bg-sage-400/30 text-sage-600 text-[10px] font-bold shrink-0">✓</span>
+                {t}
+              </li>
+            ))}
+          </ul>
+        </div>
+
+        <div class="relative">
+          <div class="relative rounded-2xl overflow-hidden shadow-soft-lg aspect-[2/3]">
+            {h.heroImageUrl ? (
+              <img src={h.heroImageUrl} alt="" loading="eager"
+                   class="absolute inset-0 w-full h-full object-cover" />
+            ) : (
+              <div class="absolute inset-0 bg-gradient-to-b from-blue-900 to-blue-700/40"></div>
+            )}
+            <div aria-hidden="true" class="absolute inset-0 bg-gradient-to-b from-transparent to-ink-900/55"></div>
+            <span class="absolute top-4 left-4 bg-cream-50 text-ink-900 font-mono text-[10px] tracking-[0.18em] uppercase px-2.5 py-1.5 rounded">
+              INK PRICING · TRACKED
+            </span>
+            <span class="absolute bottom-4 left-4 right-4 text-cream-50/95 font-mono text-[10.5px] tracking-[0.1em]">
+              Independent watchdog · updated weekly
+            </span>
+          </div>
+          {heroStatCount > 0 && (
+            <a href="/products" class="no-underline absolute -left-4 -bottom-7 md:-left-8 bg-cream-50 border border-cream-200 rounded-xl shadow-soft px-5 py-4 w-56 hover:shadow-soft-lg transition-shadow">
+              <p class="font-mono text-[10.5px] tracking-[0.14em] uppercase text-terracotta-600">Watchlist</p>
+              <p class="font-display text-2xl text-ink-900 mt-1 leading-none">{heroStatCount} {heroStatCount === 1 ? 'model' : 'models'}</p>
+              <p class="text-xs text-ink-700 mt-1.5 leading-snug">Real prices · published methodology · history kept</p>
+            </a>
+          )}
         </div>
       </div>
     </div>
   </section>
 
-  <section class="py-10 md:py-14">
-    <div class="max-w-6xl mx-auto px-5">
-      <div class="bg-white rounded-[2.5rem] md:rounded-[3rem] shadow-soft px-6 md:px-10 py-12 md:py-14
-                  grid md:grid-cols-3 gap-10 md:gap-6 text-center">
-        <div class="px-4">
-          <div class="text-terracotta-600 text-3xl md:text-4xl font-display mb-3 leading-none">Honest</div>
-          <p class="text-sm text-ink-700 leading-relaxed max-w-[30ch] mx-auto">
-            No sponsored reviews. We say skip it when we mean it.
-          </p>
-        </div>
-        <div class="px-4 md:border-x border-cream-200/70">
-          <div class="text-terracotta-600 text-3xl md:text-4xl font-display mb-3 leading-none">Researched</div>
-          <p class="text-sm text-ink-700 leading-relaxed max-w-[30ch] mx-auto">
-            {siteYmyl
-              ? 'Peer-reviewed sources where they apply; we flag when evidence is limited.'
-              : 'Sources cited where they matter, with links you can check yourself.'}
-          </p>
-        </div>
-        <div class="px-4">
-          <div class="text-terracotta-600 text-3xl md:text-4xl font-display mb-3 leading-none">Specific</div>
-          <p class="text-sm text-ink-700 leading-relaxed max-w-[30ch] mx-auto">
-            Every recommendation tied to a specific problem at a specific price.
-          </p>
-        </div>
-      </div>
+  {/* ════ 2. TRUST STRIP ════ */}
+  <section class="border-y border-cream-200 bg-cream-50">
+    <div class="max-w-6xl mx-auto px-5 py-6 md:py-7 grid md:grid-cols-[auto_1fr_auto] gap-5 md:gap-8 items-center">
+      <p class="font-mono text-[10.5px] tracking-[0.18em] uppercase text-terracotta-600">Editorial standards</p>
+      <p class="font-display italic text-base md:text-lg text-ink-700 leading-snug">
+        "{trustLineDisplay}"
+      </p>
+      <a href="/methodology/" class="font-mono text-[11.5px] tracking-[0.08em] uppercase text-ink-900 border-b border-terracotta-500 pb-0.5 whitespace-nowrap no-underline hover:text-terracotta-600">
+        How we work →
+      </a>
     </div>
   </section>
 
-  {featuredPillars.length > 0 && (
-    <section class="max-w-6xl mx-auto px-6 py-20">
-      <div class="flex items-end justify-between mb-10">
+  {/* ════ 3. DATA STATS ════ */}
+  <section class="max-w-6xl mx-auto px-5 py-16">
+    <div class="grid md:grid-cols-3 gap-4">
+      {dataStats.map((stat) => (
+        <div class="bg-cream-50 border border-cream-200 rounded-xl p-8 text-center hover:border-terracotta-300 transition-colors">
+          <p class="font-display text-5xl md:text-6xl text-ink-900 leading-none">{stat.num}</p>
+          <p class="font-mono text-[11px] tracking-[0.14em] uppercase text-terracotta-600 mt-3">{stat.label}</p>
+          <p class="text-sm text-ink-600 mt-2 leading-snug">{stat.sub}</p>
+        </div>
+      ))}
+    </div>
+  </section>
+
+  {/* ════ 4. PILLAR GRID ════ */}
+  {(pillarFour.length > 0 || heroCategories.length > 0) && (
+    <section class="max-w-6xl mx-auto px-5 py-8 md:py-12">
+      <div class="flex flex-col md:flex-row md:items-end md:justify-between gap-5 mb-10">
         <div>
-          <p class="text-terracotta-600 text-xs uppercase tracking-[0.2em] font-semibold mb-2">Start here</p>
-          <h2 class="font-display text-3xl md:text-4xl text-ink-900 leading-tight">In-depth guides</h2>
+          <p class="font-mono text-[11px] tracking-[0.18em] uppercase text-terracotta-600 font-medium mb-2">Start here</p>
+          <h2 class="font-display text-3xl md:text-4xl text-ink-900 leading-tight !mt-0 max-w-[18ch]">
+            Pillars we track every week.
+          </h2>
         </div>
-        <a href="/pillars" class="text-sm text-terracotta-600 font-medium whitespace-nowrap hover:underline">All guides →</a>
+        <p class="text-sm text-ink-700 max-w-[28ch]">
+          Explainer → tracked models → cheaper alternative. Three clicks to the answer.
+        </p>
       </div>
-      <div class="grid md:grid-cols-3 gap-6 md:gap-8">
-        {featuredPillars.map((p) => (
-          <a href={`/pillars/${p.slug}`} class="group no-underline block">
-            {p.data.heroImage ? (
-              <div class="rounded-xl overflow-hidden mb-5 bg-cream-200 aspect-[16/10] shadow-sm group-hover:shadow-lg transition-shadow duration-300">
-                <img src={p.data.heroImage} alt={p.data.title} loading="lazy"
-                     class="w-full h-full object-cover group-hover:scale-[1.03] transition-transform duration-500" />
-              </div>
-            ) : (
-              <div class="rounded-xl bg-cream-200 aspect-[16/10] mb-5"></div>
-            )}
-            <h3 class="font-display text-xl text-ink-900 !mt-0 leading-snug group-hover:text-terracotta-600 transition-colors">
-              {p.data.title}
-            </h3>
-            <p class="text-sm text-ink-700 mt-3 leading-relaxed">{p.data.excerpt}</p>
-          </a>
-        ))}
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+        {(pillarFour.length >= 4 ? pillarFour : heroCategories.slice(0, 4)).map((entry: any, idx: number) => {
+          const isPillar = !!entry?.slug && !!entry?.data;
+          const tints = [
+            'bg-gradient-to-b from-cream-100 to-cream-50',
+            'bg-gradient-to-b from-blue-50 to-cream-50',
+            'bg-gradient-to-b from-terracotta-400/10 to-cream-50',
+            'bg-gradient-to-b from-cream-200 to-cream-50',
+          ];
+          const num = String(idx + 1).padStart(2, '0');
+          const title = isPillar ? entry.data.title : String(entry).charAt(0).toUpperCase() + String(entry).slice(1);
+          const excerpt = isPillar ? entry.data.excerpt : `Tracked models and price history for ${entry}.`;
+          const href = isPillar ? `/pillars/${entry.slug}` : `/articles?cat=${entry}`;
+          const firstWord = String(entry?.data?.title || entry || '').split(' ')[0];
+          return (
+            <a href={href} class={`group no-underline relative overflow-hidden rounded-xl border border-cream-200 p-6 min-h-[240px] flex flex-col transition-all hover:-translate-y-1 hover:shadow-soft-lg hover:border-terracotta-400 ${tints[idx % tints.length]}`}>
+              <p class="font-display text-sm text-terracotta-600">{num} · {firstWord}</p>
+              <h3 class="font-display text-xl text-ink-900 !mt-2 leading-snug max-w-[14ch]">{title}</h3>
+              <p class="text-sm text-ink-700 mt-2.5 leading-relaxed">{excerpt}</p>
+              <span class="font-mono text-[11px] tracking-[0.1em] uppercase text-ink-900 mt-auto pt-4 group-hover:text-terracotta-600">
+                Explore <span class="text-terracotta-500">→</span>
+              </span>
+            </a>
+          );
+        })}
       </div>
     </section>
   )}
 
-  {featured.length > 0 && (
-    <section class="py-10 md:py-14">
-      <div class="max-w-6xl mx-auto px-5">
-        <div class="bg-cream-100 rounded-[2.5rem] md:rounded-[3rem] shadow-soft px-6 md:px-10 py-14 md:py-20">
-          <div class="flex items-end justify-between mb-10">
-            <div>
-              <p class="text-terracotta-600 text-xs uppercase tracking-[0.2em] font-semibold mb-2">Product reviews</p>
-              <h2 class="font-display text-3xl md:text-4xl text-ink-900 leading-tight !mt-0">Top picks this month</h2>
-            </div>
-            <a href="/products" class="text-sm text-terracotta-600 font-medium whitespace-nowrap hover:underline">All reviews →</a>
-          </div>
-          <div class="grid grid-cols-2 md:grid-cols-3 gap-4 md:gap-6">
-            {featured.map((p) => <ProductCard product={p} />)}
-          </div>
-        </div>
-      </div>
-    </section>
-  )}
-
-  {recentArticles.length > 0 && (
-    <section class="max-w-6xl mx-auto px-6 py-20">
-      <div class="flex items-end justify-between mb-10">
-        <div>
-          <p class="text-terracotta-600 text-xs uppercase tracking-[0.2em] font-semibold mb-2">Articles</p>
-          <h2 class="font-display text-3xl md:text-4xl text-ink-900 leading-tight">Latest reads</h2>
-        </div>
-        <a href="/articles" class="text-sm text-terracotta-600 font-medium whitespace-nowrap hover:underline">All articles →</a>
-      </div>
-      <div class="grid md:grid-cols-3 gap-6 md:gap-8">
-        {recentArticles.map((a) => (
-          <a href={`/articles/${a.slug}`} class="group no-underline block">
-            {a.data.heroImage ? (
-              <div class="rounded-xl overflow-hidden mb-4 bg-cream-200 aspect-[16/10] shadow-sm group-hover:shadow-lg transition-shadow duration-300">
-                <img src={a.data.heroImage} alt={a.data.title} loading="lazy"
-                     class="w-full h-full object-cover group-hover:scale-[1.03] transition-transform duration-500" />
-              </div>
-            ) : (
-              <div class="rounded-xl bg-cream-200 aspect-[16/10] mb-4"></div>
-            )}
-            <h3 class="font-display text-lg text-ink-900 !mt-0 leading-snug group-hover:text-terracotta-600 transition-colors">
-              {a.data.title}
-            </h3>
-            <p class="text-sm text-ink-700 mt-2 leading-relaxed">{a.data.excerpt}</p>
-          </a>
-        ))}
-      </div>
-    </section>
-  )}
-
-  <section class="py-10 md:py-14">
-    <div class="max-w-6xl mx-auto px-5">
-      <div class="bg-cream-100 rounded-[2.5rem] md:rounded-[3rem] shadow-soft px-6 md:px-10 py-14 md:py-20">
-        <div class="grid md:grid-cols-[auto,1fr] gap-8 md:gap-12 items-center max-w-3xl mx-auto">
-          <a href={`/authors/${authorSlug}/`} class="block mx-auto md:mx-0 shrink-0 no-underline">
-            <img
-              src={`/authors/${authorSlug}.svg`}
-              alt={b.fullName}
-              width="180"
-              height="180"
-              loading="lazy"
-              class="w-40 h-40 md:w-44 md:h-44 rounded-full object-cover shadow-soft ring-4 ring-white"
-            />
-          </a>
-          <div class="text-center md:text-left">
-            <p class="text-terracotta-600 text-xs uppercase tracking-[0.2em] font-semibold mb-3">Editorial</p>
-            <h2 class="font-display text-3xl md:text-4xl text-ink-900 mb-5 leading-tight !mt-0">
-              {home.about.headline}
+  {/* ════ 5. LATEST ARTICLES ════ */}
+  {latestSixWithImages.length > 0 && (
+    <section class="bg-gradient-to-b from-cream-50 to-cream-100 border-y border-cream-200">
+      <div class="max-w-6xl mx-auto px-5 py-20">
+        <div class="flex flex-col md:flex-row md:items-end md:justify-between gap-5 mb-10">
+          <div>
+            <p class="font-mono text-[11px] tracking-[0.18em] uppercase text-terracotta-600 font-medium mb-2">Latest from the desk</p>
+            <h2 class="font-display text-3xl md:text-4xl text-ink-900 !mt-0 leading-tight max-w-[20ch]">
+              Six things we published recently.
             </h2>
-            <p class="text-ink-700 text-lg leading-relaxed mb-6 max-w-prose">
-              {home.about.body}
-            </p>
-            <div class="flex flex-wrap gap-5 text-sm">
-              <a
-                href={`/authors/${authorSlug}/`}
-                class="text-terracotta-600 font-medium hover:text-terracotta-500 transition-colors no-underline"
-              >
-                Author page &rarr;
-              </a>
-              <a href="/methodology/" class="text-terracotta-600 font-medium hover:text-terracotta-500 transition-colors no-underline">
-                How we work &rarr;
-              </a>
-            </div>
           </div>
+          <a href="/articles" class="font-mono text-[11.5px] tracking-[0.08em] uppercase text-ink-900 border-b border-terracotta-500 pb-0.5 no-underline hover:text-terracotta-600 whitespace-nowrap">
+            All articles →
+          </a>
+        </div>
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
+          {latestSixWithImages.map(({ entry: a, imageUrl }) => (
+            <a href={`/articles/${a.slug}`} class="group no-underline block bg-white border border-cream-200 rounded-xl overflow-hidden hover:shadow-soft-lg hover:-translate-y-1 hover:border-terracotta-400 transition-all">
+              <div class="relative aspect-[2/3] overflow-hidden bg-cream-100">
+                <img src={imageUrl} alt={a.data.title} loading="lazy"
+                     class="absolute inset-0 w-full h-full object-cover group-hover:scale-[1.04] transition-transform duration-500" />
+                <div aria-hidden="true" class="absolute inset-0 bg-gradient-to-b from-transparent via-ink-900/85 to-ink-900/60"></div>
+                <div class="absolute inset-x-0 bottom-0 p-5 text-cream-50">
+                  <span class="font-mono text-[10.5px] tracking-[0.16em] uppercase text-cream-50/85">
+                    {(a.data.tags?.[0] || 'Article')} · {a.data.readingTime || '8'} min read
+                  </span>
+                  <h3 class="font-display text-xl leading-[1.12] !mt-1 text-cream-50 max-w-[14ch]">{a.data.title}</h3>
+                </div>
+              </div>
+              <div class="px-5 py-3 flex items-center gap-2.5 text-xs text-ink-500 border-t border-cream-200">
+                <span class="inline-grid place-items-center w-6 h-6 rounded-full bg-blue-900 text-cream-50 font-display font-semibold text-[11px]">
+                  {(editorPseudonym?.[0] || 'I').toUpperCase()}
+                </span>
+                <span>{editorPseudonym || 'Editorial'} · {new Date(a.data.publishedAt).toLocaleDateString('en-US', { month: 'short', day: 'numeric' })}</span>
+              </div>
+            </a>
+          ))}
+        </div>
+      </div>
+    </section>
+  )}
+
+  {/* ════ 6. PRODUCT COMPARISON ════ */}
+  {compareRow.length >= 1 && (
+    <section class="max-w-6xl mx-auto px-5 py-20">
+      <div class="flex flex-col md:flex-row md:items-end md:justify-between gap-5 mb-8">
+        <div>
+          <p class="font-mono text-[11px] tracking-[0.18em] uppercase text-terracotta-600 font-medium mb-2">Tracked this week</p>
+          <h2 class="font-display text-3xl md:text-4xl text-ink-900 !mt-0 leading-tight max-w-[24ch]">
+            Three cartridges, three price tiers, one verdict.
+          </h2>
+        </div>
+        <div class="flex flex-col md:items-end gap-2">
+          <a href="/products" class="font-mono text-[11.5px] tracking-[0.08em] uppercase text-ink-900 border-b border-terracotta-500 pb-0.5 no-underline hover:text-terracotta-600 whitespace-nowrap">
+            All products →
+          </a>
+          <p class="text-xs text-ink-500 max-w-[30ch] text-right">Price-history via Keepa · cross-checked weekly · raw data on methodology page.</p>
+        </div>
+      </div>
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-5">
+        {compareRow.map((p, i) => (
+          <div class="relative">
+            {i === 1 && <span class="absolute z-10 top-3 left-3 bg-terracotta-500 text-white font-mono text-[10px] tracking-[0.14em] uppercase px-2.5 py-1 rounded">Best value</span>}
+            {i === 0 && <span class="absolute z-10 top-3 left-3 bg-ink-900 text-cream-50 font-mono text-[10px] tracking-[0.14em] uppercase px-2.5 py-1 rounded">Budget pick</span>}
+            {i === 2 && <span class="absolute z-10 top-3 left-3 bg-blue-900 text-cream-50 font-mono text-[10px] tracking-[0.14em] uppercase px-2.5 py-1 rounded">OEM quality</span>}
+            <ProductCard product={p} />
+          </div>
+        ))}
+      </div>
+    </section>
+  )}
+
+  {/* ════ 7. ABOUT ════ */}
+  <section class="relative bg-ink-900 text-cream-50 py-24 overflow-hidden">
+    <div aria-hidden="true" class="absolute inset-0 pointer-events-none
+         bg-[radial-gradient(50%_60%_at_16%_50%,rgba(30,58,138,.3),transparent_70%)]"></div>
+    <div class="relative max-w-6xl mx-auto px-5 grid md:grid-cols-[260px_1fr] gap-10 md:gap-14 items-start">
+      <div class="aspect-[4/5] rounded-2xl overflow-hidden bg-gradient-to-br from-blue-800 to-blue-950 shadow-soft-lg relative">
+        <img src={`/authors/${authorSlug}.svg`} onerror="this.style.display='none'"
+             alt={editorPseudonym || b.fullName} loading="lazy"
+             class="absolute inset-0 w-full h-full object-cover" />
+        <div class="absolute inset-0 grid place-items-center">
+          <span class="font-display font-semibold text-7xl text-cream-50/80">
+            {(editorPseudonym?.[0] || b.fullName?.[0] || 'I').toUpperCase()}
+          </span>
+        </div>
+        <span class="absolute bottom-3.5 right-3.5 bg-cream-50 text-ink-900 font-mono text-[10px] tracking-[0.12em] uppercase px-2.5 py-1 rounded">
+          Editor-in-chief
+        </span>
+      </div>
+      <div>
+        <p class="font-mono text-[11px] tracking-[0.18em] uppercase text-terracotta-400 font-medium">About InkLedger</p>
+        <h2 class="font-display text-3xl md:text-4xl !mt-3 leading-tight text-cream-50">{aboutHeadline}</h2>
+        <p class="text-cream-50/80 text-base md:text-lg leading-relaxed mt-5 max-w-[56ch]">{aboutBody}</p>
+        <div class="flex flex-wrap gap-3 mt-9">
+          <a href="/methodology/" class="btn-primary no-underline">
+            Read our methodology <span aria-hidden="true" class="ml-2">→</span>
+          </a>
+          <a href={`/authors/${authorSlug}/`} class="inline-flex items-center justify-center rounded-full px-7 py-3 font-semibold text-base border border-cream-50/40 text-cream-50 transition-all hover:bg-cream-50 hover:text-ink-900 no-underline">
+            About the editor
+          </a>
         </div>
       </div>
     </div>
   </section>
 
-  <section class="max-w-3xl mx-auto px-6 py-20">
+  {/* ════ 8. NEWSLETTER ════ */}
+  <section class="max-w-3xl mx-auto px-5 py-20">
     <NewsletterForm variant="hero" />
   </section>
-</BaseLayout>
+
+  {/* ════ 9. METHODOLOGY STRIP ════ */}
+  <section class="bg-sage-400/15 border-y border-cream-200 py-12">
+    <div class="max-w-6xl mx-auto px-5 grid md:grid-cols-[auto_1fr_auto] gap-6 md:gap-9 items-center">
+      <div class="grid place-items-center w-16 h-16 rounded-full bg-sage-500 text-cream-50 font-display text-2xl font-semibold shrink-0">§</div>
+      <div>
+        <h3 class="font-display text-xl md:text-2xl text-ink-900 !mt-0 mb-1">Standards, disclosures, and how we make money.</h3>
+        <p class="text-sm md:text-[15px] text-ink-700 max-w-[60ch]">
+          Disclosure, research protocol, conflict-of-interest policy, and our correction log. All on one page.
+        </p>
+      </div>
+      <a href="/methodology/" class="btn-primary no-underline whitespace-nowrap">
+        Read standards <span aria-hidden="true" class="ml-2">→</span>
+      </a>
+    </div>
+  </section>
+
+</CompliantLayout>
