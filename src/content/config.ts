@@ -2,6 +2,9 @@
 // marcus-inkledger to match the niche default author.
 import { defineCollection, z } from 'astro:content';
 
+// Coerce null → [] for relatedProducts (bare `relatedProducts:` in frontmatter = YAML null)
+const relatedProductsField = z.preprocess((v) => (v == null ? [] : v), z.array(z.string())).optional().default([]);
+
 const authors = defineCollection({
   type: 'content',
   schema: z.object({
@@ -60,7 +63,7 @@ const pillars = defineCollection({
     heroImage: z.string().optional(),
     excerpt: z.string(),
     targetKeyword: z.string(),
-    relatedProducts: z.array(z.string()).optional().default([]),
+    relatedProducts: relatedProductsField,
     status: z.enum(['draft', 'in_review', 'published']).default('draft'),
     tags: z.array(z.string()).optional().default([]),
     author: z.string().optional().default('marcus-inkledger'),
@@ -78,7 +81,7 @@ const articles = defineCollection({
     heroImage: z.string().optional(),
     excerpt: z.string(),
     pillarSlug: z.string().optional(),
-    relatedProducts: z.array(z.string()).optional().default([]),
+    relatedProducts: relatedProductsField,
     status: z.enum(['draft', 'in_review', 'published']).default('draft'),
     tags: z.array(z.string()).optional().default([]),
     author: z.string().optional().default('marcus-inkledger'),
