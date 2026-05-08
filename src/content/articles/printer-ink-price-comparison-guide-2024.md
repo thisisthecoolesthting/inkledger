@@ -9,14 +9,17 @@ excerpt: Our 2024 ink cartridge price comparison reveals which brands charge 400
   home without sacrificing quality.
 pillarSlug: ink-cost-analysis
 relatedProducts:
+- B00MFG54B6
+- B00WSAXBQ0
+- B07P3X73QD
+- B07P5Y5HGC
+- B08PZBPXLZ
+- B098JD8HD3
+- B09VXQ221K
+- B0BX2N258S
+- B0DHV7ZWH2
 - B0DHV8SCLS
 - B0G63G9LRJ
-- B00WSAXBQ0
-- B0DHV7ZWH2
-- B09VXQ221K
-- B098JD8HD3
-- B08PZBPXLZ
-- B0BX2N258S
 status: published
 tags:
 - printer ink price comparison
@@ -108,7 +111,7 @@ Our accountants analyzed total cost of ownership across 5 printing scenarios:
 
 **3. 3,000 pages/year (small business)**
 - OEM cartridges: $351.00
-- Brother HL-L2350DW laser: $90.00 ($0.03/page)
+- [Brother HL-L2350DW](https://www.amazon.com/dp/B00MFG54B6?tag=inkledger-20) laser: $90.00 ($0.03/page)
 - Epson EcoTank: $30.00
 
 **Laser vs. Inkjet break-even analysis**:
@@ -128,7 +131,7 @@ Our accountants analyzed total cost of ownership across 5 printing scenarios:
 - **High volume (500+ pages/month)**: [Epson EcoTank ET-3850](https://www.amazon.com/dp/B098JD8HD3?tag=inkledger-20) ($0.01/page, $199)
 - **Occasional use (<100 pages/month)**: Canon Pixma TR4720 + [inkowl refill kits](https://www.amazon.com/dp/B08PZBPXLZ?tag=inkledger-20) ($0.05/page)
 - **Photo printing**: Epson SureColor with OEM inks only ($0.22/page)
-- **Mixed use**: Brother MFC-J995DW + [LD Ink multipack](https://www.amazon.com/dp/B0DHV8SCLS?tag=inkledger-20) ($0.04/page)
+- **Mixed use**: [Brother MFC-J995DW](https://www.amazon.com/dp/B07P5Y5HGC?tag=inkledger-20) + [LD Ink multipack](https://www.amazon.com/dp/B0DHV8SCLS?tag=inkledger-20) ($0.04/page)
 
 **Advanced refill techniques**:
 1. Use syringe kits with 18-gauge needles for precise fills (avoid funnel systems)
@@ -140,7 +143,7 @@ Our accountants analyzed total cost of ownership across 5 printing scenarios:
 **Unexpected winners**:
 - The [Pantum P2502W](https://www.amazon.com/dp/B09VXQ221K?tag=inkledger-20) laser printer costs less than 4 HP 61XL cartridges
 - [Inkjet Superstore](https://www.amazon.com/dp/B0DHV7ZWH2?tag=inkledger-20) bulk ink systems work flawlessly in Epson Workforce models
-- Brother's TN-760 toner yields 3,000 pages for $38 - the best $/page in our tests
+- Brother's [TN-760 toner](https://www.amazon.com/dp/B07P3X73QD?tag=inkledger-20) yields 3,000 pages for $38 - the best $/page in our tests
 
 ## FAQ
 

@@ -18,14 +18,17 @@ tags:
 - cost per page
 - OEM vs third-party
 relatedProducts:
-- B0CB75LML9
-- B093TCYF9T
 - B004QM8SLG
-- B0GF25F12C
-- B08KGY4XJ5
-- B0C7ZTV376
-- B099NZC4PB
+- B00MFG54B6
+- B074WJLHBL
 - B0848Q34F8
+- B08KGY4XJ5
+- B08NQSHX3N
+- B093TCYF9T
+- B099NZC4PB
+- B0C7ZTV376
+- B0CB75LML9
+- B0GF25F12C
 heroImage: /images/hero/compatible-ink-cartridges-warranty.jpg
 cardTitle: Does Third-Party Ink Really Void Your Printer Warranty?
 cardPick: HP 67XL cartridges offer genuine compatibility without sacrificing warranty
@@ -59,7 +62,7 @@ We tested four high-volume cartridges against OEM equivalents for print quality,
 
 | Model | OEM Price | Third-Party Price | Page Yield | Warranty Impact |
 |-------|----------|-------------------|------------|-----------------|
-| HP 902XL | $42.99 | [$19.99 (InkCartridgePlus)](https://www.amazon.com/dp/B0CB75LML9?tag=inkledger-20) | 98% of OEM | None observed |
+| [HP 902XL](https://www.amazon.com/dp/B074WJLHBL?tag=inkledger-20) | $42.99 | [$19.99 (InkCartridgePlus)](https://www.amazon.com/dp/B0CB75LML9?tag=inkledger-20) | 98% of OEM | None observed |
 | Epson 502 | $38.50 | [$16.50 (PrinterPros)](https://www.amazon.com/dp/B093TCYF9T?tag=inkledger-20) | 87% of OEM | Firmware warning |
 | Canon PG-245 | $35.99 | [$12.99 (JetInk)](https://www.amazon.com/dp/B0GF25F12C?tag=inkledger-20) | 102% of OEM | No issues |
 | Brother TN-660 | $49.99 | [$22.99 (Toners4Less)](https://www.amazon.com/dp/B08KGY4XJ5?tag=inkledger-20) | 91% of OEM | Requires reset |
@@ -79,8 +82,8 @@ Over six months, we printed 12,000 pages using compatible cartridges across five
 
 **Gotchas**: 
 - Epson printers displayed "non-genuine ink" warnings but continued printing
-- HP OfficeJet Pro 9015e required disabling automatic firmware updates
-- Brother HL-L2350DW needed a [toner reset chip](https://www.amazon.com/dp/B0C7ZTV376?tag=inkledger-20) for third-party cartridges
+- [HP OfficeJet Pro](https://www.amazon.com/dp/B08NQSHX3N?tag=inkledger-20) 9015e required disabling automatic firmware updates
+- [Brother HL-L2350DW](https://www.amazon.com/dp/B00MFG54B6?tag=inkledger-20) needed a [toner reset chip](https://www.amazon.com/dp/B0C7ZTV376?tag=inkledger-20) for third-party cartridges
 
 No printer sustained damage from compatible ink during testing. The sole warranty claim—a paper feed mechanism failure on an HP Envy—was covered despite HP's detection of third-party ink.
 

@@ -9,14 +9,15 @@ excerpt: Discover how to save up to 80% on printer ink costs by refilling cartri
   work best with third-party ink.
 pillarSlug: alternative-ink-solutions
 relatedProducts:
+- B00WSAXBQ0
+- B07GRRXJXG
+- B08PZBPXLZ
+- B098JD8HD3
+- B09VXQ221K
+- B0BX2N258S
+- B0DHV7ZWH2
 - B0DHV8SCLS
 - B0G63G9LRJ
-- B00WSAXBQ0
-- B0DHV7ZWH2
-- B09VXQ221K
-- B098JD8HD3
-- B08PZBPXLZ
-- B0BX2N258S
 status: published
 tags:
 - ink refill
@@ -90,7 +91,7 @@ We developed a proprietary scoring system evaluating 12 performance metrics acro
 Let's break down the savings for a typical home office printing 500 pages/month:
 
 **OEM Cartridges**
-- HP 962XL (Black): $42.99 for 600 pages = $0.072/page
+- [HP 962XL](https://www.amazon.com/dp/B07GRRXJXG?tag=inkledger-20) (Black): $42.99 for 600 pages = $0.072/page
 - HP 962XL (Color): $54.99 for 400 pages = $0.137/page
 - Annual Cost: $1,260.60
 

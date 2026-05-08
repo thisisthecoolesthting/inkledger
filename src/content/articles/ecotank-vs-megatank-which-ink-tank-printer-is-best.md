@@ -10,14 +10,16 @@ excerpt: We analyze Epson EcoTank and HP MegaTank printers head-to-head, compari
   needs.
 pillarSlug: printer-buying-guides
 relatedProducts:
+- B00WSAXBQ0
+- B07P5Y5HGC
+- B08GX3K9YS
+- B08PZBPXLZ
+- B098JD8HD3
+- B09VXQ221K
+- B0BX2N258S
+- B0DHV7ZWH2
 - B0DHV8SCLS
 - B0G63G9LRJ
-- B00WSAXBQ0
-- B0DHV7ZWH2
-- B09VXQ221K
-- B098JD8HD3
-- B08PZBPXLZ
-- B0BX2N258S
 status: published
 tags:
 - ink tank printers
@@ -53,7 +55,7 @@ Our stress tests exposed critical differences in how these systems handle high-v
 
 ## Head-to-head comparison
 
-| Feature               | Epson EcoTank ET-3850 | HP Smart Tank Plus 651 | Canon MegaTank G620 | Brother INKvestment Tank |
+| Feature               | Epson [EcoTank ET-3850](https://www.amazon.com/dp/B08GX3K9YS?tag=inkledger-20) | HP Smart Tank Plus 651 | Canon MegaTank G620 | [Brother INKvestment](https://www.amazon.com/dp/B07P5Y5HGC?tag=inkledger-20) Tank |
 |-----------------------|-----------------------|------------------------|---------------------|--------------------------|
 | **Ink Capacity**      | 70ml per color        | 50ml per color         | 135ml black         | 70ml integrated tanks    |
 | **Claimed Page Yield**| 7,500 color / 14,000 B&W | 5,000 color / 12,000 B&W | 6,000 color / 18,000 B&W | 5,000 color / 6,000 B&W |

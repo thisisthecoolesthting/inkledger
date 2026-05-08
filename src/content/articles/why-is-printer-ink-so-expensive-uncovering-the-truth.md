@@ -9,14 +9,16 @@ excerpt: Printer manufacturers sell printers at a loss and make profits on ink c
   how refill kits and ink subscriptions can save you hundreds per year.
 pillarSlug: ink-cost-savings
 relatedProducts:
-- B004QM8SLG
-- B093TCYF9T
-- B0GF25F12C
-- B0F54TYKF9
-- B0CGW2TFSV
-- B0CGW48C3G
 - B00063RWT8
 - B00063RWXO
+- B004QM8SLG
+- B07GRRXJXG
+- B07P3X73QD
+- B093TCYF9T
+- B0CGW2TFSV
+- B0CGW48C3G
+- B0F54TYKF9
+- B0GF25F12C
 status: published
 tags:
 - printer ink pricing
@@ -62,7 +64,7 @@ Key findings from our 6-month testing with 12 printer models:
 - OEM cartridges averaged 5-12% higher print quality in photo printing, particularly in color gradation tests using standardized IT8.7 targets
 - Third-party options had 3-5% failure rates (clogs, leaks), with most occurring in the first 50 pages
 - Refill kits required 15-20 minutes per cartridge but saved 75% long-term, though required periodic printhead cleaning with solutions like [this maintenance kit](https://www.amazon.com/dp/B00063RWXO?tag=inkledger-20)
-- Laser toner cartridges like the Brother TN-760 showed the most consistent performance, with less than 1% variation between OEM and third-party yields
+- Laser toner cartridges like the [Brother TN-760](https://www.amazon.com/dp/B07P3X73QD?tag=inkledger-20) showed the most consistent performance, with less than 1% variation between OEM and third-party yields
 
 # Real-World Performance
 
@@ -83,7 +85,7 @@ Unexpected gotchas consumers should know:
 Detailed breakdown for average home user (200 pages/month) over 5 years:
 
 **Option 1: OEM Cartridges**
-- Annual cost: $172.80 (HP 962XL @ $0.072/page)
+- Annual cost: $172.80 ([HP 962XL](https://www.amazon.com/dp/B07GRRXJXG?tag=inkledger-20) @ $0.072/page)
 - Printer replacement: $150 (average inkjet lifespan)
 - 5-year cost: $864 + $150 = $1,014
 

@@ -9,6 +9,7 @@ excerpt: Refilling cartridges cuts ink costs by 60–90% compared to OEM. This g
   when to choose compatible cartridges or subscription services instead.
 pillarSlug: ink-toner-alternatives
 relatedProducts:
+- B08GX3K9YS
 status: "published"
 tags:
 - ink refill
@@ -49,7 +50,7 @@ We evaluated 12 popular refill kits based on ink quality, compatibility, tool in
 
 | Product Name | Price | Ink Volume | Colors | Compatibility | Notable Features |
 |---|---|---|---|---|---|
-| Ink Refill Kit A | $15 | 100ml | CMYK | HP 60, 61, 62, 63, 302, 364 | Precision syringes, gloves included |
+| [Ink Refill Kit](https://www.amazon.com/dp/B08GX3K9YS?tag=inkledger-20) A | $15 | 100ml | CMYK | HP 60, 61, 62, 63, 302, 364 | Precision syringes, gloves included |
 | Ink Refill Kit B | $20 | 150ml | CMYK + Photo Black | Epson 200, 201, 202, 203 | Includes cartridge reset tool |
 | Premium Ink Refill Kit Pro | $25 | 200ml | CMYK + 2 Photo Blacks | HP, Canon, Epson | Cleaning solution and video guide |
 | Eco-Friendly Refill Kit | $18 | 120ml | CMYK | Brother LC-1000 series | Soy-based ink, biodegradable packaging |

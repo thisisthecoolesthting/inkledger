@@ -19,6 +19,7 @@ tags:
 - home-office-printing
 - budget-printing
 relatedProducts:
+- B00MFG54B6
 heroImage: /images/hero/laser-vs-inkjet-printer-long-term-cost.jpg
 ---
 
@@ -124,7 +125,7 @@ Only if you print regularly. At 100+ pages monthly, Instant Ink is roughly 30% c
 
 # Recommendations
 
-**For most home and small-office users:** A budget laser printer like the Brother HL-L2350DW offers the best long-term value, especially if you print 500+ pages annually. Cost per page ($0.03), high duty cycle (10,000 pages), and zero maintenance make it ideal for students, remote workers, and anyone printing text-heavy documents.
+**For most home and small-office users:** A budget laser printer like the [Brother HL-L2350DW](https://www.amazon.com/dp/B00MFG54B6?tag=inkledger-20) offers the best long-term value, especially if you print 500+ pages annually. Cost per page ($0.03), high duty cycle (10,000 pages), and zero maintenance make it ideal for students, remote workers, and anyone printing text-heavy documents.
 
 **For color and photo needs:** An EcoTank model (e.g., Epson ET-2760) costs more upfront (~$300–$400) but delivers $0.01 per color page, beating cartridge-based inkjets over time. Print speeds are slower (~10 ppm vs. 19 ppm on lasers), so prioritize based on your workflow.
 

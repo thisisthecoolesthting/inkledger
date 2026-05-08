@@ -10,13 +10,14 @@ excerpt: We tested 14 refill methods across HP, Epson, and Brother printers to m
   for the most common problems.
 pillarSlug: compatible-refill-solutions
 relatedProducts:
-- B0BVYBVHK5
 - B08GX3K9YS
-- B0BPMXD39R
+- B08NQSHX3N
 - B0BL6F7Y9H
+- B0BPMXD39R
+- B0BVYBVHK5
+- B0CZ3VL82T
 - B0DYNQ1WP7
 - B0F37SVW8G
-- B0CZ3VL82T
 status: published
 tags:
 - ink refill kits
@@ -119,7 +120,7 @@ Sponge-based cartridges (HP, Canon) last 3–5 refills. Brother's drum units oft
 
 ### Why does my printer say "non-genuine ink" after refilling?
 
-This is a manufacturer scare tactic. Press "Continue" or use a chip resetter (included in better kits). Some printers like the HP OfficeJet Pro 9010 series limit functionality—bypass this by resetting the cartridge chip before installation.
+This is a manufacturer scare tactic. Press "Continue" or use a chip resetter (included in better kits). Some printers like the [HP OfficeJet Pro](https://www.amazon.com/dp/B08NQSHX3N?tag=inkledger-20) 9010 series limit functionality—bypass this by resetting the cartridge chip before installation.
 
 ### Is refilled ink lower quality?
 

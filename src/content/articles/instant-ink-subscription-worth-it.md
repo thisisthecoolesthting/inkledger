@@ -20,13 +20,14 @@ tags:
 - inkjet cost analysis
 - printing frugal tips
 relatedProducts:
-- B0FT32PL8L
-- B08GX3K9YS
-- B0BVYBVHK5
 - B07C11YW88
 - B083BFPGD8
+- B08GX3K9YS
+- B08NQSHX3N
+- B0BVYBVHK5
 - B0CYJV9X52
 - B0DYNQ1WP7
+- B0FT32PL8L
 heroImage: /images/hero/instant-ink-subscription-worth-it.jpg
 cardTitle: 'HP Instant Ink vs. Cartridges: Which Saves You Money?'
 cardPick: HP 61 cartridges offer predictable costs without subscription fees, perfect
@@ -59,7 +60,7 @@ For light users, this convenience might justify the premium. But our cost analys
 | Model | Instant Ink Cost (50pg/mo) | OEM Cartridge Cost | Third-Party Cost | Breakeven Point |
 |-------|---------------------------|--------------------|------------------|-----------------|
 | HP Envy 6055 | $3/month ($36/yr) | $35 (200 pages) | $18 (200 pages) | 11 months |
-| HP OfficeJet Pro 9015e | $6/month ($72/yr) | $60 (600 pages) | $28 (600 pages) | 5 months |
+| [HP OfficeJet Pro](https://www.amazon.com/dp/B08NQSHX3N?tag=inkledger-20) 9015e | $6/month ($72/yr) | $60 (600 pages) | $28 (600 pages) | 5 months |
 | HP Tango X5 | $5/month ($60/yr) | $42 (150 pages) | $22 (150 pages) | 8 months |
 
 Key findings from our expanded dataset:

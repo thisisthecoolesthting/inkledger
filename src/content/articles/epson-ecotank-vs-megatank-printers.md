@@ -18,14 +18,17 @@ tags:
 - ink savings
 - refillable printers
 relatedProducts:
-- B0CB75LML9
-- B093TCYF9T
 - B004QM8SLG
-- B09N9SR36W
-- B0GF25F12C
+- B08GX3K9YS
 - B08KGY4XJ5
-- B0C7ZTV376
+- B093TCYF9T
 - B099NZC4PB
+- B09N9SR36W
+- B09T3KXQ1N
+- B0B5NQJX3X
+- B0C7ZTV376
+- B0CB75LML9
+- B0GF25F12C
 heroImage: /images/hero/epson-ecotank-vs-megatank-printers.jpg
 cardTitle: 'Ink Tank Printers vs. Cartridge Costs: Which Saves Most Money'
 cardPick: HP 67XL cartridges deliver high-yield printing at significantly lower per-page
@@ -60,7 +63,7 @@ The results might surprise you - some tank printers have hidden costs that erase
 
 Let's examine two popular models: the [Epson EcoTank ET-3850](https://www.amazon.com/dp/B0CB75LML9?tag=inkledger-20) and the [Canon PIXMA G6020 MegaTank](https://www.amazon.com/dp/B093TCYF9T?tag=inkledger-20).
 
-| Feature                | Epson EcoTank ET-3850       | Canon PIXMA G6020 MegaTank  |
+| Feature                | Epson [EcoTank ET-3850](https://www.amazon.com/dp/B08GX3K9YS?tag=inkledger-20)       | Canon PIXMA G6020 MegaTank  |
 |------------------------|-----------------------------|-----------------------------|
 | Included ink           | 4 bottles (70ml each)       | 4 bottles (135ml total)     |
 | Claimed page yield     | 6,000 black / 7,500 color   | 6,000 black / 7,700 color   |

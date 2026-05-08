@@ -9,6 +9,8 @@ excerpt: Printer ink costs more per ounce than champagne—and it's no accident.
   and actionable strategies to save 60–80% without sacrificing print quality.
 pillarSlug: printer-cost-analysis
 relatedProducts:
+- B00QKWTIJ4
+- B07P3X73QD
 status: "published"
 tags:
 - printer ink
@@ -54,7 +56,7 @@ Let's analyze how OEM cartridges compare to compatible alternatives across multi
 | HP 61 | $30 | $10 | 190 | 210 | $0.16 | $0.05 | 67% |
 | Canon PG-245 | $25 | $12 | 180 | 200 | $0.14 | $0.06 | 60% |
 | Epson 252 | $28 | $11 | 200 | 220 | $0.14 | $0.05 | 61% |
-| Brother TN-760 | $32 | $14 | 2,600 | 2,800 | $0.012 | $0.005 | 58% |
+| [Brother TN-760](https://www.amazon.com/dp/B07P3X73QD?tag=inkledger-20) | $32 | $14 | 2,600 | 2,800 | $0.012 | $0.005 | 58% |
 
 Our testing revealed consistent patterns:
 - Compatible cartridges cost 58–67% less than OEM equivalents
@@ -133,7 +135,7 @@ Third-party cartridges offer the easiest transition with minimal setup:
 
 Top recommendations:
 1. HP 61XL High-Yield Compatible — Best for HP Envy/OfficeJet users
-2. Canon PG-245XL Multipack — Ideal for Pixma owners
+2. [Canon PG-245XL](https://www.amazon.com/dp/B00QKWTIJ4?tag=inkledger-20) Multipack — Ideal for Pixma owners
 3. Epson 252XL Compatible — Works well with standard Epson models
 
 ### Refill Systems

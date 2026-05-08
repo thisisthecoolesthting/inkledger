@@ -9,12 +9,19 @@ excerpt: Refilling ink cartridges can save you hundreds per year, but doing it w
   to make refilling worth it.
 pillarSlug: printer-maintenance-and-longevity
 relatedProducts:
+- B00063RWT8
 - B004QM8SLG
+- B07GRRXJXG
+- B07QZ4X6NK
+- B08HSNHJRH
+- B08KGY4XJ5
+- B08KJYH6P5
+- B08Y2VRSQ9
 - B093TCYF9T
 - B0CB75LML9
+- B0CGW2TFSV
 - B0F54TYKF9
 - B0GF25F12C
-- B0CGW2TFSV
 status: published
 tags:
 - ink refill guide
@@ -90,7 +97,7 @@ The [B0F54TYKF9 high-yield black ink](https://www.amazon.com/dp/B0F54TYKF9?tag=i
 
 ## Cost Math
 
-Breaking down actual savings for an HP 962XL cartridge:
+Breaking down actual savings for an [HP 962XL](https://www.amazon.com/dp/B07GRRXJXG?tag=inkledger-20) cartridge:
 
 | Cost Type | OEM | Refill | Savings |
 |-----------|-----|--------|---------|

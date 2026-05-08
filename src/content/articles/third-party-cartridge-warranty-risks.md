@@ -20,14 +20,14 @@ tags:
 - OEM vs third-party
 - printer maintenance
 relatedProducts:
-- B0FT32PL8L
-- B08GX3K9YS
-- B0BVYBVHK5
 - B07C11YW88
 - B083BFPGD8
-- B0CYJV9X52
-- B0DYNQ1WP7
+- B08GX3K9YS
+- B08NQSHX3N
 - B09W9MF63Y
+- B0BVYBVHK5
+- B0CYJV9X52
+- B0FT32PL8L
 heroImage: /images/hero/third-party-cartridge-warranty-risks.jpg
 cardTitle: Save 70% on Printer Ink Without Voiding Your Warranty
 cardPick: HP 61 OEM cartridges deliver genuine quality at third-party prices, keeping
@@ -66,7 +66,7 @@ We studied Better Business Bureau complaints across 12 months:
 
 # Performance Testing: 10,000-Page Trial
 
-We stress-tested six [compatible cartridges](https://www.amazon.com/dp/B0CYJV9X52?tag=inkledger-20) in an HP OfficeJet Pro 9015e:
+We stress-tested six [compatible cartridges](https://www.amazon.com/dp/B0CYJV9X52?tag=inkledger-20) in an [HP OfficeJet Pro](https://www.amazon.com/dp/B08NQSHX3N?tag=inkledger-20) 9015e:
 
 **Results:**
 - Leakage: 1/6 cartridges seeped, requiring printhead cleaning ($150 if warranty-denied)

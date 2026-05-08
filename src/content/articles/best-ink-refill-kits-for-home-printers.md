@@ -10,6 +10,10 @@ excerpt: Refilling your own cartridges saves 80–92% versus OEM replacements. W
   best-value choices for home offices and families.
 pillarSlug: ink-toner-alternatives
 relatedProducts:
+- B00MFG54B6
+- B00QKWTIJ4
+- B07GRRXJXG
+- B08B3K9H7L
 status: "published"
 tags:
 - ink-refill-kits
@@ -25,9 +29,9 @@ heroImage: /images/hero/best-ink-refill-kits-for-home-printers.jpg
 
 # Introduction
 
-"Why does a tiny bottle of printer ink cost more than champagne?" If you've stared at a $40 HP 962XL cartridge and wondered how 5ml of liquid commands such a price, you're not alone. Printer manufacturers rely on captive pricing once you own their hardware—the average household spends $120/year on ink, often paying the equivalent of $8,000 per gallon by volume. Refill kits offer a practical alternative: bypass OEM cartridges and refill your own for a fraction of the cost.
+"Why does a tiny bottle of printer ink cost more than champagne?" If you've stared at a $40 [HP 962XL](https://www.amazon.com/dp/B07GRRXJXG?tag=inkledger-20) cartridge and wondered how 5ml of liquid commands such a price, you're not alone. Printer manufacturers rely on captive pricing once you own their hardware—the average household spends $120/year on ink, often paying the equivalent of $8,000 per gallon by volume. Refill kits offer a practical alternative: bypass OEM cartridges and refill your own for a fraction of the cost.
 
-We tested six top-rated refill kits across 500+ pages of real printing, tracking print quality, clogging, and longevity against OEM standards. Our findings reveal a clear hierarchy: some $15 third-party kits deliver print quality comparable to $50 name-brand cartridges, while budget options can clog print heads or fade quickly. Whether you're refilling HP 62, Canon 245, or Epson 502 cartridges, this guide shows which kits work and how much you'll actually save.
+We tested six top-rated refill kits across 500+ pages of real printing, tracking print quality, clogging, and longevity against OEM standards. Our findings reveal a clear hierarchy: some $15 third-party kits deliver print quality comparable to $50 name-brand cartridges, while budget options can clog print heads or fade quickly. Whether you're refilling HP 62, [Canon 245](https://www.amazon.com/dp/B00QKWTIJ4?tag=inkledger-20), or Epson 502 cartridges, this guide shows which kits work and how much you'll actually save.
 
 # Why refill kits matter
 
@@ -98,8 +102,8 @@ Other budget-friendly printing options:
 
 1. **Compatible cartridges**: Brands like InkOwl sell pre-filled third-party cartridges at 60% below OEM prices. Convenient but generates plastic waste with each cartridge.
 2. **Ink subscriptions** (HP Instant Ink, Epson Plus): Cost $0.99–$5.99/month based on page count. Only economical for users printing under 50 pages/month.
-3. **Laser printers**: Brother HL-L2350DW delivers 3,000-page toner yields for $60 ($0.02/page). Higher upfront cost but ideal for text-heavy households.
-4. **Ink tank printers**: Epson EcoTank ET-2800 includes 2 years' ink supply upfront ($250). Lower long-term costs but not suitable for photo-lab-quality color work.
+3. **Laser printers**: [Brother HL-L2350DW](https://www.amazon.com/dp/B00MFG54B6?tag=inkledger-20) delivers 3,000-page toner yields for $60 ($0.02/page). Higher upfront cost but ideal for text-heavy households.
+4. **Ink tank printers**: Epson [EcoTank ET-2800](https://www.amazon.com/dp/B08B3K9H7L?tag=inkledger-20) includes 2 years' ink supply upfront ($250). Lower long-term costs but not suitable for photo-lab-quality color work.
 
 For most households, refilling offers the best balance of savings and print quality. The Brother InkWell system is particularly efficient—its sponge design reduces ink waste during startup cycles, and the included chip resetter prevents "empty cartridge" errors.
 

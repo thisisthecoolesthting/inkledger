@@ -18,14 +18,15 @@ tags:
 - printer economics
 - OEM vs third-party
 relatedProducts:
-- B0CB75LML9
-- B093TCYF9T
 - B004QM8SLG
-- B0GF25F12C
-- B08KGY4XJ5
-- B0C7ZTV376
-- B099NZC4PB
+- B07P3X73QD
 - B0848Q34F8
+- B08B3K9H7L
+- B093TCYF9T
+- B099NZC4PB
+- B0C7ZTV376
+- B0CB75LML9
+- B0GF25F12C
 heroImage: /images/hero/why-is-printer-ink-so-expensive-uncovered.jpg
 cardTitle: 'Stop Overpaying for Printer Ink: The Real Cost Breakdown'
 cardPick: Compatible HP 61XL cartridges cost 60% less than OEM while delivering identical
@@ -70,7 +71,7 @@ Our expanded testing reveals crucial nuances in cartridge performance and econom
 | Model | Type | Page Yield | Current Price | Cost Per Page | Key Considerations |
 |-------|------|------------|---------------|---------------|--------------------|
 | [HP 952XL Black](https://www.amazon.com/dp/B004QM8SLG?tag=inkledger-20) | OEM Inkjet | 2,000 | $38.99 | $0.019 | Reliable but expensive; chips prevent refilling |
-| [Epson 502 Black](https://www.amazon.com/dp/B0C7ZTV376?tag=inkledger-20) | OEM Bulk Ink | 6,000 | $19.99 | $0.003 | Requires Ecotank printer; no cartridge swaps |
+| [Epson 502 Black](https://www.amazon.com/dp/B0C7ZTV376?tag=inkledger-20) | OEM Bulk Ink | 6,000 | $19.99 | $0.003 | Requires [Ecotank printer](https://www.amazon.com/dp/B08B3K9H7L?tag=inkledger-20); no cartridge swaps |
 | [InkOwl HP 952XL Compatible](https://www.amazon.com/dp/B099NZC4PB?tag=inkledger-20) | Third-party | 1,800 | $12.99 | $0.007 | 15% lower yield than OEM; occasional color shifts |
 | [Brother TN-760](https://www.amazon.com/dp/B093TCYF9T?tag=inkledger-20) | OEM Laser | 5,000 | $109.99 | $0.022 | Toner lasts years for light users; no drying issues |
 | [Aurora Refill Kit](https://www.amazon.com/dp/B0GF25F12C?tag=inkledger-20) | Refill System | 3,500 | $24.95 | $0.007 | Messy process; requires printhead cleaning |
@@ -78,7 +79,7 @@ Our expanded testing reveals crucial nuances in cartridge performance and econom
 
 Key findings from six months of testing:
 - Epson's bulk ink systems deliver unmatched economy but require $200+ printer investments
-- Laser toners like the Brother TN-760 outperform for text but can't match inkjet photo quality
+- Laser toners like the [Brother TN-760](https://www.amazon.com/dp/B07P3X73QD?tag=inkledger-20) outperform for text but can't match inkjet photo quality
 - Third-party cartridges average 12-18% lower yields than claimed, still offering 60%+ savings
 - Refill systems produce variable results - our first attempt with the Aurora kit wasted 15% ink due to spills
 

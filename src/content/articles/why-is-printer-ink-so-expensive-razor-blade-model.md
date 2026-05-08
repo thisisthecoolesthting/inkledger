@@ -19,20 +19,24 @@ tags:
 - printer manufacturer tactics
 - printing cost savings
 relatedProducts:
+- B00063RWT8
 - B004QM8SLG
+- B00MFG54B6
+- B08B3K9H7L
+- B08H4YTTLP
 - B093TCYF9T
+- B09V3HN1MK
 - B0CB75LML9
-- B0GF25F12C
-- B0F54TYKF9
 - B0CGW2TFSV
 - B0CGW48C3G
-- B00063RWT8
+- B0F54TYKF9
+- B0GF25F12C
 heroImage: /images/hero/why-is-printer-ink-so-expensive-razor-blade-model.jpg
 ---
 
 # Introduction
 
-If you've ever stood in the office supply aisle staring at a $40 ink cartridge wondering how liquid gold got so cheap, you're not alone. Printer ink consistently ranks among the most expensive liquids by volume - costing more than fine champagne, premium perfume, or even human blood. The average HP 61 black ink cartridge costs $22.99 for just 5ml of fluid - that's $4,600 per gallon. Meanwhile, you can buy an entire HP DeskJet printer for $39.99.
+If you've ever stood in the office supply aisle staring at a $40 ink cartridge wondering how liquid gold got so cheap, you're not alone. Printer ink consistently ranks among the most expensive liquids by volume - costing more than fine champagne, premium perfume, or even human blood. The average HP 61 black ink cartridge costs $22.99 for just 5ml of fluid - that's $4,600 per gallon. Meanwhile, you can buy an entire [HP DeskJet printer](https://www.amazon.com/dp/B08H4YTTLP?tag=inkledger-20) for $39.99.
 
 This isn't an accident - it's a deliberate pricing strategy called the razor-and-blade model.
 
@@ -82,7 +86,7 @@ We compared four popular ink cartridge types across price, yield, and cost per p
 | [HP 302XL](https://www.amazon.com/dp/B093TCYF9T?tag=inkledger-20) | OEM | $38.99 | 600 | 6.5¢ | HP's "high yield" option |
 | [InkTek Compatible 302XL](https://www.amazon.com/dp/B0GF25F12C?tag=inkledger-20) | Compatible | $12.99 | 550 | 2.4¢ | 63% savings over OEM |
 | [Epson 502 Black](https://www.amazon.com/dp/B004QM8SLG?tag=inkledger-20) | OEM | $19.99 | 400 | 5.0¢ | Standard yield |
-| [EcoTank Bottle](https://www.amazon.com/dp/B0CB75LML9?tag=inkledger-20) | Refill | $12.99 | 4,500 | 0.3¢ | Requires EcoTank printer |
+| [EcoTank Bottle](https://www.amazon.com/dp/B0CB75LML9?tag=inkledger-20) | Refill | $12.99 | 4,500 | 0.3¢ | Requires [EcoTank printer](https://www.amazon.com/dp/B08B3K9H7L?tag=inkledger-20) |
 
 Key findings:
 
@@ -108,7 +112,7 @@ Beyond lab tests, we ran three months of actual usage comparisons across four pr
 - OEM and compatible cartridges produced indistinguishable text quality at 10pt font size
 - [this cartridge](https://www.amazon.com/dp/B0CGW2TFSV?tag=inkledger-20) compatible cartridges showed slight banding on photo paper when printing gradients
 - All cartridges exceeded 90% of claimed yield for mixed documents
-- Brother HL-L2350DW laser printer maintained consistent quality throughout testing
+- [Brother HL-L2350DW](https://www.amazon.com/dp/B00MFG54B6?tag=inkledger-20) laser printer maintained consistent quality throughout testing
 
 **Photo Printing**
 - OEM cartridges (like [this cartridge](https://www.amazon.com/dp/B0F54TYKF9?tag=inkledger-20)) delivered 12-15% better color accuracy in Pantone matching

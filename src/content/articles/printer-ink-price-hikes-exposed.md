@@ -18,13 +18,14 @@ tags:
 - refill kits
 - compatible cartridges
 relatedProducts:
+- B00WSAXBQ0
+- B07GRRXJXG
+- B08PZBPXLZ
+- B098JD8HD3
+- B09VXQ221K
+- B0DHV7ZWH2
 - B0DHV8SCLS
 - B0G63G9LRJ
-- B00WSAXBQ0
-- B0DHV7ZWH2
-- B09VXQ221K
-- B098JD8HD3
-- B08PZBPXLZ
 heroImage: /images/hero/printer-ink-price-hikes-exposed.jpg
 ---
 
@@ -64,7 +65,7 @@ We tested four high-volume cartridges against their third-party equivalents for 
 
 | Model | OEM Price | Yield (pages) | Cost/Page | Compatible Price | Compatible Yield | Savings |
 |-------|----------|---------------|-----------|------------------|------------------|---------|
-| HP 962XL | $42.99 | 600 | $0.072 | $18.99 | 580 | 73% |
+| [HP 962XL](https://www.amazon.com/dp/B07GRRXJXG?tag=inkledger-20) | $42.99 | 600 | $0.072 | $18.99 | 580 | 73% |
 | Canon PG-245 | $38.50 | 330 | $0.117 | $14.75 | 300 | 68% |
 | Epson 502 | $29.99 | 450 | $0.067 | $12.50 | 430 | 79% |
 | Brother TN-660 | $34.99 | 1,200 | $0.029 | $22.99 | 1,150 | 52% |

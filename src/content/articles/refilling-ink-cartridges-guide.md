@@ -9,14 +9,17 @@ excerpt: Printer ink costs more per ounce than champagne. We tested 8 refill kit
   razor-and-blade pricing. See the cost-per-page math.
 pillarSlug: alternative-ink-solutions
 relatedProducts:
+- B00MFG54B6
+- B00WSAXBQ0
+- B08B3K9H7L
+- B08NQSHX3N
+- B08PZBPXLZ
+- B098JD8HD3
+- B09VXQ221K
+- B0BX2N258S
+- B0DHV7ZWH2
 - B0DHV8SCLS
 - B0G63G9LRJ
-- B00WSAXBQ0
-- B0DHV7ZWH2
-- B09VXQ221K
-- B098JD8HD3
-- B08PZBPXLZ
-- B0BX2N258S
 status: published
 tags:
 - ink refill kits
@@ -36,7 +39,7 @@ Ever pulled an empty ink cartridge from your printer, looked at the $35 price ta
 
 This guide cuts through the marketing to show which refill methods actually deliver quality prints, which ones clog printheads, and how to calculate your real savings.
 
-We conducted a 6-month stress test with 12 different printers (including HP OfficeJet Pro, Epson EcoTank, and Canon Pixma models) to identify the most reliable refill solutions. Our test prints included everything from legal documents to high-resolution family photos, with each method evaluated for color accuracy, page yield, and long-term reliability. The results might surprise you—some $10 refill kits outperformed OEM cartridges in certain scenarios.
+We conducted a 6-month stress test with 12 different printers (including [HP OfficeJet Pro](https://www.amazon.com/dp/B08NQSHX3N?tag=inkledger-20), Epson EcoTank, and Canon Pixma models) to identify the most reliable refill solutions. Our test prints included everything from legal documents to high-resolution family photos, with each method evaluated for color accuracy, page yield, and long-term reliability. The results might surprise you—some $10 refill kits outperformed OEM cartridges in certain scenarios.
 
 ## Why this matters
 
@@ -48,7 +51,7 @@ Consider this real-world example: A college student printing 500 pages per semes
 
 ## Head-to-head comparison
 
-We pressure-tested four popular refill methods against OEM cartridges in an HP Envy 6055 and Epson EcoTank ET-2800:
+We pressure-tested four popular refill methods against OEM cartridges in an HP Envy 6055 and Epson [EcoTank ET-2800](https://www.amazon.com/dp/B08B3K9H7L?tag=inkledger-20):
 
 | Product                | Cost per kit | Pages per fill | Cost per page | Print quality | Ease of use |
 |------------------------|--------------|-----------------|---------------|---------------|-------------|
@@ -106,7 +109,7 @@ That's a potential $1,548 annual savings—enough to upgrade to a professional-g
 Beyond refill kits, consider these money-saving options:
 - **High-yield cartridges**: Like [HP 962XL](https://www.amazon.com/dp/B0BX2N258S?tag=inkledger-20) at 600 pages for $42 (7¢/page)
 - **Ink subscription services**: HP Instant Ink at $3/month for 100 pages (3¢/page)
-- **Laser printers**: Brother HL-L2350DW costs 2.3¢/page but requires $100 toner
+- **Laser printers**: [Brother HL-L2350DW](https://www.amazon.com/dp/B00MFG54B6?tag=inkledger-20) costs 2.3¢/page but requires $100 toner
 - **EcoTank/MegaTank**: $100 upfront for 6,000 pages worth of ink (1.6¢/page)
 
 Tradeoffs: Subscription services lock you into one brand, while laser printers struggle with photo quality.

@@ -19,12 +19,14 @@ tags:
 - home office
 relatedProducts:
 - B004QM8SLG
+- B00MFG59S8
+- B074ND5RDT
+- B07P3X73QD
+- B08HSNHJRH
 - B093TCYF9T
 - B0CB75LML9
-- B0GF25F12C
 - B0F54TYKF9
-- B085VZPR2Y
-- B00063RWT8
+- B0GF25F12C
 heroImage: /images/hero/laser-printer-vs-inkjet-cost-per-page.jpg
 cardTitle: 'Stop Overpaying For Ink: Real Cost Per Page Breakdown'
 cardPick: Brother laser toner delivers the lowest true cost per page, beating inkjet
@@ -52,7 +54,7 @@ Consider these real-world scenarios:
 
 1. **The College Student**: Prints 50 pages weekly (mostly text documents)
    - Inkjet cost: $15/month (using HP 61XL cartridges)
-   - Laser cost: $6/month (Brother TN760 toner)
+   - Laser cost: $6/month (Brother [TN760 toner](https://www.amazon.com/dp/B07P3X73QD?tag=inkledger-20))
    - Annual savings: $108 with laser
 
 2. **The Photography Enthusiast**: Prints 20 high-quality photos monthly

@@ -18,14 +18,20 @@ tags:
 - printing costs
 - page yield testing
 relatedProducts:
-- B0CB75LML9
-- B093TCYF9T
 - B004QM8SLG
-- B0GF25F12C
-- B0F54TYKF9
+- B00MFG54B6
+- B074ND5RDT
+- B07D9F3W3V
+- B07P3X73QD
+- B07P5Y5QHG
+- B085VZPR2Y
+- B08NQSHX3N
+- B093TCYF9T
+- B0CB75LML9
 - B0CGW2TFSV
 - B0CGW48C3G
-- B085VZPR2Y
+- B0F54TYKF9
+- B0GF25F12C
 heroImage: /images/hero/understanding-ink-cartridge-yield-what-do-the-numbers-mean.jpg
 ---
 
@@ -101,12 +107,12 @@ Breakdown for common printing scenarios (2026 prices):
 
 **Home Office (300 pages/month - mixed documents)**
 - OEM cartridge: $25.20/month (HP 952XL)
-- Laser toner: $18.75/month (Brother TN-760)
+- Laser toner: $18.75/month ([Brother TN-760](https://www.amazon.com/dp/B07P3X73QD?tag=inkledger-20))
 - Bulk ink system: $1.14/month (EcoTank)
 - Third-party cartridges: $12.90/month (InkOwl 952XL)
 
 **Photography Business (200 4x6 prints/month)**
-- OEM photo cartridges: $42.80/month (Canon CLI-281)
+- OEM photo cartridges: $42.80/month ([Canon CLI-281](https://www.amazon.com/dp/B07P5Y5QHG?tag=inkledger-20))
 - Sublimation ink: $15.20/month (Epson 106)
 - Dye-sublimation printer: $9.75/month (Sawgrass Virtuoso)
 
@@ -134,7 +140,7 @@ The [Epson 502XL Black](https://www.amazon.com/dp/B093TCYF9T?tag=inkledger-20) r
 3. **Laser Printers**
    - Toner doesn't dry out—lasts 2+ years even with infrequent use
    - Higher yield consistency (±10% vs inkjet's ±35% variance)
-   - Poor photo quality but superior for text (Brother HL-L2350DW prints 2,600 pages per toner)
+   - Poor photo quality but superior for text ([Brother HL-L2350DW](https://www.amazon.com/dp/B00MFG54B6?tag=inkledger-20) prints 2,600 pages per toner)
    - Newer color lasers like the [Brother HL-L3270CDW](https://www.amazon.com/dp/B07D9F3W3V?tag=inkledger-20) close the gap for graphics
 
 4. **Continuous Ink Systems (CISS)**
@@ -147,7 +153,7 @@ The [Epson 502XL Black](https://www.amazon.com/dp/B093TCYF9T?tag=inkledger-20) r
 
 ### Why do my cartridges run out so fast?
 
-Printer head cleanings, infrequent use causing ink drying, and printing graphics/photos all dramatically reduce yield versus manufacturer claims. A cartridge rated for 300 pages of text may only handle 80 photo prints. Modern printers also perform "stealth" maintenance cycles—our monitoring revealed the HP OfficeJet Pro 9010 uses 12% of its ink on cleaning cycles even during periods of inactivity.
+Printer head cleanings, infrequent use causing ink drying, and printing graphics/photos all dramatically reduce yield versus manufacturer claims. A cartridge rated for 300 pages of text may only handle 80 photo prints. Modern printers also perform "stealth" maintenance cycles—our monitoring revealed the [HP OfficeJet Pro](https://www.amazon.com/dp/B08NQSHX3N?tag=inkledger-20) 9010 uses 12% of its ink on cleaning cycles even during periods of inactivity.
 
 ### Are store refill services worth it?
 

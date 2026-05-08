@@ -19,6 +19,10 @@ tags:
 - inkjet-printing
 - printing-on-a-budget
 relatedProducts:
+- B00MFG54B6
+- B07GRRXJXG
+- B08H4YTTLP
+- B08NQSHX3N
 heroImage: /images/hero/oem-vs-compatible-ink-cost-per-page.jpg
 ---
 
@@ -33,12 +37,12 @@ We tested OEM cartridges against compatible alternatives from LD Products and In
 Printer manufacturers lose money on hardware because they profit from supplies. HP's 2023 financials show 70% of printing division revenue comes from ink and toner, not machines. This razor-and-blade pricing model means OEM cartridges carry inflated margins—sometimes 4,000% over production cost.
 
 Here's the math on a single cartridge:
-- **HP 962XL black (OEM)**: $38 | 600 pages | **6.3¢ per page**
+- **[HP 962XL](https://www.amazon.com/dp/B07GRRXJXG?tag=inkledger-20) black (OEM)**: $38 | 600 pages | **6.3¢ per page**
 - **HP 962XL black (compatible)**: $14 | 550 pages | **2.5¢ per page**
 
 **60% savings per cartridge.** For a household printing 1,000 pages monthly, that's $228 annually. The catch: Some printers disable features with third-party ink, and refill use can trigger warranty questions.
 
-Consider real household budgets: The average American spends $120/year on printer ink (Consumer Reports). Switching to compatible cartridges could save $72 annually—enough for a Netflix subscription or half your Amazon Prime membership. But savings vary sharply by printer. Epson EcoTank users save just 15-20% with third-party ink, while HP OfficeJet Pro users can save up to 75%.
+Consider real household budgets: The average American spends $120/year on printer ink (Consumer Reports). Switching to compatible cartridges could save $72 annually—enough for a Netflix subscription or half your Amazon Prime membership. But savings vary sharply by printer. Epson EcoTank users save just 15-20% with third-party ink, while [HP OfficeJet Pro](https://www.amazon.com/dp/B08NQSHX3N?tag=inkledger-20) users can save up to 75%.
 
 # Head-to-head comparison
 
@@ -141,14 +145,14 @@ HP and Epson are most aggressive with firmware updates that restrict third-party
 
 # Bottom line
 
-For high-volume text printing, compatible cartridges like LD Products' HP 61 deliver 60–70% savings with negligible quality differences. Photo enthusiasts and those with newer HP/Epson printers should weigh the tradeoffs—or consider a Brother laser printer for long-term savings. Our top pick for reliability: InkArt Canon PG-245, which works seamlessly in Canon printers.
+For high-volume text printing, compatible cartridges like LD Products' HP 61 deliver 60–70% savings with negligible quality differences. Photo enthusiasts and those with newer HP/Epson printers should weigh the tradeoffs—or consider a [Brother laser printer](https://www.amazon.com/dp/B00MFG54B6?tag=inkledger-20) for long-term savings. Our top pick for reliability: InkArt Canon PG-245, which works seamlessly in Canon printers.
 
 **Final recommendations by use case:**
 
 - **Budget-conscious families**: LD Products compatibles + Brother HL-L2350DW laser printer
 - **Photographers**: OEM inks + Epson SureColor P700
 - **Small businesses**: Epson EcoTank ET-4850 with third-party bulk ink
-- **Students**: InkArt multipack cartridges + HP DeskJet 2755e
+- **Students**: InkArt multipack cartridges + HP [DeskJet 2755e](https://www.amazon.com/dp/B08H4YTTLP?tag=inkledger-20)
 
 **Remember:** The biggest savings come from matching your ink strategy to your actual print volume and quality needs—not just chasing the lowest sticker price. Switching to compatibles makes sense for 90% of home and office users; the 10% exception is archival photo printing and specialized professional work.
 

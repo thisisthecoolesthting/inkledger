@@ -9,14 +9,19 @@ excerpt: HP's ink subscription promises convenience, but does it actually save m
   and compatible alternatives across 5 printer models.
 pillarSlug: ink-cost-analysis
 relatedProducts:
+- B00N3N4KVG
+- B00WSAXBQ0
+- B07GRRXJXG
+- B082F1WKP9
+- B08H4YTTLP
+- B08NQSHX3N
+- B08PZBPXLZ
+- B098JD8HD3
+- B09VXQ221K
+- B0BX2N258S
+- B0DHV7ZWH2
 - B0DHV8SCLS
 - B0G63G9LRJ
-- B00WSAXBQ0
-- B0DHV7ZWH2
-- B09VXQ221K
-- B098JD8HD3
-- B08PZBPXLZ
-- B0BX2N258S
 status: published
 tags:
 - hp instant ink
@@ -44,7 +49,7 @@ The data shows HP Instant Ink operates on an economy of scale that heavily favor
 Printer manufacturers have turned ink into a recurring revenue stream. HP's DRM chips now block third-party cartridges in newer models, pushing users toward subscriptions. But the math isn't straightforward:
 
 - **Volume traps**: Instant Ink's "unused pages roll over" promise sounds generous until you realize most plans charge $1-$5 per month for capacity you might not use. For example, the $2.99/month plan covering 50 pages effectively taxes users $0.06 per page even if they only print 15 pages that month—a 400% markup versus their actual usage.
-- **OEM markup**: HP 962XL cartridges cost 3.2¢ per page, but the equivalent Instant Ink plan costs 2.5¢—unless you print less than 50 pages/month. This creates a "Goldilocks zone" where users must carefully match their printing habits to specific plan tiers.
+- **OEM markup**: [HP 962XL](https://www.amazon.com/dp/B07GRRXJXG?tag=inkledger-20) cartridges cost 3.2¢ per page, but the equivalent Instant Ink plan costs 2.5¢—unless you print less than 50 pages/month. This creates a "Goldilocks zone" where users must carefully match their printing habits to specific plan tiers.
 - **Exit penalties**: Cancel your subscription and any remaining ink is remotely disabled, unlike physical cartridges you own outright. This lock-in tactic became particularly controversial when HP [remotely bricked cartridges](https://www.theverge.com/2022/11/22/23473172/hp-printers-ink-cartridges-subscription-drm-remotely-disabled) during a 2022 firmware update.
 - **Environmental impact**: While HP touts cartridge recycling, the program ships used cartridges to third-party processors overseas. Refill systems like [EcoTank](https://www.amazon.com/dp/B00WSAXBQ0?tag=inkledger-20) generate 79% less plastic waste according to a 2025 EPEAT study.
 
@@ -55,8 +60,8 @@ For small businesses printing 300+ pages monthly, Instant Ink can cut costs by 2
 | Model | Instant Ink Plan (50 pages) | OEM Cartridge | Third-Party | Refill Kit |
 |-------|----------------------------|--------------|-------------|------------|
 | **HP Envy 6055** | $2.99/month (6.0¢/page) | [HP 61](https://www.amazon.com/dp/B0G63G9LRJ?tag=inkledger-20) (8.3¢/page) | [Jettec 61XL](https://www.amazon.com/dp/B0BX2N258S?tag=inkledger-20) (4.1¢/page) | N/A |
-| **HP OfficeJet Pro 9015** | $5.99/month (2.5¢/page) | [HP 962XL](https://www.amazon.com/dp/B0DHV8SCLS?tag=inkledger-20) (3.2¢/page) | [InkOwl 962XL](https://www.amazon.com/dp/B0DHV7ZWH2?tag=inkledger-20) (1.9¢/page) | $12.99 (0.8¢/page) |
-| **HP DeskJet 2755** | $0.99/month (9.9¢/page) | [HP 67](https://www.amazon.com/dp/B09VXQ221K?tag=inkledger-20) (12.4¢/page) | [Avalon 67XL](https://www.amazon.com/dp/B098JD8HD3?tag=inkledger-20) (5.2¢/page) | $9.99 (1.2¢/page) |
+| **[HP OfficeJet Pro 9015](https://www.amazon.com/dp/B08NQSHX3N?tag=inkledger-20)** | $5.99/month (2.5¢/page) | [HP 962XL](https://www.amazon.com/dp/B0DHV8SCLS?tag=inkledger-20) (3.2¢/page) | [InkOwl 962XL](https://www.amazon.com/dp/B0DHV7ZWH2?tag=inkledger-20) (1.9¢/page) | $12.99 (0.8¢/page) |
+| **[HP DeskJet 2755](https://www.amazon.com/dp/B08H4YTTLP?tag=inkledger-20)** | $0.99/month (9.9¢/page) | [HP 67](https://www.amazon.com/dp/B09VXQ221K?tag=inkledger-20) (12.4¢/page) | [Avalon 67XL](https://www.amazon.com/dp/B098JD8HD3?tag=inkledger-20) (5.2¢/page) | $9.99 (1.2¢/page) |
 | **HP OfficeJet Pro 8025** | $9.99/month (1.7¢/page) | [HP 952XL](https://www.amazon.com/dp/B0DHV8SCLS?tag=inkledger-20) (2.1¢/page) | [LD 952XL](https://www.amazon.com/dp/B0DHV7ZWH2?tag=inkledger-20) (1.1¢/page) | $15.99 (0.5¢/page) |
 | **HP Envy Pro 6455** | $4.99/month (5.0¢/page) | [HP 64XL](https://www.amazon.com/dp/B0G63G9LRJ?tag=inkledger-20) (6.8¢/page) | [Hometech 64XL](https://www.amazon.com/dp/B0BX2N258S?tag=inkledger-20) (3.3¢/page) | $11.99 (1.0¢/page) |
 

@@ -18,12 +18,17 @@ tags:
 - home-office
 - printing-costs
 relatedProducts:
-- B0FT32PL8L
-- B08GX3K9YS
-- B0BVYBVHK5
+- B00MFG54B6
 - B07C11YW88
 - B083BFPGD8
+- B08GX3K9YS
+- B08NQSHX3N
+- B09QXVFJ6Y
+- B0B5N2V1T5
+- B0BVYBVHK5
 - B0CYJV9X52
+- B0DYNQ1WP7
+- B0FT32PL8L
 heroImage: /images/hero/epson-ecotank-worth-it-review.jpg
 cardTitle: 'EcoTank Printers vs. Cartridge Costs: Real Savings Breakdown'
 cardPick: HP 61 Black Ink Cartridge costs less upfront than EcoTank's initial investment
@@ -64,8 +69,8 @@ But laser printers like the [Brother HL-L2350DW](https://www.amazon.com/dp/B00MF
 
 | Model                | Type       | Upfront Cost | Cost/Page (Black) | Break-Even Point | Best For              |
 |----------------------|------------|--------------|-------------------|------------------|-----------------------|
-| Epson EcoTank ET-3850 | Inkjet     | $329         | 0.3¢              | 1,500 pages      | Mixed color printing  |
-| HP OfficeJet Pro 9015 | Cartridge  | $199         | 2.4¢              | N/A              | Occasional printing   |
+| Epson [EcoTank ET-3850](https://www.amazon.com/dp/B08GX3K9YS?tag=inkledger-20) | Inkjet     | $329         | 0.3¢              | 1,500 pages      | Mixed color printing  |
+| [HP OfficeJet Pro 9015](https://www.amazon.com/dp/B08NQSHX3N?tag=inkledger-20) | Cartridge  | $199         | 2.4¢              | N/A              | Occasional printing   |
 | Brother HL-L2350DW   | Laser      | $199         | 1.2¢ (B&W)        | 800 B&W pages    | Text-heavy workloads  |
 | Canon PIXMA G6020    | MegaTank   | $299         | 0.4¢              | 1,200 pages      | Photo enthusiasts     |
 

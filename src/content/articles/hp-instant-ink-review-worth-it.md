@@ -10,14 +10,16 @@ excerpt: HP's Instant Ink program promises to save you money on printer ink, but
   volumes.
 pillarSlug: ink-cost-savings
 relatedProducts:
-- B0CB75LML9
-- B093TCYF9T
 - B004QM8SLG
-- B0GF25F12C
-- B08KGY4XJ5
-- B0C7ZTV376
-- B099NZC4PB
+- B00MFG54B6
+- B07GRRXJXG
 - B0848Q34F8
+- B08KGY4XJ5
+- B093TCYF9T
+- B099NZC4PB
+- B0C7ZTV376
+- B0CB75LML9
+- B0GF25F12C
 status: published
 tags:
 - hp instant ink
@@ -93,7 +95,7 @@ Gotcha: HP firmware updates sometimes reject refurbished cartridges if Instant I
 
 # Cost Math
 
-**Breakdown for HP 962XL (300 pages/month):**
+**Breakdown for [HP 962XL](https://www.amazon.com/dp/B07GRRXJXG?tag=inkledger-20) (300 pages/month):**
 
 | Method               | First-Year Cost | Cost/Page | Long-Term (3yr) Cost | 
 |----------------------|-----------------|-----------|----------------------|
@@ -133,7 +135,7 @@ Hidden costs we uncovered:
    - Must use [chip resetter tools](https://www.amazon.com/dp/B0CB75LML9?tag=inkledger-20) for post-2020 HP models
 
 4. **Laser Printers**
-   - Brother HL-L2350DW costs $0.03/page for B&W
+   - [Brother HL-L2350DW](https://www.amazon.com/dp/B00MFG54B6?tag=inkledger-20) costs $0.03/page for B&W
    - No drying/clogging issues if used infrequently
 
 Pro Tip: Buy a [reset tool](https://www.amazon.com/dp/B0CB75LML9?tag=inkledger-20) to bypass cartridge chips after refilling. Our tests show these extend cartridge life by 3-5 refills.

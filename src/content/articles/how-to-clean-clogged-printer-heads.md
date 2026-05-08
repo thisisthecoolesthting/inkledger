@@ -9,13 +9,15 @@ excerpt: Clogged printer heads waste ink and ruin prints. We tested 7 cleaning m
   when to refill vs. replace cartridges.
 pillarSlug: printer-buying-guides
 relatedProducts:
+- B00WSAXBQ0
+- B07GRRXJXG
+- B07P5Y5HGC
+- B08PZBPXLZ
+- B098JD8HD3
+- B09VXQ221K
+- B0DHV7ZWH2
 - B0DHV8SCLS
 - B0G63G9LRJ
-- B00WSAXBQ0
-- B0DHV7ZWH2
-- B09VXQ221K
-- B098JD8HD3
-- B08PZBPXLZ
 status: published
 tags:
 - printer head cleaning
@@ -102,7 +104,7 @@ For stubborn pigment ink clogs, the [XYZ Cleaning Kit](https://www.amazon.com/dp
 
 ## Cost math
 
-Let's compare lifetime costs for a typical HP 962XL black cartridge ($38) across maintenance strategies over a 2-year period, based on our ink consumption telemetry from 63 printers:
+Let's compare lifetime costs for a typical [HP 962XL](https://www.amazon.com/dp/B07GRRXJXG?tag=inkledger-20) black cartridge ($38) across maintenance strategies over a 2-year period, based on our ink consumption telemetry from 63 printers:
 
 | Approach            | Cost Over 2 Years | Pages Printed | Cost per Page | Maintenance Time |
 |---------------------|-------------------|---------------|---------------|------------------|
@@ -181,7 +183,7 @@ Always verify with a nozzle check pattern before proceeding with cleaning. Print
 Avoid ultrasonic cleaning on HP thermal heads—the heat-sensitive components can detach at frequencies above 40kHz. They work best on:
 - Epson piezo heads (safe up to 60kHz)
 - Canon Bubble Jet heads
-- Brother inkvestment heads
+- [Brother inkvestment](https://www.amazon.com/dp/B07P5Y5HGC?tag=inkledger-20) heads
 Always remove the head from the printer first—submerging electronics risks short circuits.
 
 ### How many times can I refill a cartridge?

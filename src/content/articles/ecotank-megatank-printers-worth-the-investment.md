@@ -20,6 +20,9 @@ tags:
 - printer-comparison
 - home-office
 relatedProducts:
+- B00MFG54B6
+- B08GX3K9YS
+- B08NQSHX3N
 heroImage: /images/hero/ecotank-megatank-printers-worth-the-investment.jpg
 ---
 
@@ -40,7 +43,7 @@ We tested four tank models against cartridge-based counterparts for six months, 
 
 Printer manufacturers lose money on hardware sales, recouping profits through ink—a strategy so lucrative that HP's operating margin on ink is 54% (SEC filings, 2025). Tank printers flip this model: You pay more upfront for the device but gain:
 
-1. **Transparent pricing**: Each milliliter of ink has a fixed cost, unlike cartridges where yields vary by document type. The Epson EcoTank ET-3850 ships with 140ml bottles costing $0.075/ml, while HP 302 cartridges run $0.30/ml. During our testing, we found cartridge printers could vary ink consumption by up to 300% depending on whether you're printing dense PowerPoint slides versus plain text documents, while tank printers maintained consistent 5–10% variance.
+1. **Transparent pricing**: Each milliliter of ink has a fixed cost, unlike cartridges where yields vary by document type. The Epson [EcoTank ET-3850](https://www.amazon.com/dp/B08GX3K9YS?tag=inkledger-20) ships with 140ml bottles costing $0.075/ml, while HP 302 cartridges run $0.30/ml. During our testing, we found cartridge printers could vary ink consumption by up to 300% depending on whether you're printing dense PowerPoint slides versus plain text documents, while tank printers maintained consistent 5–10% variance.
 
 2. **No chip locks**: Most tank printers lack cartridge DRM, allowing third-party inks without automatic warranty voidance—critical for the 37% of users who refill (InkLedger survey). We tested six third-party ink brands in the Canon G6020 and found three that matched OEM print quality while cutting costs to $0.002/ml. However, Epson's warranty language states it may deny claims if non-OEM ink is detected through printer logs, despite the physical ability to use third-party inks. Canon explicitly allows third-party inks but requires Genuine Canon Ink for warranty claims on printhead issues.
 
@@ -54,7 +57,7 @@ Printer manufacturers lose money on hardware sales, recouping profits through in
 |-------|------|--------------|--------------------|---------------|-----------------|
 | Epson EcoTank ET-3850 | Tank | $399 | 6,500 pages (B&W) | $0.005 (B&W) | Slow photo printing (1.2 ppm) |
 | Canon PIXMA G6020 | Tank | $349 | 6,000 pages (B&W) | $0.006 (B&W) | No automatic duplex |
-| HP OfficeJet Pro 9015e | Cartridge | $299 | 1,200 pages (B&W) | $0.024 (B&W) | DRM blocks refills |
+| [HP OfficeJet Pro](https://www.amazon.com/dp/B08NQSHX3N?tag=inkledger-20) 9015e | Cartridge | $299 | 1,200 pages (B&W) | $0.024 (B&W) | DRM blocks refills |
 | Brother MFC-J4335DW | Cartridge | $199 | 1,000 pages (B&W) | $0.019 (B&W) | Compatible with refill kits |
 
 **Key findings**:
@@ -125,7 +128,7 @@ We also tested borderless printing performance—a common need for photo project
 
 **2. Bulk ink subscriptions**: HP Instant Ink at 300 pages/month costs $9.99—cheaper than tanks until year 3. However, unused pages don't roll over and overages cost $1 per 10 pages. HP also monitors page counts remotely and can throttle printing if over limits.
 
-**3. Laser printers**: The Brother HL-L2350DW hits $0.016/page with toner yields of 1,200 pages. Ideal for text but poor for photos (max 600×600 dpi). Laser prints survived our water spill test 100% versus 23% for inkjet.
+**3. Laser printers**: The [Brother HL-L2350DW](https://www.amazon.com/dp/B00MFG54B6?tag=inkledger-20) hits $0.016/page with toner yields of 1,200 pages. Ideal for text but poor for photos (max 600×600 dpi). Laser prints survived our water spill test 100% versus 23% for inkjet.
 
 **Hybrid approach for small businesses**:
 - Use a tank printer for color work and a monochrome laser for bulk text ($0.016/page).

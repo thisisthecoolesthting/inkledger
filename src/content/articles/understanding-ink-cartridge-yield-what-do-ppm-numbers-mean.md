@@ -8,14 +8,15 @@ excerpt: Printer manufacturers advertise pages per month (PPM) ratings that rare
   per page and how to spot inflated claims.
 pillarSlug: ink-cost-analysis
 relatedProducts:
+- B00WSAXBQ0
+- B07P3X73QD
+- B08PZBPXLZ
+- B098JD8HD3
+- B09VXQ221K
+- B0BX2N258S
+- B0DHV7ZWH2
 - B0DHV8SCLS
 - B0G63G9LRJ
-- B00WSAXBQ0
-- B0DHV7ZWH2
-- B09VXQ221K
-- B098JD8HD3
-- B08PZBPXLZ
-- B0BX2N258S
 status: published
 tags:
 - printer ink yield
@@ -64,7 +65,7 @@ Our 120-hour print marathon tested cartridges under three conditions: ISO-standa
 |---------------------|--------------:|---------:|------------:|-----------:|---------------:|
 | HP 61 (OEM)         | 480 pages     | 455      | 372         | 92         | $0.05          |
 | HP 61XL (High Yield)| 1,200 pages   | 1,140    | 987         | 240        | $0.03          |
-| Brother TN-760      | 2,500 pages   | 2,480    | 2,180       | N/A        | $0.02          |
+| [Brother TN-760](https://www.amazon.com/dp/B07P3X73QD?tag=inkledger-20)      | 2,500 pages   | 2,480    | 2,180       | N/A        | $0.02          |
 | Epson 502           | 2,000 pages   | 1,950    | 1,240       | 310        | $0.04          |
 | Canon PG-245        | 400 pages     | 380      | 290         | 75         | $0.06          |
 | InkOwl TN-760       | 2,200 pages   | 1,920    | 1,900       | N/A        | $0.015         |

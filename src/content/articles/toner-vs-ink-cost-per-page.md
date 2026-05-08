@@ -19,14 +19,14 @@ tags:
 - refill kits
 - compatible cartridges
 relatedProducts:
-- B0FT32PL8L
+- B07C11YW88
+- B07GRRXJXG
+- B083BFPGD8
 - B08GX3K9YS
 - B0BVYBVHK5
-- B07C11YW88
-- B083BFPGD8
 - B0CYJV9X52
 - B0DYNQ1WP7
-- B09W9MF63Y
+- B0FT32PL8L
 heroImage: /images/hero/toner-vs-ink-cost-per-page.jpg
 cardTitle: 'Toner vs. Ink: Which Actually Costs Less Per Page'
 cardPick: HP 61 Black delivers the lowest cost-per-page for home printing, beating
@@ -57,7 +57,7 @@ Here's the catch: **page yields are fiction**. Manufacturers test using 5% cover
 
 | Model | Type | Rated Yield | Real Yield (15% Coverage) | Cartridge Cost | Actual Cost/Page |
 |---|---|---|---|---|---|
-| HP 962XL | Inkjet | 2,000 | 1,100 | $42.99 | $0.039 |
+| [HP 962XL](https://www.amazon.com/dp/B07GRRXJXG?tag=inkledger-20) | Inkjet | 2,000 | 1,100 | $42.99 | $0.039 |
 | Brother TN-660 | Laser Toner | 3,000 | 2,800 | $59.95 | $0.021 |
 | Epson EcoTank 502 | Bulk Ink | 7,500 | 6,200 | $24.99 (refill) | $0.004 |
 

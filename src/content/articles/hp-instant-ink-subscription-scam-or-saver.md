@@ -17,6 +17,9 @@ tags:
 - inkjet-alternatives
 - cost-per-page
 relatedProducts:
+- B00MFG54B6
+- B07P5Y5HGC
+- B08B3K9H7L
 heroImage: /images/hero/hp-instant-ink-subscription-scam-or-saver.jpg
 ---
 
@@ -46,8 +49,8 @@ For small businesses, the stakes are financial. Teachers face whiplash: summer b
 | HP 67XL OEM Cartridge | $38.99 (one-time) | 600 | N/A | No | Works ~8 months; price fluctuates 15% seasonally |
 | Jettec Compatible HP 67XL | $22.50 (one-time) | 500 | N/A | Yes | 42% savings vs. OEM; rare alignment issues |
 | InkOwl Pro Refill Kit | $16.99 (one-time) | ~400 | N/A | Yes | Requires 15-min refill process; works 3–4 cycles |
-| Epson EcoTank ET-2800 | $69.99 ink bottles | 4,500 | N/A | Yes | $249 printer + ink; breaks even at 500+ pages/year |
-| Brother HL-L2350DW (Laser) | $62 toner | 3,000 pages | N/A | Yes | $199 printer; ideal for text-heavy use |
+| Epson [EcoTank ET-2800](https://www.amazon.com/dp/B08B3K9H7L?tag=inkledger-20) | $69.99 ink bottles | 4,500 | N/A | Yes | $249 printer + ink; breaks even at 500+ pages/year |
+| [Brother HL-L2350DW](https://www.amazon.com/dp/B00MFG54B6?tag=inkledger-20) (Laser) | $62 toner | 3,000 pages | N/A | Yes | $199 printer; ideal for text-heavy use |
 
 **Key Finding**: Instant Ink's true cost per page ($0.050–$0.312) only beats OEM cartridges at very light use (under 30 pages/month). Beyond that, alternatives dominate.
 
@@ -64,7 +67,7 @@ Reliable but expensive at $38.99 per cartridge. After an automatic firmware upda
 **3. Refill Kit (DeskJet 3755)**
 The InkOwl Pro refill system worked smoothly for three cycles, then caused visible streaks due to printhead clogging—a common issue requiring $20 replacement printheads every 1,500 pages. Total 6-month cost: $34.98 + maintenance time.
 
-**4. Brother INKvestment Tank (MFC-J4335DW)**
+**4. [Brother INKvestment](https://www.amazon.com/dp/B07P5Y5HGC?tag=inkledger-20) Tank (MFC-J4335DW)**
 The standout performer. Supersized ink tanks lasted six months on a single fill. Brother's firmware never blocked third-party inks, and when we tested compatible brands, print quality matched OEM at half the cost. No vendor lock-in, no surprise fees.
 
 **Unexpected Finding**: HP Instant Ink includes cartridge recycling; DIY users must pay $5–8 to ship used cartridges separately.

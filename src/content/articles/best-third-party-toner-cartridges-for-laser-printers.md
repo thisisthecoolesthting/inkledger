@@ -21,6 +21,7 @@ tags:
 - canon-toner
 - office-printing
 relatedProducts:
+- B00MFG54B6
 heroImage: /images/hero/best-third-party-toner-cartridges-for-laser-printers.jpg
 ---
 
@@ -61,7 +62,7 @@ Warranty discrepancies matter. OEM cartridges offer one-year coverage; third-par
 
 ## Real-World Performance
 
-We ran 10,000 pages through a Brother HL-L2350DW using EcoToner's ET-660. Results:
+We ran 10,000 pages through a [Brother HL-L2350DW](https://www.amazon.com/dp/B00MFG54B6?tag=inkledger-20) using EcoToner's ET-660. Results:
 - **Pages 1–3,000:** Crystal-clear text and graphics. No visible banding.
 - **Pages 3,000–3,500:** Minor streaking on heavy coverage. Remedy: Remove cartridge, shake horizontally (redistribute toner), reinstall. Streaking ceased immediately.
 - **Pages 3,500–4,200:** Continued clean output. OEM Brother cartridge would have needed replacement at 2,800 pages.

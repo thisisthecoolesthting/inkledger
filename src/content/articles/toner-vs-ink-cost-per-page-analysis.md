@@ -18,14 +18,15 @@ tags:
 - refill kits
 - small office printing
 relatedProducts:
+- B00063RWT8
 - B004QM8SLG
+- B07GRRXJXG
+- B085VZPR2Y
 - B093TCYF9T
 - B0CB75LML9
-- B0F54TYKF9
 - B0CGW2TFSV
 - B0CGW48C3G
-- B085VZPR2Y
-- B00063RWT8
+- B0F54TYKF9
 heroImage: /images/hero/toner-vs-ink-cost-per-page-analysis.jpg
 ---
 
@@ -58,7 +59,7 @@ We analyzed three representative systems across different usage scenarios:
 
 | Model               | Type   | Yield (pages) | Current Price | Cost/Page | Key Considerations |
 |---------------------|--------|---------------|---------------|-----------|--------------------|
-| HP 962XL (Ink)      | Inkjet | 2,000         | $42.99        | 2.1¢      | [this cartridge](https://www.amazon.com/dp/B093TCYF9T?tag=inkledger-20) - Yields drop to 1,400 pages at 15% coverage |
+| [HP 962XL](https://www.amazon.com/dp/B07GRRXJXG?tag=inkledger-20) (Ink)      | Inkjet | 2,000         | $42.99        | 2.1¢      | [this cartridge](https://www.amazon.com/dp/B093TCYF9T?tag=inkledger-20) - Yields drop to 1,400 pages at 15% coverage |
 | Brother TN-660 (Toner) | Laser  | 6,000         | $69.99        | 1.2¢      | [this cartridge](https://www.amazon.com/dp/B004QM8SLG?tag=inkledger-20) - Requires $99 drum unit every 24,000 pages |
 | Epson 502 (EcoTank) | Ink    | 7,500         | $19.99        | 0.3¢      | Requires $300 printer investment upfront |
 

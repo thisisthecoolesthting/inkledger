@@ -17,13 +17,18 @@ tags:
 - OEM vs generic
 - print quality
 relatedProducts:
+- B00MFG54B6
+- B00WSAXBQ0
+- B074WJLHBL
+- B07GRRXJXG
+- B07P3YNZRR
+- B08NQSHX3N
+- B08PZBPXLZ
+- B098JD8HD3
+- B09VXQ221K
+- B0DHV7ZWH2
 - B0DHV8SCLS
 - B0G63G9LRJ
-- B00WSAXBQ0
-- B0DHV7ZWH2
-- B09VXQ221K
-- B098JD8HD3
-- B08PZBPXLZ
 heroImage: /images/hero/compatible-ink-cartridges-safety.jpg
 ---
 
@@ -43,12 +48,12 @@ This guide cuts through the fearmongering with hard data from tear-downs, accele
 
 Printer companies employ three tactics to lock users into proprietary ink: microchips that block third-party cartridges, warranty void clauses, and exaggerated claims about nozzle damage. Our lab found that 83% of "incompatibility" errors on HP printers are purely software locks—physical ink formulations rarely differ meaningfully between OEM and high-quality compatibles.
 
-The stakes go beyond cost. Printers with firmware updates (like Brother HL-L2350DW) may suddenly reject previously working cartridges. We documented cases where [Brother TN-760 cartridges](https://www.amazon.com/dp/B0G63G9LRJ?tag=inkledger-20) worked flawlessly for months before a stealth update triggered "unauthenticated cartridge" warnings. Meanwhile, Epson Ecotank users avoid these battles by using bulk ink—but face their own maintenance challenges.
+The stakes go beyond cost. Printers with firmware updates (like [Brother HL-L2350DW](https://www.amazon.com/dp/B00MFG54B6?tag=inkledger-20)) may suddenly reject previously working cartridges. We documented cases where [Brother TN-760 cartridges](https://www.amazon.com/dp/B0G63G9LRJ?tag=inkledger-20) worked flawlessly for months before a stealth update triggered "unauthenticated cartridge" warnings. Meanwhile, Epson Ecotank users avoid these battles by using bulk ink—but face their own maintenance challenges.
 
 Consider these real-world impacts:
 
 1. **Small Businesses**: A dental office printing 3,000 pages/month saves $1,728 annually using [Brother TN-660 compatibles](https://www.amazon.com/dp/B0DHV7ZWH2?tag=inkledger-20)
-2. **Schools**: Districts using HP 902XL compatibles reduce ink costs from $18,000 to $6,500 annually
+2. **Schools**: Districts using [HP 902XL](https://www.amazon.com/dp/B074WJLHBL?tag=inkledger-20) compatibles reduce ink costs from $18,000 to $6,500 annually
 3. **Home Users**: The average family spends $140/year on OEM ink versus $55 with premium generics
 
 ## Head-to-Head Comparison
@@ -87,11 +92,11 @@ Surprising advantages emerged:
 
 Breaking down a typical home office scenario:
 
-- **OEM Path**: HP OfficeJet Pro 9015e + HP 962XL ($45, 2,300 pages) = $0.0195 per page
+- **OEM Path**: [HP OfficeJet Pro](https://www.amazon.com/dp/B08NQSHX3N?tag=inkledger-20) 9015e + [HP 962XL](https://www.amazon.com/dp/B07GRRXJXG?tag=inkledger-20) ($45, 2,300 pages) = $0.0195 per page
 - **Premium Compatible**: Same printer + [Inkjet SuperStore XL](https://www.amazon.com/dp/B08PZBPXLZ?tag=inkledger-20) ($22, 2,100 pages) = $0.0105 per page
 - **Break-even Point**: After 1,200 pages, compatibles save enough to cover a full printer replacement
 
-Laser printers widen the gap. Brother HL-L3270CDW with OEM TN-730 costs $0.028/page versus $0.011 with generics—saving $255/year at 15,000 pages.
+Laser printers widen the gap. Brother HL-L3270CDW with OEM [TN-730](https://www.amazon.com/dp/B07P3YNZRR?tag=inkledger-20) costs $0.028/page versus $0.011 with generics—saving $255/year at 15,000 pages.
 
 For photographers, the math becomes extreme:
 
