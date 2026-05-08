@@ -8,7 +8,7 @@ excerpt: Tired of throwing money at printer ink and paper? We break down digital
   document scanners, and cloud storage—that cut your printing costs, reduce paper
   waste, and actually work for home and small office use.
 pillarSlug: eco-friendly-printing
-status: draft
+status: "published"
 tags:
 - paperless-office
 - digital-documents
@@ -19,14 +19,6 @@ tags:
 - eco-friendly
 - printing-alternatives
 relatedProducts:
-- B07TEST1234
-- B07TEST5678
-- B07TEST9012
-- B07TEST3456
-- B07TEST7890
-- B07TEST2345
-- B07TEST6789
-- B07TEST0123
 heroImage: /images/hero/going-paperless-digital-alternatives-to-printing.jpg
 ---
 

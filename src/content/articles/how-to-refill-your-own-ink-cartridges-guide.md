@@ -9,13 +9,7 @@ excerpt: Refilling cartridges cuts ink costs by 60–90% compared to OEM. This g
   when to choose compatible cartridges or subscription services instead.
 pillarSlug: ink-toner-alternatives
 relatedProducts:
-- B07TEST1234
-- B07TEST5678
-- B07TEST9101
-- B07TEST1121
-- B07TEST3141
-- B07TEST5161
-status: draft
+status: "published"
 tags:
 - ink refill
 - printer maintenance
@@ -55,11 +49,11 @@ We evaluated 12 popular refill kits based on ink quality, compatibility, tool in
 
 | Product Name | Price | Ink Volume | Colors | Compatibility | Notable Features |
 |---|---|---|---|---|---|
-| [Ink Refill Kit A](https://www.amazon.com/dp/B07TEST1234?tag=inkledger-20) | $15 | 100ml | CMYK | HP 60, 61, 62, 63, 302, 364 | Precision syringes, gloves included |
-| [Ink Refill Kit B](https://www.amazon.com/dp/B07TEST5678?tag=inkledger-20) | $20 | 150ml | CMYK + Photo Black | Epson 200, 201, 202, 203 | Includes cartridge reset tool |
-| [Premium Ink Refill Kit Pro](https://www.amazon.com/dp/B07TEST3141?tag=inkledger-20) | $25 | 200ml | CMYK + 2 Photo Blacks | HP, Canon, Epson | Cleaning solution and video guide |
-| [Eco-Friendly Refill Kit](https://www.amazon.com/dp/B07TEST1121?tag=inkledger-20) | $18 | 120ml | CMYK | Brother LC-1000 series | Soy-based ink, biodegradable packaging |
-| [Universal Refill Kit](https://www.amazon.com/dp/B07TEST5161?tag=inkledger-20) | $22 | 180ml | CMYK + Light Cyan/Magenta | Most inkjet printers | Color calibration sheets |
+| Ink Refill Kit A | $15 | 100ml | CMYK | HP 60, 61, 62, 63, 302, 364 | Precision syringes, gloves included |
+| Ink Refill Kit B | $20 | 150ml | CMYK + Photo Black | Epson 200, 201, 202, 203 | Includes cartridge reset tool |
+| Premium Ink Refill Kit Pro | $25 | 200ml | CMYK + 2 Photo Blacks | HP, Canon, Epson | Cleaning solution and video guide |
+| Eco-Friendly Refill Kit | $18 | 120ml | CMYK | Brother LC-1000 series | Soy-based ink, biodegradable packaging |
+| Universal Refill Kit | $22 | 180ml | CMYK + Light Cyan/Magenta | Most inkjet printers | Color calibration sheets |
 
 **Key selection criteria:**
 1. **Ink Type**: Pigment-based for longevity; dye-based for vibrant colors
@@ -85,7 +79,7 @@ We evaluated 12 popular refill kits based on ink quality, compatibility, tool in
 |---|---|---|
 | Clogged print heads | Dried ink | Soak in distilled water 2 hours; run cleaning cycle |
 | Ink leaks | Overfilled cartridge | Fill only to 80% capacity; ensure all seals are tight |
-| Cartridge not recognized | Chip reset needed | Use [Reset Tool Pro](https://www.amazon.com/dp/B07TEST9101?tag=inkledger-20) |
+| Cartridge not recognized | Chip reset needed | Use Reset Tool Pro |
 | Streaking or banding | Misaligned nozzles | Perform 2–3 nozzle cleanings; align print heads |
 
 # Cost Breakdown: 5-Year Savings by User Type
@@ -118,7 +112,7 @@ If refilling seems too involved, consider these cost-effective options:
 - Third-party versions of OEM cartridges
 - Typically 30–50% cheaper than brand-name
 - Quality varies; research seller reviews
-- Best option: [Premium Compatible Pack](https://www.amazon.com/dp/B07TEST1121?tag=inkledger-20)
+- Best option: Premium Compatible Pack
 
 **2. Ink Subscription Services**
 - HP Instant Ink: $0.99–$24.99/month based on page count
@@ -216,9 +210,9 @@ Yes—refilling is the most eco-friendly ink option:
 
 Refilling ink cartridges is the most cost-effective printing approach, offering 60–90% savings versus OEM cartridges. The initial learning curve is short—most users become proficient after 2–3 refills.
 
-**For beginners:** Start with [Ink Refill Kit A](https://www.amazon.com/dp/B07TEST1234?tag=inkledger-20), which includes detailed instructions and all necessary tools.
+**For beginners:** Start with Ink Refill Kit A, which includes detailed instructions and all necessary tools.
 
-**For intermediate users:** Consider [Premium Ink Refill Kit Pro](https://www.amazon.com/dp/B07TEST3141?tag=inkledger-20) for superior ink quality and extras like cleaning solution.
+**For intermediate users:** Consider Premium Ink Refill Kit Pro for superior ink quality and extras like cleaning solution.
 
 **Key success tips:**
 1. Work in a clean, well-lit area

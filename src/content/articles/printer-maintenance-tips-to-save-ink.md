@@ -9,7 +9,7 @@ excerpt: Printer ink costs more per milliliter than champagne—but it doesn't h
   compatible cartridge strategies that save hundreds annually without sacrificing
   print quality.
 pillarSlug: eco-friendly-printing
-status: draft
+status: "published"
 tags:
 - ink-saving-tips
 - cartridge-refills
@@ -19,12 +19,6 @@ tags:
 - ecotank-alternatives
 - laser-toner-savings
 relatedProducts:
-- B07TEST1234
-- B07TEST5678
-- B07TEST9012
-- B07TEST3456
-- B07TEST7890
-- B07TEST2345
 heroImage: /images/hero/printer-maintenance-tips-to-save-ink.jpg
 ---
 
