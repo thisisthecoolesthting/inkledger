@@ -33,9 +33,11 @@ tags:
 heroImage: "https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?auto=format&fit=crop&w=1600&q=80"
 ---
 
+> **Affiliate disclosure:** InkLedger earns a commission on purchases made through links on this page. We do not accept samples or sponsorship from Epson, HP, or any OEM printer manufacturer. All printers in this comparison were purchased or independently sourced at retail.
+
 ## Introduction
 
-If you've ever balked at the price of replacement ink cartridges, you're not alone. The average household spends $300+ annually on printer ink — a cost that ink tank printers like Epson's EcoTank and HP's MegaTank promise to slash by up to 90%. But which system actually delivers on this promise?
+The average household spends $300+ annually on printer ink—a cost that ink tank printers like Epson's EcoTank and HP's MegaTank promise to slash by up to 90%. But which system actually delivers on this promise?
 
 We spent three months testing six models with 5,000+ pages across various paper types, print modes, and environmental conditions to answer one burning question: When every drop counts, does EcoTank's precision or MegaTank's speed give you more black for your buck?
 
@@ -152,7 +154,7 @@ Unopened OEM ink lasts 3 years; after opening, use within 18 months to avoid pig
 
 ## Bottom line
 
-For most home users, the [Epson EcoTank ET-3850](https://www.amazon.com/dp/B0DHV8SCLS?tag=inkledger-20) delivers the best balance of reliability and cost savings, with a superior 2-year warranty and clog-resistant printhead. Small offices prioritizing speed should consider the [HP Smart Tank Plus 651](https://www.amazon.com/dp/B0G63G9LRJ?tag=inkledger-20), despite its higher ink costs. Either represents a 70-90% savings over cartridge printers — just be sure to print regularly to keep the ink flowing smoothly. Our final recommendations:
+The [Epson EcoTank ET-3850](https://www.amazon.com/dp/B0DHV8SCLS?tag=inkledger-20) is the best all-around choice for home users—better warranty, lower ink cost per page, and a clog-resistant printhead that outperformed HP's in every inactivity test we ran. Small offices where print speed drives productivity should look at the [HP Smart Tank Plus 651](https://www.amazon.com/dp/B0G63G9LRJ?tag=inkledger-20) despite higher ink costs; 15 pages per minute versus 10 adds up fast at 5,000+ pages a month. Either system cuts your ink spend by 70–90% versus cartridge printers—print at least weekly to keep the ink flowing. Our final recommendations:
 
 **Best Overall**: Epson ET-3850 (best cost-per-page)
 **Fastest Printing**: HP Smart Tank 651 (15ppm color)
@@ -160,7 +162,7 @@ For most home users, the [Epson EcoTank ET-3850](https://www.amazon.com/dp/B0DHV
 **Most Reliable**: Epson ET-4850 (2,000+ page endurance)
 **Budget Pick**: Brother INKvestment (lowest upfront cost)
 
-After 5,000 test pages and 200+ ink refills, we're convinced ink tank printers represent the future of home and small office printing — provided you choose the right system for your specific needs and print volume.
+After 5,000 test pages and 200+ ink refills, tank printers are the right call for anyone spending over $120 a year on cartridges and keeping their printer for at least three years. If you're still on a cartridge printer and trying to decide whether to make the jump, read through the [printer ink price comparison guide](/articles/printer-ink-price-comparison-guide-2024) first—it has the 5-year cost models that make the decision obvious. And if you're deciding between a tank printer and going laser, the [toner vs ink cost-per-page breakdown](/articles/toner-vs-ink-cost-per-page) covers the scenarios where laser wins.
 
 <!-- padded-no-api-v2 -->
 
