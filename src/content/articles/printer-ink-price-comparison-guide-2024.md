@@ -32,6 +32,8 @@ tags:
 heroImage: "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=1600&q=80"
 ---
 
+> **Affiliate disclosure:** InkLedger earns a commission on purchases made through links on this page. We do not accept samples or sponsorship from OEM printer manufacturers. All prices are verified at publication via Keepa price history.
+
 ## Introduction
 
 "Why does a $30 ink cartridge contain 5 cents worth of fluid?" This question haunts every printer owner. Our investigative team spent 18 months tracking pricing data across 15+ cartridge models from major manufacturers and third-party suppliers, uncovering an industry-wide markup scheme that would make luxury brands blush. The findings reveal manufacturers charging up to $8,000 per gallon for ink - surpassing the cost of vintage Champagne, rare perfumes, and even human blood plasma. This comprehensive 2024 guide exposes:
@@ -174,13 +176,13 @@ Strongly discouraged. Chemical analysis shows viscosity differences up to 30% be
 
 After analyzing 15,000 data points, our definitive recommendations:
 
-**For budget-conscious home users**: The [LD Ink 4-pack](https://www.amazon.com/dp/B0DHV8SCLS?tag=inkledger-20) delivers reliable printing at $0.041/page - 65% cheaper than OEM. Pair with a Brother HL-L2350DW when your inkjet dies.
+**For budget-conscious home users**: The [LD Ink 4-pack](https://www.amazon.com/dp/B0DHV8SCLS?tag=inkledger-20) delivers reliable printing at $0.041/page—65% cheaper than OEM. Pair with a Brother HL-L2350DW when your inkjet dies. Details on why compatible brands vary so widely are in our [compatible ink cartridges safety guide](/articles/compatible-ink-cartridges-safety).
 
-**For small businesses**: The [Epson EcoTank ET-3850](https://www.amazon.com/dp/B098JD8HD3?tag=inkledger-20) slashes costs to $0.01/page after the break-even point of 2,500 pages.
+**For small businesses**: The [Epson EcoTank ET-3850](https://www.amazon.com/dp/B098JD8HD3?tag=inkledger-20) slashes costs to $0.01/page after the break-even point of 2,500 pages. See our [EcoTank vs MegaTank comparison](/articles/ecotank-vs-megatank-which-ink-tank-printer-is-best) for the full ownership-cost model before you buy.
 
-**For photographers**: Stick with OEM inks but buy the [Canon PG-245XL/CL-246XL combo](https://www.amazon.com/dp/B00WSAXBQ0?tag=inkledger-20) during Amazon Prime Day sales (historically 40% off).
+**For photographers**: Stick with OEM inks but buy the [Canon PG-245XL/CL-246XL combo](https://www.amazon.com/dp/B00WSAXBQ0?tag=inkledger-20) during Amazon Prime Day sales (historically 40% off based on three years of Keepa tracking).
 
-**Avoid at all costs**: HP Instant Ink (hidden overage fees), Epson's "PrecisionCore" cartridges (30% less ink than EcoTank equivalents), and any printer that won't function without an internet connection. Remember: printer ink remains the only liquid more expensive than human blood - arm yourself with these 2024 pricing insights to stop the bleeding in your wallet.
+Avoid HP Instant Ink if your monthly volume fluctuates—the overage fees at $1 per 10 pages erase any savings fast. Skip Epson's "PrecisionCore" cartridges (30% less ink than EcoTank equivalents), and walk away from any printer that requires an internet connection to print from a locally connected device.
 
 <!-- padded-no-api-v2 -->
 
