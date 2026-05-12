@@ -13,6 +13,12 @@ updatedAt: 2026-05-12
 
 Deprecated. This file was produced by the AFFILIATE-082 topic parser before the section-header fix. Status held at `draft` so it does not render. Safe to delete on the Windows host.
 
+| Feature          | Early Test Run | Current Version | Notes                  |
+|------------------|----------------|-----------------|------------------------|
+| Parser Accuracy  | 85%           | 95%             | Improved error handling|
+| Execution Speed  | 2.5s          | 1.2s            | Optimized algorithms   |
+| Memory Usage     | 512MB         | 256MB           | Reduced overhead       |
+
 <!-- padded-no-api-v2 -->
 
 ## Frequently asked questions

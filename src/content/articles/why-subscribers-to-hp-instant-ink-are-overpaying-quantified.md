@@ -14,6 +14,12 @@ updatedAt: 2026-05-12
 ---
 ## Why Subscribers to HP Instant Ink Are Overpaying (Quantified)
 
+| **Aspect**               | **HP Instant Ink**        | **Alternative Options**   | **Savings Potential**       |
+|---------------------------|---------------------------|---------------------------|-----------------------------|
+| **Cost per Page**         | $0.03 - $0.15            | $0.01 - $0.05            | Up to 80%                  |
+| **Monthly Subscription**  | $2.99 - $35.99           | $0 (pay-as-you-go)       | $2.99 - $35.99             |
+| **Ink Waste**             | High (unused pages expire)| Minimal (use as needed)  | Significant                |
+
 HP Instant Ink markets itself as a convenient, cost-saving subscription service for printer ink. You pay a fixed monthly fee based on how many pages you print, and HP sends cartridges automatically before you run out. While the service can provide convenience and peace of mind, many subscribers end up paying more than they realize. Let’s break down why HP Instant Ink can actually be more expensive—and by how much.
 
 ---

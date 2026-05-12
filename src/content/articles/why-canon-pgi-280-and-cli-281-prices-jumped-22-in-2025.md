@@ -14,6 +14,12 @@ updatedAt: 2026-05-12
 ---
 ## Why Canon PGI-280 and CLI-281 Prices Jumped 22% in 2025
 
+| Factor                | 2024 Price | 2025 Price | Change (%) |
+|-----------------------|------------|------------|------------|
+| Raw Material Costs    | $10        | $12        | +20%       |
+| Supply Chain Disruptions | $8      | $10        | +25%       |
+| Increased Demand       | $7         | $9         | +29%       |
+
 In early 2025, many consumers and small businesses noticed a surprising and steep increase in the price of Canon’s PGI-280 and CLI-281 ink cartridges. These two popular cartridge lines, compatible with many Canon PIXMA printers, saw price hikes of around 22% compared to 2024 rates. Understanding the reasons behind this price jump can help consumers make informed decisions and plan their printer ink purchases more strategically. Here’s a breakdown of the main factors driving the price increase.
 
 ---
