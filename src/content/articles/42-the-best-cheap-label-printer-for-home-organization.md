@@ -18,6 +18,10 @@ A cheap label printer refers to a device priced affordably upfront that can prin
 
 “Cheap” doesn’t mean low quality — the goal is to find a printer with a low total cost of ownership (TCO), factoring in cost per label, tape or cartridge yield, and the printer’s reliability over time.
 
+
+
+> **See also:** [Reviewing the Best Budget Printers Compatible with Third-Party Ink](https://inkledger.org/articles/reviewing-the-best-budget-printers-compatible-with-third-party-ink/)
+
 ## How a Label Printer Works
 
 Label printers for home use typically rely on thermal transfer or direct thermal printing technologies:

@@ -20,6 +20,10 @@ When you buy a Canon inkjet printer, it usually comes packaged with starter cart
 
 This is not unique to Canon; many printer manufacturers use low yield starter cartridges to reduce the initial price of the printer. However, Canon’s starter cartridges are particularly notorious because their yields are substantially lower than standard versions, sometimes by as much as 30-50%.
 
+
+
+> **See also:** [Analyzing Toner Yield Differences in OEM and Compatible Options](https://inkledger.org/articles/analyzing-toner-yield-differences-in-oem-and-compatible-options/)
+
 ## How Low Yield Affects Your Ink Supply and Cost-Per-Page
 
 Ink cartridge yield is usually expressed as the estimated number of pages one cartridge can print before it runs dry. This metric is based on standardized test patterns like 5% coverage per page. Since starter cartridges have less ink, they provide fewer pages and thus a higher effective cost-per-page during initial use.

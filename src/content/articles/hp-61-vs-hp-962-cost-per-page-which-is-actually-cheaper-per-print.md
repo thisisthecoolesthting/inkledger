@@ -20,6 +20,10 @@ In this article, we’ll break down how HP 61 and HP 962 cartridges compare on c
 
 ---
 
+
+
+> **See also:** [1. HP 61 vs HP 962 cost per page — which is actually cheaper per print](https://inkledger.org/articles/1-hp-61-vs-hp-962-cost-per-page-which-is-actually-cheaper-per-print/)
+
 ## What Are HP 61 and HP 962 Cartridges?
 
 Before diving into the numbers, it helps to clarify what these cartridges are:
@@ -194,3 +198,17 @@ Skip the tank printer if you print fewer than 200 pages a year — the math does
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+## FAQ
+
+**Q: How is cost per page calculated for ink cartridges like the HP 61 and HP 962?**  
+A: Cost per page is calculated by dividing the price of the cartridge by the estimated page yield (number of pages it can print). For example, if an HP 61 costs $10 and yields 200 pages, the cost per page is $0.05.
+
+**Q: Which cartridge has a lower cost per page, the HP 61 or HP 962?**  
+A: The HP 962 typically has a lower cost per page because it has a higher page yield (around 600 pages) compared to the HP 61 (around 200 pages), even though it costs more upfront.
+
+**Q: Does print quality affect the cost per page comparison?**  
+A: Yes, if you use higher quality settings (e.g., photo printing), the yield drops, increasing cost per page. However, for standard text printing, the HP 962 usually remains cheaper per page.
+
+**Q: Are there other factors to consider beyond cost per page?**  
+A: Yes, compatibility with your printer, convenience (how often you need to replace cartridges), and environmental impact (less frequent replacements mean less waste) are also important factors.

@@ -48,6 +48,10 @@ Our investigation reveals that printer manufacturers employ at least seven disti
 
 For example, HP holds over 2,000 active patents related to ink cartridge designs - not to improve functionality, but to block compatible alternatives through litigation. The [HP 962XL black ink cartridge](https://www.amazon.com/dp/B0F54TYKF9?tag=inkledger-20) contains 12% less ink than its predecessor (the 952XL) but sells for the same $42.99 MSRP - a textbook case of shrinkflation.
 
+
+
+> **See also:** [Is HP Instant Ink Worth It? Cost Analysis vs. Cartridges & Refills](https://inkledger.org/articles/instant-ink-subscription-worth-it/)
+
 ## Why This Matters
 
 Printer manufacturers don't make money on hardware - the average inkjet printer sells at or below cost. The real profits come from ink, where proprietary cartridges generate 50-80% profit margins. HP's 2025 financial report revealed that 63% of their printing division revenue came from supplies, not hardware sales.
@@ -265,3 +269,17 @@ Pew Research and Consumer Reports tracking put typical household ink spend at $8
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+## FAQ  
+
+**Q: Why is printer ink so expensive compared to fountain pen ink?**  
+A: Printer ink is priced using the razor-and-blade model, where printers are sold cheaply, but proprietary ink cartridges are marked up significantly. Fountain pen ink, by contrast, is sold by independent manufacturers in standardized bottles, fostering competition and lower prices.  
+
+**Q: Can I use third-party ink cartridges to save money?**  
+A: While third-party cartridges are cheaper, many printer manufacturers use DRM-like chips to block them, forcing users to buy branded ink. Fountain pens, however, are designed to work with a wide variety of inks, giving users more flexibility.  
+
+**Q: Why don’t printer companies sell affordable ink?**  
+A: Printer companies rely on ink sales for most of their profits, subsidizing the low cost of the printers themselves. This business model doesn’t apply to fountain pens, where the pen and ink are typically sold separately at fair market prices.  
+
+**Q: Are there any alternatives to expensive printer ink?**  
+A: Refillable ink tank printers or continuous ink supply systems (CISS) can reduce costs, but they’re less common. For writing, fountain pens with bottled ink are a cost-effective and sustainable alternative to disposable cartridges.

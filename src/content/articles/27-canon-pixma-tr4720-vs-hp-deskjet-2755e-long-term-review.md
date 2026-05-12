@@ -21,6 +21,10 @@ Both the Canon PIXMA TR4720 and HP DeskJet 2755e are compact all-in-one inkjet p
 
 Both printers are positioned below higher-end models, making upfront cost very appealing but raising questions around ongoing consumable expenses and machine longevity.
 
+
+
+> **See also:** [23. Epson EcoTank ET-2800 vs Canon MegaTank G3270 comparison](https://inkledger.org/articles/23-epson-ecotank-et-2800-vs-canon-megatank-g3270-comparison/)
+
 ## How They Work: Ink Systems and Cartridges
 
 Critical to both printers' long-term cost and reliability are their ink systems.

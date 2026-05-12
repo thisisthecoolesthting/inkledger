@@ -16,6 +16,10 @@ Printing documents has long been seen as a necessary step to manage paperwork, a
 
 PDF workflows refer to the sequence of steps and tools you use to handle PDF documents—from creation and annotation to signing, sharing, or archiving—without printing anything. “Free” indicates that these processes rely on no-cost software or built-in operating system utilities. These workflows are designed to replicate or replace common physical printer tasks, like signing documents, filling forms, or marking up pages, but entirely in the digital realm.
 
+
+
+> **See also:** [Cost Comparison: OEM Ink vs Compatible Ink Over One Year](https://inkledger.org/articles/cost-comparison-oem-ink-vs-compatible-ink-over-one-year/)
+
 ## How Free PDF Workflows Work
 
 To replace physical printing because you *think* you need one, free PDF workflows leverage a combination of:

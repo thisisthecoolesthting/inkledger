@@ -20,6 +20,10 @@ The PGI-280 series (usually black ink) and CLI-281 series (color inks—cyan, ma
 
 ---
 
+
+
+> **See also:** [Why Canon PGI-280 and CLI-281 prices jumped 22% in 2025](https://inkledger.org/articles/why-canon-pgi-280-and-cli-281-prices-jumped-22-in-2025/)
+
 ## Why Have Prices of PGI-280 and CLI-281 Jumped 22%?
 
 Price hikes don’t happen randomly, especially for widely used consumables like ink cartridges. Several intersecting factors contributed to the increase:

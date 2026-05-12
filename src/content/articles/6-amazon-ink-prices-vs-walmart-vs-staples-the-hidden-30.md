@@ -18,6 +18,10 @@ Printer ink pricing isn’t as simple as the price tag you see at checkout. Mult
 
 For example, a cartridge might be cheaper at Walmart but deliver fewer pages than a slightly more expensive alternative from Amazon. Alternatively, Staples might offer a package deal, but mid-tier cartridges there sometimes have hidden “chip” locks or compatibility risks that reduce effective yield.
 
+
+
+> **See also:** [1. HP 61 vs HP 962 cost per page — which is actually cheaper per print](https://inkledger.org/articles/1-hp-61-vs-hp-962-cost-per-page-which-is-actually-cheaper-per-print/)
+
 ## How Ink Prices Differ Across Amazon, Walmart, and Staples
 
 Here’s a breakdown of the pricing dynamics at each retailer:

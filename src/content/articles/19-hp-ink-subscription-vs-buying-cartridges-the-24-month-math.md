@@ -16,6 +16,10 @@ Many printer owners face sticker shock when replacing their HP printer cartridge
 
 HP’s ink subscription service is a recurring delivery model where you receive ink cartridges automatically before you run out. It’s often marketed as a hassle-free way to never run dry, sometimes at a discounted per-cartridge rate compared to stand-alone purchases. The service usually includes monitoring of ink levels and automated shipments timed to your expected usage, ostensibly reducing emergency cartridge purchases.
 
+
+
+> **See also:** [Cost Comparison of OEM Ink Cartridges Versus Refill Kits](https://inkledger.org/articles/cost-comparison-of-oem-ink-cartridges-versus-refill-kits/)
+
 ## How the Subscription Service Works
 
 ### Key Features:

@@ -50,6 +50,10 @@ Choosing a printer with third-party cartridge compatibility in mind means balanc
 
 ---
 
+
+
+> **See also:** [Reviewing the Best Budget Printers Compatible with Third-Party Ink](https://inkledger.org/articles/reviewing-the-best-budget-printers-compatible-with-third-party-ink/)
+
 ## Why Compatible Cartridges Matter and How to Choose Printers that Accept Them
 
 ### What Are Compatible Ink Cartridges?

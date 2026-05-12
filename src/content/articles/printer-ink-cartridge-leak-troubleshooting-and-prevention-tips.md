@@ -24,6 +24,10 @@ Ink cartridge leaks occur when ink escapes the cartridge housing unintentionally
 
 Understanding the root cause is key to both fixing leaks and avoiding them in the future.
 
+
+
+> **See also:** [Troubleshooting Printer Error Codes Related to Ink and Toner](https://inkledger.org/articles/troubleshooting-printer-error-codes-related-to-ink-and-toner/)
+
 ## How to Troubleshoot Ink Cartridge Leaks: Step-by-Step
 
 Here’s a clear process to diagnose and fix cartridge leaks:

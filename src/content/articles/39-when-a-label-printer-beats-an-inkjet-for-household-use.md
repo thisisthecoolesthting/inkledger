@@ -18,6 +18,10 @@ A label printer is a specialized device designed primarily to print adhesive lab
 
 Typically compact and easy to set up, label printers produce small-format output suitable for organizing household items, mailing envelopes, name tags, storage bins, cables, or even DIY craft projects. While they excel at single-purpose printing, they are usually not designed to replace multi-function inkjet or laser printers for everyday document printing.
 
+
+
+> **See also:** [HP 61 vs HP 962 cost per page — which is actually cheaper per print](https://inkledger.org/articles/hp-61-vs-hp-962-cost-per-page-which-is-actually-cheaper-per-print/)
+
 ## How Label Printers Work Compared to Inkjets
 
 To understand why label printers can outperform inkjets in certain household roles, it helps to look at the core differences in how they print:

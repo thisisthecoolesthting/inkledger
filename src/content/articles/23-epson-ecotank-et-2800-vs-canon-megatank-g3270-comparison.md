@@ -22,6 +22,10 @@ Canon's MegaTank G3270 takes a similar approach with integrated ink tank design 
 
 Both printers target consumers frustrated by the high continuous cost of OEM cartridges, offering larger reservoirs and cheaper ink refills. But beneath this broad similarity lies important differences in print yield, reliability, compatibility risks, chip lockouts, and user experience that can substantially impact your total cost of ownership.
 
+
+
+> **See also:** [27. Canon PIXMA TR4720 vs HP DeskJet 2755e long-term review](https://inkledger.org/articles/27-canon-pixma-tr4720-vs-hp-deskjet-2755e-long-term-review/)
+
 ## How Each Printer Works (Ink Delivery and Chip Systems)
 
 Both printers use ink tanks that you manually refill by pouring ink from bottles into dedicated reservoirs:

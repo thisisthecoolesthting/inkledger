@@ -38,6 +38,10 @@ We conducted the most comprehensive independent study of ink cartridge economics
 
 What most guides don't tell you: The ink cartridge market has shifted dramatically since 2022. New "premium compatible" manufacturers like InkOwl and InkTown now use industrial-grade print heads and ISO-certified inks that rival OEM quality. Meanwhile, printer manufacturers have doubled down on anti-third-party measures—HP's Dynamic Security 3.0 blocks more compatible cartridges than ever, while Epson's EcoTank patent lawsuits have reshaped the refill market.
 
+
+
+> **See also:** [Is HP Instant Ink Worth It? Cost Analysis vs. Cartridges & Refills](https://inkledger.org/articles/instant-ink-subscription-worth-it/)
+
 ## Why this matters
 
 Printer manufacturers employ a razor-and-blades model: sell printers at cost, profit from ink. HP's Q3 2025 financials revealed 72% of their profit comes from supplies—more than Apple makes from iPhone accessories. This creates perverse incentives:
@@ -291,3 +295,17 @@ Skip the tank printer if you print fewer than 200 pages a year — the math does
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+## FAQ  
+
+**Q: What are OEM ink cartridges, and how do they differ from compatible ones?**  
+A: OEM (Original Equipment Manufacturer) cartridges are made by the same brand as your fountain pen, ensuring perfect compatibility. Compatible cartridges are produced by third-party manufacturers and are designed to work with specific pen models, often at a lower cost.  
+
+**Q: Are compatible ink cartridges safe to use in my fountain pen?**  
+A: Most compatible cartridges are safe if they meet quality standards, but poorly made ones may cause leaks or clogging. Always check reviews or buy from reputable brands to avoid damage.  
+
+**Q: Do compatible cartridges affect print quality or ink performance?**  
+A: Some compatible cartridges may produce slightly different shades or flow rates compared to OEM inks, but high-quality options often match OEM performance closely.  
+
+**Q: Which option is more cost-effective in the long run: OEM or compatible cartridges?**  
+A: Compatible cartridges are usually cheaper upfront, but OEM cartridges may last longer and provide more consistent results. The best choice depends on your budget and quality preferences.

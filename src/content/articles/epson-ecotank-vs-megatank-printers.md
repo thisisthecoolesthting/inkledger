@@ -262,6 +262,10 @@ Compatible cartridges from established remanufacturers won't void your printer's
 
 Reputable remanufacturers (LD Products, INKfinity, LemeroUtrust) use formulated inks; bargain-bin generics often use commodity ink that can dry, separate, or print poorly under heavy use.
 
+
+
+> **See also:** [Printer Ink Pricing Games: How Manufacturers Lock You In and How to Escape](https://inkledger.org/articles/printer-ink-pricing-games-manufacturers-play/)
+
 ## What to watch for before you buy
 
 - **Yield numbers are tested under ISO standards** that assume continuous printing at 5% page coverage. Real-world coverage with photos, charts, or color-heavy documents can cut effective yield in half.
@@ -277,3 +281,17 @@ Reputable remanufacturers (LD Products, INKfinity, LemeroUtrust) use formulated 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
 
 For more on printer ink price hikes exposed: how retailers gouge you and which refill, see [our coverage at refillwatch.org](https://refillwatch.org/articles/refillwatch-article-06/).
+
+## FAQ  
+
+**Q: Which printer has lower ink costs, the Epson EcoTank or Canon MegaTank?**  
+A: Both use refillable ink tanks, but Epson EcoTank generally offers slightly lower cost per page due to higher-yield bottles, while Canon MegaTank inks are often priced competitively for color printing.  
+
+**Q: Is one brand better for high-quality photo printing?**  
+A: Canon MegaTank printers typically excel in photo quality with richer colors, while Epson EcoTank models are better for sharp text and may require premium paper for comparable photo results.  
+
+**Q: Do these printers work well with fountain pen-friendly paper?**  
+A: Yes, both can handle thicker, ink-resistant papers, but the Epson EcoTank’s precision nozzles may handle feathering slightly better on porous stationery.  
+
+**Q: Which is more reliable for heavy daily use?**  
+A: Epson EcoTank models are known for durability in high-volume printing, while Canon MegaTank printers may require more frequent nozzle checks to prevent clogs.

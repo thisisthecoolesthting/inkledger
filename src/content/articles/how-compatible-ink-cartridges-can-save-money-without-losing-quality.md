@@ -16,6 +16,10 @@ If you own a printer, you’re likely frustrated by the high cost of brand-name 
 
 ---
 
+
+
+> **See also:** [Cost Comparison: OEM Ink vs Compatible Ink Over One Year](https://inkledger.org/articles/cost-comparison-oem-ink-vs-compatible-ink-over-one-year/)
+
 ## What Are Compatible Ink Cartridges?
 
 Compatible ink cartridges are non-OEM cartridges designed to fit and work with your printer model. Unlike remanufactured or refilled cartridges—which start as used OEM cartridges—compatible cartridges are typically newly built from third-party manufacturers. They aim to match or exceed the capacity and ink formulation of OEM cartridges but come at a fraction of the cost.

@@ -45,6 +45,10 @@ But cheaper alternatives exist. Through six months of testing with 1,200 pages p
 
 Each solution has tradeoffs in convenience, print quality, and upfront cost. We'll break down the math, performance data, and best use cases for each.
 
+
+
+> **See also:** [Why Is Printer Ink So Expensive? Uncovering the Razor-and-Blade Truth](https://inkledger.org/articles/why-is-printer-ink-so-expensive-uncovering-the-truth/)
+
 ## Why This Matters
 
 Printer ink consistently ranks among the most overpriced consumer liquids. For the PG-245, Canon's cost is approximately $0.19 per page for black ink versus $0.01 for laser toner. For households printing 100 pages monthly, that's roughly $96 per year in inkjet costs versus $12 for equivalent laser output.
@@ -213,3 +217,17 @@ Pew Research and Consumer Reports tracking put typical household ink spend at $8
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+## FAQ  
+
+**Q: Are compatible PG-245 cartridges reliable compared to genuine Canon cartridges?**  
+A: Many third-party PG-245 cartridges offer decent print quality and reliability at a lower cost, though longevity and ink consistency may vary by brand. Always check reviews before purchasing.  
+
+**Q: Can refill kits damage my Canon printer?**  
+A: If used improperly, refill kits can cause leaks or clog print heads, but following instructions carefully minimizes risks. Some printers may also void warranties if third-party ink is detected.  
+
+**Q: Which is more cost-effective: compatible cartridges or refill kits?**  
+A: Refill kits are usually cheaper per page but require more effort, while compatible cartridges offer convenience at a slightly higher cost than refilling.  
+
+**Q: Do refill kits work well for high-volume printing?**  
+A: Refill kits can be economical for heavy use, but frequent refilling may increase the risk of air bubbles or clogs. Compatible cartridges might be better for consistent high-volume printing.

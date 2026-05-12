@@ -21,6 +21,10 @@ Printer cartridges are containers filled with ink or toner powder used in inkjet
 
 Because cartridges consist of plastic, ink/toner residues, and sometimes electronic components such as chips, they must be treated as electronic or hazardous waste depending on local regulations.
 
+
+
+> **See also:** [38. Converting a regular printer to use cheaper off-brand ink](https://inkledger.org/articles/38-converting-a-regular-printer-to-use-cheaper-off-brand-ink/)
+
 ## Why Safe Disposal Matters
 
 Used cartridges often contain residual ink or toner, which can contain chemicals harmful to soil, waterways, and wildlife. Simply throwing them in the household trash usually leads to landfill disposal where they can slowly leach toxins.

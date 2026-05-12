@@ -14,6 +14,10 @@ subtopic: cartridges
 
 If you’re subscribed to HP Instant Ink, you may feel like you’re getting a great deal on printing supplies, but the numbers tell a different story: many subscribers end up paying more per page than if they bought brand-name cartridges outright—or even used compatible third-party alternatives. This article breaks down how HP Instant Ink pricing works, why the system can lead to hidden overcharges, and what you can do to avoid blowing your printing budget.
 
+
+
+> **See also:** [OEM Ink Quality vs Compatible Ink: What’s the Difference?](https://inkledger.org/articles/oem-ink-quality-vs-compatible-ink-what-s-the-difference/)
+
 ## What Is HP Instant Ink?
 
 HP Instant Ink is a subscription service that automatically delivers ink cartridges based on your monthly page usage, rather than the amount of ink used. Subscribers pay a flat rate for a set number of pages per month, with different plans covering anywhere from 15 to 700 pages or more. If you print more pages, you pay overage fees; if you print less, unused pages don't roll over indefinitely.

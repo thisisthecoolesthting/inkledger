@@ -16,6 +16,10 @@ Many home printer owners are frustrated by the soaring costs of brand-name ink c
 
 A printer ink refill kit is a set of tools and ink bottles designed to refill your existing ink cartridges rather than buying new brand-name ones. Typically, these kits include refill inks (often in separate colors), syringes or refill bottles, gloves, and sometimes instructions or cleaning tools. The idea is to extend the life of your current cartridges, saving you money per page without sacrificing print quality.
 
+
+
+> **See also:** [Economic Benefits of Using Refill Kits Over OEM Ink Cartridges](https://inkledger.org/articles/economic-benefits-of-using-refill-kits-over-oem-ink-cartridges/)
+
 ## How Printer Ink Refill Kits Work
 
 Most ink refill kits work the same way:  

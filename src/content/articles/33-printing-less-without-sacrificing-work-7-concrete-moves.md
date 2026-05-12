@@ -34,6 +34,10 @@ In draft mode, the printer uses less ink per page by lowering the number of ink 
 
 ---
 
+
+
+> **See also:** [Step-by-Step Guide to Refilling Your Own Printer Ink Cartridge](https://inkledger.org/articles/step-by-step-guide-to-refilling-your-own-printer-ink-cartridge/)
+
 ## 2. Opt for Print Preview and Proofreading on Screen
 
 Before pressing 'Print', thoroughly review your document on screen. Many minor errors can be caught and corrected digitally, avoiding multiple reprints.

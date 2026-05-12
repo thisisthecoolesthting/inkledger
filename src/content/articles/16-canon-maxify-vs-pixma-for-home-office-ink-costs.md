@@ -16,6 +16,10 @@ If you’re running a home office and looking at Canon’s printer lineup, you�
 
 This article breaks down the key differences impacting ink costs for Canon MAXIFY vs PIXMA printers tailored for home office use, helping you cut through the marketing hype and make an informed decision.
 
+
+
+> **See also:** [HP 61 vs HP 962 cost per page — which is actually cheaper per print](https://inkledger.org/articles/hp-61-vs-hp-962-cost-per-page-which-is-actually-cheaper-per-print/)
+
 ## What Are Canon MAXIFY and PIXMA?
 
 Canon offers multiple printer series designed for different types of users:

@@ -49,6 +49,10 @@ Modern implementations have become increasingly sophisticated. Consider these co
 
 Manufacturers achieve these margins through multiple control points: microchipped cartridges that report false empty warnings, firmware updates that disable third-party alternatives, and complex patent protections on cartridge designs. The [Brother TN-760 High-Yield Toner](https://www.amazon.com/dp/B093TCYF9T?tag=inkledger-20) demonstrates how laser technology breaks this cycle with its 5,000-page yield at $0.022/page, but inkjet manufacturers continue resisting such efficiency in their core profit centers.
 
+
+
+> **See also:** [Why Is Printer Ink So Expensive? Unmasking the Razor-and-Blade Model](https://inkledger.org/articles/why-is-printer-ink-so-expensive-razor-blade-model/)
+
 ## Why This Matters
 
 Beyond personal finance impacts, these practices create staggering environmental consequences. The EPA's estimated 375 million discarded cartridges annually represent enough plastic to circle the Earth three times if laid end-to-end. Most contain residual ink due to programmed early depletion warnings - our tear-down of the [HP 952XL Black](https://www.amazon.com/dp/B004QM8SLG?tag=inkledger-20) found 18% remaining usable ink when the printer declared it empty. This artificial obsolescence forces consumers into a perpetual repurchase cycle while generating unnecessary waste.
@@ -256,3 +260,17 @@ Skip the tank printer if you print fewer than 200 pages a year — the math does
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+## FAQ
+
+**Q: What is the razor-and-blade model, and how does it relate to printer ink?**  
+A: The razor-and-blade model involves selling a product (like printers) at a low cost while making profits on consumables (like ink). Printer manufacturers use this model to sell ink cartridges at high prices.
+
+**Q: Why is printer ink more expensive than fountain pen ink?**  
+A: Printer ink is formulated for complex printing technologies and sold in proprietary cartridges, while fountain pen ink is simpler and sold in refillable bottles, reducing costs.
+
+**Q: Can I use fountain pen ink in my printer to save money?**  
+A: No, fountain pen ink is not compatible with printers. It lacks the necessary properties for printing and could damage your printer.
+
+**Q: Are there alternatives to expensive printer ink cartridges?**  
+A: Yes, you can consider third-party ink cartridges, refillable ink systems, or switching to laser printers, which often have lower long-term costs.

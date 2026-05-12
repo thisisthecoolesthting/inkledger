@@ -49,6 +49,10 @@ Our testing methodology involved:
 
 The results shocked even our team - properly refilled cartridges using the [PrecisionFill Deluxe Kit](https://www.amazon.com/dp/B0CB75LML9?tag=inkledger-20) actually outperformed some OEM cartridges in page yield tests. Here's everything we learned about doing it right.
 
+
+
+> **See also:** [How to Refill Your Own Ink Cartridges: Save 60–90% vs. OEM](https://inkledger.org/articles/how-to-refill-your-own-ink-cartridges-guide/)
+
 ## Why This Matters
 
 Printer manufacturers bank on you buying their overpriced ink. HP's Instant Ink program locks you into subscriptions, while Epson chips track usage. Refilling breaks this cycle, but only if done correctly. A botched refill can:
@@ -219,3 +223,17 @@ Industry studies have measured 15–40% of cartridges' ink remaining when the pr
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+## FAQ  
+
+**Q: Can I refill any ink cartridge, or are some not designed for reuse?**  
+A: Most standard ink cartridges can be refilled, but some proprietary or sealed designs (like certain HP or Epson cartridges) are not meant for reuse. Always check for a refillable opening or consult the manufacturer’s guidelines.  
+
+**Q: What tools do I need to refill an ink cartridge?**  
+A: You’ll need a syringe with a blunt needle, distilled water (for cleaning), a lint-free cloth, and your chosen ink. A small funnel or pipette can also help for precise filling.  
+
+**Q: How do I prevent leaks after refilling a cartridge?**  
+A: Ensure the cartridge’s seal or plug is securely reinserted, and avoid overfilling. Let the cartridge sit upright on a paper towel for a few minutes to check for leaks before inserting it into your pen.  
+
+**Q: Is refilling cartridges cost-effective compared to buying new ones?**  
+A: Yes, refilling cartridges is significantly cheaper—a bottle of ink costs less per milliliter than pre-filled cartridges. However, cartridges may wear out after multiple refills, so monitor for cracks or seal degradation.

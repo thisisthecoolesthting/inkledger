@@ -22,6 +22,10 @@ HP 63 cartridges are widely used in popular HP DeskJet and ENVY printers. Refill
 
 The idea is straightforward: reduce waste and significantly cut your per-page printing cost by reusing the original cartridge shell while buying only the ink.
 
+
+
+> **See also:** [Cost Comparison of OEM Ink Cartridges Versus Refill Kits](https://inkledger.org/articles/cost-comparison-of-oem-ink-cartridges-versus-refill-kits/)
+
 ## How Do HP 63 Refill Kits Work?
 
 1. **Initial Cartridge Preparation:** If you have a new or previously used empty HP 63 cartridge, you may need to puncture a refill hole on its top or back surface. This isn’t officially supported by HP, so you must follow the refill kit instructions carefully.

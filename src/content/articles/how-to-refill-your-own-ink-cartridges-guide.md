@@ -151,6 +151,10 @@ Yes, refilling is generally safe when done correctly. Modern printers have safeg
 - Clean print heads monthly
 - Run a test page after refilling
 
+
+
+> **See also:** [How to Properly Refill Ink Cartridges: A Step-by-Step Guide](https://inkledger.org/articles/how-to-properly-refill-ink-cartridges-step-by-step-guide/)
+
 ## How many times can I refill a single cartridge?
 
 Most cartridges can be refilled 3–5 times before components wear out. Replace when:
@@ -277,3 +281,17 @@ Quality runs OEM > top-tier remanufactured > most compatibles > bargain compatib
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+## FAQ  
+
+**Q: Is refilling ink cartridges safe for my fountain pen?**  
+A: Yes, as long as you use compatible ink and clean the cartridge properly before refilling. Avoid using inks with particles (like shimmer inks) unless your pen is designed for them.  
+
+**Q: How much money can I save by refilling cartridges instead of buying new ones?**  
+A: Refilling can save you 60–90% compared to OEM cartridges, depending on the ink brand. A bottle of ink typically refills 15–20 cartridges for the cost of one new pack.  
+
+**Q: What tools do I need to refill an ink cartridge?**  
+A: You’ll need a blunt syringe, a compatible ink bottle, and a clean workspace. Some users also recommend a small funnel or paper towels for spills.  
+
+**Q: Can I reuse the same cartridge multiple times?**  
+A: Yes, most cartridges can be reused 5–10 times if handled carefully. However, the plastic may wear out over time, leading to leaks or poor fit.

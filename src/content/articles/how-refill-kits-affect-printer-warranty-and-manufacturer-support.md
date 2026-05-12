@@ -18,6 +18,10 @@ A refill kit typically includes bottles of ink, tools like syringes or refill fu
 
 Unlike compatible cartridges (third-party cartridges built to fit your model) or remanufactured cartridges (genuine cartridges refilled and resold), refill kits let you extend the life of your own OEM cartridge by injecting new ink into it.
 
+
+
+> **See also:** [15. Refill ink kits for HP 63 — results after 15 refills](https://inkledger.org/articles/15-refill-ink-kits-for-hp-63-results-after-15-refills/)
+
 ## How Refill Kits Affect Printer Warranties
 
 ### The Fine Print of Warranty Coverage

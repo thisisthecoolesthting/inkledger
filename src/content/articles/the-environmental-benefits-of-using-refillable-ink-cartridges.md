@@ -22,6 +22,10 @@ There are two common types:
 
 This article focuses primarily on refillable OEM-style cartridges as a balance of environmental benefit and user accessibility.
 
+
+
+> **See also:** [The Environmental Impact of Using Compatible Ink Cartridges](https://inkledger.org/articles/the-environmental-impact-of-using-compatible-ink-cartridges/)
+
 ## How Do Refillable Ink Cartridges Work?
 
 The principle is straightforward: after a cartridge runs dry, instead of tossing it into the trash, you refill the cartridge with ink. This process involves purchasing ink bottles (compatible with your printer) and either manually injecting ink into the cartridge reservoir or using a refill station.

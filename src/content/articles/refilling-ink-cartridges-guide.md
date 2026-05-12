@@ -45,6 +45,10 @@ This guide cuts through the marketing to show which refill methods actually deli
 
 We conducted a 6-month stress test with 12 different printers (including [HP OfficeJet Pro](https://www.amazon.com/dp/B08NQSHX3N?tag=inkledger-20), Epson EcoTank, and Canon Pixma models) to identify the most reliable refill solutions. Our test prints included everything from legal documents to high-resolution family photos, with each method evaluated for color accuracy, page yield, and long-term reliability. The results might surprise you—some $10 refill kits outperformed OEM cartridges in certain scenarios.
 
+
+
+> **See also:** [DIY Ink Refill: A Step-by-Step Guide to Saving Money](https://inkledger.org/articles/how-to-refill-ink-cartridges-at-home/)
+
 ## Why this matters
 
 The average household spends $120/year on inkjet cartridges—more if you print photos or school projects. OEM (original equipment manufacturer) cartridges like HP 61 or Canon PG-245 contain just 5-8ml of ink yet cost $25-$50. That's $3,000 per gallon, making even vintage Dom Perignon look cheap. Worse, printer firmware updates often block third-party inks. Our tests reveal which refill kits and [compatible cartridges](https://www.amazon.com/dp/B0DHV8SCLS?tag=inkledger-20) bypass these restrictions while maintaining print quality.
@@ -197,3 +201,17 @@ The XL is only the better deal when the per-page math works out — and roughly 
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+## FAQ  
+
+**Q: Can I use any ink with a DIY refill kit, or are some inks incompatible?**  
+A: Most fountain pen inks work with DIY refill kits, but avoid pigmented or waterproof inks unless your kit specifies compatibility, as they can clog pens. Always check the ink’s viscosity and formulation before refilling.  
+
+**Q: How much money can I save by refilling ink cartridges instead of buying new ones?**  
+A: Refilling cartridges can save you 50–70% compared to buying new ones, especially if you use bottled ink, which is significantly cheaper per milliliter than pre-filled cartridges.  
+
+**Q: What tools do I need for a successful DIY ink refill?**  
+A: At minimum, you’ll need a blunt syringe, a clean workspace, and bottled ink. Some kits also include cartridge adapters or cleaning tools to ensure a mess-free process.  
+
+**Q: How do I prevent leaks after refilling a cartridge?**  
+A: Ensure the cartridge’s seal is intact before refilling, and avoid overfilling. Let the ink settle for a few minutes before inserting it into the pen, and check for a snug fit.

@@ -18,6 +18,10 @@ Epson 202 cartridges are ink cartridges designed specifically for certain Epson 
 
 The defining characteristic of the Epson 202 lineup—especially relevant here—is how Epson prices these cartridges. Rather than a simple proportional pricing based on ink volume, Epson appears to set prices influenced by marketing strategy, splitting cartridges into parts and price points that impact the user's refill decisions.
 
+
+
+> **See also:** [Epson 202 cartridges: why two colors cost more than the full set](https://inkledger.org/articles/epson-202-cartridges-why-two-colors-cost-more-than-the-full-set/)
+
 ## Why Two Colors Can Cost More Than the Full Set
 
 At first glance, it seems illogical that purchasing two color cartridges individually would be more expensive than buying a full set of four. The issue boils down to how Epson structures pricing and product packaging combined with ink yield, competition, and chip mechanisms.

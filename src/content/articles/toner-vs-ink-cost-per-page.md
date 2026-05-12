@@ -197,6 +197,10 @@ If your annual ink spend is over $120 and you keep a printer for at least three 
 
 Skip the tank printer if you print fewer than 200 pages a year — the math doesn't justify the upfront cost.
 
+
+
+> **See also:** [Toner vs. Ink: A Cost-Per-Page Analysis for Home and Small Office](https://inkledger.org/articles/toner-vs-ink-cost-per-page-analysis/)
+
 ## What to watch for before you buy
 
 - **Yield numbers are tested under ISO standards** that assume continuous printing at 5% page coverage. Real-world coverage with photos, charts, or color-heavy documents can cut effective yield in half.
@@ -210,3 +214,17 @@ Skip the tank printer if you print fewer than 200 pages a year — the math does
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+## FAQ
+
+**Q: How did you calculate the cost per page for toner and ink?**  
+A: We divided the price of each cartridge by the number of pages it could print, based on standardized testing with a mix of text and graphics.
+
+**Q: Does the cost per page vary between inkjet and laser printers?**  
+A: Yes, laser printers using toner typically have a lower cost per page compared to inkjet printers using liquid ink, especially for high-volume printing.
+
+**Q: Are refillable ink systems more cost-effective than traditional cartridges?**  
+A: Refillable ink systems can significantly reduce the cost per page, but they require more maintenance and upfront investment compared to standard cartridges.
+
+**Q: How does paper quality affect the cost per page?**  
+A: Higher-quality paper can increase ink or toner usage, raising the cost per page, especially for documents with heavy ink coverage or detailed graphics.

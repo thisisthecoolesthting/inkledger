@@ -18,6 +18,10 @@ This guide digs into the details of printer ink cost per page, comparing OEM vs 
 
 ---
 
+
+
+> **See also:** [How to Extend Printer Ink Cartridge Life for Maximum Savings](https://inkledger.org/articles/how-to-extend-printer-ink-cartridge-life-for-maximum-savings/)
+
 ## What is Printer Ink Cost Per Page?
 
 **Cost Per Page (CPP)** is a practical metric that tells you how much you’re effectively spending in ink (and sometimes toner) for every single page printed. It factors in the price of the cartridge and the total page yield, giving you a direct economic perspective on your printing.

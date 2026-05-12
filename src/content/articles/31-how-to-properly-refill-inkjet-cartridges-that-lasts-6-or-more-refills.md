@@ -22,6 +22,10 @@ Brand-name cartridges tend to carry sky-high prices relative to the ink they con
 
 However, the key to success is learning how to refill properly to avoid leaks, clogs, and premature chip lockouts that can render cartridge refills useless.
 
+
+
+> **See also:** [10. Canon PG-245 refill kits ranked by color accuracy](https://inkledger.org/articles/10-canon-pg-245-refill-kits-ranked-by-color-accuracy/)
+
 ## What You Need to Get Started
 
 Before diving into the refilling process, gather the proper equipment and supplies:

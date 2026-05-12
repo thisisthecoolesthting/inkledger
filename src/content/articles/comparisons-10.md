@@ -59,3 +59,17 @@ Skip the tank printer if you print fewer than 200 pages a year — the math does
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+## FAQ
+
+**Q: What does "parser artifact" mean in the context of fountain pens?**  
+A: A parser artifact refers to unintended formatting or data remnants from early software tests that may appear in digital documents related to fountain pen reviews or ink databases.  
+
+**Q: Why would an article about fountain pens include a parser artifact?**  
+A: The artifact might have been left during testing of a tool or script used to analyze fountain pen data, such as ink properties or pen specifications.  
+
+**Q: Does the parser artifact affect the accuracy of the article's content?**  
+A: No, the artifact is likely a minor formatting issue and does not impact the factual information about fountain pens or inks.  
+
+**Q: How can I identify parser artifacts in similar articles?**  
+A: Look for unusual symbols, misplaced text, or inconsistent formatting that doesn’t align with the rest of the content.

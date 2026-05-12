@@ -22,6 +22,10 @@ Before diving into the differences, it helps to know what each type of cartridge
 
 Both provide a cost-saving alternative to brand-new OEM cartridges but follow very different manufacturing and refurbishment processes, which factor into their cost, quality, and reliability.
 
+
+
+> **See also:** [Understanding Ink Formulations: OEM vs Compatible Cartridge Chemistry](https://inkledger.org/articles/understanding-ink-formulations-oem-vs-compatible-cartridge-chemistry/)
+
 ## The 3 Differences That Matter
 
 When comparing compatible vs remanufactured cartridges, keep these critical differences in mind.

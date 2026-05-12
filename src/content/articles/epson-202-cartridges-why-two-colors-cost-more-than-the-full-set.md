@@ -16,6 +16,10 @@ updatedAt: 2026-05-12
 
 When shopping for printer ink, it’s easy to be caught off guard by pricing differences that don’t seem to add up. One particular example is Epson’s 202 cartridge series. You might notice that buying just two separate colors from this series occasionally costs more than purchasing a whole set of cartridges. Why does this happen? This article breaks down the practical reasons behind Epson 202 cartridges’ pricing structure so you can make informed decisions for your printing needs.
 
+
+
+> **See also:** [4. Epson 202 cartridges: why two colors cost more than the full set](https://inkledger.org/articles/4-epson-202-cartridges-why-two-colors-cost-more-than-the-full-set/)
+
 ## Understanding Epson 202 Cartridges
 
 The Epson 202 series is an ink cartridge lineup designed primarily for home and small office Epson printers. The set typically includes multiple colors—usually black, cyan, magenta, and yellow—that combine to produce a full spectrum of colors in printed documents and photos.
@@ -125,3 +129,17 @@ Quality runs OEM > top-tier remanufactured > most compatibles > bargain compatib
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+## FAQ  
+
+**Q: Why do individual Epson 202 cartridges in two-color packs cost more than the full set?**  
+A: Epson prices two-color packs higher per cartridge to incentivize buying the full set, which includes all colors. This strategy ensures higher overall sales while offering a perceived discount for bulk purchases.  
+
+**Q: Are there any alternatives to buying expensive two-color packs?**  
+A: Yes, purchasing the full set upfront is more cost-effective. Alternatively, some third-party or refillable ink options may offer savings, though they may not be OEM-approved.  
+
+**Q: Does Epson use this pricing strategy for other cartridge models?**  
+A: Yes, Epson often applies similar pricing tactics across its cartridge lines, including the 102 and 502 series, to encourage bulk purchases.  
+
+**Q: Will using third-party cartridges void my printer’s warranty?**  
+A: It depends on Epson’s policy, but using non-OEM cartridges can sometimes void warranties. Always check your printer’s terms before opting for third-party inks.

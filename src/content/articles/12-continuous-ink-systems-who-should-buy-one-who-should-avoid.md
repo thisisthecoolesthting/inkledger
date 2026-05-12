@@ -28,6 +28,10 @@ Key characteristics of CIS:
 
 These systems can be factory-installed on some high-end printers under different names, but for most consumer printers, CIS setups are third-party aftermarket kits.
 
+
+
+> **See also:** [Economic Benefits of Using Refill Kits Over OEM Ink Cartridges](https://inkledger.org/articles/economic-benefits-of-using-refill-kits-over-oem-ink-cartridges/)
+
 ## How Continuous Ink Systems Work
 
 The basic principle behind CIS is to reduce interruption and cost by increasing ink capacity outside the cartridge:

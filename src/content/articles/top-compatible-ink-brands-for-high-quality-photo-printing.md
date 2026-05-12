@@ -26,6 +26,10 @@ For photo printing, the stakes are higher than everyday documents. Photo inks mu
 
 ---
 
+
+
+> **See also:** [20. Best compatible cartridges for Brother MFC printers](https://inkledger.org/articles/20-best-compatible-cartridges-for-brother-mfc-printers/)
+
 ## How Compatible Ink Works for Photo Printing
 
 Compatible cartridges usually contain either dye-based or pigment-based inks. Dye inks offer vibrant colors and smooth gradations but may lack longevity and water resistance, while pigment inks tend to provide sharper text, higher durability, and fade resistance — important for photo archiving.

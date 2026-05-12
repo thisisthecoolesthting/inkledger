@@ -20,6 +20,10 @@ Home printer owners often find themselves frustrated by the high ongoing cost of
 
 Both technologies have brand-name OEM (original equipment manufacturer) cartridges, along with often cheaper third-party or compatible alternatives—but each handles cartridge capacity, chip lockouts, and reliability differently.
 
+
+
+> **See also:** [26. Monochrome laser vs inkjet: real-world cost comparison](https://inkledger.org/articles/26-monochrome-laser-vs-inkjet-real-world-cost-comparison/)
+
 ## How It Works: Cost-Per-Page Breakdown
 
 The **cost per page (CPP)** is the cost of consumables (ink or toner) divided by the number of pages produced, usually expressed in cents per page.

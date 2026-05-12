@@ -18,6 +18,10 @@ Refill kits are DIY packages that include ink bottles, syringes, gloves, and ins
 
 Refill kits come in different types depending on your printer technology—some are for inkjet printer cartridges (either pigment or dye ink), while others cater to laser toner. This article focuses on inkjet refill kits because they offer the largest cost savings and have particular challenges related to ink chemistry and printer chip technology.
 
+
+
+> **See also:** [25. Why the Brother HL-1210W might be the cheapest printer to own](https://inkledger.org/articles/25-why-the-brother-hl-1210w-might-be-the-cheapest-printer-to-own/)
+
 ## How Refill Kits Deliver Economic Benefits
 
 ### 1. Dramatic Cost-per-Page Reduction

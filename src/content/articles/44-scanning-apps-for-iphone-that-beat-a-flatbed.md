@@ -16,6 +16,10 @@ If you’re tired of lugging out your flatbed scanner every time you need to dig
 
 ---
 
+
+
+> **See also:** [Inkledger Tips for Extending Printer Cartridge Lifespan](https://inkledger.org/articles/inkledger-tips-for-extending-printer-cartridge-lifespan/)
+
 ## What iPhone Scanning Apps Are and How They Work
 
 ### What They Are

@@ -22,6 +22,10 @@ Ink cartridge refilling involves adding new ink to an empty or partially used ca
 
 Refilling aims to reuse the cartridge's physical shell (the plastic container, chip, and print head nozzles) while restoring ink levels.
 
+
+
+> **See also:** [Best Practices for Installing Compatible Toner Cartridges Safely](https://inkledger.org/articles/best-practices-for-installing-compatible-toner-cartridges-safely/)
+
 ## How Cartridge Refilling Works
 
 1. **Removing the cartridge safely:** Remove the cartridge from the printer carefully to avoid damaging contacts or the print head.

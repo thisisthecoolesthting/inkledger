@@ -220,6 +220,10 @@ Most cartridges include a smart chip that estimates ink level by counting drops 
 Industry studies have measured 15–40% of cartridges' ink remaining when the printer flags them empty. On many HP and Canon models, you can override the warning and continue printing until output quality actually drops.
 
 
+
+
+> **See also:** [Why Is Printer Ink So Expensive? Unmasking the Razor-and-Blade Model](https://inkledger.org/articles/why-is-printer-ink-so-expensive-razor-blade-model/)
+
 ## What to watch for before you buy
 
 - **Yield numbers are tested under ISO standards** that assume continuous printing at 5% page coverage. Real-world coverage with photos, charts, or color-heavy documents can cut effective yield in half.
@@ -235,3 +239,17 @@ Industry studies have measured 15–40% of cartridges' ink remaining when the pr
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
 
 For more on the ink cartridge scam: how to avoid overpaying for printer ink, see [our coverage at refillwatch.org](https://refillwatch.org/articles/ink-cartridge-scam-how-to-avoid-overpaying/).
+
+## FAQ  
+
+**Q: Why is printer ink more expensive than premium fountain pen ink?**  
+A: Printer ink is priced high due to the razor-and-blade business model, where printers are sold cheaply, but manufacturers profit from proprietary ink cartridges. Fountain pen ink, by contrast, is sold by multiple brands in standardized bottles, fostering competition and lower prices.  
+
+**Q: Can I use third-party ink cartridges to save money?**  
+A: While third-party cartridges are cheaper, some printer manufacturers use firmware updates or DRM to block them, forcing users to buy branded ink. Fountain pens, however, are designed to work with a wide range of inks, giving users more flexibility.  
+
+**Q: Why do printer ink cartridges have such a small capacity?**  
+A: Smaller cartridges ensure frequent replacements, driving long-term revenue for manufacturers. In contrast, fountain pen ink bottles typically offer better value, with larger volumes lasting much longer per dollar spent.  
+
+**Q: Are there eco-friendly alternatives to expensive printer ink?**  
+A: Refillable ink tank systems or continuous ink supply systems (CISS) can reduce costs and waste, but they’re less common due to printer companies' profit strategies. Fountain pens, with their refillable designs, are inherently more sustainable and cost-effective over time.

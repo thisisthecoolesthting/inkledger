@@ -25,6 +25,10 @@ Original Equipment Manufacturer (OEM) cartridges often cost more than the printe
 
 Balancing these factors gives you a printer that’s affordable initially and inexpensive to maintain.
 
+
+
+> **See also:** [20. Best compatible cartridges for Brother MFC printers](https://inkledger.org/articles/20-best-compatible-cartridges-for-brother-mfc-printers/)
+
 ## Top Budget Printers Compatible with Third-Party Ink (Under $150)
 
 Based on the criteria above, here are some printers that align well with third-party cartridge use. Prices and cartridge yields are approximate and may vary by seller and region.

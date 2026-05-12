@@ -26,6 +26,10 @@ Ink smudging occurs when printed ink stays wet or loosely fixed on paper, allowi
 
 The top consequence is smudging, where fresh prints are vulnerable to blotching from touch or stacking. This creates wasted pages and lowered productivity. Yet not all compatible cartridges cause smudges, and some user steps can mitigate or eliminate this issue.
 
+
+
+> **See also:** [The Environmental Impact of Using Compatible Ink Cartridges](https://inkledger.org/articles/the-environmental-impact-of-using-compatible-ink-cartridges/)
+
 ## How Compatible Ink Chemistry Affects Smudging
 
 Compatible ink makers must balance pigment concentration with drying agents and solvents for quick absorption and consistent coverage. Since exact OEM formulas are proprietary, third-party inks vary widely:

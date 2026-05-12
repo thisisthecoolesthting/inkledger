@@ -26,6 +26,10 @@ Low-volume printing households have specific needs:
 
 Laser printers use toner rather than ink and typically have a higher initial cost compared to inkjets, but their cost per page is much lower, and toner tends to last longer. However, infrequent printing might interfere with some printer models’ reliability or cause cartridge issues that don't affect higher-volume users.
 
+
+
+> **See also:** [20. Best compatible cartridges for Brother MFC printers](https://inkledger.org/articles/20-best-compatible-cartridges-for-brother-mfc-printers/)
+
 ## How to Evaluate Budget Laser Printers for Less Than 50 Pages Per Month
 
 When choosing a budget laser printer for very light home use, you want to weigh several critical factors:

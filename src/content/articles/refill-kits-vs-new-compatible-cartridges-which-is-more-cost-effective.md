@@ -123,3 +123,5 @@ Common Pitfalls to Watch Out For
 ---
 
 Choosing between refill kits and new compatible cartridges boils down to balancing cost savings against convenience, reliability, and print quality. For those prioritizing absolute lowest cost and hands-on control, refill kits offer the best savings if you manage their limitations carefully. For most users seeking hassle-free savings close to OEM print quality and yield, reliable compatible cartridges provide a strong middle ground. With an informed approach, you can keep your printing costs manageable without compromising your printer’s performance.
+
+> **See also:** [Refill Kits vs New Cartridges: Which Option Saves More Money?](https://inkledger.org/articles/refill-kits-vs-new-cartridges-which-option-saves-more-money/)

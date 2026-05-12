@@ -18,6 +18,10 @@ This article breaks down the key elements that affect CPP for HP 61 versus HP 96
 
 ---
 
+
+
+> **See also:** [HP 61 vs HP 962 cost per page — which is actually cheaper per print](https://inkledger.org/articles/hp-61-vs-hp-962-cost-per-page-which-is-actually-cheaper-per-print/)
+
 ## What Are HP 61 and HP 962 Cartridges?
 
 Both HP 61 and HP 962 cartridges are designed for HP inkjet printers, but they target different printer series and printing volumes.

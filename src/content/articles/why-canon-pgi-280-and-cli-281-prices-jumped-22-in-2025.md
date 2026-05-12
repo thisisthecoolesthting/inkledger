@@ -18,6 +18,10 @@ In early 2025, many consumers and small businesses noticed a surprising and stee
 
 ---
 
+
+
+> **See also:** [2. Why Canon PGI-280 and CLI-281 prices jumped 22% in 2025](https://inkledger.org/articles/2-why-canon-pgi-280-and-cli-281-prices-jumped-22-in-2025/)
+
 ## Rising Raw Material Costs
 
 Ink cartridges are more complex than just ink in a plastic shell. They contain various components, including pigments, solvents, microchips, and intricate nozzles designed for precision printing. In recent years, the raw materials and chemicals required for manufacturing pigment-based inks (used in PGI-280 for black) and dye-based inks (used in CLI-281 for colors) have become more expensive.
@@ -135,3 +139,17 @@ The XL is only the better deal when the per-page math works out — and roughly 
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+## FAQ
+
+**Q: Why did the prices of Canon PGI-280 and CLI-281 ink cartridges increase by 22% in 2025?**  
+A: The price hike was primarily due to global supply chain disruptions and increased costs of raw materials used in ink production.
+
+**Q: Are there alternative ink cartridges compatible with Canon printers that didn’t see a price increase?**  
+A: Yes, third-party ink cartridges from brands like LD and InkOwl remain affordable, though they may vary in quality compared to Canon’s original cartridges.
+
+**Q: Will Canon lower the prices once supply chain issues are resolved?**  
+A: While Canon has not confirmed a price reduction, industry analysts suggest prices may stabilize if raw material costs decrease and supply chains improve.
+
+**Q: How can I minimize the impact of the price increase on my printing costs?**  
+A: Consider using high-yield cartridges, switching to compatible inks, or exploring refillable ink systems to reduce long-term expenses.

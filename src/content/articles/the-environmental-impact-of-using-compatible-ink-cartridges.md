@@ -18,6 +18,10 @@ Compatible ink cartridges are third-party manufactured printer cartridges design
 
 Compatible cartridges often sell at a significantly lower price than brand-name cartridges, making them attractive for cost-conscious printer users. They typically come in new plastic housings with new ink formulas, and sometimes include the chip technology needed to communicate with the printer.
 
+
+
+> **See also:** [Cost Comparison: OEM Ink vs Compatible Ink Over One Year](https://inkledger.org/articles/cost-comparison-oem-ink-vs-compatible-ink-over-one-year/)
+
 ## How Compatible Cartridges Impact the Environment
 
 The environmental effects of compatible cartridges depend on multiple factors including manufacturing methods, usage, packaging, and end-of-life handling. Here are some ways compatible cartridges contribute positively and negatively to environmental impact compared to OEM cartridges:

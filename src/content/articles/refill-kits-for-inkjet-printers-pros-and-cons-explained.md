@@ -21,6 +21,10 @@ Inkjet refill kits typically include bottles of ink, syringes or needles for fil
 
 The process involves injecting ink directly into the existing cartridge’s reservoir. For cartridges that contain chips or electronic counters, some kits provide options to reset these chips, which is necessary for the printer to recognize the cartridge as “full” and not flag it as empty or incompatible.
 
+
+
+> **See also:** [How Compatible Ink Cartridges Can Save Money Without Losing Quality](https://inkledger.org/articles/how-compatible-ink-cartridges-can-save-money-without-losing-quality/)
+
 ## How Do Inkjet Refill Kits Work?
 
 Most inkjet cartridges contain ink reservoirs sealed with small openings or plugs designed for easy refill or replacement. The key steps in using a refill kit are:

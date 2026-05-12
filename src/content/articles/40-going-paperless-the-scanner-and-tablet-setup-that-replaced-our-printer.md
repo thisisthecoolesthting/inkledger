@@ -21,6 +21,10 @@ Going paperless in most home or small office environments means eliminating the 
 
 Replacing a printer with these two tools removes the dependency on costly cartridges and fragile paper feeding, while offering greater flexibility in document management.
 
+
+
+> **See also:** [25. Why the Brother HL-1210W might be the cheapest printer to own](https://inkledger.org/articles/25-why-the-brother-hl-1210w-might-be-the-cheapest-printer-to-own/)
+
 ## How the Scanner and Tablet Setup Works in Practice
 
 The process generally looks like this:

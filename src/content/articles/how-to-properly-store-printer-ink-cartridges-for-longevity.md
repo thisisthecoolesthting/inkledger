@@ -16,6 +16,10 @@ Printer ink cartridges are a pricey consumable, and many printer owners face the
 
 Ink cartridges contain liquid or gel ink that is susceptible to drying out, color fading, and clogging over time if not stored correctly. Exposure to air, light, temperature changes, and moisture can accelerate degradation. Many printers also use ARC chips or smart locks that can prevent refilled or expired cartridges from functioning, so maintaining cartridge health is crucial. Proper storage minimizes waste, avoids early failure, and protects the printer itself from damage caused by poor ink quality or dried clogs.
 
+
+
+> **See also:** [37. Storing unused cartridges: the vacuum-sealing trick](https://inkledger.org/articles/37-storing-unused-cartridges-the-vacuum-sealing-trick/)
+
 ## How Cartridge Ink Degrades
 
 - **Evaporation**: Ink solvent evaporates through the cartridge casing or nozzle opening if left open or improperly sealed.

@@ -26,6 +26,10 @@ Key factors include:
 
 - **User Community and Support:** Models popular among third-party sellers and user bases often have more compatible ink options and workarounds for firmware updates.
 
+
+
+> **See also:** [20. Best compatible cartridges for Brother MFC printers](https://inkledger.org/articles/20-best-compatible-cartridges-for-brother-mfc-printers/)
+
 ## Top 5 Inkjet Printers for Compatible Ink Reliability (Ranked Review)
 
 Below is a detailed look at some of the most reliable inkjet printers when paired with compatible or refillable inks. Rankings factor in chip lockout history, printhead amenability, yield, and cost-per-page potential.

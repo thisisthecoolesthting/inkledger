@@ -296,6 +296,10 @@ If your annual ink spend is over $120 and you keep a printer for at least three 
 
 Skip the tank printer if you print fewer than 200 pages a year — the math doesn't justify the upfront cost.
 
+
+
+> **See also:** [Why Is Printer Ink So Expensive? Uncovering the Razor-and-Blade Truth](https://inkledger.org/articles/why-is-printer-ink-so-expensive-uncovering-the-truth/)
+
 ## What to watch for before you buy
 
 - **Yield numbers are tested under ISO standards** that assume continuous printing at 5% page coverage. Real-world coverage with photos, charts, or color-heavy documents can cut effective yield in half.
@@ -311,3 +315,17 @@ Skip the tank printer if you print fewer than 200 pages a year — the math does
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
 
 For more on the ink cartridge scam: how to avoid overpaying for printer ink, see [our coverage at refillwatch.org](https://refillwatch.org/articles/ink-cartridge-scam-how-to-avoid-overpaying/).
+
+## FAQ
+
+**Q: What is the razor-and-blade model mentioned in the article?**  
+A: The razor-and-blade model is a pricing strategy where companies sell a product (like printers) at a low cost and make profits from recurring sales of complementary items (like ink cartridges).
+
+**Q: Why is printer ink more expensive than fountain pen ink?**  
+A: Printer ink is priced higher due to proprietary technology, manufacturing costs, and the razor-and-blade model, while fountain pen ink is simpler to produce and sold independently.
+
+**Q: Can I use third-party ink to save money?**  
+A: Yes, third-party ink is cheaper, but it may void warranties, damage printers, or produce lower-quality prints compared to branded ink.
+
+**Q: How does the razor-and-blade model affect consumers?**  
+A: It locks consumers into buying expensive branded ink cartridges, making long-term printing costs significantly higher than the initial printer purchase.

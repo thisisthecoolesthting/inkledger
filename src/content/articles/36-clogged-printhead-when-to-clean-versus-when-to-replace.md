@@ -18,6 +18,10 @@ The printhead is the component in an inkjet printer responsible for transferring
 
 A clogged printhead doesn't just affect print quality; it can also cause ink wastage, cartridge errors, and premature wear on the printer.
 
+
+
+> **See also:** [19. HP ink subscription vs buying cartridges: the 24-month math](https://inkledger.org/articles/19-hp-ink-subscription-vs-buying-cartridges-the-24-month-math/)
+
 ## How Does a Printhead Get Clogged?
 
 Printhead clogging usually occurs for several reasons:

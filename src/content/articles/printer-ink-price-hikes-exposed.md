@@ -45,6 +45,10 @@ The actual production cost for a typical black ink cartridge runs $1.20–$1.80,
 
 The psychological pricing strategies are equally insidious. Manufacturers deliberately price color cartridges higher than black, knowing most users will buy both. They also manipulate package sizes - offering "XL" cartridges that contain only 20% more ink but cost 50% more. Our testing found the [HP 962XL](https://www.amazon.com/dp/B0DHV8SCLS?tag=inkledger-20) actually delivers just 15% more pages than standard despite its premium price.
 
+
+
+> **See also:** [Printer Ink Price Comparison Guide 2024: Stop Overpaying!](https://inkledger.org/articles/printer-ink-price-comparison-guide-2024/)
+
 ## Why This Matters
 
 Printer ink represents one of the most extreme examples of captive pricing in consumer tech. At $2,700 per gallon, ink costs more than vintage Dom Perignon. But unlike champagne, you can't opt out - schools require printed assignments, offices demand physical forms, and grandparents still want photo prints. Our data shows:
@@ -215,3 +219,17 @@ Quality runs OEM > top-tier remanufactured > most compatibles > bargain compatib
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+## FAQ  
+
+**Q: Why do printer manufacturers sell printers cheaply but charge high prices for ink?**  
+A: This is the "razor-and-blade" business model—sell the printer (razor) at a loss or low margin, then profit from recurring ink (blades) sales, which are often proprietary and overpriced.  
+
+**Q: How do printer companies prevent third-party or refillable ink options?**  
+A: Manufacturers use DRM-like chips in cartridges, void warranties for non-OEM ink, and design printers to reject refilled or third-party cartridges, forcing consumers to buy their branded ink.  
+
+**Q: Are fountain pen inks a cheaper alternative to printer ink?**  
+A: While fountain pen inks are generally more affordable per milliliter, they’re not interchangeable—printer ink is chemically optimized for printers, and using the wrong type can damage equipment.  
+
+**Q: Can I legally refill or reuse printer cartridges to save money?**  
+A: Yes, but some manufacturers discourage it through technical restrictions or voided warranties. Third-party refill services exist, but quality and compatibility risks remain.

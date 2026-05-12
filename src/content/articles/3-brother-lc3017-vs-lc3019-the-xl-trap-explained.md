@@ -30,6 +30,10 @@ The key questions:
 
 Let’s dig into all this.
 
+
+
+> **See also:** [7. Canon''s "low yield" starter cartridges: what you actually get](https://inkledger.org/articles/7-canon-s-low-yield-starter-cartridges-what-you-actually-get/)
+
 ## How the XL Trap Works: Yield, Cost, and Chip Lockouts
 
 ### 1. Cartridge Yield — The Print Volume You Actually Get

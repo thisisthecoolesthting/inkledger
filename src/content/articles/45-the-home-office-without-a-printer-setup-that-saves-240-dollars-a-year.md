@@ -32,6 +32,10 @@ By sidestepping the traditional printer ownership model, this setup dramatically
 
 ---
 
+
+
+> **See also:** [26. Monochrome laser vs inkjet: real-world cost comparison](https://inkledger.org/articles/26-monochrome-laser-vs-inkjet-real-world-cost-comparison/)
+
 ## How It Works: Replacing the Printer Ecosystem
 
 ### Step 1: Digitize Your Workflow

@@ -24,6 +24,10 @@ TCO includes all expenses related to owning and operating a printer beyond its p
 
 For inkjet and laser printers used in small offices or home environments, consumables usually dominate TCO, so focusing on cartridge yield and cost per page gives a clearer view of what you’ll actually pay.
 
+
+
+> **See also:** [Cost Per Page Savings Using Compatible Ink vs OEM Cartridges](https://inkledger.org/articles/cost-per-page-savings-using-compatible-ink-vs-oem-cartridges/)
+
 ## Printer Overview: HP OfficeJet Pro vs Brother MFC-L2710DW
 
 | Feature                         | HP OfficeJet Pro                  | Brother MFC-L2710DW              |

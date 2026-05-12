@@ -18,6 +18,10 @@ Many printer owners are frustrated by the steep cost of brand-name (OEM) ink car
 
 **Refill Kits** are third-party products that enable users to refill an empty OEM cartridge with fresh ink or toner. These kits typically include ink bottles or syringes, gloves, syringes or tools for injection, and instructions. Instead of buying a pre-filled OEM cartridge, you reutilize the empty cartridge and add ink yourself—a method that promises reduced cost-per-page by sidestepping retail cartridge pricing.
 
+
+
+> **See also:** [Cost Comparison: OEM Ink vs Compatible Ink Over One Year](https://inkledger.org/articles/cost-comparison-oem-ink-vs-compatible-ink-over-one-year/)
+
 ## How Does Cost Per Page Math Work?
 
 The cost-per-page (CPP) is the most useful metric for comparing OEM and refill solutions. CPP is calculated by dividing the total price of ink and cartridge-related supplies by the number of pages the ink will reliably print based on the yield.

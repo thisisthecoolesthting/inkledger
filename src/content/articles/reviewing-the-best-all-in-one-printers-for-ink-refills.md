@@ -18,6 +18,10 @@ All-in-one printers combine printing, scanning, copying, and sometimes faxing in
 
 Printers that are refill-friendly allow you to use third-party inks or refill kits, cutting your cost per page (CPP) dramatically. But not all all-in-one models are designed with refilling in mind; some actively discourage it through sealed cartridges or complicated refilling mechanisms. When choosing a refill-compatible all-in-one printer, look for features like easily removable cartridges with visible refill ports, chip resettable cartridges, and proven compatibility with reputable third-party ink suppliers.
 
+
+
+> **See also:** [Cost Comparison: OEM Ink vs Compatible Ink Over One Year](https://inkledger.org/articles/cost-comparison-oem-ink-vs-compatible-ink-over-one-year/)
+
 ## What to Look for in an All-in-One Printer for Ink Refills
 
 Choosing the best all-in-one printer for refillable ink involves evaluating several factors:

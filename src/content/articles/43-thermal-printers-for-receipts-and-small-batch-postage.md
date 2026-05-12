@@ -23,6 +23,10 @@ There are two main types of thermal printers:
 
 For receipts and small postage quantities, direct thermal printers dominate due to cheaper consumables and simpler maintenance.
 
+
+
+> **See also:** [Reviewing the Best All-in-One Printers for Ink Refills](https://inkledger.org/articles/reviewing-the-best-all-in-one-printers-for-ink-refills/)
+
 ## How Do Thermal Printers Work?
 
 Unlike traditional printers that use physical ink, thermal printers rely on specialized thermal paper. The printhead contains tiny heating elements arranged across the width of the paper path. As the paper passes over these elements, they selectively heat, triggering a chemical reaction in the paper’s coating that creates dark marks.

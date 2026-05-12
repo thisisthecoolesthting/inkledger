@@ -16,6 +16,10 @@ If you've ever been frustrated by the high cost of brand-name printer cartridges
 
 ---
 
+
+
+> **See also:** [Cost Comparison: OEM Ink vs Compatible Ink Over One Year](https://inkledger.org/articles/cost-comparison-oem-ink-vs-compatible-ink-over-one-year/)
+
 ## What Is Ink Formulation?
 
 Ink formulation is the chemical recipe that defines the composition of printer ink, including pigments or dyes, solvents, binders, surfactants, and additives. The formulations are developed to work optimally with a printer’s printhead technology—whether inkjet or laser—and to meet various goals:

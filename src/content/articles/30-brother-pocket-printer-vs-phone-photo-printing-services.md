@@ -24,6 +24,10 @@ Key characteristics:
 - Uses dedicated cartridges or film.
 - Compatible mostly with Android and iOS devices.
 
+
+
+> **See also:** [34. How to print from a phone without Instant Ink](https://inkledger.org/articles/34-how-to-print-from-a-phone-without-instant-ink/)
+
 ## How Phone Photo Printing Services Work
 
 Phone photo printing services involve uploading photos from your smartphone to an online platform or app, selecting print sizes and quantities, and then having the prints shipped to your home or a local pickup location. These services often provide various print formats (standard prints, posters, photobooks) and finishes (matte, glossy), and sometimes include editing tools.

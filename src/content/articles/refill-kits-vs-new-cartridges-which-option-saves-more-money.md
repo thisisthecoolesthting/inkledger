@@ -30,6 +30,10 @@ New cartridges come ready to install and may be either:
 
 New cartridges guarantee fresh printer parts, integrated chips, and the expected ink yield out of the box.
 
+
+
+> **See also:** [Refill Kits vs New Compatible Cartridges: Which Is More Cost Effective](https://inkledger.org/articles/refill-kits-vs-new-compatible-cartridges-which-is-more-cost-effective/)
+
 ## How They Work: Cost and Yield Implications
 
 ### Cost Breakdown

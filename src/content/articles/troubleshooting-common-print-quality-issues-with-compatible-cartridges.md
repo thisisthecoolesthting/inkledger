@@ -160,3 +160,5 @@ By educating yourself on the technical causes behind common print issues and usi
 ---
 
 By understanding these print quality problem causes and fixes when using compatible cartridges, you can save money without sacrificing too much performance or reliability. With trial, error, and the right vendor, compatibles can be a practical solution for budget-conscious printer owners.
+
+> **See also:** [Troubleshooting Printer Toner Smudging and Streaking Problems](https://inkledger.org/articles/troubleshooting-printer-toner-smudging-and-streaking-problems/)

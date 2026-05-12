@@ -16,6 +16,10 @@ HP printer owners often face frustration due to the high cost of brand-name ink 
 
 Compatible cartridges are third-party ink or toner cartridges designed specifically to work with a certain brand’s printers—in this case, HP printers—but manufactured by independent companies rather than HP itself. Unlike refilled OEM cartridges that reuse the original shell, compatible cartridges are brand-new remanufactured or made-from-scratch products that fit and function similarly to HP’s.
 
+
+
+> **See also:** [20. Best compatible cartridges for Brother MFC printers](https://inkledger.org/articles/20-best-compatible-cartridges-for-brother-mfc-printers/)
+
 ## How Do Compatible Cartridges Work with HP Printers?
 
 Compatible cartridge manufacturers reverse-engineer the HP cartridge’s physical dimensions, chip electronics, and ink or toner formulation to replicate the OEM experience as closely as possible. Modern HP printers incorporate chip technology that controls cartridge recognition, ink level reporting, and sometimes print quality features. Third-party manufacturers implement "chip reset" or equivalent chips to bypass OEM restrictions, but this can result in varying levels of success depending on how well the chip mimicry is achieved.

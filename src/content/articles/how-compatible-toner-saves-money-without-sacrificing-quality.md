@@ -18,6 +18,10 @@ A compatible toner cartridge is a third-party manufactured cartridge designed to
 
 Compatible cartridges differ from remanufactured or refilled cartridges. Remanufactured cartridges are recycled OEM cartridges that are cleaned, refilled, and tested. Compatible cartridges are brand-new units built from scratch but meant as alternatives to OEM.
 
+
+
+> **See also:** [Comparing Toner Quality Between OEM and Compatible Brands](https://inkledger.org/articles/comparing-toner-quality-between-oem-and-compatible-brands/)
+
 ## How Compatible Toner Can Save You Money
 
 ### 1. Lower Upfront Cost

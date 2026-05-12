@@ -125,3 +125,5 @@ Affordable ink refill kits represent one of the most cost-effective solutions fo
 
 **Q: Will refilling ink affect print quality?**  
 **A:** It can. Quality varies by ink and cartridge condition. Using recommended inks and cleaning heads help maintain good results.
+
+> **See also:** [Cost Comparison: OEM Ink vs Compatible Ink Over One Year](https://inkledger.org/articles/cost-comparison-oem-ink-vs-compatible-ink-over-one-year/)

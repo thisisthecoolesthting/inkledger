@@ -48,6 +48,10 @@ Our research team conducted a longitudinal study with 42 participants across dif
 
 The printer industry thrives on what economists call the "razor and blades" model - sell the hardware cheap, then profit from the consumables. Our testing reveals that some printers can cost more in ink over two years than the machine itself. This guide will walk you through the math, comparing everything from the [Brother HL-L2350DW](https://www.amazon.com/dp/B00MFG59S8?tag=inkledger-20) laser printer to the [Epson EcoTank ET-2800](https://www.amazon.com/dp/B08HSNHJRH?tag=inkledger-20) inkjet, with concrete numbers on when each technology makes financial sense.
 
+
+
+> **See also:** [Canon PG-245 Cheaper Alternatives: Compatible Cartridges vs. Refill Kits vs.](https://inkledger.org/articles/canon-pg-245-cheaper-alternative/)
+
 ## Why this matters
 
 Printer manufacturers don't make money on hardware - they make it on ink and toner. Our data shows that the average inkjet user spends $150-$300 annually on cartridges, while laser users typically spend $100-$200 on toner. But these are just averages; the real cost depends on your specific printing habits.
@@ -273,3 +277,17 @@ Industry studies have measured 15–40% of cartridges' ink remaining when the pr
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+## FAQ
+
+**Q: How do I calculate the true cost per page for laser and inkjet printers?**  
+A: Divide the cost of the toner or ink cartridge by the number of pages it can print, then add the cost of paper and any maintenance expenses.
+
+**Q: Are laser printers always cheaper per page than inkjet printers?**  
+A: Not always; laser printers are typically cheaper for text-heavy documents, but inkjets can be more cost-effective for high-quality photo printing.
+
+**Q: Does paper quality affect the cost per page?**  
+A: Yes, higher-quality paper increases the cost per page, especially for inkjet printers, which may use more ink on premium paper.
+
+**Q: Can I reduce the cost per page by using third-party ink or toner?**  
+A: Yes, third-party options are often cheaper, but they may affect print quality and void your printer’s warranty.

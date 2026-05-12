@@ -18,6 +18,10 @@ A **monochrome laser printer** is a type of printer that uses a laser beam to cr
 
 An **inkjet printer**, on the other hand, sprays tiny droplets of liquid ink directly onto paper. Inkjet printers typically produce quality color images and text but tend to have slower print speeds and may require frequent ink cartridge replacements.
 
+
+
+> **See also:** [21. Inkjet vs laser for home use — a cost-per-page lens](https://inkledger.org/articles/21-inkjet-vs-laser-for-home-use-a-cost-per-page-lens/)
+
 ## How Each Printer Technology Impacts Cost
 
 The cost of owning and operating a printer involves two main components:

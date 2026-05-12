@@ -16,6 +16,10 @@ If you own a printer, you’ve likely faced sticker shock when replacing ink car
 
 ---
 
+
+
+> **See also:** [Cost Comparison of OEM Ink Cartridges Versus Refill Kits](https://inkledger.org/articles/cost-comparison-of-oem-ink-cartridges-versus-refill-kits/)
+
 ## What Is Cost Per Page (CPP) and Why It Matters
 
 Cost per page is a simple but crucial metric: how much you pay in ink to print a single page. It includes the cartridge purchase price divided by the cartridge’s page yield (the number of pages the cartridge can print before running out of ink). When evaluating cartridges, CPP provides a practical comparison point beyond mere sticker price.

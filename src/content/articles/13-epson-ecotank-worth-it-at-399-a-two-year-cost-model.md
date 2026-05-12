@@ -14,6 +14,10 @@ subtopic: printers
 
 If you're fed up with the high cost of ink cartridges and are considering switching to an Epson EcoTank printer priced around $399, you’re asking the right question: "Will this printer actually save me money over time, or is it just a gimmick cloaked in refillable tanks?" Printer owners burned by OEM cartridge pricing deserve straightforward cost analysis—not hype. This article breaks down the real economics behind this popular refillable ink printer using a practical two-year cost model and addresses key considerations like yield, cost per page, compatibility, and reliability trade-offs.
 
+
+
+> **See also:** [Cost Comparison: OEM Ink vs Compatible Ink Over One Year](https://inkledger.org/articles/cost-comparison-oem-ink-vs-compatible-ink-over-one-year/)
+
 ## What is the Epson EcoTank?
 
 Epson EcoTank printers are a reflex in the inkjet market aiming to solve the notorious ink expense problem. Instead of traditional cartridges, they come with large, refillable ink tanks that promise high page yields per refill and low ongoing ink costs. The printer’s upfront price is significantly higher than a typical cartridge printer, but it includes several bottles of ink to fill the tanks.

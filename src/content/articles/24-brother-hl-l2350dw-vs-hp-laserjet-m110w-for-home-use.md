@@ -22,6 +22,10 @@ Both printers are monochrome laser printers designed primarily for black-and-whi
 
 Understanding how these printers operate, their cost implications over time, and their reliability will help you pick the best fit for home use.
 
+
+
+> **See also:** [26. Monochrome laser vs inkjet: real-world cost comparison](https://inkledger.org/articles/26-monochrome-laser-vs-inkjet-real-world-cost-comparison/)
+
 ## How They Work
 
 ### Brother HL-L2350DW

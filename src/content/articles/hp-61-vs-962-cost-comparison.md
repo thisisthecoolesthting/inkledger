@@ -52,6 +52,10 @@ This guide examines:
 - When compatible cartridges and refill kits offer the best value
 - Whether switching printers makes financial sense
 
+
+
+> **See also:** [1. HP 61 vs HP 962 cost per page — which is actually cheaper per print](https://inkledger.org/articles/1-hp-61-vs-hp-962-cost-per-page-which-is-actually-cheaper-per-print/)
+
 ## Why this matters
 
 Printer ink remains one of the most expensive liquids consumers purchase by volume. HP's dual-cartridge strategy with the 61 and 962 exemplifies how manufacturers leverage consumer confusion to maintain outsized profit margins. Here's what most buyers miss:
@@ -281,3 +285,17 @@ Quality runs OEM > top-tier remanufactured > most compatibles > bargain compatib
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+## FAQ  
+
+**Q: How do HP 61 and 962 cartridges compare in terms of page yield?**  
+A: The HP 61 cartridge yields approximately 190 pages, while the HP 962 offers around 330 pages, making the 962 more efficient for high-volume printing.  
+
+**Q: Which cartridge has a lower cost per page?**  
+A: The HP 962 generally has a lower cost per page due to its higher page yield, even though its upfront price is higher than the HP 61.  
+
+**Q: Are HP 61 and 962 cartridges interchangeable?**  
+A: No, they are not interchangeable—the HP 61 is designed for smaller printers, while the HP 962 is for larger, high-capacity models.  
+
+**Q: Does ink quality differ between the two cartridges?**  
+A: Both cartridges use the same ink formulation, so print quality is identical; the difference lies in capacity and cost efficiency.
