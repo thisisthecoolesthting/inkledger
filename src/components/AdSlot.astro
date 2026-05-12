@@ -1,7 +1,124 @@
 ---
-// AdSlot — placeholder for future display ad integration.
-// Renders nothing until an ad provider (AdThrive, Mediavine, etc.) is wired up.
-interface Props { position?: string; label?: string; }
-const { position, label } = Astro.props;
+interface Props {
+  variant: 'square' | 'banner' | 'sidebar';
+  position: 'article-mid' | 'pre-footer' | 'sidebar';
+}
+
+const { variant, position } = Astro.props;
+
+// Variant dimensions
+const dimensions = {
+  square: { width: 300, height: 250 },
+  banner: { width: 728, height: 90 },
+  sidebar: { width: 300, height: 600 },
+};
+
+const { width, height } = dimensions[variant];
+
+// Get article slug for deterministic seeding
+const pathname = Astro.url.pathname;
+const slug = pathname.split('/').filter(Boolean).pop() || 'default';
+
+// Phone case stores to link to
+const stores = [
+  'phonecasesforall.com',
+  'galaxycaseco.com',
+  'phonecasegift.shop',
+  'titancase.shop',
+];
+
+// Simple deterministic hash function for seeded randomization
+function hashCode(str) {
+  let hash = 0;
+  for (let i = 0; i < str.length; i++) {
+    const char = str.charCodeAt(i);
+    hash = ((hash << 5) - hash) + char;
+    hash = hash & hash;
+  }
+  return Math.abs(hash);
+}
+
+// Seed random selection based on slug + position
+function seededSelect(items, seed) {
+  const hash = hashCode(seed);
+  return items[hash % items.length];
+}
+
+// Get site slug from hostname
+function getSiteSlug(hostname) {
+  return hostname.split('.')[0] || 'unknown';
+}
+
+// Parse filename to extract campaign and create UTM link
+function createAdLink(filename, siteSlug, slug, position) {
+  const nameWithoutExt = filename.replace(/\.[^.]+$/, '');
+  const alt = nameWithoutExt.replace(/-/g, ' ');
+  const store = seededSelect(stores, slug + position + filename);
+  const url = `https://${store}/?utm_source=${siteSlug}&utm_medium=display&utm_campaign=${nameWithoutExt}`;
+  return { url, alt };
+}
+
+const siteSlug = getSiteSlug(Astro.url.hostname);
+
+// Try to get ad images from public/ads/<variant>/
+let adImages = [];
+
+try {
+  const glob = import.meta.glob('/ads/${variant}/*.{jpg,webp}');
+  const variantImages = Object.entries(glob).filter(([path]) => 
+    path.includes(`/ads/${variant}/`)
+  );
+  adImages = variantImages.map(([path]) => {
+    const filename = path.split('/').pop() || '';
+    return { filename, path };
+  });
+} catch (e) {
+  adImages = [];
+}
+
+// Graceful degradation: if no ads available, render nothing
+if (adImages.length === 0) {
 ---
-<!-- ad-slot:{label ?? position} (not yet wired) -->
+<!-- No ads available -->
+
+}
+
+// Select one ad deterministically based on slug
+const selectedAd = adImages[hashCode(slug) % adImages.length];
+const { url, alt } = createAdLink(selectedAd.filename, siteSlug, slug, position);
+---
+
+<div style={`width: ${width}px; height: ${height}px;`} class="ad-slot mx-auto my-8">
+  <a 
+    href={url}
+    rel="sponsored noopener"
+    target="_blank"
+    class="block w-full h-full"
+  >
+    <img 
+      src={selectedAd.path}
+      alt={alt}
+      width={width}
+      height={height}
+      class="w-full h-full object-cover"
+      loading="lazy"
+    />
+  </a>
+</div>
+
+<style>
+  .ad-slot {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    border-radius: 4px;
+  }
+  
+  @media (max-width: 768px) {
+    .ad-slot {
+      max-width: 100%;
+      height: auto;
+    }
+  }
+</style>

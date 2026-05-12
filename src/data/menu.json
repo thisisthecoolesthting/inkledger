@@ -1,0 +1,11 @@
+{
+  "main": "Printer Ink",
+  "subtopics": [
+    {"slug": "cartridges", "label": "Ink Cartridges",      "match": ["cartridge","ink","oem","compatible","remanufactured","third-party","yield","xl","high-yield","page yield","color","black"]},
+    {"slug": "toner",      "label": "Laser & Toner",       "match": ["toner","laser","laser printer","drum","fuser","mono","color laser","page count","yield","cartridge reset"]},
+    {"slug": "printers",   "label": "Printer Reviews",     "match": ["printer","inkjet","all-in-one","epson","hp","canon","brother","review","wireless","duplex","photo printer"]},
+    {"slug": "cost",       "label": "Cost & Savings",      "match": ["cost per page","savings","cheap","refill kit","cis","ciss","continuous ink","subscription","instant ink","budget","price","expensive"]},
+    {"slug": "refilling",  "label": "Refill & DIY",        "match": ["refill","diy","chip reset","resetter","refill kit","syringe","compatible","aftermarket","drm","chip","hack"]},
+    {"slug": "fix",        "label": "Troubleshooting",     "match": ["clog","streak","banding","error","blurry","smear","print head","clean","align","paper jam","quality","fix","troubleshoot"]}
+  ]
+}

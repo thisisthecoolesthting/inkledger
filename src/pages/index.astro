@@ -273,17 +273,22 @@ const dataStats = [
 
         {/* — tag filter strip — */}
         {topTagsIL.length > 0 && (
-          <div id="il-tag-strip" class="flex flex-wrap gap-2 mb-8">
-            <button data-filter="all"
-              class="il-pill il-pill-active font-mono text-[10px] tracking-[0.12em] uppercase px-3.5 py-1.5 rounded-full border transition-all duration-200">
-              All
-            </button>
-            {topTagsIL.map((tag) => (
-              <button data-filter={tag}
-                class="il-pill font-mono text-[10px] tracking-[0.12em] uppercase px-3.5 py-1.5 rounded-full border transition-all duration-200">
-                {tag}
+          <div class="mb-8">
+            <p class="font-mono text-[11px] tracking-[0.16em] uppercase text-ink-700 font-medium mb-3">
+              Filter by topic:
+            </p>
+            <div id="il-tag-strip" class="flex flex-wrap gap-2">
+              <button data-filter="all"
+                class="il-pill il-pill-active font-sans text-sm font-medium px-5 py-2.5 rounded-full border-2 transition-all duration-200 shadow-soft">
+                All
               </button>
-            ))}
+              {topTagsIL.map((tag) => (
+                <button data-filter={tag}
+                  class="il-pill font-sans text-sm font-medium px-5 py-2.5 rounded-full border-2 transition-all duration-200">
+                  {tag}
+                </button>
+              ))}
+            </div>
           </div>
         )}
 
@@ -315,17 +320,27 @@ const dataStats = [
         </div>
 
         {/* — browse all CTA — */}
-        <div class="mt-10 pt-8 border-t border-cream-200 flex flex-col sm:flex-row items-center justify-between gap-4">
-          <p class="text-sm text-ink-500">{allArticles.length} articles published · updated weekly</p>
-          <a href="/articles" class="btn-primary no-underline">
-            Browse all {allArticles.length} articles →
+        <div class="mt-10 pt-8 border-t border-cream-200">
+          <a href="/articles"
+             class="group block w-full bg-blue-900 hover:bg-blue-950 text-cream-50 rounded-2xl px-6 py-6 sm:py-7 no-underline transition-all duration-200 hover:shadow-soft-lg">
+            <div class="flex flex-col sm:flex-row items-center justify-between gap-3 text-center sm:text-left">
+              <div>
+                <p class="font-display text-xl sm:text-2xl leading-tight">
+                  Browse all {allArticles.length} articles
+                </p>
+                <p class="font-mono text-[11px] tracking-[0.14em] uppercase text-cream-50/85 mt-1.5">
+                  Updated weekly · Filter by topic, read by date
+                </p>
+              </div>
+              <span class="font-display text-2xl sm:text-3xl shrink-0 group-hover:translate-x-1 transition-transform" aria-hidden="true">→</span>
+            </div>
           </a>
         </div>
 
         <style>{`
           .il-pill { background: white; border-color: #dde3ef; color: #4a5568; }
           .il-pill:hover { border-color: #1e3a8a; color: #1e3a8a; }
-          .il-pill-active { background: #1e3a8a; border-color: #1e3a8a; color: white; }
+          .il-pill-active { background: #1e3a8a; border-color: #1e3a8a; color: white; box-shadow: 0 4px 12px rgba(30, 58, 138, 0.3); }
         `}</style>
         <script>{`
           (function() {
