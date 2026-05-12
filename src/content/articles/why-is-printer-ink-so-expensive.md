@@ -33,7 +33,9 @@ relatedProducts:
 - B0CGW2TFSV
 - B0CGW48C3G
 - B0F54TYKF9
-heroImage: "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/why-is-printer-ink-so-expensive.webp
+subtopic: cartridges
+updatedAt: 2026-05-12
 ---
 
 ## Introduction
@@ -77,6 +79,8 @@ Key findings from our 90-day print test:
 - **Warranty Impact**: Using third-party ink voids most printer warranties - a risk worth noting. However, Magnuson-Moss Warranty Act protections may apply if the alternative doesn't directly cause damage.
 - **Longevity Testing**: Accelerated aging tests showed third-party pigment black inks fade 8% faster than OEM after 5 years of light exposure, while dye-based alternatives showed no difference.
 
+
+For more on the ink cartridge scam: how to avoid overpaying for printer ink, see [our coverage at refillwatch.org](https://refillwatch.org/articles/ink-cartridge-scam-how-to-avoid-overpaying/).
 ## Real-World Performance
 
 Beyond lab tests, we ran six months of real-world usage scenarios across three continents to evaluate environmental and usage pattern impacts:

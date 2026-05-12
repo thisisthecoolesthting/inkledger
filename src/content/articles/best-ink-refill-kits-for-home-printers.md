@@ -24,7 +24,9 @@ tags:
 - hp-ink-alternatives
 - canon-refill-guide
 - epson-ecotank-hack
-heroImage: "https://images.unsplash.com/photo-1612815154858-60aa4c59eaa6?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/best-ink-refill-kits-for-home-printers.webp
+subtopic: cartridges
+updatedAt: 2026-05-12
 ---
 
 # Introduction
@@ -181,3 +183,5 @@ If a cartridge has been sitting for over two years, it'll usually still print â€
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing â€” including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+For more on are printer ink refill kits worth it? a cost-benefit analysis, see [our coverage at refillwatch.org](https://refillwatch.org/articles/printer-ink-refill-kits-worth-it/).

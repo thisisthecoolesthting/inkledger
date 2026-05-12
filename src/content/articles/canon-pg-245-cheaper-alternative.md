@@ -25,10 +25,12 @@ relatedProducts:
 - B07C11YW88
 - B083BFPGD8
 - B0CYJV9X52
-heroImage: "https://images.unsplash.com/photo-1612815154858-60aa4c59eaa6?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/canon-pg-245-cheaper-alternative.webp
 cardTitle: 'Canon PG-245 Ink Cartridge Alternatives: Save Big on Printing Costs'
 cardPick: HP 61 Black delivers genuine OEM reliability without the premium price tag,
   protecting your printer investment while cutting ink expenses significantly.
+subtopic: cartridges
+updatedAt: 2026-05-12
 ---
 
 ## Introduction
@@ -79,6 +81,8 @@ We tested four PG-245 alternatives under controlled conditions using a Canon Pix
 
 We tested longevity by leaving cartridges unused for 30 days. OEM and InkOwl showed no clogging, while one refilled cartridge required two cleaning cycles.
 
+
+For more on beyond the blade: cheaper alternatives to razor subscriptions, see [our coverage at refillwatch.org](https://refillwatch.org/articles/razor-blade-subscription-alternatives/).
 ## Real-World Performance
 
 We ran a 90-day trial with five households printing 300+ mixed documents. The [InkOwl PG-245](https://www.amazon.com/dp/B0FT32PL8L?tag=inkledger-20) compatibles performed without issue in four printers but triggered ink warnings in one newer Pixma TR8620a (these warnings can be dismissed and do not indicate a defect). Refill kits showed wider variability—one user achieved 450 pages from a $12.99 refill, while another experienced clogging after 200 pages by not shaking the ink bottle first.

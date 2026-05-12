@@ -19,7 +19,9 @@ tags:
 - eco-friendly
 - printing-alternatives
 relatedProducts:
-heroImage: "https://images.unsplash.com/photo-1619546813926-a78fa6372cd2?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/going-paperless-digital-alternatives-to-printing.webp
+subtopic: cartridges
+updatedAt: 2026-05-12
 ---
 
 # Introduction
@@ -258,3 +260,5 @@ Industry studies have measured 15–40% of cartridges' ink remaining when the pr
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+For more on the best reusable water bottles to save money and the planet, see [our coverage at refillwatch.org](https://refillwatch.org/articles/best-reusable-water-bottles-save-money/).

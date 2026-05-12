@@ -22,7 +22,9 @@ tags:
 - office-printing
 relatedProducts:
 - B00MFG54B6
-heroImage: "https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/best-third-party-toner-cartridges-for-laser-printers.webp
+subtopic: cartridges
+updatedAt: 2026-05-12
 ---
 
 ## Introduction
@@ -60,6 +62,8 @@ Modern third-party cartridges have shed their old reputation for poor quality. P
 
 Warranty discrepancies matter. OEM cartridges offer one-year coverage; third-party warranty periods range from none to 90 days. Budget for potential printer errors with unwarrantied cartridges—they're rare, but possible.
 
+
+For more on printer ink price hikes exposed: oem vs. refill vs. third-party cartridges—what, see [our coverage at refillwatch.org](https://refillwatch.org/articles/refillwatch-article-07/).
 ## Real-World Performance
 
 We ran 10,000 pages through a [Brother HL-L2350DW](https://www.amazon.com/dp/B00MFG54B6?tag=inkledger-20) using EcoToner's ET-660. Results:

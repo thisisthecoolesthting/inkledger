@@ -28,10 +28,12 @@ relatedProducts:
 - B0BVYBVHK5
 - B0CYJV9X52
 - B0FT32PL8L
-heroImage: "https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/third-party-cartridge-warranty-risks.webp
 cardTitle: Save 70% on Printer Ink Without Voiding Your Warranty
 cardPick: HP 61 OEM cartridges deliver genuine quality at third-party prices, keeping
   warranty protection intact while cutting costs dramatically.
+subtopic: cartridges
+updatedAt: 2026-05-12
 ---
 
 # Introduction
@@ -200,3 +202,5 @@ Quality runs OEM > top-tier remanufactured > most compatibles > bargain compatib
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+For more on printer ink price hikes exposed: oem vs. refill vs. third-party cartridges—what, see [our coverage at refillwatch.org](https://refillwatch.org/articles/refillwatch-article-07/).

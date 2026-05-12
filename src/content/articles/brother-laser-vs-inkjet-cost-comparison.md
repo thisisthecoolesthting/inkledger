@@ -27,10 +27,12 @@ relatedProducts:
 - B0C7ZTV376
 - B0CB75LML9
 - B0GF25F12C
-heroImage: "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/brother-laser-vs-inkjet-cost-comparison.webp
 cardTitle: 'Brother Laser vs Inkjet: Which Printer Truly Costs Less Long-Term'
 cardPick: Compatible HP 61XL cartridges slash ink costs dramatically, making inkjet
   printing affordable for budget-conscious households.
+subtopic: cartridges
+updatedAt: 2026-05-12
 ---
 
 ## Introduction
@@ -67,6 +69,8 @@ Key insights:
 - **Third-party viability**: Laser printers have no firmware restrictions, making clones like the [E-Z Ink TN-760](https://www.amazon.com/dp/B0C7ZTV376?tag=inkledger-20) reliable alternatives
 - **Color cost traps**: Printing black text on the J995DW still consumed color ink at 0.3mL per 100 pages, adding $18/year in unnecessary color ink costs
 
+
+For more on the best reusable water bottles for long-term savings, see [our coverage at refillwatch.org](https://refillwatch.org/articles/reusable-water-bottles-best-value/).
 ## Real-world performance
 
 Our 6-month office simulation revealed operational differences that dramatically impact costs:

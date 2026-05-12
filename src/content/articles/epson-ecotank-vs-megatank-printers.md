@@ -29,10 +29,12 @@ relatedProducts:
 - B0C7ZTV376
 - B0CB75LML9
 - B0GF25F12C
-heroImage: "https://images.unsplash.com/photo-1612815154858-60aa4c59eaa6?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/epson-ecotank-vs-megatank-printers.webp
 cardTitle: 'Ink Tank Printers vs. Cartridge Costs: Which Saves Most Money'
 cardPick: HP 67XL cartridges deliver high-yield printing at significantly lower per-page
   costs than traditional cartridges, maximizing your printing budget.
+subtopic: cartridges
+updatedAt: 2026-05-12
 ---
 
 # Introduction
@@ -273,3 +275,5 @@ Reputable remanufacturers (LD Products, INKfinity, LemeroUtrust) use formulated 
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+For more on printer ink price hikes exposed: how retailers gouge you and which refill, see [our coverage at refillwatch.org](https://refillwatch.org/articles/refillwatch-article-06/).

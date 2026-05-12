@@ -28,10 +28,12 @@ relatedProducts:
 - B0CYJV9X52
 - B0DYNQ1WP7
 - B0FT32PL8L
-heroImage: "https://images.unsplash.com/photo-1563770660941-10a63607a4d2?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/instant-ink-subscription-worth-it.webp
 cardTitle: 'HP Instant Ink vs. Cartridges: Which Saves You Money?'
 cardPick: HP 61 cartridges offer predictable costs without subscription fees, perfect
   for budget-conscious households managing irregular printing needs.
+subtopic: cartridges
+updatedAt: 2026-05-12
 ---
 
 # Introduction
@@ -205,3 +207,5 @@ Quality runs OEM > top-tier remanufactured > most compatibles > bargain compatib
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+For more on are printer ink refill kits worth it? a cost-benefit analysis, see [our coverage at refillwatch.org](https://refillwatch.org/articles/printer-ink-refill-kits-worth-it/).

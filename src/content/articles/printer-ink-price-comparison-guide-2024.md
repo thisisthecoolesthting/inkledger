@@ -29,7 +29,9 @@ tags:
 - compatible cartridges
 - printer maintenance
 - home office printing
-heroImage: "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/printer-ink-price-comparison-guide-2024.webp
+subtopic: cartridges
+updatedAt: 2026-05-12
 ---
 
 > **Affiliate disclosure:** InkLedger earns a commission on purchases made through links on this page. We do not accept samples or sponsorship from OEM printer manufacturers. All prices are verified at publication via Keepa price history.
@@ -79,6 +81,8 @@ After testing 1,200 pages across 15 cartridge types, our lab compiled the most c
 
 Pro tip: The [Epson EcoTank ET-2800](https://www.amazon.com/dp/B098JD8HD3?tag=inkledger-20) reduces costs to $0.01/page but requires printing 500+ pages monthly to justify the $250 upfront cost.
 
+
+For more on the ink cartridge scam: how to avoid overpaying for printer ink, see [our coverage at refillwatch.org](https://refillwatch.org/articles/ink-cartridge-scam-how-to-avoid-overpaying/).
 ## Real-World Performance
 
 We installed identical cartridges in 3 printer models (HP OfficeJet, Epson EcoTank, Canon Pixma) across 12 homes for 6 months. The [Aurora B0DHV7ZWH2](https://www.amazon.com/dp/B0DHV7ZWH2?tag=inkledger-20) compatible cartridges showed:

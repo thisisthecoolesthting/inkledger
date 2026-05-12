@@ -5,10 +5,12 @@ topic: Why subscribers to HP Instant Ink are overpaying (quantified)
 tier: full
 relatedProducts: []
 status: published
-heroImage: "https://images.unsplash.com/photo-1563770660941-10a63607a4d2?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/why-subscribers-to-hp-instant-ink-are-overpaying-quantified.webp
 metaDescription: "Why Subscribers to HP Instant Ink Are Overpaying (Quantified)"
 publishedAt: 2026-04-24
 excerpt: "Why Subscribers to HP Instant Ink Are Overpaying (Quantified)"
+subtopic: cartridges
+updatedAt: 2026-05-12
 ---
 ## Why Subscribers to HP Instant Ink Are Overpaying (Quantified)
 
@@ -42,6 +44,8 @@ For example, if you print 100 pages in a month, buying ink separately could cost
 
 ---
 
+
+For more on the ink cartridge scam: how to avoid overpaying for printer ink, see [our coverage at refillwatch.org](https://refillwatch.org/articles/ink-cartridge-scam-how-to-avoid-overpaying/).
 ## HP Instant Ink Costs vs Ink Cartridge Costs: A Quantified Comparison
 
 ### Scenario 1: Low-Volume User (50 pages/month)

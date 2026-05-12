@@ -26,10 +26,12 @@ relatedProducts:
 - B0F54TYKF9
 - B0CGW2TFSV
 - B0CGW48C3G
-heroImage: "https://images.unsplash.com/photo-1612815154858-60aa4c59eaa6?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/hp-instant-ink-review.webp
 cardTitle: HP Instant Ink Worth It? Real Cost Breakdown for Home Printers
 cardPick: HP 67XL cartridges offer high-yield capacity, reducing replacement frequency
   and delivering genuine savings versus constant budget cartridge purchases.
+subtopic: cartridges
+updatedAt: 2026-05-12
 ---
 
 ## Introduction
@@ -61,6 +63,8 @@ Key findings: HP Instant Ink only beats OEM cartridge prices at very low volumes
 
 For example, a family printing 200 pages/month for school projects and photos would spend $9.99/month on Instant Ink’s 300-page plan. However, using a high-yield OEM cartridge like the [HP 962XL](https://www.amazon.com/dp/B0CB75LML9?tag=inkledger-20) would cost $7.19/month, while third-party cartridges like the [Inkjet Superstore 964XL](https://www.amazon.com/dp/B093TCYF9T?tag=inkledger-20) would reduce that to $2.59/month. Refill kits, though labor-intensive, could bring costs down to $1.78/month.
 
+
+For more on are printer ink refill kits worth it? a cost-benefit analysis, see [our coverage at refillwatch.org](https://refillwatch.org/articles/printer-ink-refill-kits-worth-it/).
 ## Real-world performance
 
 Durability tests reveal tradeoffs: While [HP 962XL cartridges](https://www.amazon.com/dp/B0CB75LML9?tag=inkledger-20) consistently deliver their rated 600-page yield, third-party alternatives like the [Inkjet Superstore 964XL](https://www.amazon.com/dp/B093TCYF9T?tag=inkledger-20) varied between 450-650 pages in our stress tests. Instant Ink's "rollover pages" feature helps smooth occasional high-volume months, but unused pages expire after 90 days—a gotcha for seasonal users.

@@ -29,7 +29,9 @@ relatedProducts:
 - B0C7ZTV376
 - B0CB75LML9
 - B0GF25F12C
-heroImage: "https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/canon-pg-245-cheaper-alternatives.webp
+subtopic: cartridges
+updatedAt: 2026-05-12
 ---
 
 ## Introduction
@@ -70,6 +72,8 @@ Our expanded testing revealed several critical insights: The Hilife XL cartridge
 
 Avoid no-name brands selling PG-245s below $8; in our tests, 3 of 4 leaked or triggered error messages, and microscopic analysis showed particulate contamination in 92% of ultra-budget inks.
 
+
+For more on beyond the blade: cheaper alternatives to razor subscriptions, see [our coverage at refillwatch.org](https://refillwatch.org/articles/razor-blade-subscription-alternatives/).
 ## Real-World Performance
 
 Yield claims are notoriously inflated. Canon rates the PG-245 at 180 pages (ISO standards), but real-world use typically nets 130-150 pages before fading appears. We tested alternatives by printing 50-page document batches until quality degraded, using both text and mixed-content pages to simulate actual usage patterns. Our test printers ran the gamut from home-oriented Pixma MG series to small business-oriented MAXIFY models.

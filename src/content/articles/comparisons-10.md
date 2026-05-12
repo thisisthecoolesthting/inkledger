@@ -6,7 +6,9 @@ excerpt: Deprecated test artifact.
 status: published
 tags: []
 relatedProducts: []
-heroImage: "https://images.unsplash.com/photo-1622542796254-b36cfd9b7959?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/comparisons-10.webp
+subtopic: cartridges
+updatedAt: 2026-05-12
 ---
 
 Deprecated. This file was produced by the AFFILIATE-082 topic parser before the section-header fix. Status held at `draft` so it does not render. Safe to delete on the Windows host.

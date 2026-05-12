@@ -32,7 +32,9 @@ relatedProducts:
 - B0CGW48C3G
 - B0F54TYKF9
 - B0GF25F12C
-heroImage: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/understanding-ink-cartridge-yield-what-do-the-numbers-mean.webp
+subtopic: cartridges
+updatedAt: 2026-05-12
 ---
 
 ## Introduction
@@ -77,6 +79,8 @@ Our test unit printed 5,200 pages before needing its first refill—equivalent t
 - **Brother laser toners** averaged just 12% variance from claimed yields, with the [TN-760](https://www.amazon.com/dp/B0CGW2TFSV?tag=inkledger-20) demonstrating remarkable consistency across document types. Laser technology's dry printing process eliminates ink drying waste that plagues inkjets.
 - **Third-party cartridges** performed best in monochrome applications. The [InkOwl HP 902XL](https://www.amazon.com/dp/B0CB75LML9?tag=inkledger-20) actually outperformed HP's own cartridge by 7% in text printing, though it fell short by 18% in mixed-mode documents.
 
+
+For more on the ink cartridge scam: how to avoid overpaying for printer ink, see [our coverage at refillwatch.org](https://refillwatch.org/articles/ink-cartridge-scam-how-to-avoid-overpaying/).
 ## Real-World Performance
 
 Yield claims assume you're printing nothing but text documents with 5% page coverage—essentially a Word document with standard margins. Print a child's science poster with 40% image coverage, and that "400-page" cartridge might last 90 pages. Our tests with the [Brother TN-760 High-Yield Toner](https://www.amazon.com/dp/B0CGW2TFSV?tag=inkledger-20) showed:

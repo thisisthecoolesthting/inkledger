@@ -23,7 +23,9 @@ relatedProducts:
 - B07GRRXJXG
 - B08H4YTTLP
 - B08NQSHX3N
-heroImage: "https://images.unsplash.com/photo-1563986768494-4dee2763ff3f?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/oem-vs-compatible-ink-cost-per-page.webp
+subtopic: cartridges
+updatedAt: 2026-05-12
 ---
 
 # Introduction

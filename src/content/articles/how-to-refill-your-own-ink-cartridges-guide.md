@@ -17,7 +17,9 @@ tags:
 - cost savings
 - DIY printing
 - ink cartridge refill
-heroImage: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/how-to-refill-your-own-ink-cartridges-guide.webp
+subtopic: cartridges
+updatedAt: 2026-05-12
 ---
 
 # Introduction
@@ -175,6 +177,8 @@ Most cartridges can be refilled 3–5 times before components wear out. Replace 
 - Cartridge reset tool
 - Cleaning solution
 
+
+For more on printer ink price hikes exposed: oem vs. refill vs. third-party cartridges—what, see [our coverage at refillwatch.org](https://refillwatch.org/articles/refillwatch-article-07/).
 ## Can I refill all cartridge types?
 
 **Easily refillable:**

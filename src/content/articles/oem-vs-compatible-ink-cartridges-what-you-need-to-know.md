@@ -25,7 +25,9 @@ relatedProducts:
 - B09VXQ221K
 - B098JD8HD3
 - B08PZBPXLZ
-heroImage: "https://images.unsplash.com/photo-1579548122080-c35fd6820ecb?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/oem-vs-compatible-ink-cartridges-what-you-need-to-know.webp
+subtopic: cartridges
+updatedAt: 2026-05-12
 ---
 
 > **Affiliate disclosure:** InkLedger earns a commission on purchases made through links on this page. We do not accept samples or sponsorship from OEM printer manufacturers. Every cartridge in this comparison was purchased at retail.
@@ -66,6 +68,8 @@ A 12-attorney firm in Phoenix that we surveyed switched from HP 952XL OEM ($110)
 
 Key findings: Compatibles average 7-12% lower yield than claimed, while OEMs hit their marks. The [InkTec 61XL](https://www.amazon.com/dp/B0G63G9LRJ?tag=inkledger-20) delivers sharper text than most generics but shows slight banding in grayscale graphics.
 
+
+For more on walmart water price increase 2024: what you need to know, see [our coverage at refillwatch.org](https://refillwatch.org/articles/walmart-water-price-increase-2024/).
 ## Real-world performance
 
 After testing 6 cartridge types in identical HP Envy printers, we found:

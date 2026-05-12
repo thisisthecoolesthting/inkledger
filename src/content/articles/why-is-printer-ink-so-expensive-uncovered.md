@@ -27,10 +27,12 @@ relatedProducts:
 - B0C7ZTV376
 - B0CB75LML9
 - B0GF25F12C
-heroImage: "https://images.unsplash.com/photo-1563770660941-10a63607a4d2?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/why-is-printer-ink-so-expensive-uncovered.webp
 cardTitle: 'Stop Overpaying for Printer Ink: The Real Cost Breakdown'
 cardPick: Compatible HP 61XL cartridges cost 60% less than OEM while delivering identical
   quality prints for budget-conscious households.
+subtopic: cartridges
+updatedAt: 2026-05-12
 ---
 
 ## Introduction
@@ -83,6 +85,8 @@ Key findings from six months of testing:
 - Third-party cartridges average 12-18% lower yields than claimed, still offering 60%+ savings
 - Refill systems produce variable results - our first attempt with the Aurora kit wasted 15% ink due to spills
 
+
+For more on printer ink price hikes exposed: how to save $200+ yearly with refills and, see [our coverage at refillwatch.org](https://refillwatch.org/articles/refillwatch-article-01/).
 ## Real-World Performance
 
 Document printing tests revealed surprising consistency among options. Using a standardized 20-page mixed document (text, charts, and images), we measured:

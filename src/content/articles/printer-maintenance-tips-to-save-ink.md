@@ -20,7 +20,9 @@ tags:
 - laser-toner-savings
 relatedProducts:
 - B08B3K9H7L
-heroImage: "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/printer-maintenance-tips-to-save-ink.webp
+subtopic: cartridges
+updatedAt: 2026-05-12
 ---
 
 ## Introduction
@@ -54,6 +56,8 @@ Printer makers lose money selling hardware, then recoup profits through ink—a 
 
 **Deep dive:** The syringe refill method costs roughly $0.009 per milliliter versus OEM's $0.28/ml—a 30-fold difference. Our testers achieved best results by warming cartridges in room-temperature water for two minutes, injecting ink slowly at a 45° angle, wiping contacts clean, and running two cleaning cycles to prime the system.
 
+
+For more on the ink cartridge scam: why your printer ink costs so much, see [our coverage at refillwatch.org](https://refillwatch.org/articles/ink-cartridge-scam-uncovered/).
 ## Real-World Performance
 
 The HP 63XL cartridge delivers 300 pages at $38 OEM, but compatible alternatives print 270 pages for $14. After implementing monthly nozzle checks and printhead cleaning with appropriate solvents, our test users reduced clogging incidents from monthly to quarterly. EcoTank users reported 18–22 months between refill cycles versus the typical 6-month timeline for traditional cartridges.

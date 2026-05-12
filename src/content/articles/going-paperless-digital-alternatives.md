@@ -25,7 +25,9 @@ relatedProducts:
 - B0F54TYKF9
 - B085VZPR2Y
 - B0CGW2TFSV
-heroImage: "https://images.unsplash.com/photo-1524781289445-ddf8d5695861?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/going-paperless-digital-alternatives.webp
+subtopic: cartridges
+updatedAt: 2026-05-12
 ---
 
 ## Introduction
@@ -101,6 +103,8 @@ Key Findings:
      - Carbon copies (low contrast)
      - Staple removal (jamming risk)
 
+
+For more on beyond the blade: cheaper alternatives to razor subscriptions, see [our coverage at refillwatch.org](https://refillwatch.org/articles/razor-blade-subscription-alternatives/).
 ## Real-World Performance
 
 **Searchability Deep Dive**

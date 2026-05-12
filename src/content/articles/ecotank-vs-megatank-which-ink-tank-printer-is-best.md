@@ -30,7 +30,9 @@ tags:
 - cost per page
 - printer economics
 - home office printing
-heroImage: "https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/ecotank-vs-megatank-which-ink-tank-printer-is-best.webp
+subtopic: cartridges
+updatedAt: 2026-05-12
 ---
 
 > **Affiliate disclosure:** InkLedger earns a commission on purchases made through links on this page. We do not accept samples or sponsorship from Epson, HP, or any OEM printer manufacturer. All printers in this comparison were purchased or independently sourced at retail.
@@ -70,6 +72,8 @@ Real-world testing showed the [Canon PIXMA G620](https://www.amazon.com/dp/B09VX
 
 Interestingly, the [Brother INKvestment Tank](https://www.amazon.com/dp/B0BX2N258S?tag=inkledger-20) performed best in our paper handling tests, successfully feeding 98% of wrinkled or slightly damp sheets that jammed in other systems.
 
+
+For more on the ultimate printer ink showdown: oem vs. refillable cartridges compared, see [our coverage at refillwatch.org](https://refillwatch.org/articles/refillwatch-article-05/).
 ## Real-world performance
 
 Ink tank systems promise hassle-free operation, but our durability tests revealed three critical gotchas:

@@ -26,7 +26,9 @@ tags:
 - printer maintenance
 - printing costs
 - ink refills
-heroImage: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/understanding-ink-cartridge-yield-what-do-ppm-numbers-mean.webp
+subtopic: cartridges
+updatedAt: 2026-05-12
 ---
 
 > **Affiliate disclosure:** InkLedger earns a commission on purchases made through links on this page. We do not accept samples or sponsorship from OEM printer manufacturers. Every cartridge in this test was bought at retail.
@@ -80,6 +82,8 @@ Key findings:
 
 For heavy users, the math is clear: Investing $20 more upfront for high-yield [HP 305XL](https://www.amazon.com/dp/B08PZBPXLZ?tag=inkledger-20) over standard 305 saves $0.02/page—$120 annually at 500 pages/month.
 
+
+For more on the ink cartridge scam: how to avoid overpaying for printer ink, see [our coverage at refillwatch.org](https://refillwatch.org/articles/ink-cartridge-scam-how-to-avoid-overpaying/).
 ## Real-World Performance
 
 Document complexity dramatically impacts yields. Our test team printed:

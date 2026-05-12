@@ -31,7 +31,9 @@ tags:
 - inkjet vs laser
 - printer maintenance
 - refill kits
-heroImage: "https://images.unsplash.com/photo-1612815154858-60aa4c59eaa6?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/hp-instant-ink-review-is-it-worth-it.webp
+subtopic: cartridges
+updatedAt: 2026-05-12
 ---
 
 > **Affiliate disclosure:** InkLedger earns a commission on purchases made through links on this page. We do not accept samples or sponsorship from HP or any OEM printer manufacturer. Subscription pricing figures are verified against HP's published plan pages at publication date.

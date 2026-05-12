@@ -27,7 +27,9 @@ tags:
 - ink refill kits
 - print quality fixes
 - printer longevity
-heroImage: "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/how-to-clean-clogged-printer-heads.webp
+subtopic: cartridges
+updatedAt: 2026-05-12
 ---
 
 > **Affiliate disclosure:** InkLedger earns a commission on purchases made through links on this page. We do not accept samples or sponsorship from OEM printer manufacturers. All cleaning products in this guide were purchased at retail and tested across 12 printer models.
@@ -81,6 +83,8 @@ Key findings from 420 test cycles:
 
 For most users, we recommend starting with [cleaning cartridges](https://www.amazon.com/dp/B0DHV8SCLS?tag=inkledger-20) before escalating to more intensive methods. Always check your printer manual for compatible solutions—Brother printers particularly sensitive to ammonia-based cleaners.
 
+
+For more on the ink cartridge scam: how to avoid overpaying for printer ink, see [our coverage at refillwatch.org](https://refillwatch.org/articles/ink-cartridge-scam-how-to-avoid-overpaying/).
 ## Real-world performance
 
 Our 6-month field test with 12 home printers and 8 office models revealed surprising patterns in real-world conditions:

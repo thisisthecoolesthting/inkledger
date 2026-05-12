@@ -27,7 +27,9 @@ relatedProducts:
 - B0CGW2TFSV
 - B0CGW48C3G
 - B0F54TYKF9
-heroImage: "https://images.unsplash.com/photo-1563986768494-4dee2763ff3f?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/toner-vs-ink-cost-per-page-analysis.webp
+subtopic: cartridges
+updatedAt: 2026-05-12
 ---
 
 ## Introduction
@@ -68,6 +70,8 @@ Key findings from extended testing:
 2. **Laser Toner**: The sweet spot for lasers starts at 250+ pages/month—below this threshold, the higher upfront costs outweigh the per-page savings
 3. **Inkjet Economics**: Casual printers (<100 pages/month) achieve lowest total cost with third-party ink cartridges like [this cartridge](https://www.amazon.com/dp/B0CGW2TFSV?tag=inkledger-20) despite higher per-page costs
 
+
+For more on are printer ink refill kits worth it? a cost-benefit analysis, see [our coverage at refillwatch.org](https://refillwatch.org/articles/printer-ink-refill-kits-worth-it/).
 ## Real-World Performance
 
 Manufacturer yield claims assume 5% page coverage—an unrealistic standard for most documents. Our 6-month stress test revealed:

@@ -23,7 +23,9 @@ relatedProducts:
 - B00MFG54B6
 - B08GX3K9YS
 - B08NQSHX3N
-heroImage: "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/ecotank-megatank-printers-worth-the-investment.webp
+subtopic: printers
+updatedAt: 2026-05-12
 ---
 
 # Introduction

@@ -29,10 +29,12 @@ relatedProducts:
 - B0CYJV9X52
 - B0DYNQ1WP7
 - B0FT32PL8L
-heroImage: "https://images.unsplash.com/photo-1563770660941-10a63607a4d2?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/epson-ecotank-worth-it-review.webp
 cardTitle: 'EcoTank Printers vs. Cartridge Costs: Real Savings Breakdown'
 cardPick: HP 61 Black Ink Cartridge costs less upfront than EcoTank's initial investment
   but fails long-term value for high-volume printing households.
+subtopic: cartridges
+updatedAt: 2026-05-12
 ---
 
 ## Introduction
@@ -80,6 +82,8 @@ But laser printers like the [Brother HL-L2350DW](https://www.amazon.com/dp/B00MF
 - Color accuracy: EcoTank retained 92% accuracy after 5,000 pages vs. Canon's 94%
 - Paper capacity: EcoTank's 250-sheet tray vs. Canon's 150-sheet reduced jams by 37% with 24lb stock
 
+
+For more on are printer ink refill kits worth it? a cost-benefit analysis, see [our coverage at refillwatch.org](https://refillwatch.org/articles/printer-ink-refill-kits-worth-it/).
 ## Real-World Performance: 18-Month Test Results
 
 After testing three EcoTank models across four climate zones (humid Florida to arid Arizona), we found:

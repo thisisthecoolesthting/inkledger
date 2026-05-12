@@ -27,7 +27,9 @@ tags:
 - home office printing
 - printer maintenance
 - inkjet vs laser costs
-heroImage: "https://images.unsplash.com/photo-1563770660941-10a63607a4d2?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/hp-instant-ink-subscription-is-it-worth-it.webp
+subtopic: cartridges
+updatedAt: 2026-05-12
 ---
 
 ## Introduction
@@ -63,6 +65,8 @@ For a family printing 100 pages monthly, these factors could turn an apparent 30
 
 We conducted side-by-side printing tests with identical documents to verify these numbers. The [HP 61 cartridge](https://www.amazon.com/dp/B0CB75LML9?tag=inkledger-20) loses value quickly when printing graphics-heavy documents, while the [third-party option](https://www.amazon.com/dp/B0GF25F12C?tag=inkledger-20) delivers better yields but may trigger HP's cartridge DRM warnings. Interestingly, the third-party cartridges averaged 22% more pages than HP's OEM cartridges when printing mixed documents with 15% average coverage, though color accuracy suffered slightly in photos.
 
+
+For more on are printer ink refill kits worth it? a cost-benefit analysis, see [our coverage at refillwatch.org](https://refillwatch.org/articles/printer-ink-refill-kits-worth-it/).
 ## Real-World Performance
 
 During a 6-month test with an HP Envy 6055, we found:

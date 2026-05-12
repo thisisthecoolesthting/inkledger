@@ -20,7 +20,9 @@ tags:
 - budget-printing
 relatedProducts:
 - B00MFG54B6
-heroImage: "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/laser-vs-inkjet-printer-long-term-cost.webp
+subtopic: cartridges
+updatedAt: 2026-05-12
 ---
 
 # Introduction

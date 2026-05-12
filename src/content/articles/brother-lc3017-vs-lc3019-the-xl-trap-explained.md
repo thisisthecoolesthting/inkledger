@@ -5,10 +5,12 @@ topic: Brother LC3017 vs LC3019 — the XL trap, explained
 tier: full
 relatedProducts: []
 status: published
-heroImage: "https://images.unsplash.com/photo-1563770660941-10a63607a4d2?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/brother-lc3017-vs-lc3019-the-xl-trap-explained.webp
 metaDescription: "Brother LC3017 vs LC3019 — the XL Trap, Explained"
 publishedAt: 2026-04-24
 excerpt: "Brother LC3017 vs LC3019 — the XL Trap, Explained"
+subtopic: cartridges
+updatedAt: 2026-05-12
 ---
 ## Brother LC3017 vs LC3019 — the XL Trap, Explained
 

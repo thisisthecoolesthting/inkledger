@@ -30,7 +30,9 @@ tags:
 - DIY printing
 - cartridge refill kits
 - printer longevity
-heroImage: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/how-to-properly-refill-ink-cartridges-step-by-step-guide.webp
+subtopic: cartridges
+updatedAt: 2026-05-12
 ---
 
 ## Introduction
@@ -81,6 +83,8 @@ Key findings from our 6-month testing period:
 
 Surprising discovery: Cartridges refilled with [this cartridge](https://www.amazon.com/dp/B0CB75LML9?tag=inkledger-20) ink actually yielded 12% more pages than new OEM cartridges in our Epson tests.
 
+
+For more on printer ink price hikes exposed: oem vs. refill vs. third-party cartridges—what, see [our coverage at refillwatch.org](https://refillwatch.org/articles/refillwatch-article-07/).
 ## Real-World Performance
 
 We refilled 47 cartridges using the [InkMasters Kit](https://www.amazon.com/dp/B004QM8SLG?tag=inkledger-20) across six months. Critical lessons:

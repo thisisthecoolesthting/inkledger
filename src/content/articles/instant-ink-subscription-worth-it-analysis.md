@@ -27,10 +27,12 @@ relatedProducts:
 - B0CGW2TFSV
 - B0CGW48C3G
 - B0DWD9NQ57
-heroImage: "https://images.unsplash.com/photo-1563770660941-10a63607a4d2?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/instant-ink-subscription-worth-it-analysis.webp
 cardTitle: 'Skip Instant Ink: Save Big With Compatible HP Cartridges'
 cardPick: Compatible cartridges cost 70% less than official HP ink while delivering
   identical print quality for home and office use.
+subtopic: cartridges
+updatedAt: 2026-05-12
 ---
 
 ## Introduction
@@ -68,6 +70,8 @@ Key findings:
 
 We pressure-tested these numbers by printing 1,000 pages of mixed content (text, graphics, photos) across all options. Third-party cartridges showed marginally higher failure rates (3.2% vs HP's 1.7%), but the cost differential still favored alternatives even after accounting for duds. Instant Ink's environmental claims also falter under scrutiny—while HP touts cartridge recycling, their program ships replacement ink in 43% more packaging material than retail cartridges.
 
+
+For more on are printer ink refill kits worth it? a cost-benefit analysis, see [our coverage at refillwatch.org](https://refillwatch.org/articles/printer-ink-refill-kits-worth-it/).
 ## Real-world performance
 
 Third-party cartridges like the [InkArt 962XL](https://www.amazon.com/dp/B0CB75LML9?tag=inkledger-20) often match OEM print quality for documents, though some users report:

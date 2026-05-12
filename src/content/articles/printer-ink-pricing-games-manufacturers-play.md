@@ -18,7 +18,9 @@ tags:
 - compatible cartridges
 - refill kits
 - ink alternatives
-heroImage: "https://images.unsplash.com/photo-1612815154858-60aa4c59eaa6?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/printer-ink-pricing-games-manufacturers-play.webp
+subtopic: cartridges
+updatedAt: 2026-05-12
 ---
 
 ## Introduction
@@ -66,6 +68,8 @@ Our testing revealed consistent patterns:
 
 For example, the HP 61 Compatible Cartridge not only costs two-thirds less but often matched or exceeded page yields in our stress tests. The Canon PG-245 Compatible Cartridge delivered exceptional results for photo printing at a fraction of OEM cost.
 
+
+For more on printer ink price gouging: how brands keep you paying more, see [our coverage at refillwatch.org](https://refillwatch.org/articles/printer-ink-price-gouging-exposed/).
 ## Real-world performance
 
 Beyond laboratory testing, we conducted six-month evaluations across 15 households and 10 small offices using different ink solutions. Here's what we learned from actual usage patterns.

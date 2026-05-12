@@ -26,7 +26,9 @@ relatedProducts:
 - B0DHV7ZWH2
 - B0DHV8SCLS
 - B0G63G9LRJ
-heroImage: "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/printer-ink-price-hikes-exposed.webp
+subtopic: cartridges
+updatedAt: 2026-05-12
 ---
 
 > **Affiliate disclosure:** InkLedger earns a commission on purchases made through links on this page. We do not accept samples or sponsorship from OEM printer manufacturers. Pricing data is tracked via Keepa and verified at publication.
@@ -80,6 +82,8 @@ We expanded testing to include six additional cartridge models and found:
 
 Surprisingly, some third-party manufacturers now exceed OEM standards. The [JetTec Pro series](https://www.amazon.com/dp/B0DHV8SCLS?tag=inkledger-20) uses higher-grade pigments that resist fading better than HP's own inks in accelerated aging tests.
 
+
+For more on printer ink price hikes: we tracked 15–30% increases this year, see [our coverage at refillwatch.org](https://refillwatch.org/articles/ink-cartridge-rip-off/).
 ## Real-World Performance
 
 Beyond lab tests, we monitored 12 households using third-party cartridges for six months across different climates and usage patterns. Key findings:

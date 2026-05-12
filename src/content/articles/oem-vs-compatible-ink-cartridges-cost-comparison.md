@@ -25,7 +25,9 @@ tags:
 - toner vs ink cost
 - third party cartridge warranty
 - cheapest way to print at home
-heroImage: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/oem-vs-compatible-ink-cartridges-cost-comparison.webp
+subtopic: cartridges
+updatedAt: 2026-05-12
 ---
 
 ## Introduction
@@ -83,6 +85,8 @@ Key findings:
 
 Unexpected insight: Some OEM cartridges now underfill intentionally. Our liquid displacement tests showed the Canon PG-245 contained 12% less ink than its 2019 version, despite identical packaging.
 
+
+For more on are printer ink refill kits worth it? a cost-benefit analysis, see [our coverage at refillwatch.org](https://refillwatch.org/articles/printer-ink-refill-kits-worth-it/).
 ## Real-world performance
 
 Longevity reveals hidden costs. In our 6-month real-world deployment with 12 test households:

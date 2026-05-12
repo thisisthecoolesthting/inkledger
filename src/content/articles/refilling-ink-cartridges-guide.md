@@ -30,7 +30,9 @@ tags:
 - printer maintenance
 - HP ink alternatives
 - Epson refill
-heroImage: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/refilling-ink-cartridges-guide.webp
+subtopic: cartridges
+updatedAt: 2026-05-12
 ---
 
 > **Affiliate disclosure:** InkLedger earns a commission on purchases made through links on this page. We do not accept samples or sponsorship from OEM printer manufacturers. Every kit in this comparison was purchased at retail.
@@ -66,6 +68,8 @@ Key finding: Bottled ink systems like Eco-Fill offer the best balance of cost an
 
 Diving deeper into the Jettec kit: Each $12.99 purchase includes three 10ml ink bottles (enough for 2-3 refills per color), five syringes with blunt needles, latex gloves, and detailed instructions. While the syringe method seems daunting, we developed a pro tip—warm the ink bottle in a bowl of warm water for 5 minutes before refilling to improve flow. The included black ink produced text nearly indistinguishable from OEM, though photo prints showed slightly less vibrant reds.
 
+
+For more on are printer ink refill kits worth it? a cost-benefit analysis, see [our coverage at refillwatch.org](https://refillwatch.org/articles/printer-ink-refill-kits-worth-it/).
 ## Real-world performance
 
 Refilled cartridges don't always behave like OEM ones.

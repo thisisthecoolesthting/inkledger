@@ -29,7 +29,9 @@ relatedProducts:
 - B0C7ZTV376
 - B0CB75LML9
 - B0GF25F12C
-heroImage: "https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/hp-61-vs-962-ink-cost-comparison.webp
+subtopic: cartridges
+updatedAt: 2026-05-12
 ---
 
 ## Introduction
@@ -77,6 +79,8 @@ Key revelations from our expanded testing:
 - Third-party HP 61 cartridges have higher failure rates (15%) compared to HP 962 compatibles (8%)
 - HP 962's faster drying time reduces smudging on glossy paper by 27% in our abrasion tests
 
+
+For more on the ink cartridge scam: how to avoid overpaying for printer ink, see [our coverage at refillwatch.org](https://refillwatch.org/articles/ink-cartridge-scam-how-to-avoid-overpaying/).
 ## Real-world performance
 
 Our stress tests simulated three years of typical usage across six printer models. The results challenge several industry assumptions:
