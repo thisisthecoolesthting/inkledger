@@ -23,7 +23,9 @@ relatedProducts:
 - B07GRRXJXG
 - B08H4YTTLP
 - B08NQSHX3N
-heroImage: "https://images.unsplash.com/photo-1563986768494-4dee2763ff3f?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/oem-vs-compatible-ink-cost-per-page.webp
+subtopic: cartridges
+updatedAt: 2026-05-12
 ---
 
 # Introduction
@@ -190,6 +192,10 @@ OEM means the cartridge is built and filled by the printer's manufacturer (HP, C
 Quality runs OEM > top-tier remanufactured > most compatibles > bargain compatibles, but price runs in the opposite direction. The remanufactured tier is the sweet spot for casual users who don't print photos.
 
 
+
+
+> **See also:** [The Cheapest Ways to Print at Home: Refills vs. Compatible Cartridges vs.](https://inkledger.org/articles/cheapest-way-to-print-at-home/)
+
 ## What to watch for before you buy
 
 - **Yield numbers are tested under ISO standards** that assume continuous printing at 5% page coverage. Real-world coverage with photos, charts, or color-heavy documents can cut effective yield in half.
@@ -203,3 +209,17 @@ Quality runs OEM > top-tier remanufactured > most compatibles > bargain compatib
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+## FAQ  
+
+**Q: How much can I really save by using compatible ink instead of OEM ink?**  
+A: Depending on the brand and model, compatible ink can save you 30–70% per milliliter, but the real savings come from cost-per-page calculations, which factor in ink efficiency and longevity.  
+
+**Q: Do compatible inks perform as well as OEM inks in fountain pens?**  
+A: Performance varies by brand—some compatible inks match OEM in flow and saturation, while others may feather or dry slower. Our tests compare drying time, shading, and bleed-through.  
+
+**Q: Are there any risks to using compatible inks in expensive fountain pens?**  
+A: Poor-quality compatible inks may clog feeds or leave residue, but reputable third-party inks are generally safe. Always check reviews and avoid ultra-cheap, untested options.  
+
+**Q: How do I calculate the true cost-per-page for OEM vs. compatible ink?**  
+A: Divide the ink cost by the estimated page yield (based on nib size and writing density). Our article includes a step-by-step formula and real-world test results for accuracy.

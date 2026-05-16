@@ -26,7 +26,9 @@ tags:
 - printer maintenance
 - printing costs
 - ink refills
-heroImage: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/understanding-ink-cartridge-yield-what-do-ppm-numbers-mean.webp
+subtopic: cartridges
+updatedAt: 2026-05-12
 ---
 
 > **Affiliate disclosure:** InkLedger earns a commission on purchases made through links on this page. We do not accept samples or sponsorship from OEM printer manufacturers. Every cartridge in this test was bought at retail.
@@ -42,6 +44,10 @@ This guide doesn't just expose the myths; it provides actionable data from our 5
 - The actual coverage percentages of common documents (spoiler: your '5% coverage' resume is likely 12-15%)
 - Why high-yield cartridges like the [HP 61XL](https://www.amazon.com/dp/B0DHV7ZWH2?tag=inkledger-20) deliver better value despite higher upfront costs
 - How to calculate true cost-per-page including hidden maintenance cycles
+
+
+
+> **See also:** [OEM vs. Compatible Ink Cartridges: What You Need to Know Before You Buy](https://inkledger.org/articles/oem-vs-compatible-ink-cartridges-what-you-need-to-know/)
 
 ## Why This Matters
 
@@ -80,6 +86,8 @@ Key findings:
 
 For heavy users, the math is clear: Investing $20 more upfront for high-yield [HP 305XL](https://www.amazon.com/dp/B08PZBPXLZ?tag=inkledger-20) over standard 305 saves $0.02/page—$120 annually at 500 pages/month.
 
+
+For more on the ink cartridge scam: how to avoid overpaying for printer ink, see [our coverage at refillwatch.org](https://refillwatch.org/articles/ink-cartridge-scam-how-to-avoid-overpaying/).
 ## Real-World Performance
 
 Document complexity dramatically impacts yields. Our test team printed:
@@ -248,3 +256,17 @@ Reputable remanufacturers (LD Products, INKfinity, LemeroUtrust) use formulated 
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+## FAQ  
+
+**Q: What does "PPM" stand for in ink cartridge yield?**  
+A: PPM stands for "pages per minute," but in the context of ink cartridge yield, it typically refers to the estimated number of pages a cartridge can print before running out, based on standardized testing conditions.  
+
+**Q: How accurate are PPM yield claims for ink cartridges?**  
+A: PPM yields are based on industry-standard tests (like ISO/IEC 24711), but real-world usage varies due to factors like print density, paper type, and font size. Most users will see slightly lower yields.  
+
+**Q: Do fountain pen ink bottles have a similar yield measurement?**  
+A: No, fountain pen inks are measured in milliliters (mL) or ounces, and yield depends on nib size, writing style, and paper absorbency. Unlike printer cartridges, there’s no standardized "pages per fill" metric.  
+
+**Q: Can I improve my ink cartridge’s actual yield?**  
+A: Yes! Using draft mode, smaller fonts, and grayscale printing can extend yield. For fountain pens, choosing finer nibs and less absorbent paper reduces ink consumption.

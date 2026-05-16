@@ -27,7 +27,9 @@ tags:
 - cost per page
 - printer maintenance
 - home office supplies
-heroImage: "https://images.unsplash.com/photo-1563986768494-4dee2763ff3f?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/how-to-refill-ink-cartridges-at-home.webp
+subtopic: cartridges
+updatedAt: 2026-05-12
 ---
 
 > **Affiliate disclosure:** InkLedger earns a commission on purchases made through links on this page. We do not accept samples or sponsorship from OEM printer manufacturers. Every refill kit in this guide was purchased at retail and tested in-house.
@@ -221,6 +223,10 @@ It's a pricing trick that catches people. XL labels imply better value, but manu
 The XL is only the better deal when the per-page math works out — and roughly one in four XL cartridges fails that test once you crunch the numbers.
 
 
+
+
+> **See also:** [DIY Ink Refill Kits: A Step-by-Step Guide to Saving Money](https://inkledger.org/articles/refilling-ink-cartridges-guide/)
+
 ## What to watch for before you buy
 
 - **Yield numbers are tested under ISO standards** that assume continuous printing at 5% page coverage. Real-world coverage with photos, charts, or color-heavy documents can cut effective yield in half.
@@ -234,3 +240,19 @@ The XL is only the better deal when the per-page math works out — and roughly 
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+For more on diy cleaning supplies: your guide to bulk refills and savings, see [our coverage at refillwatch.org](https://refillwatch.org/articles/diy-cleaning-supplies-bulk-refill-guide/).
+
+## FAQ
+
+**Q: Can I use any type of ink for DIY ink refills?**  
+A: No, it’s important to use fountain pen ink specifically designed for fountain pens to avoid clogging or damaging your pen.
+
+**Q: What tools do I need for a DIY ink refill?**  
+A: You’ll need a syringe or pipette, a clean workspace, and a bottle of fountain pen ink to safely refill your pen.
+
+**Q: Is DIY ink refilling messy?**  
+A: It can be messy if you’re not careful, but using a syringe and working over a paper towel or cloth minimizes spills.
+
+**Q: How often should I clean my pen when using DIY refills?**  
+A: Clean your pen every 2-3 refills to prevent ink buildup and ensure smooth writing performance.

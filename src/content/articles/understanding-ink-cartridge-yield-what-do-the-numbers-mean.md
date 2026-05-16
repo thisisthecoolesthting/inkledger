@@ -32,7 +32,9 @@ relatedProducts:
 - B0CGW48C3G
 - B0F54TYKF9
 - B0GF25F12C
-heroImage: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/understanding-ink-cartridge-yield-what-do-the-numbers-mean.webp
+subtopic: cartridges
+updatedAt: 2026-05-12
 ---
 
 ## Introduction
@@ -46,6 +48,10 @@ The discrepancy stems from standardized testing using A4 pages with just 1,500 c
 We conducted controlled experiments with 18 cartridge models across three printer types (inkjet, laser, and EcoTank), tracking actual ink consumption against manufacturer claims. The results revealed that inkjet cartridges showed the greatest variance—with some models delivering as little as 42% of their advertised yield when printing real-world documents.
 
 Even more concerning, we found that printer software often reports cartridges as "empty" when they still contain 15-20% of usable ink, a practice that the European Union recently classified as "planned obsolescence" under their Right to Repair regulations.
+
+
+
+> **See also:** [Understanding Ink Cartridge Yield: What Do PPM Numbers Really Mean?](https://inkledger.org/articles/understanding-ink-cartridge-yield-what-do-ppm-numbers-mean/)
 
 ## Why This Matters
 
@@ -77,6 +83,8 @@ Our test unit printed 5,200 pages before needing its first refill—equivalent t
 - **Brother laser toners** averaged just 12% variance from claimed yields, with the [TN-760](https://www.amazon.com/dp/B0CGW2TFSV?tag=inkledger-20) demonstrating remarkable consistency across document types. Laser technology's dry printing process eliminates ink drying waste that plagues inkjets.
 - **Third-party cartridges** performed best in monochrome applications. The [InkOwl HP 902XL](https://www.amazon.com/dp/B0CB75LML9?tag=inkledger-20) actually outperformed HP's own cartridge by 7% in text printing, though it fell short by 18% in mixed-mode documents.
 
+
+For more on the ink cartridge scam: how to avoid overpaying for printer ink, see [our coverage at refillwatch.org](https://refillwatch.org/articles/ink-cartridge-scam-how-to-avoid-overpaying/).
 ## Real-World Performance
 
 Yield claims assume you're printing nothing but text documents with 5% page coverage—essentially a Word document with standard margins. Print a child's science poster with 40% image coverage, and that "400-page" cartridge might last 90 pages. Our tests with the [Brother TN-760 High-Yield Toner](https://www.amazon.com/dp/B0CGW2TFSV?tag=inkledger-20) showed:
@@ -223,3 +231,17 @@ Reputable remanufacturers (LD Products, INKfinity, LemeroUtrust) use formulated 
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+## FAQ  
+
+**Q: What does "ink cartridge yield" mean?**  
+A: Ink cartridge yield refers to the estimated number of pages or characters a cartridge can print before running out. This is typically measured under standardized testing conditions, so real-world usage may vary.  
+
+**Q: Why do ink cartridge yields vary between brands?**  
+A: Different brands use varying ink formulations, cartridge sizes, and testing methods, leading to discrepancies in yield claims. Higher-quality inks may also have different flow rates, affecting how much is used per page.  
+
+**Q: How accurate are the page yield numbers provided by manufacturers?**  
+A: Manufacturer yields are based on controlled tests (like ISO standards) using specific text coverage, so they’re a guideline rather than a guarantee. Your actual yield depends on factors like paper type, print density, and writing style.  
+
+**Q: Can I increase my ink cartridge’s effective yield?**  
+A: Yes, using finer nibs, lighter ink flow settings, or more absorbent paper can reduce ink consumption. Refilling cartridges (where possible) or using converters with bottled ink may also extend usage.
