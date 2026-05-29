@@ -6,4 +6,8 @@
   body {
     overflow-x: hidden;
   }
+
+  .prose h1, .prose h2, article h1, article h2, main article h1, main article h2 {
+    @apply text-ink-900;
+  }
 }

@@ -6,26 +6,24 @@ export default {
       colors: {
         // Shade-based tokens (factory standard — used by template components)
         cream: {
-          DEFAULT: "#FAF7F2",
-          50:  "#FAF7F2",
-          100: "#F3EEE6",
-          200: "#E8E0D0",
+          50: "#F5F0E8",
+          100: "#EBE6DF",
+          200: "#DCD8D1",
         },
         ink: {
-          DEFAULT: "#0F172A",
-          900: "#0F172A",
-          700: "#1E293B",
+          900: "#0B1120",
+          700: "#334155",
           500: "#64748B",
         },
         // Inkledger brand mapped to terracotta slot so shared CTAs use site accent
         terracotta: {
-          400: "#60A5FA",
-          500: "#2563EB",
-          600: "#1D4ED8",
+          400: "#8F3415",
+          500: "#7C2D12",
+          600: "#66250F",
         },
         // Legacy flat tokens kept for backward compat
-        primary: { DEFAULT: "#1E3A8A" },
-        accent:  { DEFAULT: "#F59E0B" },
+        primary: { DEFAULT: "#1E1B4B" },
+        accent: { DEFAULT: "#7C2D12" },
         sage: {
           400: "#60A5FA",
           500: "#2563EB",
@@ -33,8 +31,8 @@ export default {
         },
       },
       fontFamily: {
-        display: ['"Playfair Display"', "Georgia", "serif"],
-        body:    ['"Inter"', "system-ui", "sans-serif"],
+        display: ['Cormorant', "Georgia", "serif"],
+        body: ['Lora', "sans-serif"],
         mono:    ['"JetBrains Mono"', "monospace"],
       },
       maxWidth: { prose: "68ch" },

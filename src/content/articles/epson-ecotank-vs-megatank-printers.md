@@ -1,5 +1,5 @@
 ---
-title: 'Epson EcoTank vs. Canon MegaTank: Which Ink Tank Printer Saves You More?'
+title: "Epson EcoTank vs. Canon MegaTank: Which Ink Tank Printer Saves You More?"
 metaDescription: We compare Epson EcoTank and Canon MegaTank printers on cost per
   page, ink longevity, and real-world performance to help you choose the best ink
   tank printer for your needs.
@@ -29,10 +29,12 @@ relatedProducts:
 - B0C7ZTV376
 - B0CB75LML9
 - B0GF25F12C
-heroImage: "https://images.unsplash.com/photo-1612815154858-60aa4c59eaa6?auto=format&fit=crop&w=1600&q=80"
-cardTitle: 'Ink Tank Printers vs. Cartridge Costs: Which Saves Most Money'
+heroImage: /heroes/epson-ecotank-vs-megatank-printers.webp
+cardTitle: "Ink Tank Printers vs. Cartridge Costs: Which Saves Most Money"
 cardPick: HP 67XL cartridges deliver high-yield printing at significantly lower per-page
   costs than traditional cartridges, maximizing your printing budget.
+subtopic: cartridges
+updatedAt: 2026-05-12
 ---
 
 # Introduction
@@ -61,9 +63,9 @@ The results might surprise you - some tank printers have hidden costs that erase
 
 # Head-to-head comparison
 
-Let's examine two popular models: the [Epson EcoTank ET-3850](https://www.amazon.com/dp/B0CB75LML9?tag=inkledger-20) and the [Canon PIXMA G6020 MegaTank](https://www.amazon.com/dp/B093TCYF9T?tag=inkledger-20).
+Let's examine two popular models: the Epson EcoTank ET-3850 and the Canon PIXMA G6020 MegaTank.
 
-| Feature                | Epson [EcoTank ET-3850](https://www.amazon.com/dp/B08GX3K9YS?tag=inkledger-20)       | Canon PIXMA G6020 MegaTank  |
+| Feature                | Epson EcoTank ET-3850       | Canon PIXMA G6020 MegaTank  |
 |------------------------|-----------------------------|-----------------------------|
 | Included ink           | 4 bottles (70ml each)       | 4 bottles (135ml total)     |
 | Claimed page yield     | 6,000 black / 7,500 color   | 6,000 black / 7,700 color   |
@@ -81,12 +83,12 @@ Let's examine two popular models: the [Epson EcoTank ET-3850](https://www.amazon
 Key differences:
 - Canon's MegaTank uses slightly more expensive OEM ink but includes a document feeder
 - Epson's print heads are more durable but harder to replace (requires full unit replacement after ~30,000 pages)
-- [Canon G6020](https://www.amazon.com/dp/B093TCYF9T?tag=inkledger-20) has better duplex printing support for automatic double-sided documents
-- [Epson ET-3850](https://www.amazon.com/dp/B0CB75LML9?tag=inkledger-20) offers Ethernet connectivity for offices needing wired network connections
+- Canon G6020 has better duplex printing support for automatic double-sided documents
+- Epson ET-3850 offers Ethernet connectivity for offices needing wired network connections
 - Canon's mobile app provides more advanced color adjustment options
 - Epson's individual ink level monitoring helps prevent unexpected color depletion
 
-For users needing specialty printing, the Epson supports borderless printing up to 8.5" x 47", while the Canon offers better envelope handling. Both work with [third-party continuous ink systems](https://www.amazon.com/dp/B0GF25F12C?tag=inkledger-20) for ultra-high volume users, though this voids warranties.
+For users needing specialty printing, the Epson supports borderless printing up to 8.5" x 47", while the Canon offers better envelope handling. Both work with third-party continuous ink systems for ultra-high volume users, though this voids warranties.
 
 # Real-world performance
 
@@ -97,16 +99,16 @@ Manufacturer claims about page yields often don't match reality. We tested both 
 - 20% photo prints (4x6" on glossy paper)
 - 10% specialty media (envelopes, labels)
 
-The [Epson EcoTank ET-3850](https://www.amazon.com/dp/B0CB75LML9?tag=inkledger-20) delivered:
+The Epson EcoTank ET-3850 delivered:
 - 5,800 black pages before needing refill (vs. claimed 6,000) - 96.7% of claimed yield
 - 7,100 color pages (vs. claimed 7,500) - 94.7% of claimed yield
 - Minimal print head clogging after 3 months of intermittent use (2 automatic cleanings required)
 - 0.3% misalignment rate on color graphics
 - 0.8% ink smudging rate on glossy photo paper
 
-Notably, the Epson maintained better color accuracy over time, with our spectrophotometer showing only 3.2% delta-E shift after 3,000 color pages versus Canon's 5.1% shift. This makes the [ET-3850](https://www.amazon.com/dp/B0CB75LML9?tag=inkledger-20) better for users needing consistent color reproduction.
+Notably, the Epson maintained better color accuracy over time, with our spectrophotometer showing only 3.2% delta-E shift after 3,000 color pages versus Canon's 5.1% shift. This makes the ET-3850 better for users needing consistent color reproduction.
 
-The [Canon PIXMA G6020 MegaTank](https://www.amazon.com/dp/B093TCYF9T?tag=inkledger-20) performed:
+The Canon PIXMA G6020 MegaTank performed:
 - 5,500 black pages (vs. 6,000 claimed) - 91.7% of claimed yield
 - 7,300 color pages (vs. 7,700 claimed) - 94.8% of claimed yield
 - Required 2 head cleanings during testing (consuming ~2ml ink total)
@@ -115,7 +117,7 @@ The [Canon PIXMA G6020 MegaTank](https://www.amazon.com/dp/B093TCYF9T?tag=inkled
 
 Canon's automatic document feeder (ADF) jammed twice during heavy scanning sessions (50+ page documents), while Epson's simpler flatbed design had no mechanical issues. However, the Canon's ADF scanned 28% faster when working properly, making it better for digitizing multi-page documents.
 
-For photo printing, the [Epson ET-3850](https://www.amazon.com/dp/B0CB75LML9?tag=inkledger-20) produced slightly more vibrant colors (especially in blues and greens), but the [Canon G6020](https://www.amazon.com/dp/B093TCYF9T?tag=inkledger-20) had better shadow detail in low-light images. Neither matches dedicated photo printers like the [Epson SureColor P700](https://www.amazon.com/dp/B099NZC4PB?tag=inkledger-20), but both are adequate for occasional photo prints.
+For photo printing, the Epson ET-3850 produced slightly more vibrant colors (especially in blues and greens), but the Canon G6020 had better shadow detail in low-light images. Neither matches dedicated photo printers like the Epson SureColor P700, but both are adequate for occasional photo prints.
 
 # Cost math
 
@@ -137,7 +139,7 @@ Let's break down the actual savings using our measured yields rather than manufa
 - Annual ink cost: ~$1.68
 - Add $0.75/year for more frequent cleaning cycles
 
-Surprisingly, the Canon's ink goes further despite smaller bottles when calculating actual yields. However, using [third-party ink for the Epson](https://www.amazon.com/dp/B08KGY4XJ5?tag=inkledger-20) drops costs to $0.30/year for black and $0.73 for color - just $1.03 total. Canon's [compatible inks](https://www.amazon.com/dp/B0C7ZTV376?tag=inkledger-20) reduce costs to $0.25 + $0.37 = $0.62/year.
+Surprisingly, the Canon's ink goes further despite smaller bottles when calculating actual yields. However, using third-party ink for the Epson drops costs to $0.30/year for black and $0.73 for color - just $1.03 total. Canon's compatible inks reduce costs to $0.25 + $0.37 = $0.62/year.
 
 The breakeven point vs. a $99 cartridge printer:
 - Typical cartridge printer: $25 cartridge = 200 pages → $125/year
@@ -155,12 +157,12 @@ For high-volume users (5,000+ pages/year), the savings become dramatic:
 While OEM ink guarantees quality, third-party options can slash costs further. We tested 12 aftermarket ink brands and found:
 
 Top performers for Epson:
-- [InkOwl EcoTank refills](https://www.amazon.com/dp/B08KGY4XJ5?tag=inkledger-20): 70ml for $7 (vs. $15 OEM) - 98% color match
-- [Hiipoo ET-3850 ink](https://www.amazon.com/dp/B0B5NQJX3X?tag=inkledger-20): $6.50/bottle - best for photo printing
+- InkOwl EcoTank refills: 70ml for $7 (vs. $15 OEM) - 98% color match
+- Hiipoo ET-3850 ink: $6.50/bottle - best for photo printing
 
 Top performers for Canon:
-- [LD Products MegaTank ink](https://www.amazon.com/dp/B0C7ZTV376?tag=inkledger-20): 60ml for $8 (vs. $13 OEM) - 96% color match
-- [Image Specialists G6020 ink](https://www.amazon.com/dp/B09T3KXQ1N?tag=inkledger-20): $7.25/bottle - lowest clogging rate
+- LD Products MegaTank ink: 60ml for $8 (vs. $13 OEM) - 96% color match
+- Image Specialists G6020 ink: $7.25/bottle - lowest clogging rate
 
 Tradeoffs to consider:
 - Some third-party inks may void warranties (check manufacturer policies)
@@ -168,13 +170,13 @@ Tradeoffs to consider:
 - Clogging risk increases 3x with cheap inks (based on our 6-month test)
 - Viscosity differences can affect ink flow rates
 
-For light users (under 500 pages/year), subscription services like HP Instant Ink might still be cheaper. But for anyone printing more, tank printers are unbeatable. The [Brother INKvestment Tank](https://www.amazon.com/dp/B004QM8SLG?tag=inkledger-20) offers another alternative with super-high-yield cartridges, though not true tank refilling.
+For light users (under 500 pages/year), subscription services like HP Instant Ink might still be cheaper. But for anyone printing more, tank printers are unbeatable. The Brother INKvestment Tank offers another alternative with super-high-yield cartridges, though not true tank refilling.
 
 # FAQ
 
 ### Do these printers work with third-party ink?
 
-Yes, both accept third-party inks, but quality varies dramatically. We recommend starting with OEM ink for the first 6-12 months, then switching to premium third-party inks after warranty expiration. The [Epson ET-3850](https://www.amazon.com/dp/B0CB75LML9?tag=inkledger-20) is slightly more forgiving with generic inks due to its Micro Piezo print head technology, while Canon's thermal print heads are more sensitive to ink formulation differences.
+Yes, both accept third-party inks, but quality varies dramatically. We recommend starting with OEM ink for the first 6-12 months, then switching to premium third-party inks after warranty expiration. The Epson ET-3850 is slightly more forgiving with generic inks due to its Micro Piezo print head technology, while Canon's thermal print heads are more sensitive to ink formulation differences.
 
 ### How often do print heads clog?
 
@@ -182,7 +184,7 @@ With regular use (printing at least weekly), clogging is rare in both systems. I
 - Epson: 1 cleaning cycle per 1,200 pages
 - Canon: 1 cleaning cycle per 800 pages
 
-Left idle for a month, the [Canon G6020](https://www.amazon.com/dp/B093TCYF9T?tag=inkledger-20) required 2-3 deep cleaning cycles to restore full print quality, consuming about 3ml of ink total. Epson's system recovered with just 1 normal cleaning after similar dormancy.
+Left idle for a month, the Canon G6020 required 2-3 deep cleaning cycles to restore full print quality, consuming about 3ml of ink total. Epson's system recovered with just 1 normal cleaning after similar dormancy.
 
 ### Can you use different ink brands together?
 
@@ -200,14 +202,14 @@ They're adequate for casual photos, but have limitations:
 - Color gamut covers ~85% of sRGB
 - No dedicated photo black ink
 
-Dedicated photo printers like the [Epson EcoTank ET-8500](https://www.amazon.com/dp/B09N9SR36W?tag=inkledger-20) deliver better quality with:
+Dedicated photo printers like the Epson EcoTank ET-8500 deliver better quality with:
 - Additional red and gray ink channels
 - 98% sRGB coverage
 - Gloss optimizer for professional finishes
 
 ### Which is better for small offices?
 
-The [Epson ET-3850](https://www.amazon.com/dp/B0CB75LML9?tag=inkledger-20)'s Ethernet support makes it better for shared office environments, while the Canon's ADF handles document scanning more efficiently. Key considerations:
+The Epson ET-3850's Ethernet support makes it better for shared office environments, while the Canon's ADF handles document scanning more efficiently. Key considerations:
 
 Epson advantages:
 - Networked printing queue management
@@ -221,9 +223,9 @@ Canon advantages:
 
 # Bottom line
 
-For most home users, the [Canon PIXMA G6020 MegaTank](https://www.amazon.com/dp/B093TCYF9T?tag=inkledger-20) offers the best balance of features and ink savings. Its automatic document feeder, slightly better ink efficiency (8.2ml vs Epson's 12ml per 1,000 black pages), and superior mobile app make it our top pick for families and home offices printing 500-3,000 pages annually.
+For most home users, the Canon PIXMA G6020 MegaTank offers the best balance of features and ink savings. Its automatic document feeder, slightly better ink efficiency (8.2ml vs Epson's 12ml per 1,000 black pages), and superior mobile app make it our top pick for families and home offices printing 500-3,000 pages annually.
 
-Small businesses needing robust connectivity should choose the [Epson EcoTank ET-3850](https://www.amazon.com/dp/B0CB75LML9?tag=inkledger-20). While its ink is marginally more expensive, the Ethernet support, durable print heads (lasting 2-3x longer than Canon's), and higher monthly duty cycle justify the premium for heavy use environments printing 3,000+ pages annually.
+Small businesses needing robust connectivity should choose the Epson EcoTank ET-3850. While its ink is marginally more expensive, the Ethernet support, durable print heads (lasting 2-3x longer than Canon's), and higher monthly duty cycle justify the premium for heavy use environments printing 3,000+ pages annually.
 
 Both systems will save you hundreds compared to cartridge printers - our calculations show $1,200+ savings over 5 years for average users. Just be sure to factor in your specific printing needs, with Epson better for color-critical work and Canon better for document-heavy workflows.
 
@@ -260,6 +262,10 @@ Compatible cartridges from established remanufacturers won't void your printer's
 
 Reputable remanufacturers (LD Products, INKfinity, LemeroUtrust) use formulated inks; bargain-bin generics often use commodity ink that can dry, separate, or print poorly under heavy use.
 
+
+
+> **See also:** [Printer Ink Pricing Games: How Manufacturers Lock You In and How to Escape](https://inkledger.org/articles/printer-ink-pricing-games-manufacturers-play/)
+
 ## What to watch for before you buy
 
 - **Yield numbers are tested under ISO standards** that assume continuous printing at 5% page coverage. Real-world coverage with photos, charts, or color-heavy documents can cut effective yield in half.
@@ -273,3 +279,27 @@ Reputable remanufacturers (LD Products, INKfinity, LemeroUtrust) use formulated 
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+For more on printer ink price hikes exposed: how retailers gouge you and which refill, see [our coverage at refillwatch.org](https://refillwatch.org/articles/refillwatch-article-06/).
+
+## FAQ  
+
+**Q: Which printer has lower ink costs, the Epson EcoTank or Canon MegaTank?**  
+A: Both use refillable ink tanks, but Epson EcoTank generally offers slightly lower cost per page due to higher-yield bottles, while Canon MegaTank inks are often priced competitively for color printing.  
+
+**Q: Is one brand better for high-quality photo printing?**  
+A: Canon MegaTank printers typically excel in photo quality with richer colors, while Epson EcoTank models are better for sharp text and may require premium paper for comparable photo results.  
+
+**Q: Do these printers work well with fountain pen-friendly paper?**  
+A: Yes, both can handle thicker, ink-resistant papers, but the Epson EcoTank’s precision nozzles may handle feathering slightly better on porous stationery.  
+
+**Q: Which is more reliable for heavy daily use?**  
+A: Epson EcoTank models are known for durability in high-volume printing, while Canon MegaTank printers may require more frequent nozzle checks to prevent clogs.
+
+## Top Picks
+
+<a href="https://www.amazon.com/dp/B079HGN3SG?tag=inkledger-20" rel="sponsored noopener" target="_blank" style="display:flex;align-items:center;gap:12px;text-decoration:none;margin:8px 0;padding:10px 12px;border:1px solid #e2e8f0;border-radius:10px;background:#f8fafc;"><img src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B079HGN3SG&Format=_SL100_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=inkledger-20" alt="Wacom Intuos Medium Bluetooth Tablet" width="80" height="80" loading="lazy" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;border-radius:6px;background:#fff;" /><div style="min-width:0;"><strong style="display:block;color:#1e293b;font-size:0.9em;">Wacom Intuos Medium Bluetooth Tablet</strong><span style="color:#64748b;font-size:0.82em;line-height:1.4;">2048 levels of pressure, Bluetooth, compatible with Photoshop, Illustrator, and Clip Studio.</span></div></a>
+
+<a href="https://www.amazon.com/dp/B07X4SR5MN?tag=inkledger-20" rel="sponsored noopener" target="_blank" style="display:flex;align-items:center;gap:12px;text-decoration:none;margin:8px 0;padding:10px 12px;border:1px solid #e2e8f0;border-radius:10px;background:#f8fafc;"><img src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07X4SR5MN&Format=_SL100_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=inkledger-20" alt="Arteza Expert Colored Pencils 72-Pack" width="80" height="80" loading="lazy" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;border-radius:6px;background:#fff;" /><div style="min-width:0;"><strong style="display:block;color:#1e293b;font-size:0.9em;">Arteza Expert Colored Pencils 72-Pack</strong><span style="color:#64748b;font-size:0.82em;line-height:1.4;">Soft wax-oil core, 72 highly pigmented colors, in a sturdy metal tin.</span></div></a>
+
+<a href="https://www.amazon.com/dp/B00EWUNJN4?tag=inkledger-20" rel="sponsored noopener" target="_blank" style="display:flex;align-items:center;gap:12px;text-decoration:none;margin:8px 0;padding:10px 12px;border:1px solid #e2e8f0;border-radius:10px;background:#f8fafc;"><img src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00EWUNJN4&Format=_SL100_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=inkledger-20" alt="Canon PIXMA iX6820 Wireless Printer" width="80" height="80" loading="lazy" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;border-radius:6px;background:#fff;" /><div style="min-width:0;"><strong style="display:block;color:#1e293b;font-size:0.9em;">Canon PIXMA iX6820 Wireless Printer</strong><span style="color:#64748b;font-size:0.82em;line-height:1.4;">Wireless 13x19 borderless printing—affordable wide-format for small art print runs.</span></div></a>

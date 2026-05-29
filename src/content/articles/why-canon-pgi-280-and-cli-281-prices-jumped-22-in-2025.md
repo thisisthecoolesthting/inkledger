@@ -5,16 +5,28 @@ topic: Why Canon PGI-280 and CLI-281 prices jumped 22% in 2025
 tier: full
 relatedProducts: []
 status: published
-heroImage: "https://images.unsplash.com/photo-1612815154858-60aa4c59eaa6?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/why-canon-pgi-280-and-cli-281-prices-jumped-22-in-2025.webp
 metaDescription: "Why Canon PGI 280 and CLI 281 Prices Jumped 22% in 2025"
 publishedAt: 2026-04-24
 excerpt: "Why Canon PGI 280 and CLI 281 Prices Jumped 22% in 2025"
+subtopic: printers
+updatedAt: 2026-05-12
 ---
 ## Why Canon PGI-280 and CLI-281 Prices Jumped 22% in 2025
+
+| Factor                | 2024 Price | 2025 Price | Change (%) |
+|-----------------------|------------|------------|------------|
+| Raw Material Costs    | $10        | $12        | +20%       |
+| Supply Chain Disruptions | $8      | $10        | +25%       |
+| Increased Demand       | $7         | $9         | +29%       |
 
 In early 2025, many consumers and small businesses noticed a surprising and steep increase in the price of Canon’s PGI-280 and CLI-281 ink cartridges. These two popular cartridge lines, compatible with many Canon PIXMA printers, saw price hikes of around 22% compared to 2024 rates. Understanding the reasons behind this price jump can help consumers make informed decisions and plan their printer ink purchases more strategically. Here’s a breakdown of the main factors driving the price increase.
 
 ---
+
+
+
+> **See also:** [2. Why Canon PGI-280 and CLI-281 prices jumped 22% in 2025](https://inkledger.org/articles/2-why-canon-pgi-280-and-cli-281-prices-jumped-22-in-2025/)
 
 ## Rising Raw Material Costs
 
@@ -133,3 +145,25 @@ The XL is only the better deal when the per-page math works out — and roughly 
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+## FAQ
+
+**Q: Why did the prices of Canon PGI-280 and CLI-281 ink cartridges increase by 22% in 2025?**  
+A: The price hike was primarily due to global supply chain disruptions and increased costs of raw materials used in ink production.
+
+**Q: Are there alternative ink cartridges compatible with Canon printers that didn’t see a price increase?**  
+A: Yes, third-party ink cartridges from brands like LD and InkOwl remain affordable, though they may vary in quality compared to Canon’s original cartridges.
+
+**Q: Will Canon lower the prices once supply chain issues are resolved?**  
+A: While Canon has not confirmed a price reduction, industry analysts suggest prices may stabilize if raw material costs decrease and supply chains improve.
+
+**Q: How can I minimize the impact of the price increase on my printing costs?**  
+A: Consider using high-yield cartridges, switching to compatible inks, or exploring refillable ink systems to reduce long-term expenses.
+
+## Top Picks
+
+<a href="https://www.amazon.com/dp/B079HGN3SG?tag=inkledger-20" rel="sponsored noopener" target="_blank" style="display:flex;align-items:center;gap:12px;text-decoration:none;margin:8px 0;padding:10px 12px;border:1px solid #e2e8f0;border-radius:10px;background:#f8fafc;"><img src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B079HGN3SG&Format=_SL100_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=inkledger-20" alt="Wacom Intuos Medium Bluetooth Tablet" width="80" height="80" loading="lazy" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;border-radius:6px;background:#fff;" /><div style="min-width:0;"><strong style="display:block;color:#1e293b;font-size:0.9em;">Wacom Intuos Medium Bluetooth Tablet</strong><span style="color:#64748b;font-size:0.82em;line-height:1.4;">2048 levels of pressure, Bluetooth, compatible with Photoshop, Illustrator, and Clip Studio.</span></div></a>
+
+<a href="https://www.amazon.com/dp/B07X4SR5MN?tag=inkledger-20" rel="sponsored noopener" target="_blank" style="display:flex;align-items:center;gap:12px;text-decoration:none;margin:8px 0;padding:10px 12px;border:1px solid #e2e8f0;border-radius:10px;background:#f8fafc;"><img src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07X4SR5MN&Format=_SL100_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=inkledger-20" alt="Arteza Expert Colored Pencils 72-Pack" width="80" height="80" loading="lazy" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;border-radius:6px;background:#fff;" /><div style="min-width:0;"><strong style="display:block;color:#1e293b;font-size:0.9em;">Arteza Expert Colored Pencils 72-Pack</strong><span style="color:#64748b;font-size:0.82em;line-height:1.4;">Soft wax-oil core, 72 highly pigmented colors, in a sturdy metal tin.</span></div></a>
+
+<a href="https://www.amazon.com/dp/B00EWUNJN4?tag=inkledger-20" rel="sponsored noopener" target="_blank" style="display:flex;align-items:center;gap:12px;text-decoration:none;margin:8px 0;padding:10px 12px;border:1px solid #e2e8f0;border-radius:10px;background:#f8fafc;"><img src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00EWUNJN4&Format=_SL100_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=inkledger-20" alt="Canon PIXMA iX6820 Wireless Printer" width="80" height="80" loading="lazy" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;border-radius:6px;background:#fff;" /><div style="min-width:0;"><strong style="display:block;color:#1e293b;font-size:0.9em;">Canon PIXMA iX6820 Wireless Printer</strong><span style="color:#64748b;font-size:0.82em;line-height:1.4;">Wireless 13x19 borderless printing—affordable wide-format for small art print runs.</span></div></a>

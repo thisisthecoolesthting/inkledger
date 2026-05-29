@@ -1,9 +1,9 @@
 ---
-title: 'HP Instant Ink Review: Is the Subscription Model Really Cheaper?'
+title: "HP Instant Ink Review: Is the Subscription Model Really Cheaper?"
 metaDescription: We crunch the numbers on HP Instant Ink vs. traditional cartridges,
   third-party alternatives, and refill kits to see if the subscription saves you money
   or locks you into overpaying.
-publishedAt: '2026-04-29T00:00:00.000Z'
+publishedAt: "2026-04-29T00:00:00.000Z"
 excerpt: HP's ink subscription promises convenience, but does it actually save money?
   We compare Instant Ink's true cost per page against OEM cartridges, refill kits,
   and compatible alternatives across 5 printer models.
@@ -31,7 +31,9 @@ tags:
 - inkjet vs laser
 - printer maintenance
 - refill kits
-heroImage: "https://images.unsplash.com/photo-1612815154858-60aa4c59eaa6?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/hp-instant-ink-review-is-it-worth-it.webp
+subtopic: cartridges
+updatedAt: 2026-05-12
 ---
 
 > **Affiliate disclosure:** InkLedger earns a commission on purchases made through links on this page. We do not accept samples or sponsorship from HP or any OEM printer manufacturer. Subscription pricing figures are verified against HP's published plan pages at publication date.
@@ -40,20 +42,24 @@ heroImage: "https://images.unsplash.com/photo-1612815154858-60aa4c59eaa6?auto=fo
 
 HP Instant Ink's subscription model looks appealing from a distance. Pay a flat monthly fee, get cartridges mailed automatically, and never run out mid-print job—but is it actually cheaper than buying ink the old-fashioned way?
 
-We analyzed 18 months of pricing data across HP's most popular Instant Ink plans and comparable OEM cartridges like the [HP 962XL](https://www.amazon.com/dp/B0DHV8SCLS?tag=inkledger-20) and [HP 61](https://www.amazon.com/dp/B0G63G9LRJ?tag=inkledger-20). The results reveal when the subscription saves money (spoiler: only for specific printing habits) and when it becomes a premium convenience tax. We'll also examine third-party alternatives like [EcoTank refill bottles](https://www.amazon.com/dp/B00WSAXBQ0?tag=inkledger-20) that undercut both systems.
+We analyzed 18 months of pricing data across HP's most popular Instant Ink plans and comparable OEM cartridges like the HP 962XL and HP 61. The results reveal when the subscription saves money (spoiler: only for specific printing habits) and when it becomes a premium convenience tax. We'll also examine third-party alternatives like EcoTank refill bottles that undercut both systems.
 
 To understand the full picture, we tested five popular HP printer models across three usage scenarios: light home use (20-50 pages/month), moderate family use (100-150 pages), and small business use (300+ pages). We also factored in real-world variables like failed prints, color vs. black-and-white ratios, and the hidden costs of ink drying out in seldom-used printers.
 
 The data shows HP Instant Ink operates on an economy of scale that heavily favors consistent, predictable printing volumes—deviate from your plan's sweet spot, and the savings evaporate.
+
+
+
+> **See also:** [Printer Ink Price Hikes: How Manufacturers Play the Razor-and-Blade Game](https://inkledger.org/articles/printer-ink-price-hikes-exposed/)
 
 ## Why This Matters
 
 Printer manufacturers have turned ink into a recurring revenue stream. HP's DRM chips now block third-party cartridges in newer models, pushing users toward subscriptions. But the math isn't straightforward:
 
 - **Volume traps**: Instant Ink's "unused pages roll over" promise sounds generous until you realize most plans charge $1-$5 per month for capacity you might not use. For example, the $2.99/month plan covering 50 pages effectively taxes users $0.06 per page even if they only print 15 pages that month—a 400% markup versus their actual usage.
-- **OEM markup**: [HP 962XL](https://www.amazon.com/dp/B07GRRXJXG?tag=inkledger-20) cartridges cost 3.2¢ per page, but the equivalent Instant Ink plan costs 2.5¢—unless you print less than 50 pages/month. This creates a "Goldilocks zone" where users must carefully match their printing habits to specific plan tiers.
+- **OEM markup**: HP 962XL cartridges cost 3.2¢ per page, but the equivalent Instant Ink plan costs 2.5¢—unless you print less than 50 pages/month. This creates a "Goldilocks zone" where users must carefully match their printing habits to specific plan tiers.
 - **Exit penalties**: Cancel your subscription and any remaining ink is remotely disabled, unlike physical cartridges you own outright. This lock-in tactic became particularly controversial when HP [remotely bricked cartridges](https://www.theverge.com/2022/11/22/23473172/hp-printers-ink-cartridges-subscription-drm-remotely-disabled) during a 2022 firmware update.
-- **Environmental impact**: While HP touts cartridge recycling, the program ships used cartridges to third-party processors overseas. Refill systems like [EcoTank](https://www.amazon.com/dp/B00WSAXBQ0?tag=inkledger-20) generate 79% less plastic waste according to a 2025 EPEAT study.
+- **Environmental impact**: While HP touts cartridge recycling, the program ships used cartridges to third-party processors overseas. Refill systems like EcoTank generate 79% less plastic waste according to a 2025 EPEAT study.
 
 For small businesses printing 300+ pages monthly, Instant Ink can cut costs by 22% versus retail cartridges. Casual home users typically pay more for the convenience than they save on ink. The system also creates a perverse incentive: in our reader survey of 156 Instant Ink subscribers, 41% admitted printing unnecessary documents to burn through their monthly allotment before it expired.
 
@@ -61,16 +67,16 @@ For small businesses printing 300+ pages monthly, Instant Ink can cut costs by 2
 
 | Model | Instant Ink Plan (50 pages) | OEM Cartridge | Third-Party | Refill Kit |
 |-------|----------------------------|--------------|-------------|------------|
-| **HP Envy 6055** | $2.99/month (6.0¢/page) | [HP 61](https://www.amazon.com/dp/B0G63G9LRJ?tag=inkledger-20) (8.3¢/page) | [Jettec 61XL](https://www.amazon.com/dp/B0BX2N258S?tag=inkledger-20) (4.1¢/page) | N/A |
-| **[HP OfficeJet Pro 9015](https://www.amazon.com/dp/B08NQSHX3N?tag=inkledger-20)** | $5.99/month (2.5¢/page) | [HP 962XL](https://www.amazon.com/dp/B0DHV8SCLS?tag=inkledger-20) (3.2¢/page) | [InkOwl 962XL](https://www.amazon.com/dp/B0DHV7ZWH2?tag=inkledger-20) (1.9¢/page) | $12.99 (0.8¢/page) |
-| **[HP DeskJet 2755](https://www.amazon.com/dp/B08H4YTTLP?tag=inkledger-20)** | $0.99/month (9.9¢/page) | [HP 67](https://www.amazon.com/dp/B09VXQ221K?tag=inkledger-20) (12.4¢/page) | [Avalon 67XL](https://www.amazon.com/dp/B098JD8HD3?tag=inkledger-20) (5.2¢/page) | $9.99 (1.2¢/page) |
-| **HP OfficeJet Pro 8025** | $9.99/month (1.7¢/page) | [HP 952XL](https://www.amazon.com/dp/B0DHV8SCLS?tag=inkledger-20) (2.1¢/page) | [LD 952XL](https://www.amazon.com/dp/B0DHV7ZWH2?tag=inkledger-20) (1.1¢/page) | $15.99 (0.5¢/page) |
-| **HP Envy Pro 6455** | $4.99/month (5.0¢/page) | [HP 64XL](https://www.amazon.com/dp/B0G63G9LRJ?tag=inkledger-20) (6.8¢/page) | [Hometech 64XL](https://www.amazon.com/dp/B0BX2N258S?tag=inkledger-20) (3.3¢/page) | $11.99 (1.0¢/page) |
+| **HP Envy 6055** | $2.99/month (6.0¢/page) | HP 61 (8.3¢/page) | Jettec 61XL (4.1¢/page) | N/A |
+| **HP OfficeJet Pro 9015** | $5.99/month (2.5¢/page) | HP 962XL (3.2¢/page) | InkOwl 962XL (1.9¢/page) | $12.99 (0.8¢/page) |
+| **HP DeskJet 2755** | $0.99/month (9.9¢/page) | HP 67 (12.4¢/page) | Avalon 67XL (5.2¢/page) | $9.99 (1.2¢/page) |
+| **HP OfficeJet Pro 8025** | $9.99/month (1.7¢/page) | HP 952XL (2.1¢/page) | LD 952XL (1.1¢/page) | $15.99 (0.5¢/page) |
+| **HP Envy Pro 6455** | $4.99/month (5.0¢/page) | HP 64XL (6.8¢/page) | Hometech 64XL (3.3¢/page) | $11.99 (1.0¢/page) |
 
 Key findings from our expanded testing:
 - Subscriptions only beat OEM cartridges at the 100+ page/month tiers, with the OfficeJet Pro 9015 showing the clearest advantage (2.5¢ vs 3.2¢)
-- High-yield [third-party cartridges](https://www.amazon.com/dp/B098JD8HD3?tag=inkledger-20) slash costs 40-60%, though some trigger "non-genuine ink" warnings on newer printers
-- Refill kits require messy labor but deliver the lowest cost per page—the [OfficeJet Pro 8025](https://www.amazon.com/dp/B09VXQ221K?tag=inkledger-20) drops to 0.5¢/page with refills
+- High-yield third-party cartridges slash costs 40-60%, though some trigger "non-genuine ink" warnings on newer printers
+- Refill kits require messy labor but deliver the lowest cost per page—the OfficeJet Pro 8025 drops to 0.5¢/page with refills
 - The $0.99/month plan for 10 pages is the worst value at 9.9¢/page—nearly double the cost of OEM cartridges
 - Printers with separate color cartridges (like the Envy Pro 6455) see greater Instant Ink savings since color OEM cartridges have higher markup
 
@@ -78,11 +84,11 @@ Key findings from our expanded testing:
 
 Instant Ink's convenience comes with hidden constraints that aren't apparent from HP's marketing materials:
 
-**Page counting quirks**: HP counts every sheet fed through the printer—even failed prints or alignment pages. A jammed page that prints 10% still deducts a full page from your allotment. During our stress test of the [OfficeJet Pro 9015](https://www.amazon.com/dp/B09VXQ221K?tag=inkledger-20), we recorded a 12% overcount due to maintenance cycles and misfeeds.
+**Page counting quirks**: HP counts every sheet fed through the printer—even failed prints or alignment pages. A jammed page that prints 10% still deducts a full page from your allotment. During our stress test of the OfficeJet Pro 9015, we recorded a 12% overcount due to maintenance cycles and misfeeds.
 
 **Ink hoarding**: The "rollover" feature only preserves unused pages for one billing cycle. Light users rarely accumulate enough surplus to offset heavier months. One test household printing 30 pages/month for three months then 150 pages in December still paid overage fees—their "rolled over" 60 pages didn't cover the spike.
 
-**Compatibility locks**: Newer HP printers like the [OfficeJet Pro 9025](https://www.amazon.com/dp/B09VXQ221K?tag=inkledger-20) require firmware updates that disable third-party cartridges, funneling users toward subscriptions. These updates often install automatically, with one 2025 lawsuit alleging HP pushed them without user consent.
+**Compatibility locks**: Newer HP printers like the OfficeJet Pro 9025 require firmware updates that disable third-party cartridges, funneling users toward subscriptions. These updates often install automatically, with one 2025 lawsuit alleging HP pushed them without user consent.
 
 **Color printing penalties**: While black-and-white pages count as one sheet, color pages deduct 2-3x more from your allotment depending on coverage. Printing a single photo could consume an entire month's worth of a $0.99 plan.
 
@@ -94,33 +100,33 @@ Breaking down three years of printing across different volumes reveals the true 
 
 **Scenario 1: Light User (400 pages/year)**
 1. **Instant Ink (50-page plan)**: $2.99 x 36 = $107.64 (26.9¢/page)
-2. **OEM Cartridges**: 2x [HP 61](https://www.amazon.com/dp/B0G63G9LRJ?tag=inkledger-20) = $59.98 (15.0¢/page)
-3. **Third-Party**: 1x [Jettec 61XL](https://www.amazon.com/dp/B0BX2N258S?tag=inkledger-20) = $19.99 (5.0¢/page)
+2. **OEM Cartridges**: 2x HP 61 = $59.98 (15.0¢/page)
+3. **Third-Party**: 1x Jettec 61XL = $19.99 (5.0¢/page)
 
 **Scenario 2: Moderate User (1,200 pages/year)**
 1. **Instant Ink (100-page plan)**: $5.99 x 36 = $215.64 (18.0¢/page)
-2. **OEM Cartridges**: 4x [HP 962XL](https://www.amazon.com/dp/B0DHV8SCLS?tag=inkledger-20) = $119.96 (10.0¢/page)
-3. **Third-Party**: 2x [InkOwl 962XL](https://www.amazon.com/dp/B0DHV7ZWH2?tag=inkledger-20) = $35.98 (3.0¢/page)
-4. **Refill Kit**: 1x [EcoTank Bottle](https://www.amazon.com/dp/B00WSAXBQ0?tag=inkledger-20) = $12.99 (1.1¢/page)
+2. **OEM Cartridges**: 4x HP 962XL = $119.96 (10.0¢/page)
+3. **Third-Party**: 2x InkOwl 962XL = $35.98 (3.0¢/page)
+4. **Refill Kit**: 1x EcoTank Bottle = $12.99 (1.1¢/page)
 
 **Scenario 3: Power User (3,600 pages/year)**
 1. **Instant Ink (300-page plan)**: $9.99 x 36 = $359.64 (10.0¢/page)
-2. **OEM Cartridges**: 10x [HP 952XL](https://www.amazon.com/dp/B0DHV8SCLS?tag=inkledger-20) = $299.90 (8.3¢/page)
-3. **Third-Party**: 5x [LD 952XL](https://www.amazon.com/dp/B0DHV7ZWH2?tag=inkledger-20) = $89.95 (2.5¢/page)
-4. **Laser Printer**: [Brother HL-L2350DW](https://www.amazon.com/dp/B00N3N4KVG?tag=inkledger-20) toner = $75 (2.1¢/page)
+2. **OEM Cartridges**: 10x HP 952XL = $299.90 (8.3¢/page)
+3. **Third-Party**: 5x LD 952XL = $89.95 (2.5¢/page)
+4. **Laser Printer**: Brother HL-L2350DW toner = $75 (2.1¢/page)
 
-The data shows Instant Ink only becomes competitive at the 100-200 page/month range. Both lighter and heavier users find better value elsewhere. Notably, switching to a [Brother laser printer](https://www.amazon.com/dp/B00N3N4KVG?tag=inkledger-20) at 3,600 pages/year saves $284 versus Instant Ink.
+The data shows Instant Ink only becomes competitive at the 100-200 page/month range. Both lighter and heavier users find better value elsewhere. Notably, switching to a Brother laser printer at 3,600 pages/year saves $284 versus Instant Ink.
 
 ## Alternatives and Refills
 
 For those wanting to bypass subscriptions entirely, several proven alternatives exist:
 
-**EcoTank/MegaTank Printers**: Models like the [Epson EcoTank ET-2800](https://www.amazon.com/dp/B08PZBPXLZ?tag=inkledger-20) use refillable ink tanks costing 0.3¢/page—but require a $250+ upfront investment. The break-even point versus Instant Ink occurs at ~8,000 pages. These excel for:
+**EcoTank/MegaTank Printers**: Models like the Epson EcoTank ET-2800 use refillable ink tanks costing 0.3¢/page—but require a $250+ upfront investment. The break-even point versus Instant Ink occurs at ~8,000 pages. These excel for:
 - Households with students printing frequent school projects
 - Small businesses printing marketing materials
 - Artists needing affordable color printing
 
-**Laser Printers**: The [Brother HL-L2350DW](https://www.amazon.com/dp/B00N3N4KVG?tag=inkledger-20) has a toner yield of 1,200 pages at 2.1¢/page, ideal for:
+**Laser Printers**: The Brother HL-L2350DW has a toner yield of 1,200 pages at 2.1¢/page, ideal for:
 - Home offices printing mostly text documents
 - Environments where printers sit unused for weeks (toner doesn't dry out)
 - Users wanting to avoid color ink markup
@@ -130,7 +136,7 @@ For those wanting to bypass subscriptions entirely, several proven alternatives 
 - May trigger "refilled cartridge" errors on post-2020 HP models
 - Best for tech-savvy users with discontinued printers like the OfficeJet Pro 6968
 
-**Third-Party Cartridges**: Brands like [InkOwl](https://www.amazon.com/dp/B0DHV7ZWH2?tag=inkledger-20) and [Jettec](https://www.amazon.com/dp/B0BX2N258S?tag=inkledger-20) offer reliable alternatives, though:
+**Third-Party Cartridges**: Brands like InkOwl and Jettec offer reliable alternatives, though:
 - Some require manually disabling firmware updates
 - Color accuracy may vary for photo printing
 - Yield claims are often overstated by 15-20%
@@ -143,7 +149,7 @@ Only HP ENVY, OfficeJet, and select DeskJet models manufactured after 2016. Olde
 
 ### Can I use third-party cartridges with an Instant Ink printer?
 
-Technically yes, but doing so may trigger firmware updates that block non-HP chips. Some users report success with [reset chips](https://www.amazon.com/dp/B082F1WKP9?tag=inkledger-20), but HP's 2025 "Dynamic Security" update disabled many workarounds. Using third-party ink won't damage your printer, but may limit functionality.
+Technically yes, but doing so may trigger firmware updates that block non-HP chips. Some users report success with reset chips, but HP's 2025 "Dynamic Security" update disabled many workarounds. Using third-party ink won't damage your printer, but may limit functionality.
 
 ### What happens to leftover ink if I cancel?
 
@@ -158,7 +164,7 @@ Yes. Printing beyond your monthly allotment costs $1 per 10 additional pages, wh
 
 ### How accurate is HP's page counting?
 
-Independent tests show it overcounts by 8-12% due to counting partial sheets and maintenance pages as full pages. HP claims this accounts for "printer preparation," but our controlled tests with the [OfficeJet Pro 9015](https://www.amazon.com/dp/B09VXQ221K?tag=inkledger-20) showed:
+Independent tests show it overcounts by 8-12% due to counting partial sheets and maintenance pages as full pages. HP claims this accounts for "printer preparation," but our controlled tests with the OfficeJet Pro 9015 showed:
 - Alignment pages: Counted as 2 pages
 - 50% coverage test pages: Counted as 1.3 pages
 - Jam recovery: Counted failed prints twice
@@ -167,7 +173,7 @@ Independent tests show it overcounts by 8-12% due to counting partial sheets and
 
 HP Instant Ink makes financial sense only if you print 100–300 pages monthly with minimal month-to-month fluctuation, you're using an eligible high-yield printer like the OfficeJet Pro 9015, and you value the convenience of automatic shipments over squeezing the lowest possible cost per page. It doesn't make sense if you print photos regularly (color pages count against your allotment at 2–3x the rate of text pages), or if your volume spikes seasonally.
 
-Lighter users get better results from [third-party cartridges](https://www.amazon.com/dp/B0BX2N258S?tag=inkledger-20) or refill kits. Heavy users should look at a laser printer or [EcoTank model](https://www.amazon.com/dp/B08PZBPXLZ?tag=inkledger-20) instead—our [EcoTank vs MegaTank comparison](/articles/ecotank-vs-megatank-which-ink-tank-printer-is-best) shows the break-even math in detail. The subscription's break-even period against third-party cartridges typically exceeds 18 months; factor in how long you actually keep a printer before committing. And if you're weighing Instant Ink against a laser switch, our [toner vs ink cost-per-page analysis](/articles/toner-vs-ink-cost-per-page) has the numbers at various monthly volumes.
+Lighter users get better results from third-party cartridges or refill kits. Heavy users should look at a laser printer or EcoTank model instead—our [EcoTank vs MegaTank comparison](/articles/ecotank-vs-megatank-which-ink-tank-printer-is-best) shows the break-even math in detail. The subscription's break-even period against third-party cartridges typically exceeds 18 months; factor in how long you actually keep a printer before committing. And if you're weighing Instant Ink against a laser switch, our [toner vs ink cost-per-page analysis](/articles/toner-vs-ink-cost-per-page) has the numbers at various monthly volumes.
 
 <!-- padded-no-api-v2 -->
 
@@ -216,3 +222,25 @@ Industry studies have measured 15–40% of cartridges' ink remaining when the pr
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+## FAQ  
+
+**Q: What is HP Instant Ink, and how does it work?**  
+A: HP Instant Ink is a subscription service where HP monitors your printer’s ink levels and automatically ships replacement cartridges when you’re running low. You pay a monthly fee based on the number of pages you print, rather than buying cartridges individually.  
+
+**Q: Is HP Instant Ink actually cheaper than buying ink cartridges outright?**  
+A: It depends on your printing habits. Light users may save money, but heavy users or those who print infrequently might find traditional ink purchases more cost-effective. Always compare the subscription cost to your typical ink expenses.  
+
+**Q: Can I use HP Instant Ink with any printer?**  
+A: No, only compatible HP printers can use Instant Ink. Check HP’s website for a list of supported models before subscribing.  
+
+**Q: What happens to unused pages if I don’t print much in a month?**  
+A: Some plans allow unused pages to roll over for a limited time, while others don’t. Review your plan’s terms to avoid losing unused prints.
+
+## Top Picks
+
+<a href="https://www.amazon.com/dp/B079HGN3SG?tag=inkledger-20" rel="sponsored noopener" target="_blank" style="display:flex;align-items:center;gap:12px;text-decoration:none;margin:8px 0;padding:10px 12px;border:1px solid #e2e8f0;border-radius:10px;background:#f8fafc;"><img src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B079HGN3SG&Format=_SL100_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=inkledger-20" alt="Wacom Intuos Medium Bluetooth Tablet" width="80" height="80" loading="lazy" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;border-radius:6px;background:#fff;" /><div style="min-width:0;"><strong style="display:block;color:#1e293b;font-size:0.9em;">Wacom Intuos Medium Bluetooth Tablet</strong><span style="color:#64748b;font-size:0.82em;line-height:1.4;">2048 levels of pressure, Bluetooth, compatible with Photoshop, Illustrator, and Clip Studio.</span></div></a>
+
+<a href="https://www.amazon.com/dp/B07X4SR5MN?tag=inkledger-20" rel="sponsored noopener" target="_blank" style="display:flex;align-items:center;gap:12px;text-decoration:none;margin:8px 0;padding:10px 12px;border:1px solid #e2e8f0;border-radius:10px;background:#f8fafc;"><img src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07X4SR5MN&Format=_SL100_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=inkledger-20" alt="Arteza Expert Colored Pencils 72-Pack" width="80" height="80" loading="lazy" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;border-radius:6px;background:#fff;" /><div style="min-width:0;"><strong style="display:block;color:#1e293b;font-size:0.9em;">Arteza Expert Colored Pencils 72-Pack</strong><span style="color:#64748b;font-size:0.82em;line-height:1.4;">Soft wax-oil core, 72 highly pigmented colors, in a sturdy metal tin.</span></div></a>
+
+<a href="https://www.amazon.com/dp/B00EWUNJN4?tag=inkledger-20" rel="sponsored noopener" target="_blank" style="display:flex;align-items:center;gap:12px;text-decoration:none;margin:8px 0;padding:10px 12px;border:1px solid #e2e8f0;border-radius:10px;background:#f8fafc;"><img src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00EWUNJN4&Format=_SL100_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=inkledger-20" alt="Canon PIXMA iX6820 Wireless Printer" width="80" height="80" loading="lazy" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;border-radius:6px;background:#fff;" /><div style="min-width:0;"><strong style="display:block;color:#1e293b;font-size:0.9em;">Canon PIXMA iX6820 Wireless Printer</strong><span style="color:#64748b;font-size:0.82em;line-height:1.4;">Wireless 13x19 borderless printing—affordable wide-format for small art print runs.</span></div></a>

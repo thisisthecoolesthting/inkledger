@@ -1,18 +1,30 @@
 ---
-title: 'Epson 202 cartridges: why two colors cost more than the full set'
+title: "Epson 202 cartridges: why two colors cost more than the full set"
 site: inkledger
-topic: 'Epson 202 cartridges: why two colors cost more than the full set'
+topic: "Epson 202 cartridges: why two colors cost more than the full set"
 tier: full
 relatedProducts: []
 status: published
-heroImage: "https://images.unsplash.com/photo-1612815154858-60aa4c59eaa6?auto=format&fit=crop&w=1600&q=80"
+heroImage: /heroes/epson-202-cartridges-why-two-colors-cost-more-than-the-full-set.webp
 metaDescription: "Epson 202 Cartridges: Why Two Colors Cost More Than the Full Set"
 publishedAt: 2026-04-24
 excerpt: "Epson 202 Cartridges: Why Two Colors Cost More Than the Full Set"
+subtopic: cartridges
+updatedAt: 2026-05-12
 ---
 ## Epson 202 Cartridges: Why Two Colors Cost More Than the Full Set
 
+| Feature/Detail          | Full Set (Cyan, Magenta, Yellow, Black) | Two Colors (Cyan, Magenta) | Notes                          |
+|--------------------------|-----------------------------------------|----------------------------|--------------------------------|
+| **Price**               | Lower                                  | Higher                     | Economies of scale apply      |
+| **Usage Efficiency**    | Balanced usage across colors           | Potential overuse of two   | May lead to uneven depletion  |
+| **Availability**        | Commonly bundled                       | Often sold separately      | Bundles reduce per-unit cost  |
+
 When shopping for printer ink, it’s easy to be caught off guard by pricing differences that don’t seem to add up. One particular example is Epson’s 202 cartridge series. You might notice that buying just two separate colors from this series occasionally costs more than purchasing a whole set of cartridges. Why does this happen? This article breaks down the practical reasons behind Epson 202 cartridges’ pricing structure so you can make informed decisions for your printing needs.
+
+
+
+> **See also:** [4. Epson 202 cartridges: why two colors cost more than the full set](https://inkledger.org/articles/4-epson-202-cartridges-why-two-colors-cost-more-than-the-full-set/)
 
 ## Understanding Epson 202 Cartridges
 
@@ -123,3 +135,25 @@ Quality runs OEM > top-tier remanufactured > most compatibles > bargain compatib
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+
+## FAQ  
+
+**Q: Why do individual Epson 202 cartridges in two-color packs cost more than the full set?**  
+A: Epson prices two-color packs higher per cartridge to incentivize buying the full set, which includes all colors. This strategy ensures higher overall sales while offering a perceived discount for bulk purchases.  
+
+**Q: Are there any alternatives to buying expensive two-color packs?**  
+A: Yes, purchasing the full set upfront is more cost-effective. Alternatively, some third-party or refillable ink options may offer savings, though they may not be OEM-approved.  
+
+**Q: Does Epson use this pricing strategy for other cartridge models?**  
+A: Yes, Epson often applies similar pricing tactics across its cartridge lines, including the 102 and 502 series, to encourage bulk purchases.  
+
+**Q: Will using third-party cartridges void my printer’s warranty?**  
+A: It depends on Epson’s policy, but using non-OEM cartridges can sometimes void warranties. Always check your printer’s terms before opting for third-party inks.
+
+## Top Picks
+
+<a href="https://www.amazon.com/dp/B079HGN3SG?tag=inkledger-20" rel="sponsored noopener" target="_blank" style="display:flex;align-items:center;gap:12px;text-decoration:none;margin:8px 0;padding:10px 12px;border:1px solid #e2e8f0;border-radius:10px;background:#f8fafc;"><img src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B079HGN3SG&Format=_SL100_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=inkledger-20" alt="Wacom Intuos Medium Bluetooth Tablet" width="80" height="80" loading="lazy" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;border-radius:6px;background:#fff;" /><div style="min-width:0;"><strong style="display:block;color:#1e293b;font-size:0.9em;">Wacom Intuos Medium Bluetooth Tablet</strong><span style="color:#64748b;font-size:0.82em;line-height:1.4;">2048 levels of pressure, Bluetooth, compatible with Photoshop, Illustrator, and Clip Studio.</span></div></a>
+
+<a href="https://www.amazon.com/dp/B07X4SR5MN?tag=inkledger-20" rel="sponsored noopener" target="_blank" style="display:flex;align-items:center;gap:12px;text-decoration:none;margin:8px 0;padding:10px 12px;border:1px solid #e2e8f0;border-radius:10px;background:#f8fafc;"><img src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07X4SR5MN&Format=_SL100_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=inkledger-20" alt="Arteza Expert Colored Pencils 72-Pack" width="80" height="80" loading="lazy" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;border-radius:6px;background:#fff;" /><div style="min-width:0;"><strong style="display:block;color:#1e293b;font-size:0.9em;">Arteza Expert Colored Pencils 72-Pack</strong><span style="color:#64748b;font-size:0.82em;line-height:1.4;">Soft wax-oil core, 72 highly pigmented colors, in a sturdy metal tin.</span></div></a>
+
+<a href="https://www.amazon.com/dp/B00EWUNJN4?tag=inkledger-20" rel="sponsored noopener" target="_blank" style="display:flex;align-items:center;gap:12px;text-decoration:none;margin:8px 0;padding:10px 12px;border:1px solid #e2e8f0;border-radius:10px;background:#f8fafc;"><img src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00EWUNJN4&Format=_SL100_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=inkledger-20" alt="Canon PIXMA iX6820 Wireless Printer" width="80" height="80" loading="lazy" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;border-radius:6px;background:#fff;" /><div style="min-width:0;"><strong style="display:block;color:#1e293b;font-size:0.9em;">Canon PIXMA iX6820 Wireless Printer</strong><span style="color:#64748b;font-size:0.82em;line-height:1.4;">Wireless 13x19 borderless printing—affordable wide-format for small art print runs.</span></div></a>
