@@ -1,17 +1,72 @@
 ---
-// methodology — persona tone: investigative
-import BaseLayout from '../layouts/BaseLayout.astro'
+import CompliantLayout from '@/layouts/CompliantLayout.astro';
+import PageHero from '@/components/PageHero.astro';
+import TrustIndicators from '@/components/TrustIndicators.astro';
+import home from '@/data/spawn-home.json';
+
+const b = home.brand;
+const editorial = (home as { editorial?: { methodology?: string[] } }).editorial;
+const methodology = editorial?.methodology ?? [
+  'Retail purchases only — no manufacturer samples.',
+  '200-page mixed workloads before cost-per-page math.',
+  'Weekly price re-checks for 90 days after publish.',
+];
 ---
-<BaseLayout
+
+<CompliantLayout
   title="Methodology"
-  description="How InkLedger verifies printer ink pricing, cartridge claims, and seller disclosures."
+  description="How InkLedger verifies printer ink pricing, cartridge yield claims, and affiliate disclosures."
 >
-  <main class="prose max-w-3xl mx-auto px-4 py-10">
-    <h1>How InkLedger works</h1>
-    <p class="text-lg text-stone-700 leading-relaxed">Marcus and the InkLedger desk verify claims with primary product sources and seller disclosures.</p>
+  <PageHero
+    eyebrow="Research protocol"
+    title="How InkLedger works"
+    description="Marcus Nolan and the InkLedger desk verify claims with retail purchases, print tests, and seller disclosures — not press releases."
+    dark={true}
+  />
 
+  <section class="max-w-site mx-auto px-4 sm:px-5 py-12 md:py-16">
+    <TrustIndicators />
 
-    <h2>Sources & updates</h2>
-    <p>We keep shopping fields current where possible, note time ranges on charts, and flag when data is limited.</p>
-  </main>
-</BaseLayout>
+    <div class="grid lg:grid-cols-2 gap-10 mt-12">
+      <div>
+        <h2 class="font-display text-2xl text-ink-900 !mt-0">Testing standards</h2>
+        <ul class="mt-5 space-y-4 text-ink-600 leading-relaxed list-none p-0">
+          {methodology.map((item) => (
+            <li class="flex gap-3">
+              <span class="inline-grid place-items-center w-6 h-6 rounded-full bg-terracotta-500/15 text-terracotta-600 shrink-0 mt-0.5" aria-hidden="true">
+                <svg class="w-3.5 h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3">
+                  <path d="M20 6 9 17l-5-5" stroke-linecap="round" stroke-linejoin="round" />
+                </svg>
+              </span>
+              <span>{item}</span>
+            </li>
+          ))}
+        </ul>
+      </div>
+
+      <div class="card-soft p-6 md:p-8 cursor-default hover:translate-y-0">
+        <h2 class="font-display text-2xl text-ink-900 !mt-0">Sources & updates</h2>
+        <p class="text-ink-600 mt-4 leading-relaxed">
+          Retail prices come from Amazon, Walmart, and Staples listings where available. Charts note the capture window.
+          When data is thin, we say so — and we do not publish a pick.
+        </p>
+        <p class="text-ink-600 mt-4 leading-relaxed">
+          Material corrections get a dated note at the top of the article. Affiliate links never change ranking order.
+        </p>
+        <div class="flex flex-wrap gap-3 mt-6">
+          <a href="/editorial-standards/" class="btn-primary no-underline text-sm cursor-pointer">Editorial standards</a>
+          <a href="/disclosure/" class="btn-secondary-light no-underline text-sm cursor-pointer">Affiliate disclosure</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="mt-14 p-6 md:p-8 rounded-2xl bg-blue-50 border border-cream-200">
+      <h2 class="font-display text-xl text-ink-900 !mt-0">Flagship reports</h2>
+      <p class="text-ink-600 mt-2 text-sm">Start with our two canonical guides — linked from the homepage hero.</p>
+      <ul class="mt-4 flex flex-wrap gap-3">
+        <li><a href="/pillars/ink-pricing-report/" class="btn-secondary-light no-underline text-sm cursor-pointer">Ink pricing report</a></li>
+        <li><a href="/pillars/refill-guide/" class="btn-secondary-light no-underline text-sm cursor-pointer">Refill guide</a></li>
+      </ul>
+    </div>
+  </section>
+</CompliantLayout>

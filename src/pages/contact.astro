@@ -1,27 +1,38 @@
 ---
 import CompliantLayout from '@/layouts/CompliantLayout.astro';
-import home from '@/data/brand.config.json';
+import PageHero from '@/components/PageHero.astro';
+import home from '@/data/spawn-home.json';
 
 const b = home.brand;
-const supportEmail = (home as { supportEmail?: string }).supportEmail || 'hello@example.com';
+const supportEmail = (home as { supportEmail?: string }).supportEmail || 'hello@inkledger.co';
 ---
 
 <CompliantLayout
   title={`Contact ${b.fullName}`}
-  description={`Contact the editorial team at ${b.fullName}.`}
+  description={`Contact the InkLedger editorial team for corrections, tips, and reader print samples.`}
 >
-  <section class="pt-8 md:pt-14 max-w-3xl mx-auto px-6 pb-16">
-    <h1 class="font-display text-4xl text-ink-900 mb-5 !mt-0">Contact</h1>
-    <p class="text-ink-700 leading-relaxed mb-4">
-      Questions, corrections, or product updates? Email us and we will review it for the next refresh cycle.
-    </p>
-    <p class="text-ink-900 font-medium mb-8">
-      <a class="text-terracotta-600 hover:underline" href={`mailto:${supportEmail}`}>{supportEmail}</a>
-    </p>
-    <p class="text-sm text-ink-600 leading-relaxed">
-      We do not accept paid placement in reviews. For editorial policy details, see
-      {' '}
-      <a class="text-terracotta-600 hover:underline" href="/editorial-standards/">Editorial Standards</a>.
-    </p>
+  <PageHero
+    eyebrow="Get in touch"
+    title="Contact InkLedger"
+    description="Questions, corrections, or reader-submitted print samples? We review every message for the next refresh cycle."
+  />
+
+  <section class="max-w-3xl mx-auto px-4 sm:px-5 pb-16 md:pb-20">
+    <div class="card-soft p-6 md:p-8 cursor-default hover:translate-y-0">
+      <p class="text-ink-600 leading-relaxed mb-4">
+        Email the desk directly. We typically respond within two business days.
+      </p>
+      <p class="text-ink-900 font-semibold text-lg mb-8">
+        <a class="text-terracotta-600 hover:underline no-underline cursor-pointer" href={`mailto:${supportEmail}`}>{supportEmail}</a>
+      </p>
+      <p class="text-sm text-ink-600 leading-relaxed border-t border-cream-200 pt-6">
+        We do not accept paid placement in reviews or sponsored cartridge listings.
+        For policy details see
+        {' '}
+        <a class="text-terracotta-600 hover:underline cursor-pointer" href="/editorial-standards/">Editorial Standards</a>
+        {' '}and{' '}
+        <a class="text-terracotta-600 hover:underline cursor-pointer" href="/disclosure/">Affiliate Disclosure</a>.
+      </p>
+    </div>
   </section>
 </CompliantLayout>

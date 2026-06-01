@@ -1,23 +1,76 @@
 ---
-import BaseLayout from '@/layouts/BaseLayout.astro';
+import CompliantLayout from '@/layouts/CompliantLayout.astro';
+import PageHero from '@/components/PageHero.astro';
 import NewsletterForm from '@/components/NewsletterForm.astro';
+import TrustIndicators from '@/components/TrustIndicators.astro';
+import { getCollection } from 'astro:content';
+import { getEntry } from 'astro:content';
 import home from '@/data/spawn-home.json';
+
 const b = home.brand;
-const dmeta = (home as { defaultMetaDescription?: string }).defaultMetaDescription || b.taglineShort;
+const about = home.about;
+const authorSlug = (home as { defaultAuthorSlug?: string }).defaultAuthorSlug || 'marcus-inkledger';
+const author = await getEntry('authors', authorSlug);
+const articles = await getCollection('articles', ({ data }) => data.status === 'published');
+const products = await getCollection('products', ({ data }) => data.status === 'published');
+const pillars = await getCollection('pillars', ({ data }) => data.status === 'published');
 ---
 
-<BaseLayout
-  title={`About ${b.fullName}`}
-  description={dmeta}
->
-  <section class="pt-8 md:pt-14 max-w-3xl mx-auto px-6">
-    <h1 class="font-display text-4xl text-ink-900 mb-6 !mt-0">About {b.fullName}</h1>
-    <p class="text-lg text-ink-700 leading-relaxed mb-8">
-      {home.about.body}
-    </p>
+<CompliantLayout title={`About ${b.fullName}`} description={b.taglineLong || b.taglineShort}>
+  <PageHero
+    eyebrow="About InkLedger"
+    title={about.headline}
+    description={about.body}
+    dark={true}
+  />
+
+  <section class="max-w-site mx-auto px-4 sm:px-5 py-12 md:py-16">
+    <TrustIndicators />
+    <div class="grid md:grid-cols-3 gap-4 mt-10">
+      <div class="stat-card">
+        <p class="font-display text-4xl text-ink-900">{articles.length}+</p>
+        <p class="font-mono text-[11px] tracking-[0.14em] uppercase text-terracotta-600 mt-2">Published articles</p>
+      </div>
+      <div class="stat-card">
+        <p class="font-display text-4xl text-ink-900">{products.length}</p>
+        <p class="font-mono text-[11px] tracking-[0.14em] uppercase text-terracotta-600 mt-2">Tracked products</p>
+      </div>
+      <div class="stat-card">
+        <p class="font-display text-4xl text-ink-900">{pillars.length}</p>
+        <p class="font-mono text-[11px] tracking-[0.14em] uppercase text-terracotta-600 mt-2">Authority guides</p>
+      </div>
+    </div>
   </section>
 
-  <section class="max-w-3xl mx-auto px-6 pb-16">
+  {author && (
+    <section class="bg-cream-50 border-y border-cream-200 py-12 md:py-16">
+      <div class="max-w-site mx-auto px-4 sm:px-5 grid md:grid-cols-[200px_1fr] gap-8 items-start">
+        <img
+          src={author.data.photoUrl}
+          alt={author.data.name}
+          width="200"
+          height="200"
+          class="w-40 h-40 rounded-2xl object-cover ring-2 ring-cream-200"
+          loading="lazy"
+        />
+        <div>
+          <p class="section-eyebrow mb-2">Editorial lead</p>
+          <h2 class="font-display text-3xl text-ink-900 !mt-0">{author.data.name}</h2>
+          <p class="text-sm text-terracotta-600 font-medium mt-1">{author.data.role}</p>
+          <p class="text-ink-600 mt-4 leading-relaxed max-w-[56ch]">
+            Former office-products industry analyst who spent a decade on the pricing side of the printing business.
+            InkLedger exists so households stop subsidizing razor-and-blade cartridge math.
+          </p>
+          <div class="flex flex-wrap gap-3 mt-6">
+            <a href={`/authors/${author.slug}/`} class="btn-primary no-underline cursor-pointer">Meet the editor</a>
+            <a href="/methodology/" class="btn-secondary-light no-underline cursor-pointer">Our methodology</a>
+          </div>
+        </div>
+      </div>
+    </section>
+  )}
+
+  <section class="max-w-3xl mx-auto px-4 sm:px-5 py-16">
     <NewsletterForm variant="inline" />
   </section>
-</BaseLayout>
+</CompliantLayout>
