@@ -56,7 +56,7 @@
     "ctaSecondaryLabel": "Start with the refill guide",
     "ctaSecondaryHref": "/pillars/refill-guide",
     "trustLine": "No sponsorship from printer manufacturers. Partner revenue only on third-party refills and compatibles we would buy ourselves.",
-    "heroImageUrl": "/images/hero-inkledger.webp"
+    "heroImageUrl": "https://images.unsplash.com/photo-1612815154858-60aa4c59eaa6?auto=format&fit=crop&w=1200&h=675&q=85"
   },
   "about": {
     "headline": "Why InkLedger exists",

@@ -13,7 +13,7 @@ reviewCount: 22340
 bsr: 12
 commissionPerSale: 0.0
 score: 82.0
-imageUrl: "https://images-na.ssl-images-amazon.com/images/I/51L3YJVB1QL._AC_SL1500_.jpg"
+imageUrl: "/images/products/b01ms0kdqf-brother-lc3013bk-xl-black-ink.jpg"
 affiliateUrl: "https://www.amazon.com/dp/B01MS0KDQF?tag=inkledger-20&linkCode=ll1&language=en_US"
 isPrime: true
 status: "published"

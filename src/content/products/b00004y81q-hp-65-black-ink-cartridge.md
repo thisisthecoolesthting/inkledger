@@ -13,7 +13,7 @@ reviewCount: 31240
 bsr: 8
 commissionPerSale: 0.0
 score: 72.0
-imageUrl: "https://images-na.ssl-images-amazon.com/images/I/61Rtz0V7OML._AC_SL1500_.jpg"
+imageUrl: "/images/products/b00004y81q-hp-65-black-ink-cartridge.jpg"
 affiliateUrl: "https://www.amazon.com/dp/B00004Y81Q?tag=inkledger-20&linkCode=ll1&language=en_US"
 isPrime: true
 status: "published"

@@ -8,6 +8,7 @@ import { getCollection } from 'astro:content';
 import ProductCard from '@/components/ProductCard.astro';
 import NewsletterForm from '@/components/NewsletterForm.astro';
 import TrustIndicators from '@/components/TrustIndicators.astro';
+import HeroSnapshot from '@/components/HeroSnapshot.astro';
 import home from '@/data/spawn-home.json';
 
 const h = home.homepage;
@@ -29,7 +30,6 @@ const completeProducts = allProducts.filter((p) => {
   return hasImage && hasPrice && hasRating;
 });
 const compareRow = completeProducts.sort((a, b) => (b.data.score ?? 0) - (a.data.score ?? 0)).slice(0, 3);
-const heroStatCount = completeProducts.length;
 
 const allPillars = await getCollection('pillars', ({ data }) => data.status === 'published');
 const pillarFour = allPillars.sort((a, b) => +new Date(b.data.publishedAt) - +new Date(a.data.publishedAt)).slice(0, 4);
@@ -139,81 +139,57 @@ const socialProof = [
 
 <CompliantLayout title={b.fullName} description={dmeta}>
 
-  {/* ════ 1. HERO — dark ink band (ui-ux-pro-max watchdog pro) ════ */}
-  <section class="hero-band pt-10 md:pt-14 pb-20 md:pb-24">
+  {/* ════ 1. HERO — compact, readable above the fold ════ */}
+  <section class="hero-band pt-6 md:pt-8 pb-10 md:pb-12">
     <div aria-hidden="true" class="pointer-events-none absolute inset-0 -z-10
-         bg-[radial-gradient(55%_50%_at_90%_15%,rgba(245,158,11,.12),transparent_70%),radial-gradient(40%_35%_at_6%_85%,rgba(30,58,138,.25),transparent_70%)]"></div>
+         bg-[radial-gradient(50%_80%_at_100%_0%,rgba(245,158,11,.14),transparent_55%),radial-gradient(40%_50%_at_0%_100%,rgba(30,58,138,.22),transparent_60%)]"></div>
     <div class="max-w-site mx-auto px-4 sm:px-5">
-      <div class="mb-8">
-        <TrustIndicators />
-      </div>
-      <div class="grid md:grid-cols-[1.1fr_1fr] gap-10 md:gap-14 items-center">
-        <div>
-          <p class="section-eyebrow text-terracotta-400">
+      <div class="grid lg:grid-cols-[1fr_380px] xl:grid-cols-[1fr_420px] gap-8 lg:gap-10 items-start">
+        <div class="min-w-0">
+          <p class="section-eyebrow text-terracotta-400 mb-2">
             {h.eyebrow}
           </p>
-          <h1 class="font-display text-4xl md:text-5xl lg:text-[3.25rem] text-cream-50 mt-3 leading-[1.08] tracking-tight text-balance">
+          <h1 class="font-display text-3xl sm:text-4xl lg:text-[2.75rem] text-cream-50 leading-[1.1] tracking-tight text-balance">
             {h.h1}
           </h1>
-          <p class="text-base md:text-lg text-cream-50/85 max-w-[34em] mt-5 leading-relaxed">
+          <p class="text-base text-cream-50/85 max-w-[36em] mt-4 leading-relaxed">
             {h.subhead}
           </p>
-          <div class="flex flex-wrap gap-3 mt-7">
-            <a href={h.ctaPrimaryHref} class="btn-primary no-underline cursor-pointer">
+          <div class="flex flex-wrap gap-3 mt-6">
+            <a href={h.ctaPrimaryHref} class="btn-primary no-underline cursor-pointer text-sm md:text-base">
               {h.ctaPrimaryLabel}
               <svg class="w-4 h-4 ml-2" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
                 <path d="M5 12h14M13 5l7 7-7 7" stroke-linecap="round" stroke-linejoin="round" />
               </svg>
             </a>
-            <a href={h.ctaSecondaryHref} class="btn-secondary no-underline cursor-pointer">
+            <a href={h.ctaSecondaryHref} class="btn-secondary no-underline cursor-pointer text-sm md:text-base">
               {h.ctaSecondaryLabel}
             </a>
           </div>
-          <ul class="flex flex-wrap gap-x-6 gap-y-2 mt-8 text-sm text-cream-50/80" role="list">
-            {['No manufacturer sponsorships', 'Price-history tracked weekly', 'Partner-supported only'].map((t) => (
-              <li class="flex items-center gap-2">
-                <span class="inline-grid place-items-center w-5 h-5 rounded-full bg-terracotta-500/20 text-terracotta-400 shrink-0" aria-hidden="true">
-                  <svg class="w-3 h-3" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3">
-                    <path d="M20 6 9 17l-5-5" stroke-linecap="round" stroke-linejoin="round" />
-                  </svg>
-                </span>
+          <ul class="flex flex-wrap gap-x-5 gap-y-2 mt-5 text-sm text-cream-50/75" role="list">
+            {['No OEM sponsorships', 'Weekly price checks', `${allArticles.length}+ articles`].map((t) => (
+              <li class="flex items-center gap-1.5">
+                <svg class="w-4 h-4 text-terracotta-400 shrink-0" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" aria-hidden="true">
+                  <path d="M20 6 9 17l-5-5" stroke-linecap="round" stroke-linejoin="round" />
+                </svg>
                 {t}
               </li>
             ))}
           </ul>
         </div>
 
-        <div class="relative">
-          <div class="relative rounded-2xl overflow-hidden shadow-soft-lg aspect-[2/3] border border-cream-50/10">
-            {h.heroImageUrl ? (
-              <img src={h.heroImageUrl} alt="Printer ink cartridges and cost tracking" loading="eager"
-                   class="absolute inset-0 w-full h-full object-cover" />
-            ) : (
-              <div class="absolute inset-0 bg-gradient-to-b from-blue-900 to-blue-800/40" aria-hidden="true"></div>
-            )}
-            <div aria-hidden="true" class="absolute inset-0 bg-gradient-to-b from-transparent to-ink-900/70"></div>
-            <span class="absolute top-4 left-4 bg-cream-50 text-ink-900 font-mono text-[10px] tracking-[0.18em] uppercase px-2.5 py-1.5 rounded">
-              INK PRICING · TRACKED
-            </span>
-            <span class="absolute bottom-4 left-4 right-4 text-cream-50/95 font-mono text-[10.5px] tracking-[0.1em]">
-              Independent watchdog · updated weekly
-            </span>
-          </div>
-          {heroStatCount > 0 && (
-            <a href="/products" class="no-underline absolute -left-2 -bottom-7 md:-left-6 bg-white border border-cream-200 rounded-xl shadow-soft-lg px-5 py-4 w-56 hover:shadow-soft-lg hover:border-terracotta-400 transition-all duration-200 cursor-pointer">
-              <p class="font-mono text-[10.5px] tracking-[0.14em] uppercase text-terracotta-600">Watchlist</p>
-              <p class="font-display text-2xl text-ink-900 mt-1 leading-none">{heroStatCount} {heroStatCount === 1 ? 'model' : 'models'}</p>
-              <p class="text-xs text-ink-600 mt-1.5 leading-snug">Real prices · published methodology · history kept</p>
-            </a>
-          )}
-        </div>
+        <HeroSnapshot stats={dataStats} products={compareRow} articleCount={allArticles.length} />
       </div>
     </div>
   </section>
 
-  {/* ════ 2. TRUST STRIP ════ */}
+  {/* ════ 2. TRUST STRIP + indicators ════ */}
   <section class="border-y border-cream-200 bg-white" aria-labelledby="trust-strip-heading">
-    <div class="max-w-site mx-auto px-4 sm:px-5 py-6 md:py-7 grid md:grid-cols-[auto_1fr_auto] gap-5 md:gap-8 items-center">
+    <div class="max-w-site mx-auto px-4 sm:px-5 py-5 md:py-6">
+      <div class="mb-4">
+        <TrustIndicators />
+      </div>
+      <div class="grid md:grid-cols-[auto_1fr_auto] gap-4 md:gap-8 items-center">
       <p id="trust-strip-heading" class="section-eyebrow whitespace-nowrap">Editorial standards</p>
       <blockquote class="font-display italic text-base md:text-lg text-ink-700 leading-snug border-0 m-0 p-0">
         "{trustLineDisplay}"
@@ -222,6 +198,7 @@ const socialProof = [
         How we work
         <span class="sr-only"> — read our methodology</span>
       </a>
+      </div>
     </div>
   </section>
 
@@ -257,21 +234,7 @@ const socialProof = [
     </div>
   </section>
 
-  {/* ════ 3. DATA STATS ════ */}
-  <section class="max-w-site mx-auto px-4 sm:px-5 py-16" aria-labelledby="stats-heading">
-    <h2 id="stats-heading" class="sr-only">Key ink pricing statistics</h2>
-    <div class="grid md:grid-cols-3 gap-4">
-      {dataStats.map((stat) => (
-        <div class="stat-card">
-          <p class="font-display text-5xl md:text-6xl text-ink-900 leading-none">{stat.num}</p>
-          <p class="font-mono text-[11px] tracking-[0.14em] uppercase text-terracotta-600 mt-3">{stat.label}</p>
-          <p class="text-sm text-ink-600 mt-2 leading-snug">{stat.sub}</p>
-        </div>
-      ))}
-    </div>
-  </section>
-
-  {/* ════ 4. PILLAR GRID ════ */}
+  {/* ════ 3. PILLAR GRID ════ */}
   {(pillarFour.length > 0 || heroCategories.length > 0) && (
     <section class="max-w-6xl mx-auto px-5 py-8 md:py-12">
       <div class="flex flex-col md:flex-row md:items-end md:justify-between gap-5 mb-10">

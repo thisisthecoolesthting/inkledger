@@ -1,9 +1,11 @@
 ---
 import BaseLayout from '@/layouts/BaseLayout.astro';
+import ProductImage from '@/components/ProductImage.astro';
 import AffiliateCTA from '@/components/AffiliateCTA.astro';
 import AuthorByline from '@/components/AuthorByline.astro';
 import { getCollection, getEntry } from 'astro:content';
 import { siteOrigin } from '@/utils/site-origin';
+import { localProductImagePath } from '@/utils/product-image';
 import home from '@/data/spawn-home.json';
 
 export async function getStaticPaths() {
@@ -38,6 +40,7 @@ const reviewedForByline = (data as any).reviewedAt
 
 const seoTitle = data.seoTitle || `${data.title} Review`;
 const seoDesc = data.metaDescription || `Honest review: ${data.title} — from ${b.fullName}.`;
+const heroImage = localProductImagePath(product.slug);
 
 // JSON-LD Product schema for rich snippets. Google requires at least one
 // of review, aggregateRating, or offers with valid fields. We provide
@@ -61,7 +64,7 @@ const productSchema: Record<string, any> = {
   },
   url: `${o}/products/${product.slug}/`,
 };
-if (data.imageUrl) productSchema.image = [data.imageUrl];
+if (data.imageUrl) productSchema.image = [heroImage];
 if (data.price) {
   productSchema.offers = {
     '@type': 'Offer',
@@ -122,7 +125,7 @@ if (data.rating && data.reviewCount) {
 <BaseLayout
   title={seoTitle}
   description={seoDesc}
-  image={data.imageUrl}
+  image={heroImage}
 >
   <script type="application/ld+json" set:html={JSON.stringify(productSchema)} />
 
@@ -143,11 +146,16 @@ if (data.rating && data.reviewCount) {
       reviewedAt={reviewedForByline}
     />
 
-    {data.imageUrl && (
-      <figure class="bg-cream-100 rounded-lg p-8 mb-8 flex items-center justify-center">
-        <img src={data.imageUrl} alt={data.title} class="max-h-72 object-contain" />
-      </figure>
-    )}
+    <figure class="bg-cream-100 rounded-2xl p-6 md:p-8 mb-8 flex items-center justify-center border border-cream-200">
+      <ProductImage
+        slug={product.slug}
+        asin={data.asin}
+        imageUrl={heroImage}
+        alt={data.title}
+        loading="eager"
+        class="max-h-80 w-full object-contain"
+      />
+    </figure>
 
 
     <AffiliateCTA asin={data.asin} url={data.affiliateUrl} label="Check current price on Amazon" />
