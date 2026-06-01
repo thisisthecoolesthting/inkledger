@@ -11,8 +11,8 @@
         "ink": "#0B1120"
       },
       "fonts": {
-        "display": "Cormorant",
-        "body": "Lora",
+        "display": "Newsreader",
+        "body": "Roboto",
         "mono": "JetBrains Mono"
       },
       "mark": {
@@ -28,7 +28,7 @@
       },
       "headerVariant": "minimal",
       "eyebrowText": "INK PRICING WATCHDOG",
-      "fontCssHref": "https://fonts.googleapis.com/css2?family=Cormorant:wght@400;500;600;700&family=Lora:wght@400;500;600;700&display=swap"
+      "fontCssHref": "https://fonts.googleapis.com/css2?family=Newsreader:wght@400;500;600;700&family=Roboto:wght@300;400;500;700&family=JetBrains+Mono:wght@400;500&display=swap"
     }
   },
   "persona": {

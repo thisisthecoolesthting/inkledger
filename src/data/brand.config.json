@@ -6,15 +6,15 @@
     "taglineLong": "Printer ink and toner pricing watchdog. We track retailer price hikes, call out razor-and-blade pricing games, and point you to refills and compatibles that print clean at a fraction of the cost.",
     "identity": {
       "palette": {
-        "primary": "#1E1B4B",
+        "primary": "#1E3A8A",
         "secondary": "#1A8A9E",
-        "accent": "#7C2D12",
+        "accent": "#F59E0B",
         "cream": "#F5F0E8",
         "ink": "#0B1120"
       },
       "fonts": {
-        "display": "Cormorant",
-        "body": "Lora",
+        "display": "Newsreader",
+        "body": "Roboto",
         "mono": "JetBrains Mono"
       },
       "mark": {
@@ -29,7 +29,8 @@
         "case": "normal"
       },
       "headerVariant": "minimal",
-      "eyebrowText": "INK PRICING WATCHDOG"
+      "eyebrowText": "INK PRICING WATCHDOG",
+      "fontCssHref": "https://fonts.googleapis.com/css2?family=Newsreader:wght@400;500;600;700&family=Roboto:wght@300;400;500;700&family=JetBrains+Mono:wght@400;500&display=swap"
     },
     "domain": "inkledger.org",
     "associateTag": "inkledger-20"

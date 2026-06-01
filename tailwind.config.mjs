@@ -4,7 +4,6 @@ export default {
   theme: {
     extend: {
       colors: {
-        // Shade-based tokens (factory standard — used by template components)
         cream: {
           50: "#F5F0E8",
           100: "#EBE6DF",
@@ -13,17 +12,21 @@ export default {
         ink: {
           900: "#0B1120",
           700: "#334155",
+          600: "#475569",
           500: "#64748B",
         },
-        // Inkledger brand mapped to terracotta slot so shared CTAs use site accent
         terracotta: {
-          400: "#8F3415",
-          500: "#7C2D12",
-          600: "#66250F",
+          400: "#FBBF24",
+          500: "#F59E0B",
+          600: "#B45309",
         },
-        // Legacy flat tokens kept for backward compat
-        primary: { DEFAULT: "#1E1B4B" },
-        accent: { DEFAULT: "#7C2D12" },
+        blue: {
+          900: "#1E3A8A",
+          800: "#1E40AF",
+          50: "#EFF6FF",
+        },
+        primary: { DEFAULT: "#1E3A8A" },
+        accent: { DEFAULT: "#F59E0B" },
         sage: {
           400: "#60A5FA",
           500: "#2563EB",
@@ -31,11 +34,19 @@ export default {
         },
       },
       fontFamily: {
-        display: ['Cormorant', "Georgia", "serif"],
-        body: ['Lora', "sans-serif"],
-        mono:    ['"JetBrains Mono"', "monospace"],
+        display: ["Newsreader", "Georgia", "serif"],
+        body: ["Roboto", "system-ui", "sans-serif"],
+        sans: ["Roboto", "system-ui", "sans-serif"],
+        mono: ['"JetBrains Mono"', "monospace"],
       },
-      maxWidth: { prose: "68ch" },
+      maxWidth: {
+        prose: "68ch",
+        site: "72rem",
+      },
+      boxShadow: {
+        soft: "0 1px 2px rgba(11, 17, 32, 0.05), 0 4px 16px rgba(11, 17, 32, 0.06)",
+        "soft-lg": "0 2px 4px rgba(11, 17, 32, 0.06), 0 12px 32px rgba(11, 17, 32, 0.1)",
+      },
     },
   },
   plugins: [],

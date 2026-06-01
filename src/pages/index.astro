@@ -7,6 +7,7 @@ import CompliantLayout from '@/layouts/CompliantLayout.astro';
 import { getCollection } from 'astro:content';
 import ProductCard from '@/components/ProductCard.astro';
 import NewsletterForm from '@/components/NewsletterForm.astro';
+import TrustIndicators from '@/components/TrustIndicators.astro';
 import home from '@/data/spawn-home.json';
 
 const h = home.homepage;
@@ -119,38 +120,63 @@ const dataStats = [
   { num: '$284', label: 'avg household loss', sub: 'Per year on overpriced OEM cartridges.' },
   { num: '126+', label: 'cartridge models', sub: 'Tracked, compared, and independently rated.' },
 ];
+
+const socialProof = [
+  {
+    quote: 'We re-price every cartridge listing every Monday. If the number moved, the article gets a date stamp.',
+    role: 'Research protocol',
+  },
+  {
+    quote: 'Compatible picks earn a score only after a 200-page mixed print test — not a spec-sheet guess.',
+    role: 'Lab testing',
+  },
+  {
+    quote: 'No Epson, HP, Brother, or Canon sponsorships. Affiliate links are third-party refills we would buy.',
+    role: 'Editorial independence',
+  },
+];
 ---
 
 <CompliantLayout title={b.fullName} description={dmeta}>
 
-  {/* ════ 1. HERO ════ */}
-  <section class="relative pt-10 md:pt-16 pb-20 md:pb-24 overflow-hidden">
+  {/* ════ 1. HERO — dark ink band (ui-ux-pro-max watchdog pro) ════ */}
+  <section class="hero-band pt-10 md:pt-14 pb-20 md:pb-24">
     <div aria-hidden="true" class="pointer-events-none absolute inset-0 -z-10
-         bg-[radial-gradient(55%_50%_at_90%_15%,rgba(245,158,11,.08),transparent_70%),radial-gradient(40%_35%_at_6%_85%,rgba(30,58,138,.09),transparent_70%)]"></div>
-    <div class="max-w-6xl mx-auto px-5">
+         bg-[radial-gradient(55%_50%_at_90%_15%,rgba(245,158,11,.12),transparent_70%),radial-gradient(40%_35%_at_6%_85%,rgba(30,58,138,.25),transparent_70%)]"></div>
+    <div class="max-w-site mx-auto px-4 sm:px-5">
+      <div class="mb-8">
+        <TrustIndicators />
+      </div>
       <div class="grid md:grid-cols-[1.1fr_1fr] gap-10 md:gap-14 items-center">
         <div>
-          <p class="font-mono text-[11px] tracking-[0.18em] uppercase text-terracotta-600 font-medium">
+          <p class="section-eyebrow text-terracotta-400">
             {h.eyebrow}
           </p>
-          <h1 class="font-display text-4xl md:text-5xl lg:text-[3.25rem] text-white mt-3 leading-[1.08] drop-shadow-lg tracking-tight">
+          <h1 class="font-display text-4xl md:text-5xl lg:text-[3.25rem] text-cream-50 mt-3 leading-[1.08] tracking-tight text-balance">
             {h.h1}
           </h1>
-          <p class="text-base md:text-lg text-cream-50/90 max-w-[34em] mt-5 leading-relaxed drop-shadow">
+          <p class="text-base md:text-lg text-cream-50/85 max-w-[34em] mt-5 leading-relaxed">
             {h.subhead}
           </p>
           <div class="flex flex-wrap gap-3 mt-7">
-            <a href={h.ctaPrimaryHref} class="btn-primary no-underline">
-              {h.ctaPrimaryLabel} <span aria-hidden="true" class="ml-2">→</span>
+            <a href={h.ctaPrimaryHref} class="btn-primary no-underline cursor-pointer">
+              {h.ctaPrimaryLabel}
+              <svg class="w-4 h-4 ml-2" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+                <path d="M5 12h14M13 5l7 7-7 7" stroke-linecap="round" stroke-linejoin="round" />
+              </svg>
             </a>
-            <a href={h.ctaSecondaryHref} class="btn-secondary no-underline">
+            <a href={h.ctaSecondaryHref} class="btn-secondary no-underline cursor-pointer">
               {h.ctaSecondaryLabel}
             </a>
           </div>
-          <ul class="flex flex-wrap gap-x-6 gap-y-2 mt-8 text-sm text-ink-700">
+          <ul class="flex flex-wrap gap-x-6 gap-y-2 mt-8 text-sm text-cream-50/80" role="list">
             {['No manufacturer sponsorships', 'Price-history tracked weekly', 'Partner-supported only'].map((t) => (
               <li class="flex items-center gap-2">
-                <span class="inline-grid place-items-center w-5 h-5 rounded-full bg-sage-400/30 text-sage-600 text-[10px] font-bold shrink-0">✓</span>
+                <span class="inline-grid place-items-center w-5 h-5 rounded-full bg-terracotta-500/20 text-terracotta-400 shrink-0" aria-hidden="true">
+                  <svg class="w-3 h-3" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3">
+                    <path d="M20 6 9 17l-5-5" stroke-linecap="round" stroke-linejoin="round" />
+                  </svg>
+                </span>
                 {t}
               </li>
             ))}
@@ -158,14 +184,14 @@ const dataStats = [
         </div>
 
         <div class="relative">
-          <div class="relative rounded-2xl overflow-hidden shadow-soft-lg aspect-[2/3]">
+          <div class="relative rounded-2xl overflow-hidden shadow-soft-lg aspect-[2/3] border border-cream-50/10">
             {h.heroImageUrl ? (
-              <img src={h.heroImageUrl} alt="" loading="eager"
+              <img src={h.heroImageUrl} alt="Printer ink cartridges and cost tracking" loading="eager"
                    class="absolute inset-0 w-full h-full object-cover" />
             ) : (
-              <div class="absolute inset-0 bg-gradient-to-b from-blue-900 to-blue-700/40"></div>
+              <div class="absolute inset-0 bg-gradient-to-b from-blue-900 to-blue-800/40" aria-hidden="true"></div>
             )}
-            <div aria-hidden="true" class="absolute inset-0 bg-gradient-to-b from-transparent to-ink-900/55"></div>
+            <div aria-hidden="true" class="absolute inset-0 bg-gradient-to-b from-transparent to-ink-900/70"></div>
             <span class="absolute top-4 left-4 bg-cream-50 text-ink-900 font-mono text-[10px] tracking-[0.18em] uppercase px-2.5 py-1.5 rounded">
               INK PRICING · TRACKED
             </span>
@@ -174,10 +200,10 @@ const dataStats = [
             </span>
           </div>
           {heroStatCount > 0 && (
-            <a href="/products" class="no-underline absolute -left-4 -bottom-7 md:-left-8 bg-cream-50 border border-cream-200 rounded-xl shadow-soft px-5 py-4 w-56 hover:shadow-soft-lg transition-shadow">
+            <a href="/products" class="no-underline absolute -left-2 -bottom-7 md:-left-6 bg-white border border-cream-200 rounded-xl shadow-soft-lg px-5 py-4 w-56 hover:shadow-soft-lg hover:border-terracotta-400 transition-all duration-200 cursor-pointer">
               <p class="font-mono text-[10.5px] tracking-[0.14em] uppercase text-terracotta-600">Watchlist</p>
               <p class="font-display text-2xl text-ink-900 mt-1 leading-none">{heroStatCount} {heroStatCount === 1 ? 'model' : 'models'}</p>
-              <p class="text-xs text-ink-700 mt-1.5 leading-snug">Real prices · published methodology · history kept</p>
+              <p class="text-xs text-ink-600 mt-1.5 leading-snug">Real prices · published methodology · history kept</p>
             </a>
           )}
         </div>
@@ -186,23 +212,57 @@ const dataStats = [
   </section>
 
   {/* ════ 2. TRUST STRIP ════ */}
-  <section class="border-y border-cream-200 bg-cream-50">
-    <div class="max-w-6xl mx-auto px-5 py-6 md:py-7 grid md:grid-cols-[auto_1fr_auto] gap-5 md:gap-8 items-center">
-      <p class="font-mono text-[10.5px] tracking-[0.18em] uppercase text-terracotta-600">Editorial standards</p>
-      <p class="font-display italic text-base md:text-lg text-ink-700 leading-snug">
+  <section class="border-y border-cream-200 bg-white" aria-labelledby="trust-strip-heading">
+    <div class="max-w-site mx-auto px-4 sm:px-5 py-6 md:py-7 grid md:grid-cols-[auto_1fr_auto] gap-5 md:gap-8 items-center">
+      <p id="trust-strip-heading" class="section-eyebrow whitespace-nowrap">Editorial standards</p>
+      <blockquote class="font-display italic text-base md:text-lg text-ink-700 leading-snug border-0 m-0 p-0">
         "{trustLineDisplay}"
-      </p>
-      <a href="/methodology/" class="font-mono text-[11.5px] tracking-[0.08em] uppercase text-ink-900 border-b border-terracotta-500 pb-0.5 whitespace-nowrap no-underline hover:text-terracotta-600">
-        How we work →
+      </blockquote>
+      <a href="/methodology/" class="font-mono text-[11.5px] tracking-[0.08em] uppercase text-ink-900 border-b-2 border-terracotta-500 pb-0.5 whitespace-nowrap no-underline hover:text-terracotta-600 cursor-pointer">
+        How we work
+        <span class="sr-only"> — read our methodology</span>
       </a>
     </div>
   </section>
 
+  {/* ════ 2b. SOCIAL PROOF — editorial credibility (ui-ux-pro-max landing pattern) ════ */}
+  <section class="bg-cream-50 border-b border-cream-200" aria-labelledby="social-proof-heading">
+    <div class="max-w-site mx-auto px-4 sm:px-5 py-12 md:py-16">
+      <div class="flex flex-col md:flex-row md:items-end md:justify-between gap-4 mb-8">
+        <div>
+          <p class="section-eyebrow mb-2">Why readers trust us</p>
+          <h2 id="social-proof-heading" class="font-display text-3xl md:text-4xl text-ink-900 !mt-0 leading-tight max-w-[20ch]">
+            Investigative standards, not affiliate fluff.
+          </h2>
+        </div>
+        <p class="text-sm text-ink-600 max-w-[32ch]">
+          {allArticles.length}+ published articles · weekly price checks · transparent methodology
+        </p>
+      </div>
+      <div class="grid md:grid-cols-3 gap-4">
+        {socialProof.map((item) => (
+          <figure class="card-soft p-6 h-full flex flex-col cursor-default hover:translate-y-0">
+            <svg class="w-8 h-8 text-terracotta-500 mb-4" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+              <path d="M4.583 17.321C3.553 16.227 3 15 3 13.011c0-3.5 2.457-6.637 6.03-8.188l.893 1.378c-3.335 1.804-3.987 4.145-4.247 5.621.537-.278 1.24-.375 1.929-.311 1.804.167 3.226 1.648 3.226 3.489a3.5 3.5 0 0 1-3.5 3.5c-1.073 0-2.099-.49-2.748-1.179Zm10 0C13.553 16.227 13 15 13 13.011c0-3.5 2.457-6.637 6.03-8.188l.893 1.378c-3.335 1.804-3.987 4.145-4.247 5.621.537-.278 1.24-.375 1.929-.311 1.804.167 3.226 1.648 3.226 3.489a3.5 3.5 0 0 1-3.5 3.5c-1.073 0-2.099-.49-2.748-1.179Z" />
+            </svg>
+            <blockquote class="text-ink-700 text-sm leading-relaxed flex-1 m-0">
+              "{item.quote}"
+            </blockquote>
+            <figcaption class="mt-4 font-mono text-[10px] tracking-[0.14em] uppercase text-terracotta-600">
+              {item.role}
+            </figcaption>
+          </figure>
+        ))}
+      </div>
+    </div>
+  </section>
+
   {/* ════ 3. DATA STATS ════ */}
-  <section class="max-w-6xl mx-auto px-5 py-16">
+  <section class="max-w-site mx-auto px-4 sm:px-5 py-16" aria-labelledby="stats-heading">
+    <h2 id="stats-heading" class="sr-only">Key ink pricing statistics</h2>
     <div class="grid md:grid-cols-3 gap-4">
       {dataStats.map((stat) => (
-        <div class="bg-cream-50 border border-cream-200 rounded-xl p-8 text-center hover:border-terracotta-300 transition-colors">
+        <div class="stat-card">
           <p class="font-display text-5xl md:text-6xl text-ink-900 leading-none">{stat.num}</p>
           <p class="font-mono text-[11px] tracking-[0.14em] uppercase text-terracotta-600 mt-3">{stat.label}</p>
           <p class="text-sm text-ink-600 mt-2 leading-snug">{stat.sub}</p>
@@ -240,7 +300,7 @@ const dataStats = [
           const href = isPillar ? `/pillars/${entry.slug}` : `/articles?cat=${entry}`;
           const firstWord = String(entry?.data?.title || entry || '').split(' ')[0];
           return (
-            <a href={href} class={`group no-underline relative overflow-hidden rounded-xl border border-cream-200 p-6 min-h-[240px] flex flex-col transition-all hover:-translate-y-1 hover:shadow-soft-lg hover:border-terracotta-400 ${tints[idx % tints.length]}`}>
+            <a href={href} class={`group no-underline relative overflow-hidden rounded-xl border border-cream-200 p-6 min-h-[240px] flex flex-col transition-all duration-200 hover:shadow-soft-lg hover:border-terracotta-400 cursor-pointer ${tints[idx % tints.length]}`}>
               <p class="font-display text-sm text-terracotta-600">{num} · {firstWord}</p>
               <h3 class="font-display text-xl text-ink-900 !mt-2 leading-snug max-w-[14ch]">{title}</h3>
               <p class="text-sm text-ink-700 mt-2.5 leading-relaxed">{excerpt}</p>
@@ -292,7 +352,7 @@ const dataStats = [
             <a href={`/articles/${a.slug}`}
                data-tags={(a.data.tags ?? []).join(',')}
                data-latest={i < 6 ? 'true' : 'false'}
-               class={`il-article-card group no-underline block bg-white border border-cream-200 rounded-xl overflow-hidden hover:shadow-soft-lg hover:-translate-y-1 hover:border-terracotta-400 transition-all${i >= 6 ? ' hidden' : ''}`}>
+               class={`il-article-card group no-underline block bg-white border border-cream-200 rounded-xl overflow-hidden hover:shadow-soft-lg hover:border-terracotta-400 transition-all duration-200 cursor-pointer${i >= 6 ? ' hidden' : ''}`}>
               <div class="relative aspect-[2/3] overflow-hidden bg-cream-100">
                 <img src={imageUrl} alt={a.data.title} loading="lazy"
                      class="absolute inset-0 w-full h-full object-cover group-hover:scale-[1.04] transition-transform duration-500" />
@@ -406,10 +466,13 @@ const dataStats = [
         <h2 class="font-display text-3xl md:text-4xl !mt-3 leading-tight text-cream-50">{aboutHeadline}</h2>
         <p class="text-cream-50/80 text-base md:text-lg leading-relaxed mt-5 max-w-[56ch]">{aboutBody}</p>
         <div class="flex flex-wrap gap-3 mt-9">
-          <a href="/methodology/" class="btn-primary no-underline">
-            Read our methodology <span aria-hidden="true" class="ml-2">→</span>
+          <a href="/methodology/" class="btn-primary no-underline cursor-pointer">
+            Read our methodology
+            <svg class="w-4 h-4 ml-2" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+              <path d="M5 12h14M13 5l7 7-7 7" stroke-linecap="round" stroke-linejoin="round" />
+            </svg>
           </a>
-          <a href={`/authors/${authorSlug}/`} class="inline-flex items-center justify-center rounded-full px-7 py-3 font-semibold text-base border border-cream-50/40 text-cream-50 transition-all hover:bg-cream-50 hover:text-ink-900 no-underline">
+          <a href={`/authors/${authorSlug}/`} class="btn-secondary-light no-underline cursor-pointer">
             About the editor
           </a>
         </div>
@@ -423,17 +486,24 @@ const dataStats = [
   </section>
 
   {/* ════ 9. METHODOLOGY STRIP ════ */}
-  <section class="bg-sage-400/15 border-y border-cream-200 py-12">
-    <div class="max-w-6xl mx-auto px-5 grid md:grid-cols-[auto_1fr_auto] gap-6 md:gap-9 items-center">
-      <div class="grid place-items-center w-16 h-16 rounded-full bg-sage-500 text-cream-50 font-display text-2xl font-semibold shrink-0">§</div>
+  <section class="bg-blue-50 border-y border-cream-200 py-12" aria-labelledby="methodology-strip-heading">
+    <div class="max-w-site mx-auto px-4 sm:px-5 grid md:grid-cols-[auto_1fr_auto] gap-6 md:gap-9 items-center">
+      <div class="grid place-items-center w-16 h-16 rounded-full bg-blue-900 text-cream-50 shrink-0" aria-hidden="true">
+        <svg class="w-8 h-8" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z" stroke-linecap="round" stroke-linejoin="round" />
+        </svg>
+      </div>
       <div>
-        <h3 class="font-display text-xl md:text-2xl text-ink-900 !mt-0 mb-1">Standards, disclosures, and how we make money.</h3>
-        <p class="text-sm md:text-[15px] text-ink-700 max-w-[60ch]">
+        <h3 id="methodology-strip-heading" class="font-display text-xl md:text-2xl text-ink-900 !mt-0 mb-1">Standards, disclosures, and how we make money.</h3>
+        <p class="text-sm md:text-[15px] text-ink-600 max-w-[60ch]">
           Disclosure, research protocol, conflict-of-interest policy, and our correction log. All on one page.
         </p>
       </div>
-      <a href="/methodology/" class="btn-primary no-underline whitespace-nowrap">
-        Read standards <span aria-hidden="true" class="ml-2">→</span>
+      <a href="/methodology/" class="btn-primary no-underline whitespace-nowrap cursor-pointer">
+        Read standards
+        <svg class="w-4 h-4 ml-2" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+          <path d="M5 12h14M13 5l7 7-7 7" stroke-linecap="round" stroke-linejoin="round" />
+        </svg>
       </a>
     </div>
   </section>
