@@ -24,7 +24,9 @@ const heroCategories: string[] = Array.isArray(homeX.categories) ? homeX.categor
 const allProducts = await getCollection('products', ({ data }) => data.status === 'published');
 const completeProducts = allProducts.filter((p) => {
   const d = p.data;
-  const hasImage = d.imageUrl && !d.imageUrl.includes('example') && !d.imageUrl.startsWith('data:');
+  const hasImage =
+    (d.imageUrl && !d.imageUrl.includes('example') && !d.imageUrl.startsWith('data:')) ||
+    Boolean(d.asin && /^[A-Z0-9]{10}$/i.test(String(d.asin)));
   const hasPrice = typeof d.price === 'number' && d.price > 0;
   const hasRating = typeof d.rating === 'number' && d.rating > 0;
   return hasImage && hasPrice && hasRating;
@@ -137,7 +139,7 @@ const socialProof = [
 ];
 ---
 
-<CompliantLayout title={b.fullName} description={dmeta}>
+<CompliantLayout title={b.fullName} description={dmeta} sectionAds="home">
 
   {/* ════ 1. HERO — compact, readable above the fold ════ */}
   <section class="hero-band pt-6 md:pt-8 pb-10 md:pb-12">

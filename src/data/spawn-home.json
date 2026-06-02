@@ -44,7 +44,7 @@
     "ga_measurement_id": "G-8RJBVB2V98",
     "ga_property_id": "536827157"
   },
-  "supportEmail": "hello@inkledger.co",
+  "supportEmail": "hello@inkledger.org",
   "defaultAuthorSlug": "marcus-inkledger",
   "defaultMetaDescription": "OEM cartridge prices rose 43% in the last five years. We track the increases, review the refill and compatible alternatives that actually work, and show you exactly how much your household is losing t",
   "homepage": {
@@ -56,7 +56,7 @@
     "ctaSecondaryLabel": "Start with the refill guide",
     "ctaSecondaryHref": "/pillars/refill-guide",
     "trustLine": "No sponsorship from printer manufacturers. Partner revenue only on third-party refills and compatibles we would buy ourselves.",
-    "heroImageUrl": "https://images.unsplash.com/photo-1612815154858-60aa4c59eaa6?auto=format&fit=crop&w=1200&h=675&q=85"
+    "heroImageUrl": "https://images.unsplash.com/photo-1612815154858-60aa4c59eaa6?w=1600&q=85"
   },
   "about": {
     "headline": "Why InkLedger exists",
@@ -73,5 +73,27 @@
       "Affiliate revenue comes only from third-party refill suppliers and compatible-cartridge brands; we do not link Epson, HP, Brother, or Canon storefronts.",
       "Reader-submitted print samples are accepted and credited; if a reader's printer disagrees with our results we re-test and update the post."
     ]
-  }
+  },
+  "navigation": [
+    {
+      "href": "/",
+      "label": "Home"
+    },
+    {
+      "href": "/pillars",
+      "label": "Guides"
+    },
+    {
+      "href": "/articles",
+      "label": "Articles"
+    },
+    {
+      "href": "/products",
+      "label": "Reviews"
+    },
+    {
+      "href": "/about",
+      "label": "About"
+    }
+  ]
 }
