@@ -1,70 +1,68 @@
 ---
 import CompliantLayout from '@/layouts/CompliantLayout.astro';
-import PageHero from '@/components/PageHero.astro';
+import PageIntro from '@/components/PageIntro.astro';
 import { getCollection } from 'astro:content';
-import home from '@/data/spawn-home.json';
+import { isHeroImageAvailable } from '@/lib/hero-image';
 
-const b = home.brand;
 const pillars = await getCollection('pillars', ({ data }) => data.status === 'published');
-const featuredSlugs = ['ink-pricing-report', 'refill-guide'];
-const featured = featuredSlugs
-  .map((slug) => pillars.find((p) => p.slug === slug))
-  .filter(Boolean);
-const rest = pillars
-  .filter((p) => !featuredSlugs.includes(p.slug))
-  .sort((a, b) => +new Date(b.data.publishedAt) - +new Date(a.data.publishedAt));
-const sorted = [...featured, ...rest];
+const sorted = pillars.sort((a, b) => +new Date(b.data.publishedAt) - +new Date(a.data.publishedAt));
 ---
 
 <CompliantLayout
   title="Guides"
-  description="Long-form InkLedger authority guides on ink pricing, refills, compatibles, and printer cost of ownership."
+  description="In-depth RefillWatch guides on household refills, shrinkflation, and smarter swaps."
+  sectionAds="guides"
+  sectionAdsCompact={true}
 >
-  <PageHero
-    eyebrow="Authority guides"
-    title="Pillars we track every week"
-    description="Explainer → tracked models → cheaper alternative. Three clicks from question to answer, with retail pricing kept current."
+  <PageIntro
+    eyebrow="Start here"
+    title="Guides"
+    description="Long-form watchlists: what prices are doing, which refills actually work, and where to save without junk swaps."
   />
 
-  <section class="max-w-site mx-auto px-4 sm:px-5 pb-16 md:pb-20">
+  <section class="max-w-site mx-auto px-4 sm:px-6 lg:px-8 pb-10 md:pb-14">
     {sorted.length === 0 && (
-      <p class="text-ink-600">First guides coming soon.</p>
+      <p class="text-ink-700">First guides coming soon.</p>
     )}
 
     <div class="grid md:grid-cols-2 gap-6">
-      {sorted.map((p, idx) => (
+      {sorted.map((p, idx) => {
+        const heroImage = isHeroImageAvailable(p.data.heroImage) ? p.data.heroImage : '';
+        const tints = [
+          'bg-gradient-to-b from-cream-100 to-cream-50',
+          'bg-gradient-to-b from-sage-400/15 to-cream-50',
+          'bg-gradient-to-b from-terracotta-400/15 to-cream-50',
+          'bg-gradient-to-b from-cream-200 to-cream-50',
+        ];
+        return (
         <a
           href={`/pillars/${p.slug}`}
-          class="card-soft overflow-hidden no-underline group cursor-pointer"
+          class:list={[
+            'group no-underline block rounded-xl border border-cream-200 overflow-hidden',
+            'hover:border-terracotta-400 hover:shadow-soft-lg hover:-translate-y-0.5 transition-all',
+            !heroImage && `p-5 ${tints[idx % tints.length]}`,
+          ]}
         >
-          {p.data.heroImage ? (
-            <div class="aspect-[16/9] overflow-hidden bg-cream-100">
+          {heroImage && (
+            <div class="rounded-lg overflow-hidden mb-4 bg-cream-200 aspect-[16/10]">
               <img
-                src={p.data.heroImage}
-                alt=""
+                src={heroImage}
+                alt={p.data.title}
                 loading="lazy"
                 class="w-full h-full object-cover group-hover:scale-[1.02] transition-transform duration-300"
               />
             </div>
-          ) : (
-            <div class="aspect-[16/9] bg-gradient-to-br from-blue-900 to-ink-900"></div>
           )}
-          <div class="p-6">
-            {idx < 2 && (
-              <span class="inline-block font-mono text-[10px] tracking-[0.14em] uppercase text-terracotta-600 bg-terracotta-500/10 rounded-full px-2.5 py-1 mb-3">
-                Flagship guide
-              </span>
-            )}
-            <h2 class="font-display text-2xl text-ink-900 !mt-0 group-hover:text-terracotta-600 transition-colors">
-              {p.data.title}
-            </h2>
-            <p class="text-ink-600 mt-2 text-base leading-relaxed">{p.data.excerpt}</p>
-            <p class="text-ink-500 text-xs mt-4 font-mono tracking-wide uppercase">
-              Updated {new Date(p.data.updatedAt ?? p.data.publishedAt).toLocaleDateString('en-US', { month: 'short', year: 'numeric' })}
-            </p>
-          </div>
+          <h2 class="font-display text-2xl text-ink-900 !mt-0 group-hover:text-terracotta-500 transition-colors">
+            {p.data.title}
+          </h2>
+          <p class="text-ink-700 mt-2 text-base">{p.data.excerpt}</p>
+          <p class="text-ink-500 text-xs mt-3">
+            {new Date(p.data.publishedAt).toLocaleDateString()}
+          </p>
         </a>
-      ))}
+        );
+      })}
     </div>
   </section>
 </CompliantLayout>

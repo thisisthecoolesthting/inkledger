@@ -1,72 +1,120 @@
 ---
 import CompliantLayout from '@/layouts/CompliantLayout.astro';
-import PageHero from '@/components/PageHero.astro';
-import TrustIndicators from '@/components/TrustIndicators.astro';
-import home from '@/data/spawn-home.json';
-
-const b = home.brand;
-const editorial = (home as { editorial?: { methodology?: string[] } }).editorial;
-const methodology = editorial?.methodology ?? [
-  'Retail purchases only — no manufacturer samples.',
-  '200-page mixed workloads before cost-per-page math.',
-  'Weekly price re-checks for 90 days after publish.',
-];
+import PageIntro from '@/components/PageIntro.astro';
 ---
 
 <CompliantLayout
-  title="Methodology"
-  description="How InkLedger verifies printer ink pricing, cartridge yield claims, and affiliate disclosures."
+  title="How RefillWatch researches and reports"
+  description="RefillWatch's methodology for tracking retailer price hikes, naming the brands, and finding the cheaper refill or bulk alternative."
+  sectionAds="legal"
 >
-  <PageHero
-    eyebrow="Research protocol"
-    title="How InkLedger works"
-    description="Marcus Nolan and the InkLedger desk verify claims with retail purchases, print tests, and seller disclosures — not press releases."
-    dark={true}
+  <PageIntro
+    eyebrow="Methodology"
+    title="How we track hikes, name brands, and find the alternative"
+    description="RefillWatch exists because most consumer reporting on retail pricing is too polite, too abstract, or too late. Here is exactly how we work."
   />
 
-  <section class="max-w-site mx-auto px-4 sm:px-5 py-12 md:py-16">
-    <TrustIndicators />
+  <section class="max-w-site mx-auto px-4 sm:px-6 lg:px-8 pb-14 md:pb-20">
+    <article class="content-panel max-w-prose mx-auto prose prose-lg prose-ink">
+      <h2>Our mission</h2>
+      <p>
+        Catch retailer price hikes on routine purchases before readers quietly pay another
+        year&rsquo;s worth, name the brand and the dollar amount, and point to a cheaper
+        refillable, bulk, or third-party alternative. The goal is specificity &mdash;
+        generic &ldquo;inflation is bad&rdquo; takes are a dime a dozen.
+      </p>
 
-    <div class="grid lg:grid-cols-2 gap-10 mt-12">
-      <div>
-        <h2 class="font-display text-2xl text-ink-900 !mt-0">Testing standards</h2>
-        <ul class="mt-5 space-y-4 text-ink-600 leading-relaxed list-none p-0">
-          {methodology.map((item) => (
-            <li class="flex gap-3">
-              <span class="inline-grid place-items-center w-6 h-6 rounded-full bg-terracotta-500/15 text-terracotta-600 shrink-0 mt-0.5" aria-hidden="true">
-                <svg class="w-3.5 h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3">
-                  <path d="M20 6 9 17l-5-5" stroke-linecap="round" stroke-linejoin="round" />
-                </svg>
-              </span>
-              <span>{item}</span>
-            </li>
-          ))}
-        </ul>
-      </div>
-
-      <div class="card-soft p-6 md:p-8 cursor-default hover:translate-y-0">
-        <h2 class="font-display text-2xl text-ink-900 !mt-0">Sources & updates</h2>
-        <p class="text-ink-600 mt-4 leading-relaxed">
-          Retail prices come from Amazon, Walmart, and Staples listings where available. Charts note the capture window.
-          When data is thin, we say so — and we do not publish a pick.
-        </p>
-        <p class="text-ink-600 mt-4 leading-relaxed">
-          Material corrections get a dated note at the top of the article. Affiliate links never change ranking order.
-        </p>
-        <div class="flex flex-wrap gap-3 mt-6">
-          <a href="/editorial-standards/" class="btn-primary no-underline text-sm cursor-pointer">Editorial standards</a>
-          <a href="/disclosure/" class="btn-secondary-light no-underline text-sm cursor-pointer">Affiliate disclosure</a>
-        </div>
-      </div>
-    </div>
-
-    <div class="mt-14 p-6 md:p-8 rounded-2xl bg-blue-50 border border-cream-200">
-      <h2 class="font-display text-xl text-ink-900 !mt-0">Flagship reports</h2>
-      <p class="text-ink-600 mt-2 text-sm">Start with our two canonical guides — linked from the homepage hero.</p>
-      <ul class="mt-4 flex flex-wrap gap-3">
-        <li><a href="/pillars/ink-pricing-report/" class="btn-secondary-light no-underline text-sm cursor-pointer">Ink pricing report</a></li>
-        <li><a href="/pillars/refill-guide/" class="btn-secondary-light no-underline text-sm cursor-pointer">Refill guide</a></li>
+      <h2>What we track</h2>
+      <ul>
+        <li>SKU-level price changes at major national retailers (Amazon, Walmart, Target, Kroger, Costco, Trader Joe&rsquo;s).</li>
+        <li>Per-ounce and per-unit pricing to catch shrinkflation (same box, less product).</li>
+        <li>Subscription-service price creep (streaming, delivery, household staples auto-ship).</li>
+        <li>Private-label pricing relative to the national brand equivalent.</li>
+        <li>Ink, bottled water, pet food, detergent, paper goods, coffee, and a rotating roster of routine categories.</li>
       </ul>
-    </div>
+
+      <h2>How we verify a hike</h2>
+      <p>
+        We don&rsquo;t publish a price-hike alert based on a single data point. Every alert
+        requires at least two of the following sources agreeing on the hike, the dollar
+        amount, and the approximate date:
+      </p>
+      <ul>
+        <li>Direct retailer page screenshots across at least two separate dates.</li>
+        <li>Price-history databases (Keepa, CamelCamelCamel, Honey) where available.</li>
+        <li>Reader submissions with receipts or app screenshots.</li>
+        <li>Manufacturer or retailer earnings-call commentary acknowledging the category move.</li>
+      </ul>
+      <p>
+        When evidence is thin or conflicting, we say so. &ldquo;Possibly rising&rdquo; is a
+        different headline than &ldquo;up 9.7% in the last 90 days.&rdquo;
+      </p>
+
+      <h2>How we pick the alternative</h2>
+      <p>
+        Every price-hike story ends with a specific alternative &mdash; a refillable version,
+        a bulk-refill supplier, a private-label equivalent, or a different category
+        altogether (a SodaStream instead of another case of La Croix). The alternative must
+        clear four bars:
+      </p>
+      <ol>
+        <li><strong>Cheaper per unit</strong> after factoring in any up-front equipment cost, amortized over 12 months.</li>
+        <li><strong>Actually available</strong> at the retailers our readers use &mdash; not a drop-ship-only obscure DTC brand.</li>
+        <li><strong>Not the same parent company</strong> that owns the brand doing the hike (catching the private-label trick).</li>
+        <li><strong>We&rsquo;d switch to it ourselves</strong>, and most of the time we already have.</li>
+      </ol>
+
+      <h2>Editorial standards</h2>
+      <ul>
+        <li>
+          <strong>No sponsored placements.</strong> We do not accept paid promotion from any
+          retailer, brand, or manufacturer RefillWatch covers. If that ever changes, the
+          page carrying the promotion will say so plainly.
+        </li>
+        <li>
+          <strong>Partner links go to neutral third parties.</strong> When we link to a
+          bulk supplier or refill brand, that partner relationship is disclosed. We do
+          not run Amazon partner links to the brands we are criticizing for price hikes
+          &mdash; that would be a direct conflict.
+        </li>
+        <li>
+          <strong>Named, dated, numbered.</strong> Every hike story states the specific
+          product or SKU, the specific retailer, the specific old price, the specific new
+          price, and the specific date (or date range) of the hike. Soft claims don&rsquo;t
+          ship.
+        </li>
+      </ul>
+
+      <h2>Disclosure</h2>
+      <p>
+        RefillWatch is funded by partner revenue from bulk-refill suppliers and a few
+        category-specific retailers who are not themselves the targets of our price-hike
+        coverage. When you click through an partner links and buy, we earn a small
+        commission at no extra cost to you. See the full <a href="/disclosure/">partner
+        disclosure</a>.
+      </p>
+      <p>
+        RefillWatch uses AI tools for research drafting and initial article structure.
+        Every piece is reviewed and edited by <a href="/authors/dana-wolff/">Dana Wolff</a>
+        before publish. Factual claims, dollar amounts, and brand names are verified
+        by a human before they appear on the site.
+      </p>
+
+      <h2>Corrections</h2>
+      <p>
+        Wrong price? Wrong date? Link to the receipt or the archived page and email
+        <a href="mailto:hello@refillwatch.org">hello@refillwatch.org</a>. We correct fast
+        and leave a visible &ldquo;corrected on&rdquo; stamp on the page so readers know
+        what changed and when.
+      </p>
+
+      <h2>What RefillWatch is not</h2>
+      <p>
+        RefillWatch is consumer-pricing journalism &mdash; not financial advice, not
+        investment guidance, not a substitute for a household budget conversation. If a
+        hike is putting real stress on your monthly spending, we&rsquo;ll point you to
+        the alternative, but we can&rsquo;t tell you how much to allocate to groceries.
+      </p>
+    </article>
   </section>
 </CompliantLayout>

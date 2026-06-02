@@ -1,37 +1,53 @@
 ---
 import BrandMark from '@/components/BrandMark.astro';
-import home from '@/data/spawn-home.json';
+import spawnHome from '@/data/spawn-home.json';
 
-const navItems = [
+type NavItem = { href: string; label: string };
+
+const fallbackNav: NavItem[] = [
   { href: '/', label: 'Home' },
   { href: '/pillars', label: 'Guides' },
-  { href: '/products', label: 'Reviews' },
   { href: '/articles', label: 'Articles' },
+  { href: '/products', label: 'Reviews' },
   { href: '/about', label: 'About' },
 ];
 
-const ctaHref = home.homepage?.ctaPrimaryHref || '/products';
-const ctaLabel = home.homepage?.ctaPrimaryLabel || 'See pricing report';
+const fromSpawn = Array.isArray((spawnHome as { navigation?: NavItem[] }).navigation)
+  ? (spawnHome as { navigation: NavItem[] }).navigation
+  : null;
+
+const navItems = fromSpawn?.length ? fromSpawn : fallbackNav;
+const headerVariant = (spawnHome as { brand?: { identity?: { headerVariant?: string } } }).brand?.identity
+  ?.headerVariant;
+const textOnlyHeader = headerVariant === 'minimal' || headerVariant === 'text-only';
+const siteName = (spawnHome as { brand?: { fullName?: string } }).brand?.fullName || 'Home';
 ---
 
-<header class="sticky top-0 z-40 bg-cream-50/95 backdrop-blur-md border-b border-cream-200/80">
-  <div class="max-w-site mx-auto px-4 sm:px-5 py-2 sm:py-2.5">
+<header class="bg-cream-50 relative z-30">
+  <div class="max-w-6xl mx-auto px-3 sm:px-5 pt-2 sm:pt-3">
     <div
       id="site-nav-shell"
-      class="bg-white/90 backdrop-blur-sm rounded-2xl md:rounded-full shadow-soft border border-cream-200/80 transition-shadow duration-200"
+      class="bg-cream-100/85 backdrop-blur-sm rounded-2xl md:rounded-full shadow-soft transition-all duration-300"
     >
-      <div class="px-4 sm:px-6 py-2.5 md:py-3 flex items-center justify-between gap-3">
-        <a href="/" class="no-underline flex items-baseline min-w-0 shrink cursor-pointer" aria-label="InkLedger home">
-          <BrandMark splitWordmark />
+      <div class="px-4 sm:px-5 py-2 md:py-2.5 flex items-center justify-between gap-3">
+        <a href="/" class="no-underline flex items-baseline min-w-0 shrink">
+          {textOnlyHeader ? (
+            <span class="font-display text-base md:text-lg font-semibold text-ink-900 tracking-tight">
+              {siteName}
+            </span>
+          ) : (
+            <BrandMark splitWordmark />
+          )}
         </a>
 
-        <nav class="hidden md:block" aria-label="Primary">
-          <ul class="flex gap-4 lg:gap-6 text-sm font-medium">
+        {/* Desktop nav — hidden on mobile */}
+        <nav class="hidden md:block">
+          <ul class="flex gap-5 md:gap-7 text-sm font-medium">
             {navItems.map((item) => (
               <li>
                 <a
                   href={item.href}
-                  class="text-ink-700 hover:text-terracotta-600 no-underline transition-colors duration-200 cursor-pointer"
+                  class="text-ink-700 hover:text-terracotta-500 no-underline transition-colors duration-200"
                 >
                   {item.label}
                 </a>
@@ -40,55 +56,45 @@ const ctaLabel = home.homepage?.ctaPrimaryLabel || 'See pricing report';
           </ul>
         </nav>
 
-        <div class="flex items-center gap-2 shrink-0">
-          <a href={ctaHref} class="btn-nav-cta no-underline">
-            {ctaLabel}
-          </a>
-
-          <button
-            id="site-nav-toggle"
-            type="button"
-            aria-label="Open menu"
-            aria-expanded="false"
-            aria-controls="site-nav-mobile"
-            class="md:hidden inline-flex items-center justify-center w-10 h-10 rounded-full bg-cream-50 text-ink-900 border border-cream-200
-                   hover:bg-white transition-colors duration-200 shrink-0 cursor-pointer"
-          >
-            <svg class="w-5 h-5 icon-open" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true">
-              <line x1="4" y1="7" x2="20" y2="7" />
-              <line x1="4" y1="12" x2="20" y2="12" />
-              <line x1="4" y1="17" x2="20" y2="17" />
-            </svg>
-            <svg class="w-5 h-5 icon-close hidden" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true">
-              <line x1="6" y1="6" x2="18" y2="18" />
-              <line x1="18" y1="6" x2="6" y2="18" />
-            </svg>
-          </button>
-        </div>
+        {/* Mobile hamburger toggle — hidden on md+ */}
+        <button
+          id="site-nav-toggle"
+          type="button"
+          aria-label="Open menu"
+          aria-expanded="false"
+          aria-controls="site-nav-mobile"
+          class="md:hidden inline-flex items-center justify-center w-10 h-10 rounded-full bg-white/70 text-ink-900 shadow-soft
+                 hover:bg-white transition-colors duration-200 shrink-0"
+        >
+          <svg class="w-5 h-5 icon-open" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true">
+            <line x1="4" y1="7" x2="20" y2="7" />
+            <line x1="4" y1="12" x2="20" y2="12" />
+            <line x1="4" y1="17" x2="20" y2="17" />
+          </svg>
+          <svg class="w-5 h-5 icon-close hidden" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true">
+            <line x1="6" y1="6" x2="18" y2="18" />
+            <line x1="18" y1="6" x2="6" y2="18" />
+          </svg>
+        </button>
       </div>
 
+      {/* Mobile expandable panel — collapsed by default */}
       <nav
         id="site-nav-mobile"
         class="md:hidden overflow-hidden max-h-0 transition-[max-height] duration-300 ease-out"
         aria-hidden="true"
-        aria-label="Mobile primary"
       >
-        <ul class="px-4 pb-4 pt-1 space-y-1 text-base font-medium border-t border-cream-200/80">
+        <ul class="px-5 pb-4 pt-1 space-y-1 text-base font-medium">
           {navItems.map((item) => (
             <li>
               <a
                 href={item.href}
-                class="block px-4 py-3 rounded-xl text-ink-700 hover:bg-cream-50 hover:text-terracotta-600 no-underline transition-colors duration-200 cursor-pointer"
+                class="block px-4 py-3 rounded-2xl text-ink-700 hover:bg-white hover:text-terracotta-600 no-underline transition-colors duration-200"
               >
                 {item.label}
               </a>
             </li>
           ))}
-          <li class="pt-2">
-            <a href={ctaHref} class="btn-primary w-full text-sm no-underline">
-              {ctaLabel}
-            </a>
-          </li>
         </ul>
       </nav>
     </div>
@@ -124,6 +130,7 @@ const ctaLabel = home.homepage?.ctaPrimaryLabel || 'See pricing report';
       setOpen(!isOpen);
     });
 
+    // Close when a link inside the panel is tapped (helps single-page-feeling nav).
     panel.addEventListener('click', function (e) {
       const target = e.target;
       if (target && target.closest('a')) {
@@ -131,6 +138,7 @@ const ctaLabel = home.homepage?.ctaPrimaryLabel || 'See pricing report';
       }
     });
 
+    // Reset state if the viewport crosses back to desktop width.
     const mq = window.matchMedia('(min-width: 768px)');
     function handleMQ() {
       if (mq.matches) setOpen(false);

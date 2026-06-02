@@ -1,19 +1,20 @@
 ---
-/** Editorial trust + security indicators (spine slot — reusable on any affiliate site) */
-const items = [
-  {
-    label: 'Independent editorial',
-    icon: 'shield',
-  },
-  {
-    label: 'Weekly price checks',
-    icon: 'clock',
-  },
-  {
-    label: 'No OEM sponsorships',
-    icon: 'ban',
-  },
+export interface TrustItem {
+  label: string;
+  icon: 'shield' | 'clock' | 'ban';
+}
+
+export interface Props {
+  items?: TrustItem[];
+}
+
+const defaultItems: TrustItem[] = [
+  { label: 'Independent editorial', icon: 'shield' },
+  { label: 'Weekly research updates', icon: 'clock' },
+  { label: 'No pay-to-play', icon: 'ban' },
 ];
+
+const { items = defaultItems } = Astro.props;
 ---
 
 <ul class="flex flex-wrap gap-2 md:gap-3" role="list" aria-label="Editorial trust indicators">

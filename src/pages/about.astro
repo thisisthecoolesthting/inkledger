@@ -1,76 +1,67 @@
 ---
 import CompliantLayout from '@/layouts/CompliantLayout.astro';
-import PageHero from '@/components/PageHero.astro';
+import PageIntro from '@/components/PageIntro.astro';
 import NewsletterForm from '@/components/NewsletterForm.astro';
-import TrustIndicators from '@/components/TrustIndicators.astro';
-import { getCollection } from 'astro:content';
-import { getEntry } from 'astro:content';
-import home from '@/data/spawn-home.json';
-
-const b = home.brand;
-const about = home.about;
-const authorSlug = (home as { defaultAuthorSlug?: string }).defaultAuthorSlug || 'marcus-inkledger';
-const author = await getEntry('authors', authorSlug);
-const articles = await getCollection('articles', ({ data }) => data.status === 'published');
-const products = await getCollection('products', ({ data }) => data.status === 'published');
-const pillars = await getCollection('pillars', ({ data }) => data.status === 'published');
 ---
 
-<CompliantLayout title={`About ${b.fullName}`} description={b.taglineLong || b.taglineShort}>
-  <PageHero
-    eyebrow="About InkLedger"
-    title={about.headline}
-    description={about.body}
-    dark={true}
+<CompliantLayout
+  title="About"
+  description="What RefillWatch is, why it exists, and how we choose what to recommend."
+  sectionAds="about"
+>
+  <PageIntro
+    eyebrow="About RefillWatch"
+    title="When retailers creep prices, we're watching."
+    description="Consumer-advocacy watchdog for repeat buys — water, detergent, ink, pet food, subscriptions. We track hikes and point you to smarter refills."
   />
 
-  <section class="max-w-site mx-auto px-4 sm:px-5 py-12 md:py-16">
-    <TrustIndicators />
-    <div class="grid md:grid-cols-3 gap-4 mt-10">
-      <div class="stat-card">
-        <p class="font-display text-4xl text-ink-900">{articles.length}+</p>
-        <p class="font-mono text-[11px] tracking-[0.14em] uppercase text-terracotta-600 mt-2">Published articles</p>
-      </div>
-      <div class="stat-card">
-        <p class="font-display text-4xl text-ink-900">{products.length}</p>
-        <p class="font-mono text-[11px] tracking-[0.14em] uppercase text-terracotta-600 mt-2">Tracked products</p>
-      </div>
-      <div class="stat-card">
-        <p class="font-display text-4xl text-ink-900">{pillars.length}</p>
-        <p class="font-mono text-[11px] tracking-[0.14em] uppercase text-terracotta-600 mt-2">Authority guides</p>
-      </div>
-    </div>
+  <section class="max-w-site mx-auto px-4 sm:px-6 lg:px-8 pb-10 md:pb-14">
+    <article class="content-panel max-w-3xl mx-auto prose prose-lg prose-ink">
+      <h2>What we do here</h2>
+      <p>We track retailer price hikes on the consumables people buy every month, name the increase specifically, and point readers to alternatives before they overpay. We do not take sponsorships from the retailers or brands we cover. Revenue comes from partner commissions on the refillable and reusable alternatives we recommend, and from bank/credit accounts readers open to stop getting gouged by the financial side of the same problem.</p>
+
+      <h2>How we pick</h2>
+      <p>
+        Every product on this site clears four bars before we recommend it:
+        real-world evidence (rating, reviews, longevity), reasonable price
+        for what you get, no concerning safety or quality issues, and at
+        least one of us would buy it for someone we care about. We say no
+        to a lot of things, including paid placements.
+      </p>
+
+      <h2>How we make money</h2>
+      <p>
+        Most of our links are partner links -- when you buy through them
+        we earn a small commission at no cost to you. That money keeps the
+        site free, keeps us editorially independent, and lets us spend the
+        time it takes to actually research what we recommend.
+        <a href="/disclosure">Read the full disclosure.</a>
+      </p>
+
+      <h2>Who this is for</h2>
+      <p>Cost-conscious consumers, budget-minded households, and anyone tired of watching routine purchases creep up in price without explanation.</p>
+
+      <h2>What we&rsquo;re not</h2>
+      <p>
+        We&rsquo;re not doctors, lawyers, financial advisors, or licensed
+        practitioners of anything. Nothing here is professional advice. If
+        what we cover intersects with a decision that matters to your
+        health or finances, please talk to someone qualified.
+      </p>
+
+      <h2>Get in touch</h2>
+      <p>
+        Questions, requests, corrections, or product suggestions:
+        <a href="mailto:hello@refillwatch.org">hello@refillwatch.org</a>.
+      </p>
+    </article>
   </section>
 
-  {author && (
-    <section class="bg-cream-50 border-y border-cream-200 py-12 md:py-16">
-      <div class="max-w-site mx-auto px-4 sm:px-5 grid md:grid-cols-[200px_1fr] gap-8 items-start">
-        <img
-          src={author.data.photoUrl}
-          alt={author.data.name}
-          width="200"
-          height="200"
-          class="w-40 h-40 rounded-2xl object-cover ring-2 ring-cream-200"
-          loading="lazy"
-        />
-        <div>
-          <p class="section-eyebrow mb-2">Editorial lead</p>
-          <h2 class="font-display text-3xl text-ink-900 !mt-0">{author.data.name}</h2>
-          <p class="text-sm text-terracotta-600 font-medium mt-1">{author.data.role}</p>
-          <p class="text-ink-600 mt-4 leading-relaxed max-w-[56ch]">
-            Former office-products industry analyst who spent a decade on the pricing side of the printing business.
-            InkLedger exists so households stop subsidizing razor-and-blade cartridge math.
-          </p>
-          <div class="flex flex-wrap gap-3 mt-6">
-            <a href={`/authors/${author.slug}/`} class="btn-primary no-underline cursor-pointer">Meet the editor</a>
-            <a href="/methodology/" class="btn-secondary-light no-underline cursor-pointer">Our methodology</a>
-          </div>
-        </div>
+  <section class="section-band-sage">
+    <div class="max-w-site mx-auto px-4 sm:px-6 lg:px-8 py-10 md:py-14">
+      <div class="content-panel-muted max-w-3xl mx-auto">
+        <NewsletterForm variant="hero" />
       </div>
-    </section>
-  )}
-
-  <section class="max-w-3xl mx-auto px-4 sm:px-5 py-16">
-    <NewsletterForm variant="inline" />
+    </div>
   </section>
 </CompliantLayout>
