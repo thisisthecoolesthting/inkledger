@@ -120,6 +120,11 @@ const trustItems = [
 
 <CompliantLayout title={b.fullName} description={dmeta} sectionAds={false} sectionAdsFooter={false}>
 
+  {/* ── home-top ad slot: wide leaderboard, injected by inject.js ── */}
+  <div class="max-w-site mx-auto px-4 sm:px-6 lg:px-8 py-2">
+    <div data-ad-slot="home-top" aria-label="Sponsored"></div>
+  </div>
+
   {/* ============ 1. HERO — compact watchdog band ============ */}
   <HeroCompact
     eyebrow={h.eyebrow}

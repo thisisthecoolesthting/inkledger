@@ -10,7 +10,7 @@ excerpt: >-
   Refills and compatibles can cut ink spend 60–80%. This guide covers when they work, when
   they void nothing that matters, and the kits our lab actually recommends.
 targetKeyword: ink refill guide
-heroImage: https://images.unsplash.com/photo-1612815154858-60aa4c59eaa6?w=1600&q=85
+heroImage: /images/refill-guide-hero.jpg
 relatedProducts:
   - B00MFG54B6
   - B07RRF8FSX
