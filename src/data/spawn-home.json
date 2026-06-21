@@ -2,13 +2,13 @@
   "brand": {
     "shortName": "InkLedger",
     "fullName": "InkLedger",
-    "taglineShort": "Stop overpaying for printer ink.",
+    "taglineShort": "Cost-per-page clarity for every cartridge.",
     "identity": {
       "palette": {
-        "primary": "#1E1B4B",
-        "accent": "#7C2D12",
-        "cream": "#F5F0E8",
-        "ink": "#0B1120"
+        "primary": "#0F172A",
+        "accent": "#F59E0B",
+        "cream": "#F8FAFC",
+        "ink": "#020617"
       },
       "fonts": {
         "display": "Newsreader",
@@ -16,7 +16,7 @@
         "mono": "JetBrains Mono"
       },
       "mark": {
-        "svgPath": "brand/inkledger-mark.png",
+        "svgPath": "brand/inkledger-mark.svg",
         "svgPublicPath": "/brand/inkledger-mark.png",
         "sizeRem": 1.75,
         "position": "left-of-wordmark"
@@ -27,52 +27,41 @@
         "case": "normal"
       },
       "headerVariant": "minimal",
-      "eyebrowText": "INK PRICING WATCHDOG",
-      "fontCssHref": "https://fonts.googleapis.com/css2?family=Newsreader:wght@400;500;600;700&family=Roboto:wght@300;400;500;700&family=JetBrains+Mono:wght@400;500&display=swap"
+      "eyebrowText": "PRINTER INK PRICE TRACKER",
+      "fontCssHref": "https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,600;6..72,700&family=Roboto:wght@400;500;600;700&display=swap"
     }
   },
-  "persona": {
-    "ymyl": false,
-    "tone": "investigative"
+  "homepage": {
+    "eyebrow": "Printer ink price tracker",
+    "h1": "Stop overpaying for cartridges and toner",
+    "subhead": "We compare OEM, compatible, and refill kits on real cost-per-page — and flag when subscription ink programs quietly creep up.",
+    "ctaPrimaryLabel": "Browse ink guides",
+    "ctaPrimaryHref": "/articles",
+    "ctaSecondaryLabel": "How we score ink",
+    "ctaSecondaryHref": "/methodology",
+    "trustLine": "Independent editorial · No brand sponsorships · We name the cartridge, we name the cheaper page",
+    "heroImageUrl": "/hero/inkledger-hero.jpg",
+    "heroVideoUrl": "/hero/inkledger-hero.mp4"
+  },
+  "palette": {
+    "primary": "#0F172A",
+    "secondary": "#FCD34D",
+    "accent": "#F59E0B",
+    "surface": "#F8FAFC",
+    "ink": "#020617"
   },
   "newsletter": {
-    "title": "The InkLedger weekly",
-    "subtitle": "Practical picks and straight answers from InkLedger, once a week. No spam.",
-    "kicker": "Stay in the loop"
+    "title": "InkLedger weekly",
+    "subtitle": "One ink alert, one smarter swap, one cost-per-page check — every week. No spam."
   },
   "analytics": {
     "ga_measurement_id": "G-8RJBVB2V98",
-    "ga_property_id": "536827157"
+    "ga_property_id": "536827157",
+    "search_console_property": "https://inkledger.org/"
   },
-  "supportEmail": "hello@inkledger.org",
-  "defaultAuthorSlug": "marcus-inkledger",
-  "defaultMetaDescription": "OEM cartridge prices rose 43% in the last five years. We track the increases, review the refill and compatible alternatives that actually work, and show you exactly how much your household is losing t",
-  "homepage": {
-    "eyebrow": "Printer ink pricing watchdog",
-    "h1": "Printer ink costs more than your time is worth. We catch the hikes.",
-    "subhead": "OEM cartridge prices rose 43% in the last five years. We track the increases, review the refill and compatible alternatives that actually work, and show you exactly how much your household is losing to Epson, HP, Brother, and Canon each year.",
-    "ctaPrimaryLabel": "See the ink pricing report",
-    "ctaPrimaryHref": "/pillars/ink-pricing-report",
-    "ctaSecondaryLabel": "Start with the refill guide",
-    "ctaSecondaryHref": "/pillars/refill-guide",
-    "trustLine": "No sponsorship from printer manufacturers. Partner revenue only on third-party refills and compatibles we would buy ourselves.",
-    "heroImageUrl": "https://images.unsplash.com/photo-1612815154858-60aa4c59eaa6?w=1600&q=85"
-  },
-  "about": {
-    "headline": "Why InkLedger exists",
-    "body": "One household, 12 years of ink receipts, and the slow realization that the printer was free and the cartridges cost more than a car payment. InkLedger is the site we wish had existed then. We do the pricing work so you can buy less ink for less money, or ditch the inkjet entirely for the tasks that do not actually need one."
-  },
+  "defaultAuthorSlug": "dana-wolff",
   "editorial": {
-    "author_slug": "marcus-inkledger",
-    "ymyl": false,
-    "methodology": [
-      "Every cartridge tested is purchased at retail across three sellers; we never accept manufacturer samples from OEM or third-party brands.",
-      "Each cartridge prints a 200-page real-document workload (mixed text, photo, color) before we calculate cost per page.",
-      "Retailer pricing is re-checked every Monday for at least 90 days post-publish; stale links are removed and the article is dated 'last priced'.",
-      "Compatible and refill picks are scored against the OEM on print quality (1200 dpi reference scan), yield (actual vs claimed), and warranty fallout.",
-      "Affiliate revenue comes only from third-party refill suppliers and compatible-cartridge brands; we do not link Epson, HP, Brother, or Canon storefronts.",
-      "Reader-submitted print samples are accepted and credited; if a reader's printer disagrees with our results we re-test and update the post."
-    ]
+    "author_slug": "dana-wolff"
   },
   "navigation": [
     {
@@ -95,5 +84,20 @@
       "href": "/about",
       "label": "About"
     }
-  ]
+  ],
+  "supportEmail": "hello@inkledger.org",
+  "monetization": {
+    "default_topic": "printer-ink",
+    "amazon_associate_tag": "inkledger-20",
+    "pinterest": {
+      "pin_templates": [
+        "routine-card",
+        "ingredient-spotlight",
+        "before-after",
+        "product-strip"
+      ],
+      "rotate_by": "article_slug"
+    }
+  },
+  "disablePhonePromos": true
 }

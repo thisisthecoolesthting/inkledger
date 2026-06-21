@@ -1,55 +1,32 @@
 ---
-title: "Laser vs. Inkjet: A Detailed Cost Per Page Breakdown"
-metaDescription: Stop overpaying for printer ink. We compare laser vs. inkjet printers
-  on cost per page, real-world performance, and money-saving alternatives to help
-  you choose the right printer for your needs.
-publishedAt: "2026-04-28T00:00:00.000Z"
-excerpt: Wondering whether a laser or inkjet printer will save you more money? Our
-  detailed cost breakdown compares upfront costs, ink/toner expenses, and long-term
-  value to help you make an informed decision.
-pillarSlug: ink-cost-savings
+title: "laser-vs-inkjet-printer-cost-per-page-breakdown"
+site: inkledger
+topic: "printer-ink"
+tier: mvp
+cardTitle: "laser-vs-inkjet-printer-cost-per-page-breakdown"
+cardPick: "Editorial printer-ink pick from InkLedger."
+updatedAt: '2026-06-06T03:05:48.167Z'
+relatedProducts: []
 status: published
+subtopic: printer-ink
+publishedAt: '2026-06-06T03:05:48.167Z'
+metaDescription: "laser-vs-inkjet-printer-cost-per-page-breakdown"
+excerpt: "laser-vs-inkjet-printer-cost-per-page-breakdown"
+heroImage: /images/heroes/laser-vs-inkjet-printer-cost-per-page-breakdown.webp
 tags:
-- laser vs inkjet
-- cost per page
-- printer comparison
-- toner savings
-- inkjet costs
-- printer economics
-- office printing
-relatedProducts:
-- B004QM8SLG
-- B00MFG54B6
-- B01N5P8KOM
-- B074ND5RDT
-- B074WJK4G1
-- B074WJLHBL
-- B07P5Y5HGC
-- B07Z6TV9Y7
-- B085VZPR2Y
-- B08B3K9H7L
-- B08H4YTTLP
-- B08HSNHJRH
-- B08KGY4XJ5
-- B08NQSHX3N
-- B08TJJ6PF5
-- B0CB75LML9
-- B0CGW2TFSV
-- B0CGW48C3G
-- B0F54TYKF9
-- B0GF25F12C
-heroImage: /heroes/laser-vs-inkjet-printer-cost-per-page-breakdown.webp
-subtopic: cartridges
-updatedAt: 2026-05-12
+  - inkledger
+  - home gym
+author: marcus-webb
 ---
+
 
 ## Introduction
 
 The printer industry operates on what economists call a 'razor-and-blades' model - sell the hardware cheaply while making enormous profits on the consumables. This business model explains why you can buy an inkjet printer for less than $50, yet spend hundreds annually on replacement cartridges. Our investigation reveals most consumers dramatically underestimate their true printing costs by focusing solely on the upfront printer price rather than the long-term cost per page.
 
-Consider this real-world scenario: A family purchasing the popular HP DeskJet 2755e for $60 might assume they're getting a bargain. However, when they later discover the HP 67XL black cartridge costs $38 and yields just 600 pages (6.3¢ per page), the true cost becomes apparent. Over three years of printing 500 pages monthly, they'd spend $684 on ink alone - more than ten times the printer's purchase price.
+Consider this real-world scenario: A family purchasing the popular [HP DeskJet 2755e](https://www.amazon.com/dp/B08H4YTTLP?tag=inkledger-20) for $60 might assume they're getting a bargain. However, when they later discover the HP 67XL black cartridge costs $38 and yields just 600 pages (6.3¢ per page), the true cost becomes apparent. Over three years of printing 500 pages monthly, they'd spend $684 on ink alone - more than ten times the printer's purchase price.
 
-Laser printers flip this equation. The Brother HL-L2350DW costs $199 upfront but delivers pages at just 1.2¢ each. That same family would spend only $144 on toner over three years - a savings of $540 compared to the inkjet. This fundamental difference in cost structure explains why businesses overwhelmingly prefer laser printers, and why savvy home users are making the switch.
+Laser printers flip this equation. The [Brother HL-L2350DW](https://www.amazon.com/dp/B074WJK4G1?tag=inkledger-20) costs $199 upfront but delivers pages at just 1.2¢ each. That same family would spend only $144 on toner over three years - a savings of $540 compared to the inkjet. This fundamental difference in cost structure explains why businesses overwhelmingly prefer laser printers, and why savvy home users are making the switch.
 
 Our analysis draws from:
 - 12 months of price tracking for 32 printer models
@@ -57,15 +34,11 @@ Our analysis draws from:
 - Interviews with 47 small business owners about their real-world printing costs
 - Teardowns of printer mechanisms to understand built-in obsolescence
 
-
-
-> **See also:** [Toner vs. Ink: A Cost-Per-Page Analysis for Home and Small Office](https://inkledger.org/articles/toner-vs-ink-cost-per-page-analysis/)
-
 ## Why this matters
 
-Printer manufacturers employ numerous tactics to maximize ink and toner sales, many of which border on predatory. HP's infamous 'dynamic security' firmware updates deliberately disable third-party cartridges. Epson printers are programmed to perform 'cleaning cycles' that consume up to 20% of your ink supply. Brother remains one of the few major brands that doesn't actively block compatible toners, making their TN-760 cartridge a favorite among cost-conscious users.
+Printer manufacturers employ numerous tactics to maximize ink and toner sales, many of which border on predatory. HP's infamous 'dynamic security' firmware updates deliberately disable third-party cartridges. Epson printers are programmed to perform 'cleaning cycles' that consume up to 20% of your ink supply. Brother remains one of the few major brands that doesn't actively block compatible toners, making their [TN-760 cartridge](https://www.amazon.com/dp/B004QM8SLG?tag=inkledger-20) a favorite among cost-conscious users.
 
-The environmental impact is equally troubling. Over 375 million printer cartridges end up in landfills annually, with most taking 450-1,000 years to decompose. Many cartridges contain less than 10ml of actual ink - the equivalent of about two teaspoons - yet come packaged in enough plastic to hold twenty times that volume. Laser toner cartridges like those for the Brother MFC-L2750DW are more efficiently designed, with yields up to 3,000 pages from a single container.
+The environmental impact is equally troubling. Over 375 million printer cartridges end up in landfills annually, with most taking 450-1,000 years to decompose. Many cartridges contain less than 10ml of actual ink - the equivalent of about two teaspoons - yet come packaged in enough plastic to hold twenty times that volume. Laser toner cartridges like those for the [Brother MFC-L2750DW](https://www.amazon.com/dp/B085VZPR2Y?tag=inkledger-20) are more efficiently designed, with yields up to 3,000 pages from a single container.
 
 Financial analysts estimate the global printer ink market will reach $27.7 billion by 2027, with profit margins exceeding 60% for OEM cartridges. This explains why companies like HP derive more revenue from ink than printers themselves. Our testing found:
 
@@ -81,24 +54,24 @@ We expanded our testing to include eight representative models across four categ
 
 | Model | Type | Street Price | Black Cost/Page | Color Cost/Page | Yield (Black) | First-Year Cost (5,000 pages) |
 |-------|------|-------------|-----------------|-----------------|---------------|-------------------------------|
-| Brother HL-L2350DW | Laser | $199 | 1.2¢ | N/A | 3,400 pages | $259 |
-| HP LaserJet Pro M404dn | Laser | $399 | 0.9¢ | N/A | 5,000 pages | $444 |
-| Brother MFC-L2750DW | Laser | $399 | 1.5¢ | 5.8¢ | 3,000 pages | $614 |
-| HP OfficeJet Pro 9015e | Inkjet | $299 | 5.3¢ | 8.7¢ | 1,050 pages | $1,014 |
-| Epson EcoTank ET-2800 | Inkjet | $229 | 0.3¢ | 1.1¢ | 3,800 pages | $244 |
-| Canon PIXMA TR8620a | Inkjet | $199 | 6.8¢ | 10.2¢ | 800 pages | $1,239 |
-| Epson WorkForce WF-7820 | Inkjet | $249 | 4.1¢ | 7.6¢ | 1,500 pages | $754 |
-| Brother MFC-J995DW | Inkjet | $199 | 3.9¢ | 6.3¢ | 1,200 pages | $694 |
+| [Brother HL-L2350DW](https://www.amazon.com/dp/B074WJK4G1?tag=inkledger-20) | Laser | $199 | 1.2¢ | N/A | 3,400 pages | $259 |
+| [HP LaserJet Pro M404dn](https://www.amazon.com/dp/B074ND5RDT?tag=inkledger-20) | Laser | $399 | 0.9¢ | N/A | 5,000 pages | $444 |
+| [Brother MFC-L2750DW](https://www.amazon.com/dp/B085VZPR2Y?tag=inkledger-20) | Laser | $399 | 1.5¢ | 5.8¢ | 3,000 pages | $614 |
+| [HP OfficeJet Pro 9015e](https://www.amazon.com/dp/B07Z6TV9Y7?tag=inkledger-20) | Inkjet | $299 | 5.3¢ | 8.7¢ | 1,050 pages | $1,014 |
+| [Epson EcoTank ET-2800](https://www.amazon.com/dp/B08HSNHJRH?tag=inkledger-20) | Inkjet | $229 | 0.3¢ | 1.1¢ | 3,800 pages | $244 |
+| [Canon PIXMA TR8620a](https://www.amazon.com/dp/B08KGY4XJ5?tag=inkledger-20) | Inkjet | $199 | 6.8¢ | 10.2¢ | 800 pages | $1,239 |
+| [Epson WorkForce WF-7820](https://www.amazon.com/dp/B01N5P8KOM?tag=inkledger-20) | Inkjet | $249 | 4.1¢ | 7.6¢ | 1,500 pages | $754 |
+| [Brother MFC-J995DW](https://www.amazon.com/dp/B07P5Y5HGC?tag=inkledger-20) | Inkjet | $199 | 3.9¢ | 6.3¢ | 1,200 pages | $694 |
 
 Key findings:
 
-1. **EcoTank's diminishing returns**: While the Epson ET-2800 appears unbeatable at 0.3¢ per page, our six-month stress test revealed significant drawbacks:
+1. **EcoTank's diminishing returns**: While the [Epson ET-2800](https://www.amazon.com/dp/B08B3K9H7L?tag=inkledger-20) appears unbeatable at 0.3¢ per page, our six-month stress test revealed significant drawbacks:
    - Print head clogs occurred after 3 weeks of inactivity
    - Color accuracy degraded noticeably after 1,000 pages
    - Ink evaporation caused 15% waste in humid environments
-   - Replacement Epson 502 ink bottles now cost 40% more than 2022 prices
+   - Replacement [Epson 502 ink bottles](https://www.amazon.com/dp/B08KGY4XJ5?tag=inkledger-20) now cost 40% more than 2022 prices
 
-2. **Business laser superiority**: The HP LaserJet Pro M404dn achieves remarkable 0.9¢ per page costs thanks to its 5,000-page yield. However, its $150 toner price creates cash flow challenges for small businesses.
+2. **Business laser superiority**: The [HP LaserJet Pro M404dn](https://www.amazon.com/dp/B074ND5RDT?tag=inkledger-20) achieves remarkable 0.9¢ per page costs thanks to its 5,000-page yield. However, its $150 toner price creates cash flow challenges for small businesses.
 
 3. **Inkjet's hidden costs**: The Canon PIXMA's shocking 6.8¢ per page stems from tiny cartridge yields and aggressive firmware that rejects third-party inks. Its 'low ink warning' triggers when cartridges still contain 30% capacity.
 
@@ -107,32 +80,32 @@ Key findings:
 Manufacturer specifications rarely reflect actual usage conditions. Our team conducted controlled tests simulating home, office, and mixed-use environments over six months. The results expose significant discrepancies between claimed and actual performance:
 
 **Inkjet reliability issues**
-- HP OfficeJet Pro 9015e printers averaged 2.3 service calls per year in office settings
+- [HP OfficeJet Pro](https://www.amazon.com/dp/B08NQSHX3N?tag=inkledger-20) 9015e printers averaged 2.3 service calls per year in office settings
 - Epson EcoTank models required manual print head cleaning every 1,200 pages
-- Canon PIXMA printers showed 22% higher failure rates when using third-party ink versus OEM
+- Canon PIXMA printers showed 22% higher failure rates when using [third-party ink](https://www.amazon.com/dp/B0CB75LML9?tag=inkledger-20) versus OEM
 
 **Laser durability advantages**
-- Brother HL-L2350DW units averaged 47,000 pages before first service
+- [Brother HL-L2350DW](https://www.amazon.com/dp/B00MFG54B6?tag=inkledger-20) units averaged 47,000 pages before first service
 - HP LaserJet Pro M404dn showed consistent output quality through 80,000 pages
 - Toner shelf life exceeded 2 years in climate-controlled storage
 
 Unexpected findings:
-- The Brother TN-760 toner yielded 13% more pages than rated when printing at 'toner save' mode
-- HP 902XL cartridges failed prematurely in 18% of cases due to chip malfunctions
-- Epson EcoTank ink viscosity changed noticeably after 6 months, affecting print quality
+- The [Brother TN-760 toner](https://www.amazon.com/dp/B004QM8SLG?tag=inkledger-20) yielded 13% more pages than rated when printing at 'toner save' mode
+- [HP 902XL](https://www.amazon.com/dp/B074WJLHBL?tag=inkledger-20) cartridges failed prematurely in 18% of cases due to chip malfunctions
+- [Epson EcoTank ink](https://www.amazon.com/dp/B08TJJ6PF5?tag=inkledger-20) viscosity changed noticeably after 6 months, affecting print quality
 
 ## Cost math
 
 Let's examine three common usage scenarios with detailed five-year cost projections:
 
 **Light Home User (200 pages/month)**
-1. Brother HL-L2350DW: $199 printer + $60 toner = $259 total
-2. Epson EcoTank ET-2800: $229 printer + $30 ink = $259 total
-3. HP OfficeJet Pro 9015e: $299 printer + $360 cartridges = $659 total
+1. [Brother HL-L2350DW](https://www.amazon.com/dp/B074WJK4G1?tag=inkledger-20): $199 printer + $60 toner = $259 total
+2. [Epson EcoTank ET-2800](https://www.amazon.com/dp/B08HSNHJRH?tag=inkledger-20): $229 printer + $30 ink = $259 total
+3. [HP OfficeJet Pro 9015e](https://www.amazon.com/dp/B07Z6TV9Y7?tag=inkledger-20): $299 printer + $360 cartridges = $659 total
 
 **Moderate Office (1,500 pages/month)**
 1. Brother HL-L2350DW: $199 + $324 toner = $523
-2. HP LaserJet Pro M404dn: $399 + $540 toner = $939
+2. [HP LaserJet Pro M404dn](https://www.amazon.com/dp/B074ND5RDT?tag=inkledger-20): $399 + $540 toner = $939
 3. HP OfficeJet Pro 9015e: $299 + $2,862 cartridges = $3,161
 
 **Heavy Business (5,000 pages/month)**
@@ -140,25 +113,25 @@ Let's examine three common usage scenarios with detailed five-year cost projecti
 2. Brother MFC-L2750DW: $399 + $3,480 toner = $3,879
 3. Epson WorkForce WF-7820: $249 + $4,920 cartridges = $5,169
 
-These models demonstrate why laser printers dominate business environments. Even the more expensive Brother MFC-L2750DW saves $1,290 annually versus comparable inkjets at 5,000 pages/month.
+These models demonstrate why laser printers dominate business environments. Even the more expensive [Brother MFC-L2750DW](https://www.amazon.com/dp/B085VZPR2Y?tag=inkledger-20) saves $1,290 annually versus comparable inkjets at 5,000 pages/month.
 
 ## Alternatives and refills
 
 For users committed to inkjet technology, these strategies can mitigate costs:
 
-1. **High-yield cartridge upgrades**: The HP 952XL yields 2,300 pages versus 1,200 for standard 952 cartridges, cutting costs by 35%.
+1. **High-yield cartridge upgrades**: The [HP 952XL](https://www.amazon.com/dp/B0CGW2TFSV?tag=inkledger-20) yields 2,300 pages versus 1,200 for standard 952 cartridges, cutting costs by 35%.
 
-2. **Bulk ink systems**: The Epson EcoTank ET-15000 uses supersized ink bottles costing just 0.2¢ per page for black.
+2. **Bulk ink systems**: The [Epson EcoTank ET-15000](https://www.amazon.com/dp/B0CGW48C3G?tag=inkledger-20) uses supersized ink bottles costing just 0.2¢ per page for black.
 
 3. **Professional refill services**: Companies like InkJet SuperStore offer cartridge refills at 60-70% below retail, with quality testing.
 
 Laser users have fewer but more reliable options:
 
-1. **Remanufactured toners**: Office Depot's remanufactured TN-760 performs comparably to OEM at 40% savings.
+1. **Remanufactured toners**: Office Depot's [remanufactured TN-760](https://www.amazon.com/dp/B0GF25F12C?tag=inkledger-20) performs comparably to OEM at 40% savings.
 
 2. **Toner reset chips**: Available for many Brother models, these $5 chips extend cartridge life by 20%.
 
-3. **Bulk toner purchases**: Buying TN-760 multipacks reduces per-unit cost by 15-20%.
+3. **Bulk toner purchases**: Buying [TN-760 multipacks](https://www.amazon.com/dp/B0F54TYKF9?tag=inkledger-20) reduces per-unit cost by 15-20%.
 
 ## FAQ
 
@@ -168,7 +141,7 @@ Most manufacturers void warranties if using third-party ink, though this violate
 
 ### Q2: What's the true environmental impact difference?
 
-Laser printers consume more energy per page (30-50 watts vs. 10-15 for inkjets) but generate less waste. A single Brother TN-760 replaces 12-15 inkjet cartridges, reducing plastic waste by 80%.
+Laser printers consume more energy per page (30-50 watts vs. 10-15 for inkjets) but generate less waste. A single [Brother TN-760](https://www.amazon.com/dp/B004QM8SLG?tag=inkledger-20) replaces 12-15 inkjet cartridges, reducing plastic waste by 80%.
 
 ### Q3: Can I mix OEM and third-party supplies?
 
@@ -178,27 +151,27 @@ Yes, but with caveats. HP and Epson printers may limit functionality with mixed 
 
 The work-from-home surge caused:
 - 40% price increases on popular home printers
-- Toner shortages that raised Brother TN-760 prices 25%
+- Toner shortages that raised [Brother TN-760](https://www.amazon.com/dp/B004QM8SLG?tag=inkledger-20) prices 25%
 - Longer lead times for printer repairs
 
 ### Q5: What's the break-even point for laser vs. inkjet?
 
-For the Brother HL-L2350DW vs. HP OfficeJet Pro 9015e, breakeven occurs at 1,900 pages (about 4 months for average users). High-volume users recoup the laser's higher upfront cost in under 60 days.
+For the [Brother HL-L2350DW](https://www.amazon.com/dp/B074WJK4G1?tag=inkledger-20) vs. [HP OfficeJet Pro 9015e](https://www.amazon.com/dp/B07Z6TV9Y7?tag=inkledger-20), breakeven occurs at 1,900 pages (about 4 months for average users). High-volume users recoup the laser's higher upfront cost in under 60 days.
 
 ## Bottom line
 
 After analyzing thousands of data points, our recommendations have crystallized:
 
 **For homes printing <300 pages/month**:
-- Epson EcoTank ET-2800 if you value color photos
-- Brother HL-L2350DW for document-focused users
+- [Epson EcoTank ET-2800](https://www.amazon.com/dp/B08HSNHJRH?tag=inkledger-20) if you value color photos
+- [Brother HL-L2350DW](https://www.amazon.com/dp/B074WJK4G1?tag=inkledger-20) for document-focused users
 
 **For offices printing 1,000-5,000 pages/month**:
-- Brother MFC-L2750DW provides the best balance of cost and functionality
-- HP LaserJet Pro M404dn for high-volume mono printing
+- [Brother MFC-L2750DW](https://www.amazon.com/dp/B085VZPR2Y?tag=inkledger-20) provides the best balance of cost and functionality
+- [HP LaserJet Pro M404dn](https://www.amazon.com/dp/B074ND5RDT?tag=inkledger-20) for high-volume mono printing
 
 **For businesses printing 10,000+ pages/month**:
-- Consider commercial-grade models like the Xerox VersaLink C7000 with 20,000-page toner yields
+- Consider commercial-grade models like the [Xerox VersaLink C7000](https://www.amazon.com/dp/B0CB75LML9?tag=inkledger-20) with 20,000-page toner yields
 
 Regardless of your choice, calculate your specific cost per page using our interactive calculator at InkLedger.com. The savings from choosing the right printer could fund your next vacation - or at least buy a nice bottle of actual champagne instead of spending that money on overpriced ink.
 
@@ -224,7 +197,6 @@ It's a pricing trick that catches people. XL labels imply better value, but manu
 
 The XL is only the better deal when the per-page math works out — and roughly one in four XL cartridges fails that test once you crunch the numbers.
 
-
 **Are compatible cartridges safe for my printer?**
 
 Compatible cartridges from established remanufacturers won't void your printer's warranty in the United States — the Magnuson-Moss Warranty Act prohibits manufacturers from voiding warranties solely because non-OEM consumables were used. The risk of head clogs comes from poor-quality ink, not from the cartridge body itself, so the brand of the ink matters more than whether the cartridge is OEM.
@@ -236,7 +208,6 @@ Reputable remanufacturers (LD Products, INKfinity, LemeroUtrust) use formulated 
 OEM means the cartridge is built and filled by the printer's manufacturer (HP, Canon, Brother, Epson). Compatible means a third-party cartridge built from new parts to fit the same printer. Remanufactured means an OEM cartridge that's been emptied, cleaned, refilled, and tested for resale.
 
 Quality runs OEM > top-tier remanufactured > most compatibles > bargain compatibles, but price runs in the opposite direction. The remanufactured tier is the sweet spot for casual users who don't print photos.
-
 
 ## What to watch for before you buy
 
@@ -251,25 +222,9 @@ Quality runs OEM > top-tier remanufactured > most compatibles > bargain compatib
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+## Related picks from our reviews
 
-## FAQ  
-
-**Q: How does the cost per page compare between laser and inkjet printers?**  
-A: Laser printers generally have a lower cost per page for black-and-white printing, while inkjet printers may be cheaper for color prints, depending on the model and ink type. High-yield toner cartridges for lasers reduce long-term costs, whereas inkjets often require frequent cartridge replacements.  
-
-**Q: Which printer type is more cost-effective for occasional home use?**  
-A: Inkjet printers are usually more affordable upfront and better suited for occasional use, as laser printers can suffer from toner clumping if left unused for long periods. However, if you primarily print text documents, a budget laser printer may save money over time.  
-
-**Q: Do third-party inks or toners affect the cost per page significantly?**  
-A: Yes, third-party inks and toners can reduce costs by 30–50%, but quality and reliability vary. Some printers may reject non-OEM cartridges, and poor-quality inks can lead to clogging or print defects, increasing long-term expenses.  
-
-**Q: How does paper choice impact printing costs for laser vs. inkjet?**  
-A: Laser printers work well with standard copier paper, keeping costs low, while inkjets often produce better results on coated or specialty paper, which can raise expenses. For draft-quality prints, though, both can use cheaper paper without major issues.
-
-## Top Picks
-
-<a href="https://www.amazon.com/dp/B079HGN3SG?tag=inkledger-20" rel="sponsored noopener" target="_blank" style="display:flex;align-items:center;gap:12px;text-decoration:none;margin:8px 0;padding:10px 12px;border:1px solid #e2e8f0;border-radius:10px;background:#f8fafc;"><img src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B079HGN3SG&Format=_SL100_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=inkledger-20" alt="Wacom Intuos Medium Bluetooth Tablet" width="80" height="80" loading="lazy" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;border-radius:6px;background:#fff;" /><div style="min-width:0;"><strong style="display:block;color:#1e293b;font-size:0.9em;">Wacom Intuos Medium Bluetooth Tablet</strong><span style="color:#64748b;font-size:0.82em;line-height:1.4;">2048 levels of pressure, Bluetooth, compatible with Photoshop, Illustrator, and Clip Studio.</span></div></a>
-
-<a href="https://www.amazon.com/dp/B07X4SR5MN?tag=inkledger-20" rel="sponsored noopener" target="_blank" style="display:flex;align-items:center;gap:12px;text-decoration:none;margin:8px 0;padding:10px 12px;border:1px solid #e2e8f0;border-radius:10px;background:#f8fafc;"><img src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07X4SR5MN&Format=_SL100_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=inkledger-20" alt="Arteza Expert Colored Pencils 72-Pack" width="80" height="80" loading="lazy" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;border-radius:6px;background:#fff;" /><div style="min-width:0;"><strong style="display:block;color:#1e293b;font-size:0.9em;">Arteza Expert Colored Pencils 72-Pack</strong><span style="color:#64748b;font-size:0.82em;line-height:1.4;">Soft wax-oil core, 72 highly pigmented colors, in a sturdy metal tin.</span></div></a>
-
-<a href="https://www.amazon.com/dp/B00EWUNJN4?tag=inkledger-20" rel="sponsored noopener" target="_blank" style="display:flex;align-items:center;gap:12px;text-decoration:none;margin:8px 0;padding:10px 12px;border:1px solid #e2e8f0;border-radius:10px;background:#f8fafc;"><img src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00EWUNJN4&Format=_SL100_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=inkledger-20" alt="Canon PIXMA iX6820 Wireless Printer" width="80" height="80" loading="lazy" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;border-radius:6px;background:#fff;" /><div style="min-width:0;"><strong style="display:block;color:#1e293b;font-size:0.9em;">Canon PIXMA iX6820 Wireless Printer</strong><span style="color:#64748b;font-size:0.82em;line-height:1.4;">Wireless 13x19 borderless printing—affordable wide-format for small art print runs.</span></div></a>
+- [Inkjet Refill Kit Pro — Compatible with HP, Canon, Epson, and Lexmark Cartridges](/products/b00mfg54b6-inkjet-refill-kit-pro-hp-canon/)
+- [Brother LC3013BK Individual High-Yield Black Ink Cartridge](/products/b01ms0kdqf-brother-lc3013bk-xl-black-ink/)
+- [Epson 502 Ink Cartridges, Black/Cyan/Magenta/Yellow, 4-Pack](/products/b07gxxsrd2-epson-502-4-color-multipack/)
+- [HP 65 Black Ink Cartridge Works with HP AMP 100, DeskJet 2600, 3700, ENVY 5000 Series](/products/b00004y81q-hp-65-black-ink-cartridge/)

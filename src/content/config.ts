@@ -1,8 +1,17 @@
-// Astro content collections. Defaults use spawn-time tokens; spawn_site replaces
-// marcus-inkledger to match the niche default author.
+// Astro Content Collections schema for InkLedger.
+//
+// Four collections:
+//   authors   -- named humans who write or edit (E-E-A-T layer)
+//   products  -- amazon products reviewed for the watchdog angle
+//   pillars   -- long-form authority investigations
+//   articles  -- pricing alerts + supporting Q&A
+//
+// All pieces default to Dana Wolff as editor; override with a specific
+// author slug in frontmatter when adding a guest contributor.
+
 import { defineCollection, z } from 'astro:content';
 
-// Coerce null → [] for relatedProducts (bare `relatedProducts:` in frontmatter = YAML null)
+// Coerce null → [] for relatedProducts (some articles have bare `relatedProducts:` in frontmatter)
 const relatedProductsField = z.preprocess((v) => (v == null ? [] : v), z.array(z.string())).optional().default([]);
 
 const authors = defineCollection({
@@ -15,13 +24,11 @@ const authors = defineCollection({
     shortBio: z.string(),
     joinedAt: z.coerce.date().optional(),
     location: z.string().optional().default(''),
-    socials: z
-      .object({
-        linkedin: z.string().url().optional(),
-        instagram: z.string().url().optional(),
-        email: z.string().email().optional(),
-      })
-      .optional(),
+    socials: z.object({
+      linkedin: z.string().url().optional(),
+      twitter: z.string().url().optional(),
+      email: z.string().email().optional(),
+    }).optional(),
   }),
 });
 
@@ -42,13 +49,14 @@ const products = defineCollection({
     commissionPerSale: z.number().optional().default(0),
     score: z.number().optional().default(0),
     imageUrl: z.string().optional().default(''),
+    imageFlagged: z.boolean().optional().default(false),
     affiliateUrl: z.string(),
     isPrime: z.boolean().optional().default(false),
     status: z.enum(['draft', 'in_review', 'published']).default('draft'),
     firstSeen: z.string().optional().default(''),
     lastSeen: z.string().optional().default(''),
     tags: z.array(z.string()).optional().default([]),
-    author: z.string().optional().default('marcus-inkledger'),
+    author: z.string().optional().default('dana-wolff'),
     reviewedAt: z.coerce.date().optional(),
   }),
 });
@@ -66,7 +74,7 @@ const pillars = defineCollection({
     relatedProducts: relatedProductsField,
     status: z.enum(['draft', 'in_review', 'published']).default('draft'),
     tags: z.array(z.string()).optional().default([]),
-    author: z.string().optional().default('marcus-inkledger'),
+    author: z.string().optional().default('dana-wolff'),
     reviewedAt: z.coerce.date().optional(),
   }),
 });
@@ -85,8 +93,10 @@ const articles = defineCollection({
     status: z.enum(['draft', 'in_review', 'published']).default('draft'),
     subtopic: z.string().optional().default(''),
     tags: z.array(z.string()).optional().default([]),
-    author: z.string().optional().default('marcus-inkledger'),
+    author: z.string().optional().default('dana-wolff'),
     reviewedAt: z.coerce.date().optional(),
+    cardTitle: z.string().optional().default(''),
+    cardPick: z.string().optional().default(''),
   }),
 });
 

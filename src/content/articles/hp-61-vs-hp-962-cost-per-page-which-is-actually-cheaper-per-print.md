@@ -1,17 +1,25 @@
 ---
-title: HP 61 vs HP 962 cost per page — which is actually cheaper per print
+title: "hp-61-vs-hp-962-cost-per-page-which-is-actually-cheaper-per-print"
 site: inkledger
-topic: HP 61 vs HP 962 cost per page — which is actually cheaper per print
-tier: full
+topic: "printer-ink"
+tier: mvp
+cardTitle: "hp-61-vs-hp-962-cost-per-page-which-is-actually-cheaper-pe"
+cardPick: "Editorial printer-ink pick from InkLedger."
+updatedAt: '2026-06-06T03:05:48.142Z'
 relatedProducts: []
 status: published
-heroImage: /heroes/hp-61-vs-hp-962-cost-per-page-which-is-actually-cheaper-per-print.webp
-metaDescription: "HP 61 vs HP 962 Cost Per Page — Which Is Actually Cheaper Per Print?"
-publishedAt: 2026-04-24
-excerpt: "HP 61 vs HP 962 Cost Per Page — Which Is Actually Cheaper Per Print?"
-subtopic: printers
-updatedAt: 2026-05-12
+subtopic: printer-ink
+publishedAt: '2026-06-06T03:05:48.142Z'
+metaDescription: "hp-61-vs-hp-962-cost-per-page-which-is-actually-cheaper-per-print"
+excerpt: "hp-61-vs-hp-962-cost-per-page-which-is-actually-cheaper-per-print"
+heroImage: /images/heroes/hp-61-vs-hp-962-cost-per-page-which-is-actually-cheaper-per-print.webp
+tags:
+  - inkledger
+  - home gym
+author: marcus-webb
 ---
+
+
 ## HP 61 vs HP 962 Cost Per Page — Which Is Actually Cheaper Per Print?
 
 When it comes to choosing ink cartridges for your HP printer, understanding the cost per page (CPP) can make a big difference in your running costs. Two common cartridge models you might encounter are the **HP 61** and the newer **HP 962**. Both are designed for specific HP printers, but they differ quite a bit in price and yield — and that impacts your real cost per print.
@@ -19,11 +27,6 @@ When it comes to choosing ink cartridges for your HP printer, understanding the 
 In this article, we’ll break down how HP 61 and HP 962 cartridges compare on cost per page, so you can figure out which is truly cheaper per print.
 
 ---
-
-
-
-> **See also:** [1. HP 61 vs HP 962 cost per page — which is actually cheaper per print](https://inkledger.org/articles/1-hp-61-vs-hp-962-cost-per-page-which-is-actually-cheaper-per-print/)
-
 ## What Are HP 61 and HP 962 Cartridges?
 
 Before diving into the numbers, it helps to clarify what these cartridges are:
@@ -34,7 +37,6 @@ Before diving into the numbers, it helps to clarify what these cartridges are:
 While HP 61 tends to be found in budget-friendly printers, HP 962 serves mid-range devices aimed at home offices or small businesses.
 
 ---
-
 ## Key Factors in Cost Per Page Calculation
 
 To compare cost per page, you need:
@@ -52,7 +54,6 @@ Cost per page = Cartridge price / Page yield
 This gives an average cost for each printed page.
 
 ---
-
 ## Price and Yield Comparison: HP 61 vs HP 962
 
 Here's an overview of typical prices and yields (as of mid-2024):
@@ -67,7 +68,6 @@ Here's an overview of typical prices and yields (as of mid-2024):
 **Note:** Prices vary by retailer and availability; these are approximate retail prices for OEM cartridges.
 
 ---
-
 ## Cost Per Page Calculations
 
 Let’s calculate approximate cost per page for each cartridge using the average price:
@@ -97,7 +97,6 @@ Let’s calculate approximate cost per page for each cartridge using the average
 - Cost per page = $42.50 ÷ 700 = **$0.061** (~6.1 cents)
 
 ---
-
 ## What These Numbers Mean for You
 
 - The **HP 962 cartridges offer significantly better cost per page** because they hold more ink and yield more pages, even though their up-front price is higher.
@@ -105,7 +104,6 @@ Let’s calculate approximate cost per page for each cartridge using the average
 - For color, the difference is more pronounced: HP 962 color costs about 6.1 cents per page versus 13.6 cents for HP 61 color — more than twice as cost efficient.
 
 ---
-
 ## Beyond OEM: Are There Cheaper Alternatives?
 
 If you’re looking to save even more, consider:
@@ -117,7 +115,6 @@ If you’re looking to save even more, consider:
 However, sticking with OEM cartridges like HP 962 generally ensures reliable print quality and the yields upon which these cost calculations are based.
 
 ---
-
 ## Printer Compatibility and Other Considerations
 
 - You can’t use HP 962 cartridges in printers designed for HP 61, so your choice depends partly on your printer model.
@@ -126,7 +123,6 @@ However, sticking with OEM cartridges like HP 962 generally ensures reliable pri
 - For new purchases, considering printers that use HP 962 could be more economical long term if you print a lot.
 
 ---
-
 ## Summary: Which Cartridge Is Cheaper Per Page?
 
 | Cartridge Model | Black CPP (cents) | Color CPP (cents) | Recommendation                      |
@@ -137,7 +133,6 @@ However, sticking with OEM cartridges like HP 962 generally ensures reliable pri
 **Bottom line:** If you print regularly and have a compatible printer, HP 962 cartridges are a better value on a cost-per-page basis. For occasional or casual use, or if you're constrained to models supporting HP 61 cartridges, HP 61 remains decent but more expensive in the long run.
 
 ---
-
 ## Final Tips to Reduce Printing Costs
 
 - Print in draft mode for non-essential documents.
@@ -148,7 +143,6 @@ However, sticking with OEM cartridges like HP 962 generally ensures reliable pri
 By understanding cartridge costs and yields, you make smarter, less expensive printing decisions.
 
 ---
-
 If you want affordable ink with reliable results, leaning toward the higher-yield HP 962 cartridges is the logical choice — just ensure your printer supports them!
 
 <!-- padded-no-api-v2 -->
@@ -160,7 +154,6 @@ If you want affordable ink with reliable results, leaning toward the higher-yiel
 It's a pricing trick that catches people. XL labels imply better value, but manufacturers don't always price them proportionally to ink volume. Calculate the actual cost-per-page: divide the cartridge price by the manufacturer's quoted page yield (always under heavy duty-cycle ISO standards, so real numbers are 70–80% of quoted).
 
 The XL is only the better deal when the per-page math works out — and roughly one in four XL cartridges fails that test once you crunch the numbers.
-
 
 **How long can I store unopened cartridges before the ink dries up?**
 
@@ -177,7 +170,6 @@ Pew Research and Consumer Reports tracking put typical household ink spend at $8
 OEM means the cartridge is built and filled by the printer's manufacturer (HP, Canon, Brother, Epson). Compatible means a third-party cartridge built from new parts to fit the same printer. Remanufactured means an OEM cartridge that's been emptied, cleaned, refilled, and tested for resale.
 
 Quality runs OEM > top-tier remanufactured > most compatibles > bargain compatibles, but price runs in the opposite direction. The remanufactured tier is the sweet spot for casual users who don't print photos.
-
 
 **Should I switch to an EcoTank or MegaTank ink-tank printer?**
 
@@ -198,25 +190,9 @@ Skip the tank printer if you print fewer than 200 pages a year — the math does
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+## Related picks from our reviews
 
-## FAQ
-
-**Q: How is cost per page calculated for ink cartridges like the HP 61 and HP 962?**  
-A: Cost per page is calculated by dividing the price of the cartridge by the estimated page yield (number of pages it can print). For example, if an HP 61 costs $10 and yields 200 pages, the cost per page is $0.05.
-
-**Q: Which cartridge has a lower cost per page, the HP 61 or HP 962?**  
-A: The HP 962 typically has a lower cost per page because it has a higher page yield (around 600 pages) compared to the HP 61 (around 200 pages), even though it costs more upfront.
-
-**Q: Does print quality affect the cost per page comparison?**  
-A: Yes, if you use higher quality settings (e.g., photo printing), the yield drops, increasing cost per page. However, for standard text printing, the HP 962 usually remains cheaper per page.
-
-**Q: Are there other factors to consider beyond cost per page?**  
-A: Yes, compatibility with your printer, convenience (how often you need to replace cartridges), and environmental impact (less frequent replacements mean less waste) are also important factors.
-
-## Top Picks
-
-<a href="https://www.amazon.com/dp/B079HGN3SG?tag=inkledger-20" rel="sponsored noopener" target="_blank" style="display:flex;align-items:center;gap:12px;text-decoration:none;margin:8px 0;padding:10px 12px;border:1px solid #e2e8f0;border-radius:10px;background:#f8fafc;"><img src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B079HGN3SG&Format=_SL100_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=inkledger-20" alt="Wacom Intuos Medium Bluetooth Tablet" width="80" height="80" loading="lazy" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;border-radius:6px;background:#fff;" /><div style="min-width:0;"><strong style="display:block;color:#1e293b;font-size:0.9em;">Wacom Intuos Medium Bluetooth Tablet</strong><span style="color:#64748b;font-size:0.82em;line-height:1.4;">2048 levels of pressure, Bluetooth, compatible with Photoshop, Illustrator, and Clip Studio.</span></div></a>
-
-<a href="https://www.amazon.com/dp/B07X4SR5MN?tag=inkledger-20" rel="sponsored noopener" target="_blank" style="display:flex;align-items:center;gap:12px;text-decoration:none;margin:8px 0;padding:10px 12px;border:1px solid #e2e8f0;border-radius:10px;background:#f8fafc;"><img src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07X4SR5MN&Format=_SL100_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=inkledger-20" alt="Arteza Expert Colored Pencils 72-Pack" width="80" height="80" loading="lazy" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;border-radius:6px;background:#fff;" /><div style="min-width:0;"><strong style="display:block;color:#1e293b;font-size:0.9em;">Arteza Expert Colored Pencils 72-Pack</strong><span style="color:#64748b;font-size:0.82em;line-height:1.4;">Soft wax-oil core, 72 highly pigmented colors, in a sturdy metal tin.</span></div></a>
-
-<a href="https://www.amazon.com/dp/B00EWUNJN4?tag=inkledger-20" rel="sponsored noopener" target="_blank" style="display:flex;align-items:center;gap:12px;text-decoration:none;margin:8px 0;padding:10px 12px;border:1px solid #e2e8f0;border-radius:10px;background:#f8fafc;"><img src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00EWUNJN4&Format=_SL100_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=inkledger-20" alt="Canon PIXMA iX6820 Wireless Printer" width="80" height="80" loading="lazy" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;border-radius:6px;background:#fff;" /><div style="min-width:0;"><strong style="display:block;color:#1e293b;font-size:0.9em;">Canon PIXMA iX6820 Wireless Printer</strong><span style="color:#64748b;font-size:0.82em;line-height:1.4;">Wireless 13x19 borderless printing—affordable wide-format for small art print runs.</span></div></a>
+- [HP 65 Black Ink Cartridge Works with HP AMP 100, DeskJet 2600, 3700, ENVY 5000 Series](/products/b00004y81q-hp-65-black-ink-cartridge/)
+- [Inkjet Refill Kit Pro — Compatible with HP, Canon, Epson, and Lexmark Cartridges](/products/b00mfg54b6-inkjet-refill-kit-pro-hp-canon/)
+- [HP 63XL Black High-yield Ink Cartridge](/products/b07rrf8fsx-hp-63xl-black-ink-cartridge/)
+- [Brother LC3013BK Individual High-Yield Black Ink Cartridge](/products/b01ms0kdqf-brother-lc3013bk-xl-black-ink/)

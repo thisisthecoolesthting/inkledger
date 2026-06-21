@@ -1,26 +1,29 @@
 ---
-title: Archived — parser artifact from early test run
-metaDescription: Deprecated test artifact. Do not publish.
-publishedAt: '2026-04-22T00:00:00Z'
-excerpt: Deprecated test artifact.
-status: published
-tags: []
+title: "comparisons-10"
+site: inkledger
+topic: "printer-ink"
+tier: mvp
+cardTitle: "comparisons-10"
+cardPick: "Editorial printer-ink pick from InkLedger."
+updatedAt: '2026-06-06T03:05:48.107Z'
 relatedProducts: []
-heroImage: /heroes/comparisons-10.webp
-subtopic: cartridges
-updatedAt: 2026-05-12
+status: published
+subtopic: printer-ink
+publishedAt: '2026-06-06T03:05:48.107Z'
+metaDescription: "comparisons-10"
+excerpt: "comparisons-10"
+heroImage: /images/heroes/comparisons-10.webp
+tags:
+  - inkledger
+  - home gym
+author: marcus-webb
 ---
+
 
 Deprecated. This file was produced by the AFFILIATE-082 topic parser before the section-header fix. Status held at `draft` so it does not render. Safe to delete on the Windows host.
 
-| Feature          | Early Test Run | Current Version | Notes                  |
-|------------------|----------------|-----------------|------------------------|
-| Parser Accuracy  | 85%           | 95%             | Improved error handling|
-| Execution Speed  | 2.5s          | 1.2s            | Optimized algorithms   |
-| Memory Usage     | 512MB         | 256MB           | Reduced overhead       |
-
 <!-- padded-no-api-v2 -->
-
+---
 ## Frequently asked questions
 
 **How long can I store unopened cartridges before the ink dries up?**
@@ -34,7 +37,6 @@ If a cartridge has been sitting for over two years, it'll usually still print �
 It's a pricing trick that catches people. XL labels imply better value, but manufacturers don't always price them proportionally to ink volume. Calculate the actual cost-per-page: divide the cartridge price by the manufacturer's quoted page yield (always under heavy duty-cycle ISO standards, so real numbers are 70–80% of quoted).
 
 The XL is only the better deal when the per-page math works out — and roughly one in four XL cartridges fails that test once you crunch the numbers.
-
 
 **Are compatible cartridges safe for my printer?**
 
@@ -65,25 +67,9 @@ Skip the tank printer if you print fewer than 200 pages a year — the math does
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+## Related picks from our reviews
 
-## FAQ
-
-**Q: What does "parser artifact" mean in the context of fountain pens?**  
-A: A parser artifact refers to unintended formatting or data remnants from early software tests that may appear in digital documents related to fountain pen reviews or ink databases.  
-
-**Q: Why would an article about fountain pens include a parser artifact?**  
-A: The artifact might have been left during testing of a tool or script used to analyze fountain pen data, such as ink properties or pen specifications.  
-
-**Q: Does the parser artifact affect the accuracy of the article's content?**  
-A: No, the artifact is likely a minor formatting issue and does not impact the factual information about fountain pens or inks.  
-
-**Q: How can I identify parser artifacts in similar articles?**  
-A: Look for unusual symbols, misplaced text, or inconsistent formatting that doesn’t align with the rest of the content.
-
-## Top Picks
-
-<a href="https://www.amazon.com/dp/B079HGN3SG?tag=inkledger-20" rel="sponsored noopener" target="_blank" style="display:flex;align-items:center;gap:12px;text-decoration:none;margin:8px 0;padding:10px 12px;border:1px solid #e2e8f0;border-radius:10px;background:#f8fafc;"><img src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B079HGN3SG&Format=_SL100_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=inkledger-20" alt="Wacom Intuos Medium Bluetooth Tablet" width="80" height="80" loading="lazy" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;border-radius:6px;background:#fff;" /><div style="min-width:0;"><strong style="display:block;color:#1e293b;font-size:0.9em;">Wacom Intuos Medium Bluetooth Tablet</strong><span style="color:#64748b;font-size:0.82em;line-height:1.4;">2048 levels of pressure, Bluetooth, compatible with Photoshop, Illustrator, and Clip Studio.</span></div></a>
-
-<a href="https://www.amazon.com/dp/B07X4SR5MN?tag=inkledger-20" rel="sponsored noopener" target="_blank" style="display:flex;align-items:center;gap:12px;text-decoration:none;margin:8px 0;padding:10px 12px;border:1px solid #e2e8f0;border-radius:10px;background:#f8fafc;"><img src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07X4SR5MN&Format=_SL100_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=inkledger-20" alt="Arteza Expert Colored Pencils 72-Pack" width="80" height="80" loading="lazy" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;border-radius:6px;background:#fff;" /><div style="min-width:0;"><strong style="display:block;color:#1e293b;font-size:0.9em;">Arteza Expert Colored Pencils 72-Pack</strong><span style="color:#64748b;font-size:0.82em;line-height:1.4;">Soft wax-oil core, 72 highly pigmented colors, in a sturdy metal tin.</span></div></a>
-
-<a href="https://www.amazon.com/dp/B00EWUNJN4?tag=inkledger-20" rel="sponsored noopener" target="_blank" style="display:flex;align-items:center;gap:12px;text-decoration:none;margin:8px 0;padding:10px 12px;border:1px solid #e2e8f0;border-radius:10px;background:#f8fafc;"><img src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00EWUNJN4&Format=_SL100_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=inkledger-20" alt="Canon PIXMA iX6820 Wireless Printer" width="80" height="80" loading="lazy" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;border-radius:6px;background:#fff;" /><div style="min-width:0;"><strong style="display:block;color:#1e293b;font-size:0.9em;">Canon PIXMA iX6820 Wireless Printer</strong><span style="color:#64748b;font-size:0.82em;line-height:1.4;">Wireless 13x19 borderless printing—affordable wide-format for small art print runs.</span></div></a>
+- [Inkjet Refill Kit Pro — Compatible with HP, Canon, Epson, and Lexmark Cartridges](/products/b00mfg54b6-inkjet-refill-kit-pro-hp-canon/)
+- [Epson 502 Ink Cartridges, Black/Cyan/Magenta/Yellow, 4-Pack](/products/b07gxxsrd2-epson-502-4-color-multipack/)
+- [HP 65 Black Ink Cartridge Works with HP AMP 100, DeskJet 2600, 3700, ENVY 5000 Series](/products/b00004y81q-hp-65-black-ink-cartridge/)
+- [Brother LC3013BK Individual High-Yield Black Ink Cartridge](/products/b01ms0kdqf-brother-lc3013bk-xl-black-ink/)

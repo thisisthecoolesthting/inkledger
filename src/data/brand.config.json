@@ -2,15 +2,13 @@
   "brand": {
     "shortName": "InkLedger",
     "fullName": "InkLedger",
-    "taglineShort": "Stop overpaying for printer ink.",
-    "taglineLong": "Printer ink and toner pricing watchdog. We track retailer price hikes, call out razor-and-blade pricing games, and point you to refills and compatibles that print clean at a fraction of the cost.",
+    "taglineShort": "Cost-per-page clarity for every cartridge.",
     "identity": {
       "palette": {
-        "primary": "#1E3A8A",
-        "secondary": "#1A8A9E",
+        "primary": "#0F172A",
         "accent": "#F59E0B",
-        "cream": "#F5F0E8",
-        "ink": "#0B1120"
+        "cream": "#F8FAFC",
+        "ink": "#020617"
       },
       "fonts": {
         "display": "Newsreader",
@@ -29,13 +27,37 @@
         "case": "normal"
       },
       "headerVariant": "minimal",
-      "eyebrowText": "INK PRICING WATCHDOG",
-      "fontCssHref": "https://fonts.googleapis.com/css2?family=Newsreader:wght@400;500;600;700&family=Roboto:wght@300;400;500;700&family=JetBrains+Mono:wght@400;500&display=swap"
-    },
-    "domain": "inkledger.org",
-    "associateTag": "inkledger-20"
+      "eyebrowText": "PRINTER INK PRICE TRACKER",
+      "fontCssHref": "https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,600;6..72,700&family=Roboto:wght@400;500;600;700&display=swap"
+    }
+  },
+  "homepage": {
+    "eyebrow": "Printer ink price tracker",
+    "h1": "Stop overpaying for cartridges and toner",
+    "subhead": "We compare OEM, compatible, and refill kits on real cost-per-page — and flag when subscription ink programs quietly creep up.",
+    "ctaPrimaryLabel": "Browse ink guides",
+    "ctaPrimaryHref": "/articles",
+    "ctaSecondaryLabel": "How we score ink",
+    "ctaSecondaryHref": "/methodology",
+    "trustLine": "Independent editorial · No brand sponsorships · We name the cartridge, we name the cheaper page",
+    "heroImageUrl": "/hero/inkledger-hero.jpg",
+    "heroVideoUrl": "/hero/inkledger-hero.mp4"
+  },
+  "palette": {
+    "primary": "#0F172A",
+    "secondary": "#FCD34D",
+    "accent": "#F59E0B",
+    "surface": "#F8FAFC",
+    "ink": "#020617"
   },
   "analytics": {
-    "ga_measurement_id": "G-8RJBVB2V98"
-  }
+    "ga_measurement_id": "G-W2WHE10F4S"
+  },
+  "defaultAuthorSlug": "dana-wolff",
+  "persona": {
+    "name": "Dana Wolff",
+    "pseudonymHint": "Dana Wolff"
+  },
+  "disablePhonePromos": true,
+  "supportEmail": "hello@inkledger.org"
 }

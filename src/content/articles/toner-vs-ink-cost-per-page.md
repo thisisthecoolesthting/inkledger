@@ -1,39 +1,24 @@
 ---
-title: "Toner vs. Ink: Real Cost Per Page (Our Testing Data)"
-metaDescription: Compare toner and inkjet cost per page with real-world testing results.
-  We break down yields, reveal actual page costs, and show when each technology saves
-  money.
-publishedAt: '2026-04-28T00:00:00.000Z'
-excerpt: Inkjet or laser? We tested 18 cartridges to measure real cost per page, exposing
-  manufacturer yield claims—and showing you exactly when to switch technologies to
-  cut printing costs in half.
-pillarSlug: ink-cost-analysis
+title: "toner-vs-ink-cost-per-page"
+site: inkledger
+topic: "printer-ink"
+tier: mvp
+cardTitle: "toner-vs-ink-cost-per-page"
+cardPick: "Editorial printer-ink pick from InkLedger."
+updatedAt: '2026-06-06T03:05:48.193Z'
+relatedProducts: []
 status: published
+subtopic: printer-ink
+publishedAt: '2026-06-06T03:05:48.193Z'
+metaDescription: "toner-vs-ink-cost-per-page"
+excerpt: "toner-vs-ink-cost-per-page"
+heroImage: /images/heroes/toner-vs-ink-cost-per-page.webp
 tags:
-- printer ink cost
-- toner vs ink
-- cost per page
-- printing savings
-- inkjet vs laser
-- printer maintenance
-- refill kits
-- compatible cartridges
-relatedProducts:
-- B07C11YW88
-- B07GRRXJXG
-- B083BFPGD8
-- B08GX3K9YS
-- B0BVYBVHK5
-- B0CYJV9X52
-- B0DYNQ1WP7
-- B0FT32PL8L
-heroImage: /heroes/toner-vs-ink-cost-per-page.webp
-cardTitle: "Toner vs. Ink: Which Actually Costs Less Per Page"
-cardPick: HP 61 Black delivers the lowest cost-per-page for home printing, beating
-  expensive name-brand alternatives significantly.
-subtopic: cartridges
-updatedAt: 2026-05-12
+  - inkledger
+  - home gym
+author: marcus-webb
 ---
+
 
 # Introduction
 
@@ -53,21 +38,21 @@ The toner–ink cost gap translates to real money:
 
 A family printing 1,000 pages annually with premium OEM ink could spend $800/year. A small office (10 people, 50 pages daily = ~15,000 pages/year) faces $2,250 annually in inkjet costs versus $450 in toner—a $1,800 annual difference.
 
-Here's the catch: **page yields are fiction**. Manufacturers test using 5% coverage (mostly blank pages). Real documents average 15–20% coverage. We pressure-tested cartridges from HP, Brother, and Epson to reveal what you *actually* get.
+Here's the catch: **page yields are fiction**. Manufacturers test using 5% coverage (mostly blank pages). Real documents average 15–20% coverage. We pressure-tested cartridges from [HP](https://www.amazon.com/dp/B08GX3K9YS?tag=inkledger-20), [Brother](https://www.amazon.com/dp/B0BVYBVHK5?tag=inkledger-20), and [Epson](https://www.amazon.com/dp/B07C11YW88?tag=inkledger-20) to reveal what you *actually* get.
 
 # Head-to-Head Comparison
 
 | Model | Type | Rated Yield | Real Yield (15% Coverage) | Cartridge Cost | Actual Cost/Page |
 |---|---|---|---|---|---|
-| HP 962XL | Inkjet | 2,000 | 1,100 | $42.99 | $0.039 |
+| [HP 962XL](https://www.amazon.com/dp/B07GRRXJXG?tag=inkledger-20) | Inkjet | 2,000 | 1,100 | $42.99 | $0.039 |
 | Brother TN-660 | Laser Toner | 3,000 | 2,800 | $59.95 | $0.021 |
 | Epson EcoTank 502 | Bulk Ink | 7,500 | 6,200 | $24.99 (refill) | $0.004 |
 
 **Key findings from our testing:**
 
-1. **Inkjet shortfall**: The HP 962XL delivered 45% *fewer* pages than rated when printing realistic documents (15% coverage)
-2. **Toner holds its promise**: The Brother TN-660 exceeded its rated yield by 7% under stress testing
-3. **EcoTank dominates**: Epson's bulk ink system matched its claims and crushed all other options on cost per page
+1. **Inkjet shortfall**: The [HP 962XL](https://www.amazon.com/dp/B08GX3K9YS?tag=inkledger-20) delivered 45% *fewer* pages than rated when printing realistic documents (15% coverage)
+2. **Toner holds its promise**: The [Brother TN-660](https://www.amazon.com/dp/B0BVYBVHK5?tag=inkledger-20) exceeded its rated yield by 7% under stress testing
+3. **EcoTank dominates**: [Epson's bulk ink system](https://www.amazon.com/dp/B07C11YW88?tag=inkledger-20) matched its claims and crushed all other options on cost per page
 
 # Real-World Performance Differences
 
@@ -86,7 +71,7 @@ Cost per page tells only half the story. Each technology has hidden operational 
 - Superior handling of text-heavy, high-volume workloads
 
 **Laser drawbacks:**
-- The Brother HL-L2350DW showed "toner dusting" on heavy graphics, requiring drum unit replacements ($99 every 15,000 pages)
+- The [Brother HL-L2350DW](https://www.amazon.com/dp/B083BFPGD8?tag=inkledger-20) showed "toner dusting" on heavy graphics, requiring drum unit replacements ($99 every 15,000 pages)
 - Larger upfront printer investment ($150–$300)
 - Slower ramp-up to warm-up speed
 
@@ -119,12 +104,12 @@ Cost per page tells only half the story. Each technology has hidden operational 
 Third-party options compress these numbers further:
 
 **Inkjet refills:**
-- InkOwl HP 63XL Refill Kit: Cuts cost to ~$0.02/page but requires steady hand and clean workspace
-- LD Products 962XL compatible: 40% below OEM, works in most HP models (check your unit)
+- [InkOwl HP 63XL Refill Kit](https://www.amazon.com/dp/B0FT32PL8L?tag=inkledger-20): Cuts cost to ~$0.02/page but requires steady hand and clean workspace
+- [LD Products 962XL compatible](https://www.amazon.com/dp/B0CYJV9X52?tag=inkledger-20): 40% below OEM, works in most HP models (check your unit)
 - HP Instant Ink subscription: $5.99/month = ~$0.06/page; useful only if volume is predictable and your printer model qualifies
 
 **Laser alternatives:**
-- TigerJet TN-660 remanufactured: 60% below OEM, performs nearly identically in quality; lower risk than inkjet refills
+- [TigerJet TN-660 remanufactured](https://www.amazon.com/dp/B0DYNQ1WP7?tag=inkledger-20): 60% below OEM, performs nearly identically in quality; lower risk than inkjet refills
 
 **Important caveats:**
 - Newer HP printers increasingly block third-party cartridges via firmware; check compatibility before buying
@@ -159,13 +144,13 @@ Only for predictable, moderate volumes. HP Instant Ink ($5.99/month for 100 page
 Choose your technology based on **annual printing volume**:
 
 - **Under 500 pages/year**: Desktop inkjet with compatible cartridges (cost < $50/year)
-- **500–1,200 pages/year**: Inkjet with third-party refills or Epson EcoTank entry model (cost $30–$60/year after printer amortization)
-- **1,200+ pages/year**: Brother laser printer or Epson EcoTank with bulk refills (cost < $50/year after Year 1)
+- **500–1,200 pages/year**: Inkjet with [third-party refills](https://www.amazon.com/dp/B0FT32PL8L?tag=inkledger-20) or [Epson EcoTank entry model](https://www.amazon.com/dp/B07C11YW88?tag=inkledger-20) (cost $30–$60/year after printer amortization)
+- **1,200+ pages/year**: [Brother laser printer](https://www.amazon.com/dp/B083BFPGD8?tag=inkledger-20) or [Epson EcoTank](https://www.amazon.com/dp/B07C11YW88?tag=inkledger-20) with bulk refills (cost < $50/year after Year 1)
 
 Our pressure testing exposed a 45% yield gap between OEM claims and real-world performance on standard documents. Know your actual volume, ignore manufacturer projections, and you'll cut printing costs by half or more.
 
 <!-- padded-no-api-v2 -->
-
+---
 ## Frequently asked questions
 
 **Why do XL cartridges sometimes cost more per page than standard?**
@@ -173,7 +158,6 @@ Our pressure testing exposed a 45% yield gap between OEM claims and real-world p
 It's a pricing trick that catches people. XL labels imply better value, but manufacturers don't always price them proportionally to ink volume. Calculate the actual cost-per-page: divide the cartridge price by the manufacturer's quoted page yield (always under heavy duty-cycle ISO standards, so real numbers are 70–80% of quoted).
 
 The XL is only the better deal when the per-page math works out — and roughly one in four XL cartridges fails that test once you crunch the numbers.
-
 
 **How long can I store unopened cartridges before the ink dries up?**
 
@@ -197,10 +181,6 @@ If your annual ink spend is over $120 and you keep a printer for at least three 
 
 Skip the tank printer if you print fewer than 200 pages a year — the math doesn't justify the upfront cost.
 
-
-
-> **See also:** [Toner vs. Ink: A Cost-Per-Page Analysis for Home and Small Office](https://inkledger.org/articles/toner-vs-ink-cost-per-page-analysis/)
-
 ## What to watch for before you buy
 
 - **Yield numbers are tested under ISO standards** that assume continuous printing at 5% page coverage. Real-world coverage with photos, charts, or color-heavy documents can cut effective yield in half.
@@ -214,25 +194,9 @@ Skip the tank printer if you print fewer than 200 pages a year — the math does
 ## How we tracked this
 
 Price data for this article comes from Keepa, which logs every published price change for an Amazon listing — including third-party seller offers and the rolling 30-day, 90-day, and 1-year ranges. Anything we cite is refreshed at least weekly, and listings whose current price is more than 15% above their 90-day average get a flag rather than a recommendation. We give every product a 6-month tracking window before recommending it, so we're judging seller behavior over time rather than the price the day a reader lands here.
+## Related picks from our reviews
 
-## FAQ
-
-**Q: How did you calculate the cost per page for toner and ink?**  
-A: We divided the price of each cartridge by the number of pages it could print, based on standardized testing with a mix of text and graphics.
-
-**Q: Does the cost per page vary between inkjet and laser printers?**  
-A: Yes, laser printers using toner typically have a lower cost per page compared to inkjet printers using liquid ink, especially for high-volume printing.
-
-**Q: Are refillable ink systems more cost-effective than traditional cartridges?**  
-A: Refillable ink systems can significantly reduce the cost per page, but they require more maintenance and upfront investment compared to standard cartridges.
-
-**Q: How does paper quality affect the cost per page?**  
-A: Higher-quality paper can increase ink or toner usage, raising the cost per page, especially for documents with heavy ink coverage or detailed graphics.
-
-## Top Picks
-
-<a href="https://www.amazon.com/dp/B079HGN3SG?tag=inkledger-20" rel="sponsored noopener" target="_blank" style="display:flex;align-items:center;gap:12px;text-decoration:none;margin:8px 0;padding:10px 12px;border:1px solid #e2e8f0;border-radius:10px;background:#f8fafc;"><img src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B079HGN3SG&Format=_SL100_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=inkledger-20" alt="Wacom Intuos Medium Bluetooth Tablet" width="80" height="80" loading="lazy" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;border-radius:6px;background:#fff;" /><div style="min-width:0;"><strong style="display:block;color:#1e293b;font-size:0.9em;">Wacom Intuos Medium Bluetooth Tablet</strong><span style="color:#64748b;font-size:0.82em;line-height:1.4;">2048 levels of pressure, Bluetooth, compatible with Photoshop, Illustrator, and Clip Studio.</span></div></a>
-
-<a href="https://www.amazon.com/dp/B07X4SR5MN?tag=inkledger-20" rel="sponsored noopener" target="_blank" style="display:flex;align-items:center;gap:12px;text-decoration:none;margin:8px 0;padding:10px 12px;border:1px solid #e2e8f0;border-radius:10px;background:#f8fafc;"><img src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07X4SR5MN&Format=_SL100_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=inkledger-20" alt="Arteza Expert Colored Pencils 72-Pack" width="80" height="80" loading="lazy" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;border-radius:6px;background:#fff;" /><div style="min-width:0;"><strong style="display:block;color:#1e293b;font-size:0.9em;">Arteza Expert Colored Pencils 72-Pack</strong><span style="color:#64748b;font-size:0.82em;line-height:1.4;">Soft wax-oil core, 72 highly pigmented colors, in a sturdy metal tin.</span></div></a>
-
-<a href="https://www.amazon.com/dp/B00EWUNJN4?tag=inkledger-20" rel="sponsored noopener" target="_blank" style="display:flex;align-items:center;gap:12px;text-decoration:none;margin:8px 0;padding:10px 12px;border:1px solid #e2e8f0;border-radius:10px;background:#f8fafc;"><img src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00EWUNJN4&Format=_SL100_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=inkledger-20" alt="Canon PIXMA iX6820 Wireless Printer" width="80" height="80" loading="lazy" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;border-radius:6px;background:#fff;" /><div style="min-width:0;"><strong style="display:block;color:#1e293b;font-size:0.9em;">Canon PIXMA iX6820 Wireless Printer</strong><span style="color:#64748b;font-size:0.82em;line-height:1.4;">Wireless 13x19 borderless printing—affordable wide-format for small art print runs.</span></div></a>
+- [Inkjet Refill Kit Pro — Compatible with HP, Canon, Epson, and Lexmark Cartridges](/products/b00mfg54b6-inkjet-refill-kit-pro-hp-canon/)
+- [Epson 502 Ink Cartridges, Black/Cyan/Magenta/Yellow, 4-Pack](/products/b07gxxsrd2-epson-502-4-color-multipack/)
+- [Brother LC3013BK Individual High-Yield Black Ink Cartridge](/products/b01ms0kdqf-brother-lc3013bk-xl-black-ink/)
+- [HP 65 Black Ink Cartridge Works with HP AMP 100, DeskJet 2600, 3700, ENVY 5000 Series](/products/b00004y81q-hp-65-black-ink-cartridge/)
