@@ -46,5 +46,5 @@ Pro tip: Take screenshots of the warranty terms at time of purchase—we found 7
 
 - [HP Samsung MLT-D116L (SU832A) MLT-D116L Toner Cartridge](/products/b00c18tycy-product/)
 - [Brother Genuine Standard Yield Toner Cartridge, TN730, Replacement Black Toner, Page Yield Up To 1,200 Pages, Amazon Das](/products/b075x7tfy5-product/)
-- [AZ Compatible Toner Cartridge Replacement for Dell 1250 (1250BK) use in Color Laser 1250C Color Laser 1350CNW Color Lase](/products/b00qj88odw-product/)
-- [AZ Compatible Toner Cartridge Replacement for Dell 1250, 1250BK / 1250C / 1250Y / 1250M use in Color Laser 1250C Color L](/products/b00qj88sb0-product/)
+- [B0041RRMQS](/products/b0041rrmqs-b0041rrmqs/)
+- [B00JTE518E](/products/b00jte518e-b00jte518e/)
