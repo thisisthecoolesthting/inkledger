@@ -1,0 +1,48 @@
+---
+title: "HP 962XL vs Compatible Ink: Which to Buy for OfficeJet Pro"
+description: "Side-by-side cost-per-page picks with current Amazon prices. Updated 2026-07-19."
+slug: hp-962xl-vs-compatible-ink-which-to-buy
+status: published
+publishedAt: 2026-07-19
+updatedAt: 2026-07-19
+relatedProducts:
+  - B08GX3K9YS
+  - B083BFPGD8
+  - B0BVYBVHK5
+  - B09W9MF63Y
+  - B082Y7X9H5
+cardTitle: "HP 962XL vs Compatible Ink: Which to Buy for OfficeJet Pro"
+cardPick: "Cost-per-page comparison with live Amazon links"
+---
+
+HP 962XL OEM vs remanufactured — when the savings are real
+
+InkLedger tracks OEM and compatible supplies on real cost-per-page — not list-price theater. Below are the current tracked options that match this guide.
+
+## Quick comparison
+
+| Product | Price | Rating | Amazon | Our review |
+|---------|------:|-------:|--------|------------|
+| LxTek Compatible Toner Cartridge 6510 6515 106R0 | $45.99 | 4.6 | [Check price](https://www.amazon.com/dp/B08GX3K9YS?tag=inkledger-20) | [Review](/products/b08gx3k9ys-lxtek-compatible-toner-cartridge-6510-6515-106r03480-106r034/) |
+| Toner Kingdom Compatible Toner-Cartridge Replace | $63.26 | 3.8 | [Check price](https://www.amazon.com/dp/B083BFPGD8?tag=inkledger-20) | [Review](/products/b083bfpgd8-toner-kingdom-compatible-toner-cartridge-replacement-for-can/) |
+| 280XXL 281XXL Ink for Canon Ink 280 281 Replacem | $23.99 | 4.7 | [Check price](https://www.amazon.com/dp/B0BVYBVHK5?tag=inkledger-20) | [Review](/products/b0bvybvhk5-280xxl-281xxl-ink-for-canon-ink-280-281-replacement-for-cano/) |
+| ecodot 552 Pigment Ink Refill Ink Bottle Replace | $30.57 | 4.4 | [Check price](https://www.amazon.com/dp/B09W9MF63Y?tag=inkledger-20) | [Review](/products/b09w9mf63y-ecodot-552-pigment-ink-refill-ink-bottle-replacement-for-eps/) |
+| E-Z Ink Remanufactured Ink Cartridge Replacement | $25.99 | 4.2 | [Check price](https://www.amazon.com/dp/B082Y7X9H5?tag=inkledger-20) | [Review](/products/b082y7x9h5-e-z-ink-remanufactured-ink-cartridge-replacement-for-252xl-c/) |
+
+## How we scored these
+
+1. Cost-per-page when yield is published by the manufacturer.
+2. Compatibility risk (chip resets, firmware locks).
+3. Recent Amazon rating floor (avoid <3.5 where possible).
+4. Total out-the-door price including multi-packs.
+
+## Products in this guide
+
+- [LxTek Compatible Toner Cartridge 6510 6515 106R03480 106R03477 106R034](/products/b08gx3k9ys-lxtek-compatible-toner-cartridge-6510-6515-106r03480-106r034/)
+- [Toner Kingdom Compatible Toner-Cartridge Replacement for Canon 054H 05](/products/b083bfpgd8-toner-kingdom-compatible-toner-cartridge-replacement-for-can/)
+- [280XXL 281XXL Ink for Canon Ink 280 281 Replacement for Canon TR8620 I](/products/b0bvybvhk5-280xxl-281xxl-ink-for-canon-ink-280-281-replacement-for-cano/)
+- [ecodot 552 Pigment Ink Refill Ink Bottle Replacement for Epson 552 Ink](/products/b09w9mf63y-ecodot-552-pigment-ink-refill-ink-bottle-replacement-for-eps/)
+
+## Bottom line
+
+Buy OEM when your printer is under warranty and print volume is low. Switch to high-yield or EcoTank-style bottles when monthly page volume makes the cartridge tax obvious. Re-check prices weekly — ink moves fast.

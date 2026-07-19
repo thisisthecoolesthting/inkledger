@@ -20,7 +20,7 @@ relatedProducts:
 - "B09DV14ZZL"
 - "B09WDBHXB3"
 - "B0B7MKRR58"
-status: published
+status: draft
 tags:
 - streaming price hike
 - subscription creep

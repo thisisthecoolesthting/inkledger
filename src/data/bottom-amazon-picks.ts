@@ -1,47 +1,29 @@
 import type { BottomAmazonPick } from '@/utils/amazon-affiliate';
 
-/** Curated picks for global bottom strip. Source: fleet-amazon-registries.json */
+/** Homepage / article bottom Amazon picks — ink/toner only (moonshot fix). */
 export const BOTTOM_AMAZON_PICKS: BottomAmazonPick[] = [
   {
-    asin: 'B00120VWJ0',
-    title: "Dr. Bronner's Castile — Bulk Refill Base",
-    subtitle: "One 32 oz jug dilutes into months of hand soap, floor cleaner, and body wash.",
-    priceLabel: "From ~$18",
-    badge: "Refill base",
+    asin: 'B0BVYBVHK5',
+    title: 'Canon 280/281 XXL Compatible Ink (TR8620 & friends)',
+    subtitle:
+      'Tracked compatible ink with solid ratings — check yield vs your monthly page count.',
+    priceLabel: 'From ~$24',
+    badge: 'OEM alt',
   },
   {
-    asin: 'B00HNSJSX2',
-    title: "Arm & Hammer Baking Soda 5 lb",
-    subtitle: "Bulk bag for DIY cleaners, deodorizing, and laundry boosts without subscription markup.",
-    priceLabel: "From ~$6",
-    badge: "Bulk staple",
+    asin: 'B082Y7X9H5',
+    title: 'E-Z Ink Remanufactured 252XL Combo for Epson',
+    subtitle:
+      'High-yield reman pack for home offices that print weekly, not yearly.',
+    priceLabel: 'From ~$26',
+    badge: 'High yield',
   },
   {
-    asin: 'B07FQ46R24',
-    title: "Dr. Bronner's Pure-Castile Bar Soap",
-    subtitle: "Concentrated bar for body, home, and laundry — one bar replaces multiple plastic bottles.",
-    priceLabel: "From ~$5",
-    badge: "Plastic-free",
+    asin: 'B09W9MF63Y',
+    title: 'ecodot 552 Pigment Refill Bottles for Epson EcoTank',
+    subtitle:
+      'Bottle refill economics when cartridge printers stop making sense.',
+    priceLabel: 'From ~$31',
+    badge: 'EcoTank',
   },
-  {
-    asin: 'B0973GJNCC',
-    title: "Native Sensitive Deodorant — Cotton & Lily",
-    subtitle: "Aluminum-free paperboard stick — odor control without a plastic case.",
-    priceLabel: "From ~$13",
-    badge: "Low-waste",
-  },
-  {
-    asin: 'B07571LXYD',
-    title: "Ethique Heali Kiwi Shampoo Bar",
-    subtitle: "Solid shampoo replacing multiple liquid bottles — gentle on color-treated hair.",
-    priceLabel: "From ~$16",
-    badge: "Bar swap",
-  },
-  {
-    asin: 'B0126LMDFK',
-    title: "Bee's Wrap Beeswax Food Wrap 3-Pack",
-    subtitle: "Reusable wraps replace cling film — pays back in weeks of grocery runs.",
-    priceLabel: "From ~$18",
-    badge: "Reuse",
-  }
 ];

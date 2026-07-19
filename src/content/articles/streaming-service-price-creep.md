@@ -16,7 +16,7 @@ relatedProducts:
 - "B08PZBPXLZ"
 - "B0B2RM68G2"
 - "B0CGW48C3G"
-status: published
+status: draft
 tags:
 - subscription creep
 - streaming price increase

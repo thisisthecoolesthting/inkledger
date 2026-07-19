@@ -20,7 +20,7 @@ relatedProducts:
 - "B09WDBHXB3"
 - "B0B7MKRR58"
 - "B0CGW48C3G"
-status: published
+status: draft
 tags:
 - streaming price hike
 - Netflix alternative
