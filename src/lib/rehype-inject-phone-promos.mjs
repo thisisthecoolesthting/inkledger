@@ -17,7 +17,9 @@ const SSR_SLUG = rawBrandName.toLowerCase().replace(/[^a-z0-9-]/g, '');
 const INJECT_ON_H2 = new Set([2, 4, 6]);
 
 function slotElement(h2Index) {
+  if (!Array.isArray(CASE_AD_STORES) || CASE_AD_STORES.length === 0) return null;
   const store = CASE_AD_STORES[h2Index % CASE_AD_STORES.length];
+  if (!store?.domain) return null;
   const href = `https://${store.domain}/?utm_source=${SSR_SLUG}&utm_medium=cross_promo_text&utm_campaign=15off&utm_content=article-mid-${h2Index}_${store.slug}`;
 
   return {
@@ -81,7 +83,8 @@ function walkInsert(node) {
     if (child?.type === 'element' && child.tagName === 'h2') {
       h2Count += 1;
       if (INJECT_ON_H2.has(h2Count)) {
-        next.push(slotElement(h2Count));
+        const slot = slotElement(h2Count);
+        if (slot) next.push(slot);
       }
     }
   }
