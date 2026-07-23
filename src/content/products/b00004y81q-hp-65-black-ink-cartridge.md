@@ -43,3 +43,10 @@ The HP 65 Black yields ~120 pages at standard coverage. At $17.99 that's **$0.15
 Third-party HP 65-compatible cartridges are widely available for $6–$10. Print quality is indistinguishable for text documents; photos may show slight color variance.
 
 <AffiliateCTA asin="B00004Y81Q" label="Check current price on Amazon" />
+
+## In our catalog
+
+- [Printer Ink Price Hikes: We Tracked 15–30% Increases This Year](/articles/ink-cartridge-rip-off-gymledger/)
+- [Printer Ink Price Hikes: We Tracked 15–30% Increases This Year](/articles/ink-cartridge-rip-off-filtercycle/)
+- [Printer Ink Price Hikes: We Tracked 15–30% Increases This Year](/articles/ink-cartridge-rip-off-secondspringclub/)
+- [Printer Ink Price Hikes: We Tracked 15–30% Increases This Year](/articles/ink-cartridge-rip-off-tinkerbench/)

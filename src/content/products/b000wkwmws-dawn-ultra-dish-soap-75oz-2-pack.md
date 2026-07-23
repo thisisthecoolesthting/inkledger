@@ -37,3 +37,10 @@ Yes, provided you have storage space. The 2-pack saves ~$5 vs. buying two 75oz b
 Alert at $10.99 — it hits this 3–4 times a year. At that price it's $0.073/oz, the all-time low we've tracked.
 
 <AffiliateCTA asin="B000WKWMWS" label="Check current price on Amazon" />
+
+## In our catalog
+
+- [Printer Ink Price Hikes: We Tracked 15–30% Increases This Year](/articles/ink-cartridge-rip-off-gymledger/)
+- [Printer Ink Price Hikes: We Tracked 15–30% Increases This Year](/articles/ink-cartridge-rip-off-filtercycle/)
+- [Printer Ink Price Hikes: We Tracked 15–30% Increases This Year](/articles/ink-cartridge-rip-off-secondspringclub/)
+- [Printer Ink Price Hikes: We Tracked 15–30% Increases This Year](/articles/ink-cartridge-rip-off-tinkerbench/)

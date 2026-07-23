@@ -62,3 +62,10 @@ Our desk scores **value**, **spec clarity**, and **review credibility** for matt
 ---
 
 *Affiliate disclosure: purchasing through our Amazon link may support this site at no extra cost to you.*
+
+## In our catalog
+
+- [Printer Ink Price Hikes: We Tracked 15–30% Increases This Year](/articles/ink-cartridge-rip-off-gymledger/)
+- [Printer Ink Price Hikes: We Tracked 15–30% Increases This Year](/articles/ink-cartridge-rip-off-filtercycle/)
+- [Printer Ink Price Hikes: We Tracked 15–30% Increases This Year](/articles/ink-cartridge-rip-off-secondspringclub/)
+- [Printer Ink Price Hikes: We Tracked 15–30% Increases This Year](/articles/ink-cartridge-rip-off-tinkerbench/)

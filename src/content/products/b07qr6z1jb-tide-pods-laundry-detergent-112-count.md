@@ -43,3 +43,10 @@ At $27.49: **$0.25/load**. At a dip price of $19.99: **$0.18/load** — cheaper 
 Never pay list. Set an alert at $21.99 and buy two containers. That covers ~4 months and cuts your annual laundry spend by ~$30.
 
 <AffiliateCTA asin="B07QR6Z1JB" label="Check current price on Amazon" />
+
+## In our catalog
+
+- [Printer Ink Price Hikes: We Tracked 15–30% Increases This Year](/articles/ink-cartridge-rip-off-gymledger/)
+- [Printer Ink Price Hikes: We Tracked 15–30% Increases This Year](/articles/ink-cartridge-rip-off-filtercycle/)
+- [Printer Ink Price Hikes: We Tracked 15–30% Increases This Year](/articles/ink-cartridge-rip-off-secondspringclub/)
+- [Printer Ink Price Hikes: We Tracked 15–30% Increases This Year](/articles/ink-cartridge-rip-off-tinkerbench/)

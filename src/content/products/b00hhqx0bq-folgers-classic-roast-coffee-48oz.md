@@ -37,3 +37,10 @@ Swings between $9.99 and $13.49. Subscribe & Save keeps it around $10.79. Best m
 The 48oz can is not resealable. Transfer to an airtight container after opening for best flavor beyond 2 weeks.
 
 <AffiliateCTA asin="B00HHQX0BQ" label="Check current price on Amazon" />
+
+## In our catalog
+
+- [Printer Ink Price Hikes: We Tracked 15–30% Increases This Year](/articles/ink-cartridge-rip-off-gymledger/)
+- [Printer Ink Price Hikes: We Tracked 15–30% Increases This Year](/articles/ink-cartridge-rip-off-filtercycle/)
+- [Printer Ink Price Hikes: We Tracked 15–30% Increases This Year](/articles/ink-cartridge-rip-off-secondspringclub/)
+- [Printer Ink Price Hikes: We Tracked 15–30% Increases This Year](/articles/ink-cartridge-rip-off-tinkerbench/)

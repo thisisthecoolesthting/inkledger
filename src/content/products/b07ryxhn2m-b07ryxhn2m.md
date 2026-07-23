@@ -9,12 +9,12 @@ rating: 0
 bsr: null
 commissionPerSale: 0
 score: 0
-imageUrl: ""
+imageUrl: "https://images-na.ssl-images-amazon.com/images/P/B07RYXHN2M.01._SCLZZZZZZZ_.jpg"
 affiliateUrl: "https://www.amazon.com/dp/B07RYXHN2M?tag=inkledger-20"
 isPrime: false
 status: published
-firstSeen: "2026-07-19"
-lastSeen: "2026-07-19"
+firstSeen: "2026-07-23"
+lastSeen: "2026-07-23"
 slug: b07ryxhn2m-b07ryxhn2m
 cardTitle: B07RYXHN2M
 cardPick: Solid pick for most readers
@@ -31,7 +31,7 @@ We weight verified owner feedback alongside spec fit for the niche.
 
 Popularity shifts with promos; we re-check listings during refresh passes.
 
-Last catalog check: **2026-07-19**.
+Last catalog check: **2026-07-23**.
 
 ## Who it's for
 
@@ -62,10 +62,3 @@ Our desk scores **value**, **spec clarity**, and **review credibility** for oem-
 ---
 
 *Affiliate disclosure: purchasing through our Amazon link may support this site at no extra cost to you.*
-
-## In our catalog
-
-- [Archived — parser artifact from early test run](/articles/comparisons-10/)
-- [Archived — parser artifact from early test run](/articles/alternatives-and-refills-12/)
-- [Archived — parser artifact from early test run](/articles/inkledger-45-seed-topics/)
-- [Archived — parser artifact from early test run](/articles/mix-of-pricing-watchdog-pieces-alternatives-guides-comparison-posts-and-teardown/)

@@ -44,3 +44,10 @@ Scott wins on cost but is 1-ply. For most households the tradeoff is worth it.
 Set at $24.99. It hits this ~5 times/year and that's the time to stock up for 3+ months.
 
 <AffiliateCTA asin="B00C2O7C7O" label="Check current price on Amazon" />
+
+## In our catalog
+
+- [Printer Ink Price Hikes: We Tracked 15–30% Increases This Year](/articles/ink-cartridge-rip-off-gymledger/)
+- [Printer Ink Price Hikes: We Tracked 15–30% Increases This Year](/articles/ink-cartridge-rip-off-filtercycle/)
+- [Printer Ink Price Hikes: We Tracked 15–30% Increases This Year](/articles/ink-cartridge-rip-off-secondspringclub/)
+- [Printer Ink Price Hikes: We Tracked 15–30% Increases This Year](/articles/ink-cartridge-rip-off-tinkerbench/)

@@ -42,3 +42,10 @@ HP ENVY 4500, 4510, 4512, 4520; HP OfficeJet 3830, 3831, 4650, 4652; HP DeskJet 
 The 63XL frequently drops to $19.99–$21.99 during Amazon sales events. Set an alert at $20.99 for the best value window.
 
 <AffiliateCTA asin="B07RRF8FSX" label="Check current price on Amazon" />
+
+## In our catalog
+
+- [Printer Ink Price Hikes: We Tracked 15–30% Increases This Year](/articles/ink-cartridge-rip-off-gymledger/)
+- [Printer Ink Price Hikes: We Tracked 15–30% Increases This Year](/articles/ink-cartridge-rip-off-filtercycle/)
+- [Printer Ink Price Hikes: We Tracked 15–30% Increases This Year](/articles/ink-cartridge-rip-off-secondspringclub/)
+- [Printer Ink Price Hikes: We Tracked 15–30% Increases This Year](/articles/ink-cartridge-rip-off-tinkerbench/)

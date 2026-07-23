@@ -9,7 +9,7 @@ rating: null
 bsr: null
 commissionPerSale: 0
 score: 0
-imageUrl: ""
+imageUrl: "https://images-na.ssl-images-amazon.com/images/P/B002BWQ6XK.01._SCLZZZZZZZ_.jpg"
 affiliateUrl: "https://www.amazon.com/dp/B002BWQ6XK?tag=inkledger-20"
 isPrime: false
 status: draft
@@ -62,3 +62,10 @@ Our desk scores **value**, **spec clarity**, and **review credibility** for gene
 ---
 
 *Affiliate disclosure: purchasing through our Amazon link may support this site at no extra cost to you.*
+
+## In our catalog
+
+- [Printer Ink Price Hikes: We Tracked 15–30% Increases This Year](/articles/ink-cartridge-rip-off-gymledger/)
+- [Printer Ink Price Hikes: We Tracked 15–30% Increases This Year](/articles/ink-cartridge-rip-off-filtercycle/)
+- [Printer Ink Price Hikes: We Tracked 15–30% Increases This Year](/articles/ink-cartridge-rip-off-secondspringclub/)
+- [Printer Ink Price Hikes: We Tracked 15–30% Increases This Year](/articles/ink-cartridge-rip-off-tinkerbench/)

@@ -9,7 +9,7 @@ rating: null
 bsr: 20009
 commissionPerSale: 0
 score: 0
-imageUrl: ""
+imageUrl: "https://images-na.ssl-images-amazon.com/images/P/B0DFYBSVB8.01._SCLZZZZZZZ_.jpg"
 affiliateUrl: "https://www.amazon.com/dp/B0DFYBSVB8?tag=inkledger-20"
 isPrime: false
 status: published
@@ -65,7 +65,7 @@ Our desk scores **value**, **spec clarity**, and **review credibility** for oem-
 
 ## In our catalog
 
-- [Archived — parser artifact from early test run](/articles/comparisons-10/)
-- [Archived — parser artifact from early test run](/articles/alternatives-and-refills-12/)
-- [Archived — parser artifact from early test run](/articles/inkledger-45-seed-topics/)
-- [Archived — parser artifact from early test run](/articles/mix-of-pricing-watchdog-pieces-alternatives-guides-comparison-posts-and-teardown/)
+- [Printer Ink Price Hikes: We Tracked 15–30% Increases This Year](/articles/ink-cartridge-rip-off-gymledger/)
+- [Printer Ink Price Hikes: We Tracked 15–30% Increases This Year](/articles/ink-cartridge-rip-off-filtercycle/)
+- [Printer Ink Price Hikes: We Tracked 15–30% Increases This Year](/articles/ink-cartridge-rip-off-secondspringclub/)
+- [Printer Ink Price Hikes: We Tracked 15–30% Increases This Year](/articles/ink-cartridge-rip-off-tinkerbench/)
