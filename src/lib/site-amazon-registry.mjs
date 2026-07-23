@@ -16,29 +16,32 @@ export const ASSOCIATE_TAG =
 export const BOTTOM_STRIP_HEADING = "Bulk staples that beat convenience-store singles";
 export const BOTTOM_STRIP_SUBHEAD = "Household refills we track on InkLedger — partner links, no extra cost to you.";
 
-/** @typedef {{ asin: string, title: string, cardPick: string, priceLabel: string, rating?: number }} HomepageComparePick */
+/** @typedef {{ asin: string, title: string, cardPick: string, priceLabel: string, rating?: number, productSlug?: string }} HomepageComparePick */
 /** @type {HomepageComparePick[]} */
 export const HOMEPAGE_COMPARE_PICKS = [
   {
-    "asin": "B01N5IB20Q",
-    "title": "Amazon Basics AA Batteries 48-Pack",
-    "cardPick": "Bulk alkalines for remotes and flashlights — beat convenience-store singles on unit cost.",
-    "priceLabel": "$15.99",
-    "rating": 4.7
+    "asin": "B00004Y81Q",
+    "title": "HP 65 Black Ink Cartridge",
+    "cardPick": "OEM black for DeskJet / AMP printers — track the street price before Subscribe & Save creeps.",
+    "priceLabel": "$17.99",
+    "rating": 4.5,
+    "productSlug": "b00004y81q-hp-65-black-ink-cartridge"
   },
   {
-    "asin": "B000WKWMWS",
-    "title": "Dawn Ultra Dish Soap 75 oz (2-Pack)",
-    "cardPick": "Concentrated formula — one bottle lasts months when you dilute for daily dishes.",
-    "priceLabel": "$12.99",
-    "rating": 4.8
+    "asin": "B07RRF8FSX",
+    "title": "HP 63XL Black High-Yield Ink",
+    "cardPick": "High-yield black — fewer swaps per page when you print schoolwork and labels.",
+    "priceLabel": "$25.99",
+    "rating": 4.5,
+    "productSlug": "b07rrf8fsx-hp-63xl-black-ink-cartridge"
   },
   {
-    "asin": "B00HHQX0BQ",
-    "title": "Folgers Classic Roast Coffee 48 oz",
-    "cardPick": "Grocery-staple coffee tub — track the price before auto-ship creeps up.",
-    "priceLabel": "$11.99",
-    "rating": 4.7
+    "asin": "B07GXXSRD2",
+    "title": "Epson 502 4-Color Multipack",
+    "cardPick": "Full CMYK set for EcoTank-adjacent 502 printers — compare OEM vs reman before you refill.",
+    "priceLabel": "$46.99",
+    "rating": 4.4,
+    "productSlug": "b07gxxsrd2-epson-502-4-color-multipack"
   }
 ];
 
