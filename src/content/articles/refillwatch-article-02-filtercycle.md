@@ -7,16 +7,16 @@ pillarSlug: refillwatch-pillar-2
 cardTitle: Printer Ink Price Hikes
 cardPick: Household staples that dodge the printer-ink price trap—real $/use math inside.
 relatedProducts:
-- "B00NQ1CLTI"
-- "B00WSAXBQ0"
-- "B07C11YW88"
-- "B082Y7X9H5"
-- "B083BFPGD8"
-- "B08GX3K9YS"
-- "B0BVYBVHK5"
-- "B0CYJV9X52"
-- "B0DYNQ1WP7"
-- "B0FT32PL8L"
+- B0C1ZF94GW
+- B01N4IWH2O
+- B0DT1NNNS3
+- B0F7JTLB86
+- B07D5DN269
+- B0GLTX2PNR
+- B08KDQZJQ5
+- B098JD8HD3
+- B00CAZAU62
+- B09WDBHXB3
 status: published
 tags:
 - printer ink
@@ -240,3 +240,21 @@ The $0.99/month plan seems cheap but:
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [B0C1ZF94GW](/products/b0c1zf94gw-b0c1zf94gw/) · [Buy on Amazon](https://www.amazon.com/dp/B0C1ZF94GW?tag=inkledger-20)
+- [B01N4IWH2O](/products/b01n4iwh2o-b01n4iwh2o/) · [Buy on Amazon](https://www.amazon.com/dp/B01N4IWH2O?tag=inkledger-20)
+- [Smart Ink Remanufactured Ink Cartridges Replacement for HP 962XL 962 XL Combo Pa](/products/b0dt1nnns3-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0DT1NNNS3?tag=inkledger-20)
+- [B0F7JTLB86](/products/b0f7jtlb86-b0f7jtlb86/) · [Buy on Amazon](https://www.amazon.com/dp/B0F7JTLB86?tag=inkledger-20)
+- [B07D5DN269](/products/b07d5dn269-b07d5dn269/) · [Buy on Amazon](https://www.amazon.com/dp/B07D5DN269?tag=inkledger-20)
+- [HP 63XL/65XL Black High-Yield Ink Cartridge (Replaces and Works with Both 63XL &](/products/b0gltx2pnr-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0GLTX2PNR?tag=inkledger-20)
+- [B08KDQZJQ5](/products/b08kdqzjq5-b08kdqzjq5/) · [Buy on Amazon](https://www.amazon.com/dp/B08KDQZJQ5?tag=inkledger-20)
+- [Soldering Kit, 60W Soldering Iron, 110V Welding Kit with Ceramic Heater, Portabl](/products/b098jd8hd3-soldering-kit-60w-soldering-iron-110v-welding-kit-with-ceram/) · [Buy on Amazon](https://www.amazon.com/dp/B098JD8HD3?tag=inkledger-20)
+
+## Products in this guide
+
+- [Brother Genuine Standard Yield Toner Cartridge, TN730, Replacement Black Toner, Page Yield Up To 1,200 Pages, Amazon Das](/products/b075x7tfy5-product/)
+- [MLT-D116L High Yield Toner Cartridge - 1 Pack, Black Replacement for Samsung 116L D116L MLTD116L Toner to use with Xpres](/products/b0c8j8gy2v-product/)
+- [Brother LC3019BK Super High Yield Black Ink Cartridge](/products/b01lyfvg1v-product/)
+- [Brother Genuine TN760 High Yield Black Toner Cartridge, (for use with MFC-L2710DW MFC-L2750DW HL-L2350DW HL-L2370DW HL-L](/products/b075x6c5zw-product/)

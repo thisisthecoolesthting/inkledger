@@ -7,29 +7,16 @@ pillarSlug: refill-and-reuse
 cardTitle: Are Printer Ink Refill Kits Worth It? A Cost-Benefit Analysis
 cardPick: Household staples that dodge the printer-ink price trap—real $/use math inside.
 relatedProducts:
-- "B00063RWT8"
-- "B004QM8SLG"
-- "B00CBBJ5KY"
-- "B00NQ1CLTI"
-- "B00WSAXBQ0"
-- "B01N5Q9Q6J"
-- "B073Q8P6CQ"
-- "B07C11YW88"
-- "B07P5Y5QHG"
-- "B07R3N9X3F"
-- "B07RVMZNYR"
-- "B07Z6TV9Y7"
-- "B082Y7X9H5"
-- "B08B3K9H7L"
-- "B08GX3K9YS"
-- "B08PDHVZ4N"
-- "B093TCYF9T"
-- "B09DY7CCW5"
-- "B0BVYBVHK5"
-- "B0CB75LML9"
-- "B0CYJV9X52"
-- "B0F54TYKF9"
-- "B0GF25F12C"
+- B06XY6RSNB
+- B0BX9HWN7W
+- B0GKJZ864R
+- B08JHWZ15B
+- B08PZBPXLZ
+- B0H476662H
+- B00QJ88SB0
+- B0F2478Q95
+- B089CGSV4N
+- B00FFJ0R1Q
 status: published
 tags:
 - printer ink
@@ -257,3 +244,21 @@ Surprisingly, ink subscriptions make financial sense for users printing 50-150 p
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [Genuine Brother LC3019 (LC-3019) (BK/C/M/Y) High Yield Color Ink 4-Pack (Include](/products/b06xy6rsnb-product/) · [Buy on Amazon](https://www.amazon.com/dp/B06XY6RSNB?tag=inkledger-20)
+- [GOTOBY Compatible Toner Cartridge Replacement for HP 48A CF248A for Pro M15w M15](/products/b0bx9hwn7w-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0BX9HWN7W?tag=inkledger-20)
+- [HP DeskJet 2955 Wireless All-in-One Color Inkjet Printer, Scanner, Copier, Best-](/products/b0gkjz864r-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0GKJZ864R?tag=inkledger-20)
+- [B08JHWZ15B](/products/b08jhwz15b-b08jhwz15b/) · [Buy on Amazon](https://www.amazon.com/dp/B08JHWZ15B?tag=inkledger-20)
+- [Soldering Iron Kit, 80W 110V Fast Heat up in 10s LCD Digital Adjustable Temperat](/products/b08pzbpxlz-soldering-iron-kit-80w-110v-fast-heat-up-in-10s-lcd-digital-/) · [Buy on Amazon](https://www.amazon.com/dp/B08PZBPXLZ?tag=inkledger-20)
+- [Epson EcoTank ET-2988 Wireless All-in-One Color Supertank Printer with up to 3 Y](/products/b0h476662h-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0H476662H?tag=inkledger-20)
+- [AZ Compatible Toner Cartridge Replacement for Dell 1250, 1250BK / 1250C / 1250Y ](/products/b00qj88sb0-product/) · [Buy on Amazon](https://www.amazon.com/dp/B00QJ88SB0?tag=inkledger-20)
+- [B0F2478Q95](/products/b0f2478q95-b0f2478q95/) · [Buy on Amazon](https://www.amazon.com/dp/B0F2478Q95?tag=inkledger-20)
+
+## Products in this guide
+
+- [HP (Refurbished) OfficeJet Pro 9015e All-in-One Wireless Color Printer for Home Office, Compatible with Alexa (1G5L3A) (](/products/b092t3gbwk-product/)
+- [Epson EcoTank Wireless Color All-in-One Cartridge-Free ET-3850 Supertank Inkjet Printer for Home Office, Scanner, Copier](/products/b0b1j5pycf-product/)
+- [HP Samsung MLT-D116L (SU832A) MLT-D116L Toner Cartridge](/products/b00c18tycy-product/)
+- [Canon PG-245 / CL-246 Genuine Ink Value Pack (2 Cartridges), Compatible with iP2820, MG2420/2924/2920/3020/2522/2525, MX](/products/b00trdoylw-product/)

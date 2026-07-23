@@ -7,16 +7,16 @@ pillarSlug: refillwatch-pillar-1
 cardTitle: Printer Ink Price Hikes
 cardPick: Household staples that dodge the printer-ink price trap—real $/use math inside.
 relatedProducts:
-- "B00NQ1CLTI"
-- "B00WSAXBQ0"
-- "B07C11YW88"
-- "B082Y7X9H5"
-- "B083BFPGD8"
-- "B08GX3K9YS"
-- "B0BVYBVHK5"
-- "B0CYJV9X52"
-- "B0DYNQ1WP7"
-- "B0FT32PL8L"
+- B096N8DN2H
+- B001EQ4G0O
+- B0DPKJJRBG
+- B0FNMZCLCG
+- B00C18TYCY
+- B07C11YW88
+- B0GYNVJ62W
+- B0BTSZ81C7
+- B0G1N9SX2M
+- B06XY6RSNB
 status: published
 tags:
 - printer ink
@@ -198,3 +198,21 @@ New third-party cartridges include smart chips that reset automatically, bypassi
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [Epson EcoTank ET-2800 Wireless Color All-in-One Cartridge-Free Ink Supertank Pri](/products/b096n8dn2h-product/) · [Buy on Amazon](https://www.amazon.com/dp/B096N8DN2H?tag=inkledger-20)
+- [Stuart Weitzman Women's Metro Slingback Sandal,Palomino Llama Calf,8 M US](/products/b001eq4g0o-stuart-weitzman-women-s-metro-slingback-sandal-palomino-llam/) · [Buy on Amazon](https://www.amazon.com/dp/B001EQ4G0O?tag=inkledger-20)
+- [inkgens 31 32XL Ink Bottle Set Refill for HP Smart Tank 7600 7602 7300 7301 7001](/products/b0dpkjjrbg-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0DPKJJRBG?tag=inkledger-20)
+- [218A Toner Cartridges 4 Pack (with Chip) Compatible Replacement for HP 218A 218X](/products/b0fnmzclcg-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0FNMZCLCG?tag=inkledger-20)
+- [HP Samsung MLT-D116L (SU832A) MLT-D116L Toner Cartridge](/products/b00c18tycy-product/) · [Buy on Amazon](https://www.amazon.com/dp/B00C18TYCY?tag=inkledger-20)
+- [B07C11YW88](/products/b07c11yw88-b07c11yw88/) · [Buy on Amazon](https://www.amazon.com/dp/B07C11YW88?tag=inkledger-20)
+- [B0GYNVJ62W](/products/b0gynvj62w-b0gynvj62w/) · [Buy on Amazon](https://www.amazon.com/dp/B0GYNVJ62W?tag=inkledger-20)
+- [B0BTSZ81C7](/products/b0btsz81c7-b0btsz81c7/) · [Buy on Amazon](https://www.amazon.com/dp/B0BTSZ81C7?tag=inkledger-20)
+
+## Products in this guide
+
+- [B0041RRMQS](/products/b0041rrmqs-b0041rrmqs/)
+- [B00JTE518E](/products/b00jte518e-b00jte518e/)
+- [B00T6RWJMU](/products/b00t6rwjmu-b00t6rwjmu/)
+- [B012IWR5X2](/products/b012iwr5x2-b012iwr5x2/)

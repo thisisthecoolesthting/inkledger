@@ -6,7 +6,17 @@ tier: mvp
 cardTitle: "hp-61-vs-962-cost-comparison"
 cardPick: "Editorial printer-ink pick from InkLedger."
 updatedAt: '2026-06-06T03:05:48.139Z'
-relatedProducts: []
+relatedProducts:
+- B0G1NBKD38
+- B0FVFGX7Y5
+- B07J2P2V7T
+- B07C11YW88
+- B08TB5YD6R
+- B09W9MF63Y
+- B00NQ1CLTI
+- B0CYGN38RF
+- B0FKBFH92Q
+- B0GRGQR634
 status: published
 subtopic: printer-ink
 publishedAt: '2026-06-06T03:05:48.139Z'
@@ -272,3 +282,21 @@ Price data for this article comes from Keepa, which logs every published price c
 - [HP 65 Black Ink Cartridge Works with HP AMP 100, DeskJet 2600, 3700, ENVY 5000 Series](/products/b00004y81q-hp-65-black-ink-cartridge/)
 - [HP 63XL Black High-yield Ink Cartridge](/products/b07rrf8fsx-hp-63xl-black-ink-cartridge/)
 - [Brother LC3013BK Individual High-Yield Black Ink Cartridge](/products/b01ms0kdqf-brother-lc3013bk-xl-black-ink/)
+
+## Watchdog picks
+
+- [B0G1NBKD38](/products/b0g1nbkd38-b0g1nbkd38/) · [Buy on Amazon](https://www.amazon.com/dp/B0G1NBKD38?tag=inkledger-20)
+- [B0FVFGX7Y5](/products/b0fvfgx7y5-b0fvfgx7y5/) · [Buy on Amazon](https://www.amazon.com/dp/B0FVFGX7Y5?tag=inkledger-20)
+- [Utopia Bedding Bed Pillows for Sleeping Queen Size (Blue), Set of 6, Cooling Hot](/products/b07j2p2v7t-utopia-bedding-bed-pillows-for-sleeping-queen-size-blue-set-/) · [Buy on Amazon](https://www.amazon.com/dp/B07J2P2V7T?tag=inkledger-20)
+- [B07C11YW88](/products/b07c11yw88-b07c11yw88/) · [Buy on Amazon](https://www.amazon.com/dp/B07C11YW88?tag=inkledger-20)
+- [EPSON 552 EcoTank Ink Ultra-high Capacity Bottle Five Color Combo Pack (T552920-](/products/b08tb5yd6r-product/) · [Buy on Amazon](https://www.amazon.com/dp/B08TB5YD6R?tag=inkledger-20)
+- [ecodot 552 Pigment Ink Refill Ink Bottle Replacement for Epson 552 Ink Used for ](/products/b09w9mf63y-ecodot-552-pigment-ink-refill-ink-bottle-replacement-for-eps/) · [Buy on Amazon](https://www.amazon.com/dp/B09W9MF63Y?tag=inkledger-20)
+- [B00NQ1CLTI](/products/b00nq1clti-b00nq1clti/) · [Buy on Amazon](https://www.amazon.com/dp/B00NQ1CLTI?tag=inkledger-20)
+- [B0CYGN38RF](/products/b0cygn38rf-b0cygn38rf/) · [Buy on Amazon](https://www.amazon.com/dp/B0CYGN38RF?tag=inkledger-20)
+
+## Products in this guide
+
+- [HP 65 Black Ink Cartridge Works with HP AMP 100, DeskJet 2600, 3700, ENVY 5000 Series](/products/b00004y81q-hp-65-black-ink-cartridge/)
+- [HP 134A Black Toner Cartridge Printers | Works with LaserJet M209 Series; LaserJet MFP M234 Series | W1340A](/products/b08qmqnr76-product/)
+- [HP 141A Black Toner Cartridge | Works with LaserJet M110, LaserJet MFP M139, M140 | W1410A](/products/b09n4z8dnl-product/)
+- [Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)

@@ -8,14 +8,16 @@ cardPick: Concentrates and refill-friendly cleaners that shrink plastic and repe
 updatedAt: '2026-05-12T09:59:32Z'
 
 relatedProducts:
-- "B001QY8QXM"
-- "B00WSAXBQ0"
-- "B073Q8P6CQ"
-- "B07C11YW88"
-- "B082Y7X9H5"
-- "B08GX3K9YS"
-- "B09W9MF63Y"
-- "B0BVYBVHK5"
+- B00WSAXBQ0
+- B0GLTX2PNR
+- B0GZW7VXWT
+- B0FMBTJLX6
+- B0C1ZF94GW
+- B082Y7X9H5
+- B092T3GBWK
+- B07J2P2V7T
+- B0BX9HWN7W
+- B07MCYDD62
 status: published
 heroImage: /images/hero/how-to-refill-household-cleaners-without-sacrificing-effectiveness.jpg
 subtopic: cleaning
@@ -204,3 +206,21 @@ To make a meaningful difference, choose refilling methods that substantially red
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [HQ Replacement Soldering Iron For Hakko FX-8801 FX-888D Station](/products/b00wsaxbq0-hq-replacement-soldering-iron-for-hakko-fx-8801-fx-888d-stat/) · [Buy on Amazon](https://www.amazon.com/dp/B00WSAXBQ0?tag=inkledger-20)
+- [HP 63XL/65XL Black High-Yield Ink Cartridge (Replaces and Works with Both 63XL &](/products/b0gltx2pnr-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0GLTX2PNR?tag=inkledger-20)
+- [65XL 65 Ink Cartridges Black/Color Combo Pack Replacement for HP 65XL Ink Work f](/products/b0gzw7vxwt-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0GZW7VXWT?tag=inkledger-20)
+- [B0FMBTJLX6](/products/b0fmbtjlx6-b0fmbtjlx6/) · [Buy on Amazon](https://www.amazon.com/dp/B0FMBTJLX6?tag=inkledger-20)
+- [B0C1ZF94GW](/products/b0c1zf94gw-b0c1zf94gw/) · [Buy on Amazon](https://www.amazon.com/dp/B0C1ZF94GW?tag=inkledger-20)
+- [E-Z Ink Remanufactured Ink Cartridge Replacement for 252XL Combo Pack for Epson ](/products/b082y7x9h5-e-z-ink-remanufactured-ink-cartridge-replacement-for-252xl-c/) · [Buy on Amazon](https://www.amazon.com/dp/B082Y7X9H5?tag=inkledger-20)
+- [HP (Refurbished) OfficeJet Pro 9015e All-in-One Wireless Color Printer for Home ](/products/b092t3gbwk-product/) · [Buy on Amazon](https://www.amazon.com/dp/B092T3GBWK?tag=inkledger-20)
+- [Utopia Bedding Bed Pillows for Sleeping Queen Size (Blue), Set of 6, Cooling Hot](/products/b07j2p2v7t-utopia-bedding-bed-pillows-for-sleeping-queen-size-blue-set-/) · [Buy on Amazon](https://www.amazon.com/dp/B07J2P2V7T?tag=inkledger-20)
+
+## Products in this guide
+
+- [HP DeskJet 2755 Wireless All-in-One Printer, Mobile Print, Scan & Copy, Instant Ink Ready, Works with Alexa (3XV17A)](/products/b083zy6xfq-product/)
+- [EaseFusion Replacement for Epson 502 Ink Refill Bottles Work with ET-2850 ET-3850 ET-4850 ET-15000 ET 2850 ET 3850 ET150](/products/b0g33t139m-product/)
+- [B00063RWT8](/products/b00063rwt8-b00063rwt8/)
+- [B000H0XFCS](/products/b000h0xfcs-b000h0xfcs/)

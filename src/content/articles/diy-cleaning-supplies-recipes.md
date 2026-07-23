@@ -7,41 +7,16 @@ pillarSlug: refill-and-reuse
 cardTitle: DIY Cleaning Supplies
 cardPick: Concentrates and refill-friendly cleaners that shrink plastic and repeat cost.
 relatedProducts:
-- "B000H0XFCS"
-- "B000N3BBW0"
-- "B000VKGRF0"
-- "B0014D3N0Q"
-- "B001E10B9I"
-- "B001EQ4G0O"
-- "B001ET73J2"
-- "B002BWQ6XK"
-- "B004QM8SLG"
-- "B00762AHTE"
-- "B00B5JOC5C"
-- "B00CAZAU62"
-- "B00CBBJ5KY"
-- "B00FFJ0R1Q"
-- "B00PB6F2V4"
-- "B00SAYAKPK"
-- "B01N4IWH2O"
-- "B01N4NLZJN"
-- "B01N7V39QJ"
-- "B073Q8P6CQ"
-- "B07D5DN269"
-- "B07F97MPYT"
-- "B07G82D89G"
-- "B07P5BNQJG"
-- "B07Q5J5XJL"
-- "B07RVMZNYR"
-- "B08PDT1Y3H"
-- "B093TCYF9T"
-- "B098JD8HD3"
-- "B09W9MF63Y"
-- "B0BVYBVHK5"
-- "B0CB75LML9"
-- "B0CGW2TFSV"
-- "B0F54TYKF9"
-- "B0GF25F12C"
+- B0GGYYBXP4
+- B0FDL1LS3B
+- B0F7KKY728
+- B0CT8ZJ7ZC
+- B07VVK39F7
+- B0GYRCQLFV
+- B09W9MF63Y
+- B083BFPGD8
+- B0B1J5PYCF
+- B075X6C5ZW
 status: published
 tags:
 - homemade cleaners
@@ -239,3 +214,21 @@ Refill stations at stores like Earth Fare charge $0.15-$0.30/oz for plant-based 
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [B0GGYYBXP4](/products/b0ggyybxp4-b0ggyybxp4/) · [Buy on Amazon](https://www.amazon.com/dp/B0GGYYBXP4?tag=inkledger-20)
+- [B0FDL1LS3B](/products/b0fdl1ls3b-b0fdl1ls3b/) · [Buy on Amazon](https://www.amazon.com/dp/B0FDL1LS3B?tag=inkledger-20)
+- [B0F7KKY728](/products/b0f7kky728-b0f7kky728/) · [Buy on Amazon](https://www.amazon.com/dp/B0F7KKY728?tag=inkledger-20)
+- [B0CT8ZJ7ZC](/products/b0ct8zj7zc-b0ct8zj7zc/) · [Buy on Amazon](https://www.amazon.com/dp/B0CT8ZJ7ZC?tag=inkledger-20)
+- [LEVOIT Air Purifier for Home Allergies Pet Hair in Bedroom, Covers Up to 1073 ft](/products/b07vvk39f7-levoit-air-purifier-for-home-allergies-pet-hair-in-bedroom-c/) · [Buy on Amazon](https://www.amazon.com/dp/B07VVK39F7?tag=inkledger-20)
+- [B0GYRCQLFV](/products/b0gyrcqlfv-b0gyrcqlfv/) · [Buy on Amazon](https://www.amazon.com/dp/B0GYRCQLFV?tag=inkledger-20)
+- [ecodot 552 Pigment Ink Refill Ink Bottle Replacement for Epson 552 Ink Used for ](/products/b09w9mf63y-ecodot-552-pigment-ink-refill-ink-bottle-replacement-for-eps/) · [Buy on Amazon](https://www.amazon.com/dp/B09W9MF63Y?tag=inkledger-20)
+- [Toner Kingdom Compatible Toner-Cartridge Replacement for Canon 054H 054 High Yie](/products/b083bfpgd8-toner-kingdom-compatible-toner-cartridge-replacement-for-can/) · [Buy on Amazon](https://www.amazon.com/dp/B083BFPGD8?tag=inkledger-20)
+
+## Products in this guide
+
+- [Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)
+- [B0041RRMQS](/products/b0041rrmqs-b0041rrmqs/)
+- [B00JTE518E](/products/b00jte518e-b00jte518e/)
+- [B00T6RWJMU](/products/b00t6rwjmu-b00t6rwjmu/)

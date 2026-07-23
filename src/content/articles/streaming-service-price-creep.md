@@ -7,15 +7,16 @@ pillarSlug: subscription-savings
 cardTitle: Streaming Service Price Creep
 cardPick: Cancel creep and swap to staples that actually lower your monthly burn.
 relatedProducts:
-- "B00CAZAU62"
-- "B074ND5RDT"
-- "B07D5DN269"
-- "B07F97MPYT"
-- "B07J2P2V7T"
-- "B07VVK39F7"
-- "B08PZBPXLZ"
-- "B0B2RM68G2"
-- "B0CGW48C3G"
+- B08JHWZ15B
+- B01BYKUI9C
+- B096N7TXR1
+- B08PDT1Y3H
+- B07Q8BD3MK
+- B00WSAXBQ0
+- B0963X6B5V
+- B0BN57XFD8
+- B001ET73J2
+- B0FLXG5Z7Q
 status: draft
 tags:
 - subscription creep
@@ -143,3 +144,21 @@ Streaming services rely on subscriber inertia—the fact that you won't notice a
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [B08JHWZ15B](/products/b08jhwz15b-b08jhwz15b/) · [Buy on Amazon](https://www.amazon.com/dp/B08JHWZ15B?tag=inkledger-20)
+- [HP 65 Black Ink Cartridge - Works with AMP 100, DeskJet 2600, 3700; Envy 5000 - ](/products/b01bykui9c-product/) · [Buy on Amazon](https://www.amazon.com/dp/B01BYKUI9C?tag=inkledger-20)
+- [Epson EcoTank ET-3850 Wireless Color All-in-One Cartridge-Free Supertank with Sc](/products/b096n7txr1-product/) · [Buy on Amazon](https://www.amazon.com/dp/B096N7TXR1?tag=inkledger-20)
+- [B08PDT1Y3H](/products/b08pdt1y3h-b08pdt1y3h/) · [Buy on Amazon](https://www.amazon.com/dp/B08PDT1Y3H?tag=inkledger-20)
+- [Brother Genuine TN730 3-Pack Standard Yield Black Toner Cartridge with Approxima](/products/b07q8bd3mk-product/) · [Buy on Amazon](https://www.amazon.com/dp/B07Q8BD3MK?tag=inkledger-20)
+- [B00WSAXBQ0](/products/b00wsaxbq0-b00wsaxbq0/) · [Buy on Amazon](https://www.amazon.com/dp/B00WSAXBQ0?tag=inkledger-20)
+- [B0963X6B5V](/products/b0963x6b5v-b0963x6b5v/) · [Buy on Amazon](https://www.amazon.com/dp/B0963X6B5V?tag=inkledger-20)
+- [B0BN57XFD8](/products/b0bn57xfd8-b0bn57xfd8/) · [Buy on Amazon](https://www.amazon.com/dp/B0BN57XFD8?tag=inkledger-20)
+
+## Products in this guide
+
+- [B0041RRMQS](/products/b0041rrmqs-b0041rrmqs/)
+- [B00JTE518E](/products/b00jte518e-b00jte518e/)
+- [B00T6RWJMU](/products/b00t6rwjmu-b00t6rwjmu/)
+- [B012IWR5X2](/products/b012iwr5x2-b012iwr5x2/)

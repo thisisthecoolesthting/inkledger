@@ -7,17 +7,16 @@ pillarSlug: refillwatch-pillar-3
 cardTitle: Printer Ink Price Hikes
 cardPick: Household staples that dodge the printer-ink price trap—real $/use math inside.
 relatedProducts:
-- "B000H0XFCS"
-- "B00NQ1CLTI"
-- "B07C11YW88"
-- "B07Z6TV9Y7"
-- "B082Y7X9H5"
-- "B083BFPGD8"
-- "B08GX3K9YS"
-- "B0BVYBVHK5"
-- "B0CYJV9X52"
-- "B0DYNQ1WP7"
-- "B0FT32PL8L"
+- B0DMS3D2JT
+- B0DRP3LWP5
+- B09XT22566
+- B0D92PVDQH
+- B0BL466Y41
+- B074RFMST8
+- B0CPB11F85
+- B0F1FBQRVB
+- B01LYFVG1V
+- B0G6YZ5YFV
 status: published
 tags:
 - printer ink
@@ -223,3 +222,21 @@ Starts at $0.99/month but:
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [B0DMS3D2JT](/products/b0dms3d2jt-b0dms3d2jt/) · [Buy on Amazon](https://www.amazon.com/dp/B0DMS3D2JT?tag=inkledger-20)
+- [JANMORE Universal Ink Refills Kit Dye Ink Refill Kit Compatible for HP Canon Bro](/products/b0drp3lwp5-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0DRP3LWP5?tag=inkledger-20)
+- [B09XT22566](/products/b09xt22566-b09xt22566/) · [Buy on Amazon](https://www.amazon.com/dp/B09XT22566?tag=inkledger-20)
+- [Soldering Iron Kit, 60W LED Display Digital Solder Pen, 5 Replaceable Tips, 21-i](/products/b0d92pvdqh-soldering-iron-kit-60w-led-display-digital-solder-pen-5-repl/) · [Buy on Amazon](https://www.amazon.com/dp/B0D92PVDQH?tag=inkledger-20)
+- [B0BL466Y41](/products/b0bl466y41-b0bl466y41/) · [Buy on Amazon](https://www.amazon.com/dp/B0BL466Y41?tag=inkledger-20)
+- [EPSON 502 EcoTank Ink Ultra-high Capacity Bottle Black Works with ET-2750, 2760,](/products/b074rfmst8-product/) · [Buy on Amazon](https://www.amazon.com/dp/B074RFMST8?tag=inkledger-20)
+- [B0CPB11F85](/products/b0cpb11f85-b0cpb11f85/) · [Buy on Amazon](https://www.amazon.com/dp/B0CPB11F85?tag=inkledger-20)
+- [Epson EcoTank ET-2980 Wireless All-in-One Color Supertank Printer with Refillabl](/products/b0f1fbqrvb-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0F1FBQRVB?tag=inkledger-20)
+
+## Products in this guide
+
+- [Inkjet Refill Kit Pro — Compatible with HP, Canon, Epson, and Lexmark Cartridges](/products/b00mfg54b6-inkjet-refill-kit-pro-hp-canon/)
+- [Brother LC3013BK Individual High-Yield Black Ink Cartridge](/products/b01ms0kdqf-brother-lc3013bk-xl-black-ink/)
+- [Brother Genuine Standard Yield Toner Cartridge, TN730, Replacement Black Toner, Page Yield Up To 1,200 Pages, Amazon Das](/products/b075x7tfy5-product/)
+- [HP 65 Black Ink Cartridge Works with HP AMP 100, DeskJet 2600, 3700, ENVY 5000 Series](/products/b00004y81q-hp-65-black-ink-cartridge/)

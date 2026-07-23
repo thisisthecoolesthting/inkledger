@@ -7,17 +7,16 @@ pillarSlug: subscription-creep-busters
 cardTitle: '''The Razor Blade Subscription Trap'
 cardPick: Cancel creep and swap to staples that actually lower your monthly burn.
 relatedProducts:
-- "B000NH7BPW"
-- "B001QY8QXM"
-- "B002R5AF1I"
-- "B002T4D0WU"
-- "B00WSAXBQ0"
-- "B07C11YW88"
-- "B07RVMZNYR"
-- "B082Y7X9H5"
-- "B083BFPGD8"
-- "B08PZBPXLZ"
-- "B0BVYBVHK5"
+- B07ZHTFF44
+- B0DJ79LQP5
+- B0C3QXMBC7
+- B07ZPSFVX5
+- B096N7TXR1
+- B08FY8XQ3W
+- B0CT2LTF55
+- B07D5DN269
+- B0BPD45XG6
+- B0BM9BFLMX
 status: published
 tags:
 - razor blade subscription
@@ -252,3 +251,21 @@ If you insist on subscriptions:
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [B07ZHTFF44](/products/b07zhtff44-b07zhtff44/) · [Buy on Amazon](https://www.amazon.com/dp/B07ZHTFF44?tag=inkledger-20)
+- [WEAREC Compatible Toner Cartridge Replacement for Brother TN760 TN-760 TN730 wit](/products/b0dj79lqp5-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0DJ79LQP5?tag=inkledger-20)
+- [TN730 TN-730 Black Toner Cartridges 2 Pack Compatible TN730 Toner Cartridge Repl](/products/b0c3qxmbc7-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0C3QXMBC7?tag=inkledger-20)
+- [B07ZPSFVX5](/products/b07zpsfvx5-b07zpsfvx5/) · [Buy on Amazon](https://www.amazon.com/dp/B07ZPSFVX5?tag=inkledger-20)
+- [Epson EcoTank ET-3850 Wireless Color All-in-One Cartridge-Free Supertank with Sc](/products/b096n7txr1-product/) · [Buy on Amazon](https://www.amazon.com/dp/B096N7TXR1?tag=inkledger-20)
+- [B08FY8XQ3W](/products/b08fy8xq3w-b08fy8xq3w/) · [Buy on Amazon](https://www.amazon.com/dp/B08FY8XQ3W?tag=inkledger-20)
+- [Remanufactured Replacement for Epson 702 Ink Cartridges for 702XL Ink cartridges](/products/b0ct2ltf55-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0CT2LTF55?tag=inkledger-20)
+- [B07D5DN269](/products/b07d5dn269-b07d5dn269/) · [Buy on Amazon](https://www.amazon.com/dp/B07D5DN269?tag=inkledger-20)
+
+## Products in this guide
+
+- [HP 63XL Black High-yield Ink Cartridge](/products/b07rrf8fsx-hp-63xl-black-ink-cartridge/)
+- [HP 65 Black Ink Cartridge Works with HP AMP 100, DeskJet 2600, 3700, ENVY 5000 Series](/products/b00004y81q-hp-65-black-ink-cartridge/)
+- [Astra Platinum Double Edge Safety Razor Blades,100 Blades (20 x 5)](/products/b001qy8qxm-astra-platinum-double-edge-safety-razor-blades-100-blades-20/)
+- [B0041RRMQS](/products/b0041rrmqs-b0041rrmqs/)

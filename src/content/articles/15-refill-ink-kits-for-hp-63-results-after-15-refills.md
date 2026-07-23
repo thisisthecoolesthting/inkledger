@@ -4,7 +4,17 @@ site: inkledger
 topic: 15. Refill ink kits for HP 63 — results after 15 refills
 tier: mvp
 updatedAt: '2026-05-12T08:17:03Z'
-relatedProducts: []
+relatedProducts:
+- B0B2RM68G2
+- B081GRVJ5K
+- B07R3N9X3F
+- B07J2P2V7T
+- B0B1J5PYCF
+- B07Q5J5YXV
+- B00762AHTE
+- B002BWQ6XK
+- B0FVFGX7Y5
+- B0GMMHC3G4
 status: published
 heroImage: /heroes/15-refill-ink-kits-for-hp-63-results-after-15-refills.webp
 subtopic: cartridges
@@ -138,3 +148,21 @@ Refilling HP 63 cartridges 15 times is achievable with dedication and proper tec
 <a href="https://www.amazon.com/dp/B07X4SR5MN?tag=inkledger-20" rel="sponsored noopener" target="_blank" style="display:flex;align-items:center;gap:12px;text-decoration:none;margin:8px 0;padding:10px 12px;border:1px solid #e2e8f0;border-radius:10px;background:#f8fafc;"><img src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07X4SR5MN&Format=_SL100_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=inkledger-20" alt="Arteza Expert Colored Pencils 72-Pack" width="80" height="80" loading="lazy" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;border-radius:6px;background:#fff;" /><div style="min-width:0;"><strong style="display:block;color:#1e293b;font-size:0.9em;">Arteza Expert Colored Pencils 72-Pack</strong><span style="color:#64748b;font-size:0.82em;line-height:1.4;">Soft wax-oil core, 72 highly pigmented colors, in a sturdy metal tin.</span></div></a>
 
 <a href="https://www.amazon.com/dp/B00EWUNJN4?tag=inkledger-20" rel="sponsored noopener" target="_blank" style="display:flex;align-items:center;gap:12px;text-decoration:none;margin:8px 0;padding:10px 12px;border:1px solid #e2e8f0;border-radius:10px;background:#f8fafc;"><img src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00EWUNJN4&Format=_SL100_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=inkledger-20" alt="Canon PIXMA iX6820 Wireless Printer" width="80" height="80" loading="lazy" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;border-radius:6px;background:#fff;" /><div style="min-width:0;"><strong style="display:block;color:#1e293b;font-size:0.9em;">Canon PIXMA iX6820 Wireless Printer</strong><span style="color:#64748b;font-size:0.82em;line-height:1.4;">Wireless 13x19 borderless printing—affordable wide-format for small art print runs.</span></div></a>
+
+## Watchdog picks
+
+- [BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face Mask, Po](/products/b0b2rm68g2-biodance-bio-collagen-real-deep-mask-hydrating-overnight-hyd/) · [Buy on Amazon](https://www.amazon.com/dp/B0B2RM68G2?tag=inkledger-20)
+- [TEINO Remanufactured 65XL Ink Cartridge Replacement for HP Envy 5055 5052 DeskJe](/products/b081grvj5k-product/) · [Buy on Amazon](https://www.amazon.com/dp/B081GRVJ5K?tag=inkledger-20)
+- [B07R3N9X3F](/products/b07r3n9x3f-b07r3n9x3f/) · [Buy on Amazon](https://www.amazon.com/dp/B07R3N9X3F?tag=inkledger-20)
+- [B07J2P2V7T](/products/b07j2p2v7t-b07j2p2v7t/) · [Buy on Amazon](https://www.amazon.com/dp/B07J2P2V7T?tag=inkledger-20)
+- [Epson EcoTank Wireless Color All-in-One Cartridge-Free ET-3850 Supertank Inkjet ](/products/b0b1j5pycf-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0B1J5PYCF?tag=inkledger-20)
+- [B07Q5J5YXV](/products/b07q5j5yxv-b07q5j5yxv/) · [Buy on Amazon](https://www.amazon.com/dp/B07Q5J5YXV?tag=inkledger-20)
+- [Hakko T18S3P Tip for Fx-888 Station, 5.2mm](/products/b00762ahte-hakko-t18s3p-tip-for-fx-888-station-5-2mm/) · [Buy on Amazon](https://www.amazon.com/dp/B00762AHTE?tag=inkledger-20)
+- [B002BWQ6XK](/products/b002bwq6xk-b002bwq6xk/) · [Buy on Amazon](https://www.amazon.com/dp/B002BWQ6XK?tag=inkledger-20)
+
+## Products in this guide
+
+- [Inkjet Refill Kit Pro — Compatible with HP, Canon, Epson, and Lexmark Cartridges](/products/b00mfg54b6-inkjet-refill-kit-pro-hp-canon/)
+- [Epson 502 Ink Cartridges, Black/Cyan/Magenta/Yellow, 4-Pack](/products/b07gxxsrd2-epson-502-4-color-multipack/)
+- [HP Original 962 Cyan, Magenta, Yellow / 962XL Black Ink Cartridges (4-Pack) | Works OfficeJet 9010 Series, OfficeJet Pro](/products/b07t2s3d6j-product/)
+- [HP 65 Black Ink Cartridge | Works with AMP 100, DeskJet 2600, 3700; Envy 5000 | Eligible for Instant Ink | N9K02AN](/products/b01bykui9c-product/)

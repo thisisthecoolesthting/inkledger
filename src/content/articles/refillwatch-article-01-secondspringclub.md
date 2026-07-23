@@ -7,16 +7,16 @@ pillarSlug: refillwatch-pillar-1
 cardTitle: Printer Ink Price Hikes
 cardPick: Household staples that dodge the printer-ink price trap—real $/use math inside.
 relatedProducts:
-- "B00NQ1CLTI"
-- "B00WSAXBQ0"
-- "B07C11YW88"
-- "B082Y7X9H5"
-- "B083BFPGD8"
-- "B08GX3K9YS"
-- "B0BVYBVHK5"
-- "B0CYJV9X52"
-- "B0DYNQ1WP7"
-- "B0FT32PL8L"
+- B0GGYYBXP4
+- B0GLTX2PNR
+- B0CT2LTF55
+- B0CC7TVR2F
+- B09TG52XT4
+- B00NQ1CLTI
+- B07P5BNQJG
+- B0G2LS7RMK
+- B0CPB11F85
+- B0F1FNZB62
 status: published
 tags:
 - printer ink
@@ -198,3 +198,21 @@ New third-party cartridges include smart chips that reset automatically, bypassi
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [B0GGYYBXP4](/products/b0ggyybxp4-b0ggyybxp4/) · [Buy on Amazon](https://www.amazon.com/dp/B0GGYYBXP4?tag=inkledger-20)
+- [HP 63XL/65XL Black High-Yield Ink Cartridge (Replaces and Works with Both 63XL &](/products/b0gltx2pnr-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0GLTX2PNR?tag=inkledger-20)
+- [Remanufactured Replacement for Epson 702 Ink Cartridges for 702XL Ink cartridges](/products/b0ct2ltf55-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0CT2LTF55?tag=inkledger-20)
+- [B0CC7TVR2F](/products/b0cc7tvr2f-b0cc7tvr2f/) · [Buy on Amazon](https://www.amazon.com/dp/B0CC7TVR2F?tag=inkledger-20)
+- [B09TG52XT4](/products/b09tg52xt4-b09tg52xt4/) · [Buy on Amazon](https://www.amazon.com/dp/B09TG52XT4?tag=inkledger-20)
+- [Brother HL-L2300D Monochrome Laser Printer with Duplex Printing](/products/b00nq1clti-brother-hl-l2300d-monochrome-laser-printer-with-duplex-print/) · [Buy on Amazon](https://www.amazon.com/dp/B00NQ1CLTI?tag=inkledger-20)
+- [B07P5BNQJG](/products/b07p5bnqjg-b07p5bnqjg/) · [Buy on Amazon](https://www.amazon.com/dp/B07P5BNQJG?tag=inkledger-20)
+- [B0G2LS7RMK](/products/b0g2ls7rmk-b0g2ls7rmk/) · [Buy on Amazon](https://www.amazon.com/dp/B0G2LS7RMK?tag=inkledger-20)
+
+## Products in this guide
+
+- [B0041RRMQS](/products/b0041rrmqs-b0041rrmqs/)
+- [B00JTE518E](/products/b00jte518e-b00jte518e/)
+- [B00T6RWJMU](/products/b00t6rwjmu-b00t6rwjmu/)
+- [B012IWR5X2](/products/b012iwr5x2-b012iwr5x2/)

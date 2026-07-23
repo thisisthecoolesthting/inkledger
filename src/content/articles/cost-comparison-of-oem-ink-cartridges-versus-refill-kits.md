@@ -4,7 +4,17 @@ site: inkledger
 topic: Cost Comparison of OEM Ink Cartridges Versus Refill Kits
 tier: mvp
 updatedAt: '2026-05-12T08:53:43Z'
-relatedProducts: []
+relatedProducts:
+- B089CGSV4N
+- B0G1N9SX2M
+- B01BYKUI9C
+- B0D3XGJ6HW
+- B00CAZAU62
+- B00762AHTE
+- B0BJ194Z43
+- B002BWQ6XK
+- B08SWN848G
+- B0F2478Q95
 status: published
 heroImage: /heroes/cost-comparison-of-oem-ink-cartridges-versus-refill-kits.webp
 subtopic: cartridges
@@ -138,3 +148,21 @@ By understanding and weighing these elements, you can control your printing expe
 <a href="https://www.amazon.com/dp/B07X4SR5MN?tag=inkledger-20" rel="sponsored noopener" target="_blank" style="display:flex;align-items:center;gap:12px;text-decoration:none;margin:8px 0;padding:10px 12px;border:1px solid #e2e8f0;border-radius:10px;background:#f8fafc;"><img src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07X4SR5MN&Format=_SL100_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=inkledger-20" alt="Arteza Expert Colored Pencils 72-Pack" width="80" height="80" loading="lazy" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;border-radius:6px;background:#fff;" /><div style="min-width:0;"><strong style="display:block;color:#1e293b;font-size:0.9em;">Arteza Expert Colored Pencils 72-Pack</strong><span style="color:#64748b;font-size:0.82em;line-height:1.4;">Soft wax-oil core, 72 highly pigmented colors, in a sturdy metal tin.</span></div></a>
 
 <a href="https://www.amazon.com/dp/B00EWUNJN4?tag=inkledger-20" rel="sponsored noopener" target="_blank" style="display:flex;align-items:center;gap:12px;text-decoration:none;margin:8px 0;padding:10px 12px;border:1px solid #e2e8f0;border-radius:10px;background:#f8fafc;"><img src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00EWUNJN4&Format=_SL100_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=inkledger-20" alt="Canon PIXMA iX6820 Wireless Printer" width="80" height="80" loading="lazy" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;border-radius:6px;background:#fff;" /><div style="min-width:0;"><strong style="display:block;color:#1e293b;font-size:0.9em;">Canon PIXMA iX6820 Wireless Printer</strong><span style="color:#64748b;font-size:0.82em;line-height:1.4;">Wireless 13x19 borderless printing—affordable wide-format for small art print runs.</span></div></a>
+
+## Watchdog picks
+
+- [B089CGSV4N](/products/b089cgsv4n-b089cgsv4n/) · [Buy on Amazon](https://www.amazon.com/dp/B089CGSV4N?tag=inkledger-20)
+- [B0G1N9SX2M](/products/b0g1n9sx2m-b0g1n9sx2m/) · [Buy on Amazon](https://www.amazon.com/dp/B0G1N9SX2M?tag=inkledger-20)
+- [HP 65 Black Ink Cartridge - Works with AMP 100, DeskJet 2600, 3700; Envy 5000 - ](/products/b01bykui9c-product/) · [Buy on Amazon](https://www.amazon.com/dp/B01BYKUI9C?tag=inkledger-20)
+- [962XL Ink Cartridges for HP 962XL Ink Cartridges Combo Pack Work for HP Officeje](/products/b0d3xgj6hw-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0D3XGJ6HW?tag=inkledger-20)
+- [B00CAZAU62](/products/b00cazau62-b00cazau62/) · [Buy on Amazon](https://www.amazon.com/dp/B00CAZAU62?tag=inkledger-20)
+- [B00762AHTE](/products/b00762ahte-b00762ahte/) · [Buy on Amazon](https://www.amazon.com/dp/B00762AHTE?tag=inkledger-20)
+- [B0BJ194Z43](/products/b0bj194z43-b0bj194z43/) · [Buy on Amazon](https://www.amazon.com/dp/B0BJ194Z43?tag=inkledger-20)
+- [B002BWQ6XK](/products/b002bwq6xk-b002bwq6xk/) · [Buy on Amazon](https://www.amazon.com/dp/B002BWQ6XK?tag=inkledger-20)
+
+## Products in this guide
+
+- [Inkjet Refill Kit Pro — Compatible with HP, Canon, Epson, and Lexmark Cartridges](/products/b00mfg54b6-inkjet-refill-kit-pro-hp-canon/)
+- [Epson 502 Ink Cartridges, Black/Cyan/Magenta/Yellow, 4-Pack](/products/b07gxxsrd2-epson-502-4-color-multipack/)
+- [Brother Genuine TN730 3-Pack Standard Yield Black Toner Cartridge with Approximately 1,200 Page Yield/Cartridge](/products/b07q8bd3mk-product/)
+- [HP 65 Black Ink Cartridge Works with HP AMP 100, DeskJet 2600, 3700, ENVY 5000 Series](/products/b00004y81q-hp-65-black-ink-cartridge/)

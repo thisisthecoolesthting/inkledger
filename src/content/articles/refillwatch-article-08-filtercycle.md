@@ -7,17 +7,16 @@ pillarSlug: refillwatch-pillar-2
 cardTitle: Printer Ink Prices Skyrocket
 cardPick: Household staples that dodge the printer-ink price trap—real $/use math inside.
 relatedProducts:
-- "B00NQ1CLTI"
-- "B07C11YW88"
-- "B082Y7X9H5"
-- "B083BFPGD8"
-- "B08GX3K9YS"
-- "B09W9MF63Y"
-- "B0BVYBVHK5"
-- "B0CYJV9X52"
-- "B0D41ZMDPD"
-- "B0DYNQ1WP7"
-- "B0FT32PL8L"
+- B07D5DN269
+- B0FC5XFVH7
+- B0F1FNZB62
+- B07Q5J5YXV
+- B002BWQ6XK
+- B00QJ88SB0
+- B0DMS3D2JT
+- B07L2MZW6B
+- B0DFYBSVB8
+- B09N4Z8DNL
 status: published
 tags:
 - printer ink
@@ -230,3 +229,21 @@ The Epson 502 triggered "non-genuine ink" warnings on newer Expression models, e
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [Niagara Sleep Solution Ultra Soft Queen Size Mattress Topper - Rayon Derived fro](/products/b07d5dn269-niagara-sleep-solution-ultra-soft-queen-size-mattress-topper/) · [Buy on Amazon](https://www.amazon.com/dp/B07D5DN269?tag=inkledger-20)
+- [Epson EcoTank ET-3950 Wireless All-in-One Color Supertank Printer with up to 3 Y](/products/b0fc5xfvh7-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0FC5XFVH7?tag=inkledger-20)
+- [B0F1FNZB62](/products/b0f1fnzb62-b0f1fnzb62/) · [Buy on Amazon](https://www.amazon.com/dp/B0F1FNZB62?tag=inkledger-20)
+- [B07Q5J5YXV](/products/b07q5j5yxv-b07q5j5yxv/) · [Buy on Amazon](https://www.amazon.com/dp/B07Q5J5YXV?tag=inkledger-20)
+- [B002BWQ6XK](/products/b002bwq6xk-b002bwq6xk/) · [Buy on Amazon](https://www.amazon.com/dp/B002BWQ6XK?tag=inkledger-20)
+- [AZ Compatible Toner Cartridge Replacement for Dell 1250, 1250BK / 1250C / 1250Y ](/products/b00qj88sb0-product/) · [Buy on Amazon](https://www.amazon.com/dp/B00QJ88SB0?tag=inkledger-20)
+- [B0DMS3D2JT](/products/b0dms3d2jt-b0dms3d2jt/) · [Buy on Amazon](https://www.amazon.com/dp/B0DMS3D2JT?tag=inkledger-20)
+- [B07L2MZW6B](/products/b07l2mzw6b-b07l2mzw6b/) · [Buy on Amazon](https://www.amazon.com/dp/B07L2MZW6B?tag=inkledger-20)
+
+## Products in this guide
+
+- [Brother Printer LC30193PK Super High Yield XXL 3 Pack Ink Cartridges- 1 Ea: Cyan/Magenta/Yellow Ink](/products/b01n4k0zfe-product/)
+- [Brother LC3019BK Super High Yield Black Ink Cartridge](/products/b01lyfvg1v-product/)
+- [Brother Genuine TN760 High Yield Black Toner Cartridge, (for use with MFC-L2710DW MFC-L2750DW HL-L2350DW HL-L2370DW HL-L](/products/b075x6c5zw-product/)
+- [HP 962XL Black High-Yield Ink Cartridge | Works with OfficeJet 9010, Pro 9010, 9020 | Eligible for Instant Ink | 3JA03AN](/products/b07mk5dg9v-product/)

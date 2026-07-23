@@ -7,17 +7,16 @@ pillarSlug: refillwatch-pillar-3
 cardTitle: Printer Ink Price Hikes
 cardPick: Household staples that dodge the printer-ink price trap—real $/use math inside.
 relatedProducts:
-- "B000H0XFCS"
-- "B00NQ1CLTI"
-- "B07C11YW88"
-- "B07Z6TV9Y7"
-- "B082Y7X9H5"
-- "B083BFPGD8"
-- "B08GX3K9YS"
-- "B0BVYBVHK5"
-- "B0CYJV9X52"
-- "B0DYNQ1WP7"
-- "B0FT32PL8L"
+- B01LYFVG1V
+- B001ET73J2
+- B0C1ZF94GW
+- B0F7K193ZR
+- B09TG52XT4
+- B07D5DN269
+- B0BVYBVHK5
+- B082Y7X9H5
+- B0CFM82NS2
+- B07C11YW88
 status: published
 tags:
 - printer ink
@@ -223,3 +222,21 @@ Starts at $0.99/month but:
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [Brother LC3019BK Super High Yield Black Ink Cartridge](/products/b01lyfvg1v-product/) · [Buy on Amazon](https://www.amazon.com/dp/B01LYFVG1V?tag=inkledger-20)
+- [B001ET73J2](/products/b001et73j2-b001et73j2/) · [Buy on Amazon](https://www.amazon.com/dp/B001ET73J2?tag=inkledger-20)
+- [B0C1ZF94GW](/products/b0c1zf94gw-b0c1zf94gw/) · [Buy on Amazon](https://www.amazon.com/dp/B0C1ZF94GW?tag=inkledger-20)
+- [B0F7K193ZR](/products/b0f7k193zr-b0f7k193zr/) · [Buy on Amazon](https://www.amazon.com/dp/B0F7K193ZR?tag=inkledger-20)
+- [B09TG52XT4](/products/b09tg52xt4-b09tg52xt4/) · [Buy on Amazon](https://www.amazon.com/dp/B09TG52XT4?tag=inkledger-20)
+- [B07D5DN269](/products/b07d5dn269-b07d5dn269/) · [Buy on Amazon](https://www.amazon.com/dp/B07D5DN269?tag=inkledger-20)
+- [280XXL 281XXL Ink for Canon Ink 280 281 Replacement for Canon TR8620 Ink Cartrid](/products/b0bvybvhk5-280xxl-281xxl-ink-for-canon-ink-280-281-replacement-for-cano/) · [Buy on Amazon](https://www.amazon.com/dp/B0BVYBVHK5?tag=inkledger-20)
+- [E-Z Ink Remanufactured Ink Cartridge Replacement for 252XL Combo Pack for Epson ](/products/b082y7x9h5-e-z-ink-remanufactured-ink-cartridge-replacement-for-252xl-c/) · [Buy on Amazon](https://www.amazon.com/dp/B082Y7X9H5?tag=inkledger-20)
+
+## Products in this guide
+
+- [Inkjet Refill Kit Pro — Compatible with HP, Canon, Epson, and Lexmark Cartridges](/products/b00mfg54b6-inkjet-refill-kit-pro-hp-canon/)
+- [Brother LC3013BK Individual High-Yield Black Ink Cartridge](/products/b01ms0kdqf-brother-lc3013bk-xl-black-ink/)
+- [Brother Genuine Standard Yield Toner Cartridge, TN730, Replacement Black Toner, Page Yield Up To 1,200 Pages, Amazon Das](/products/b075x7tfy5-product/)
+- [HP 65 Black Ink Cartridge Works with HP AMP 100, DeskJet 2600, 3700, ENVY 5000 Series](/products/b00004y81q-hp-65-black-ink-cartridge/)

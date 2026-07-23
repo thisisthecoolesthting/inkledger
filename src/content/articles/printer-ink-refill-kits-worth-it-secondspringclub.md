@@ -7,29 +7,16 @@ pillarSlug: refill-and-reuse
 cardTitle: Are Printer Ink Refill Kits Worth It? A Cost-Benefit Analysis
 cardPick: Household staples that dodge the printer-ink price trap—real $/use math inside.
 relatedProducts:
-- "B00063RWT8"
-- "B004QM8SLG"
-- "B00CBBJ5KY"
-- "B00NQ1CLTI"
-- "B00WSAXBQ0"
-- "B01N5Q9Q6J"
-- "B073Q8P6CQ"
-- "B07C11YW88"
-- "B07P5Y5QHG"
-- "B07R3N9X3F"
-- "B07RVMZNYR"
-- "B07Z6TV9Y7"
-- "B082Y7X9H5"
-- "B08B3K9H7L"
-- "B08GX3K9YS"
-- "B08PDHVZ4N"
-- "B093TCYF9T"
-- "B09DY7CCW5"
-- "B0BVYBVHK5"
-- "B0CB75LML9"
-- "B0CYJV9X52"
-- "B0F54TYKF9"
-- "B0GF25F12C"
+- B00CAZAU62
+- B0B1J5PYCF
+- B08QR6P8KV
+- B08SWN848G
+- B0GYRCQLFV
+- B00PB6F2V4
+- B0CT2QHQVF
+- B0G2LS7RMK
+- B01MQYKRRZ
+- B0GMKRR64P
 status: published
 tags:
 - printer ink
@@ -257,3 +244,21 @@ Surprisingly, ink subscriptions make financial sense for users printing 50-150 p
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [Dr. Tobias Omega 3 Fish Oil 2000mg Triple Strength with 800mg EPA 600mg DHA Per ](/products/b00cazau62-dr-tobias-omega-3-fish-oil-2000mg-triple-strength-with-800mg/) · [Buy on Amazon](https://www.amazon.com/dp/B00CAZAU62?tag=inkledger-20)
+- [Epson EcoTank Wireless Color All-in-One Cartridge-Free ET-3850 Supertank Inkjet ](/products/b0b1j5pycf-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0B1J5PYCF?tag=inkledger-20)
+- [B08QR6P8KV](/products/b08qr6p8kv-b08qr6p8kv/) · [Buy on Amazon](https://www.amazon.com/dp/B08QR6P8KV?tag=inkledger-20)
+- [HP Original 67 Tri-Color / 67XL Black Ink Cartridges (2-Pack) - Works DeskJet 12](/products/b08swn848g-product/) · [Buy on Amazon](https://www.amazon.com/dp/B08SWN848G?tag=inkledger-20)
+- [B0GYRCQLFV](/products/b0gyrcqlfv-b0gyrcqlfv/) · [Buy on Amazon](https://www.amazon.com/dp/B0GYRCQLFV?tag=inkledger-20)
+- [B00PB6F2V4](/products/b00pb6f2v4-b00pb6f2v4/) · [Buy on Amazon](https://www.amazon.com/dp/B00PB6F2V4?tag=inkledger-20)
+- [B0CT2QHQVF](/products/b0ct2qhqvf-b0ct2qhqvf/) · [Buy on Amazon](https://www.amazon.com/dp/B0CT2QHQVF?tag=inkledger-20)
+- [B0G2LS7RMK](/products/b0g2ls7rmk-b0g2ls7rmk/) · [Buy on Amazon](https://www.amazon.com/dp/B0G2LS7RMK?tag=inkledger-20)
+
+## Products in this guide
+
+- [HP (Refurbished) OfficeJet Pro 9015e All-in-One Wireless Color Printer for Home Office, Compatible with Alexa (1G5L3A) (](/products/b092t3gbwk-product/)
+- [Epson EcoTank Wireless Color All-in-One Cartridge-Free ET-3850 Supertank Inkjet Printer for Home Office, Scanner, Copier](/products/b0b1j5pycf-product/)
+- [HP Samsung MLT-D116L (SU832A) MLT-D116L Toner Cartridge](/products/b00c18tycy-product/)
+- [Canon PG-245 / CL-246 Genuine Ink Value Pack (2 Cartridges), Compatible with iP2820, MG2420/2924/2920/3020/2522/2525, MX](/products/b00trdoylw-product/)

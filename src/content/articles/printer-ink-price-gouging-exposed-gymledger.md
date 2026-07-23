@@ -7,22 +7,16 @@ pillarSlug: price-hike-alerts
 cardTitle: Printer Ink Price Gouging
 cardPick: Household staples that dodge the printer-ink price trap—real $/use math inside.
 relatedProducts:
-- "B00063RWT8"
-- "B004QM8SLG"
-- "B00WSAXBQ0"
-- "B07C11YW88"
-- "B07RVMZNYR"
-- "B082Y7X9H5"
-- "B083BFPGD8"
-- "B08GX3K9YS"
-- "B093TCYF9T"
-- "B0BVYBVHK5"
-- "B0CB75LML9"
-- "B0CGW2TFSV"
-- "B0CGW48C3G"
-- "B0CYJV9X52"
-- "B0F54TYKF9"
-- "B0GF25F12C"
+- B0GVGG7QLT
+- B0BPD45XG6
+- B0GMW9XT9X
+- B0FNMZCLCG
+- B01MQYKRRZ
+- B06XY6RSNB
+- B09W73NQPW
+- B0GFMH3D3X
+- B0014D3N0Q
+- B08J3NY6QV
 status: published
 tags:
 - printer ink
@@ -329,3 +323,21 @@ Epson EcoTank 2850
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [HP Original 63/65XL Black High‑Yield + 63/65 Tri-Color- Works DeskJet 1110, 2100](/products/b0gvgg7qlt-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0GVGG7QLT?tag=inkledger-20)
+- [AOLIBE MLT-D111S Toner Cartridge High Yield Compatible for Samsung 111S MLT111S ](/products/b0bpd45xg6-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0BPD45XG6?tag=inkledger-20)
+- [HP DeskJet 2923 Wireless All-in-One Color Inkjet Printer, Scanner, Copier, 6 Mon](/products/b0gmw9xt9x-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0GMW9XT9X?tag=inkledger-20)
+- [218A Toner Cartridges 4 Pack (with Chip) Compatible Replacement for HP 218A 218X](/products/b0fnmzclcg-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0FNMZCLCG?tag=inkledger-20)
+- [JETSIR Dye Ink Refill Kit 100ML x5 Bottles for 950 951 952 902 901 60 61 62 63 2](/products/b01mqykrrz-product/) · [Buy on Amazon](https://www.amazon.com/dp/B01MQYKRRZ?tag=inkledger-20)
+- [Genuine Brother LC3019 (LC-3019) (BK/C/M/Y) High Yield Color Ink 4-Pack (Include](/products/b06xy6rsnb-product/) · [Buy on Amazon](https://www.amazon.com/dp/B06XY6RSNB?tag=inkledger-20)
+- [B09W73NQPW](/products/b09w73nqpw-b09w73nqpw/) · [Buy on Amazon](https://www.amazon.com/dp/B09W73NQPW?tag=inkledger-20)
+- [Miss Deer LC3019XXL Ink Cartridges, Comaptible Replacement for Brother LC3019 LC](/products/b0gfmh3d3x-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0GFMH3D3X?tag=inkledger-20)
+
+## Products in this guide
+
+- [Epson 502 Ink Cartridges, Black/Cyan/Magenta/Yellow, 4-Pack](/products/b07gxxsrd2-epson-502-4-color-multipack/)
+- [Brother LC3013BK Individual High-Yield Black Ink Cartridge](/products/b01ms0kdqf-brother-lc3013bk-xl-black-ink/)
+- [Brother Printer LC30193PK Super High Yield XXL 3 Pack Ink Cartridges- 1 Ea: Cyan/Magenta/Yellow Ink](/products/b01n4k0zfe-product/)
+- [HP 63XL Black High-yield Ink Cartridge](/products/b07rrf8fsx-hp-63xl-black-ink-cartridge/)

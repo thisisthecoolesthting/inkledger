@@ -6,7 +6,17 @@ tier: mvp
 cardTitle: "best-inkjet-printers-college-students"
 cardPick: "Editorial printer-ink pick from InkLedger."
 updatedAt: '2026-06-06T03:05:48.081Z'
-relatedProducts: []
+relatedProducts:
+- B0BX9HWN7W
+- B0FBRH75LK
+- B01N4QAK9O
+- B0CT2LTF55
+- B0H1M158VT
+- B08R3R5KXJ
+- B096N7TXR1
+- B0FCS4HWPH
+- B0B1J5PYCF
+- B09PH83KK5
 status: published
 subtopic: printer-ink
 publishedAt: '2026-06-06T03:05:48.081Z'
@@ -98,3 +108,21 @@ Experiment with your printer's settings to optimize ink usage. You can often adj
 Choosing the best inkjet printer for college students involves balancing affordability, reliability, and ink costs. The Canon PIXMA MG3620 (used/refurbished) is a budget-friendly option, while the Epson EcoTank ET-2800 series offers the lowest long-term ink costs. The Brother MFC-J1010DW provides a good balance of features and performance.
 
 Remember to factor in ink costs and explore strategies for saving money on ink, such as using draft mode, printing only what you need, and considering compatible cartridges or ink refill kits. By making informed decisions, you can find a printer that meets your needs without breaking the bank.
+
+## Watchdog picks
+
+- [GOTOBY Compatible Toner Cartridge Replacement for HP 48A CF248A for Pro M15w M15](/products/b0bx9hwn7w-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0BX9HWN7W?tag=inkledger-20)
+- [B0FBRH75LK](/products/b0fbrh75lk-b0fbrh75lk/) · [Buy on Amazon](https://www.amazon.com/dp/B0FBRH75LK?tag=inkledger-20)
+- [B01N4QAK9O](/products/b01n4qak9o-b01n4qak9o/) · [Buy on Amazon](https://www.amazon.com/dp/B01N4QAK9O?tag=inkledger-20)
+- [Remanufactured Replacement for Epson 702 Ink Cartridges for 702XL Ink cartridges](/products/b0ct2ltf55-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0CT2LTF55?tag=inkledger-20)
+- [B0H1M158VT](/products/b0h1m158vt-b0h1m158vt/) · [Buy on Amazon](https://www.amazon.com/dp/B0H1M158VT?tag=inkledger-20)
+- [B08R3R5KXJ](/products/b08r3r5kxj-b08r3r5kxj/) · [Buy on Amazon](https://www.amazon.com/dp/B08R3R5KXJ?tag=inkledger-20)
+- [Epson EcoTank ET-3850 Wireless Color All-in-One Cartridge-Free Supertank with Sc](/products/b096n7txr1-product/) · [Buy on Amazon](https://www.amazon.com/dp/B096N7TXR1?tag=inkledger-20)
+- [B0FCS4HWPH](/products/b0fcs4hwph-b0fcs4hwph/) · [Buy on Amazon](https://www.amazon.com/dp/B0FCS4HWPH?tag=inkledger-20)
+
+## Products in this guide
+
+- [HP OfficeJet Pro 9125e Wireless All-in-One Color Inkjet Printer, Print, scan, copy, fax, ADF, Duplex printing best-for-o](/products/b0cfm82ns2-product/)
+- [HP OfficeJet Pro 8125e Wireless All-in-One Color Inkjet Printer, Print, scan, Copy, ADF, Duplex Printing Best-for-Home O](/products/b0ct8zj7zc-product/)
+- [Folgers Classic Roast Ground Coffee, 48 Oz](/products/b00hhqx0bq-folgers-classic-roast-coffee-48oz/)
+- [Brother HL-L2300D Monochrome Laser Printer with Duplex Printing](/products/b00nq1clti-brother-hl-l2300d-monochrome-laser-printer-with-duplex-print/)

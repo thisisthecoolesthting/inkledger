@@ -7,23 +7,16 @@ pillarSlug: price-hikes-exposed
 cardTitle: The Ink Cartridge Scam
 cardPick: Household staples that dodge the printer-ink price trap—real $/use math inside.
 relatedProducts:
-- "B004QM8SLG"
-- "B00CBBJ5KY"
-- "B00NQ1CLTI"
-- "B00WSAXBQ0"
-- "B07C11YW88"
-- "B082Y7X9H5"
-- "B083BFPGD8"
-- "B0846GFNCQ"
-- "B0848Q34F8"
-- "B08GX3K9YS"
-- "B093TCYF9T"
-- "B099NZC4PB"
-- "B0BVYBVHK5"
-- "B0C7ZTV376"
-- "B0CB75LML9"
-- "B0CYJV9X52"
-- "B0GF25F12C"
+- B00NQ1CLTI
+- B07PN7G526
+- B07TJ87YKB
+- B08K3J4WX6
+- B001QY8QXM
+- B0BTXXQ5TC
+- B0FLXGHLHS
+- B08B3K9H7L
+- B00CAZAU62
+- B08JHWZ15B
 status: published
 tags:
 - printer ink
@@ -241,3 +234,21 @@ For the DIY-inclined, third-party solutions offer additional savings:
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [B00NQ1CLTI](/products/b00nq1clti-b00nq1clti/) · [Buy on Amazon](https://www.amazon.com/dp/B00NQ1CLTI?tag=inkledger-20)
+- [EPSON 522 EcoTank Ink Ultra-high Capacity Bottle Black (T522120-S) Works with ET](/products/b07pn7g526-product/) · [Buy on Amazon](https://www.amazon.com/dp/B07PN7G526?tag=inkledger-20)
+- [Valuetoner 245XL Ink Cartridge Replacement for Canon 245XL 246XL Combo Pack PG-2](/products/b07tj87ykb-product/) · [Buy on Amazon](https://www.amazon.com/dp/B07TJ87YKB?tag=inkledger-20)
+- [B08K3J4WX6](/products/b08k3j4wx6-b08k3j4wx6/) · [Buy on Amazon](https://www.amazon.com/dp/B08K3J4WX6?tag=inkledger-20)
+- [Astra Platinum Double Edge Safety Razor Blades,100 Blades (20 x 5)](/products/b001qy8qxm-astra-platinum-double-edge-safety-razor-blades-100-blades-20/) · [Buy on Amazon](https://www.amazon.com/dp/B001QY8QXM?tag=inkledger-20)
+- [MLT-D111S 111S Toner Cartridge High Yield Replacement for Samsung MLT-D111S MLTD](/products/b0btxxq5tc-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0BTXXQ5TC?tag=inkledger-20)
+- [Printer Ink 67 Compatible for HP 67 Ink Cartridges Black/Color Combo Pack for HP](/products/b0flxghlhs-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0FLXGHLHS?tag=inkledger-20)
+- [B08B3K9H7L](/products/b08b3k9h7l-b08b3k9h7l/) · [Buy on Amazon](https://www.amazon.com/dp/B08B3K9H7L?tag=inkledger-20)
+
+## Products in this guide
+
+- [EPSON 502 EcoTank Ink Ultra-high Capacity Bottle Black Works with ET-2750, 2760, 2850, 3750, 3760, 3850, 4850, and other](/products/b074rfmst8-product/)
+- [EPSON 522 EcoTank Ink Ultra-high Capacity Bottle Black (T522120-S) Works with ET-2720, 2800, 2803, 2840, 4700, 4800, 481](/products/b07pn7g526-product/)
+- [HP 134A Black Toner Cartridge Printers | Works with LaserJet M209 Series; LaserJet MFP M234 Series | W1340A](/products/b08qmqnr76-product/)
+- [Epson 522 EcoTank Ink Ultra-high Capacity Bottle Black & Color Combo Pack (T522120-BCS) Works with ET-2720, 2800, 2803,](/products/b0b4vp5cq4-product/)

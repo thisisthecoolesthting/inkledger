@@ -6,7 +6,17 @@ tier: mvp
 cardTitle: "printer-ink-pricing-games-manufacturers-play"
 cardPick: "Editorial printer-ink pick from InkLedger."
 updatedAt: '2026-06-06T03:05:48.180Z'
-relatedProducts: []
+relatedProducts:
+- B07MK5DG9V
+- B01N4QAK9O
+- B0CZSFG7VX
+- B0CHJ8T7XS
+- B075X6C5ZW
+- B000H0XFCS
+- B0G34F2S65
+- B0GMMHC3G4
+- B0BTXXQ5TC
+- B00TRDOYLW
 status: published
 subtopic: printer-ink
 publishedAt: '2026-06-06T03:05:48.180Z'
@@ -275,3 +285,21 @@ Price data for this article comes from Keepa, which logs every published price c
 - [Epson 502 Ink Cartridges, Black/Cyan/Magenta/Yellow, 4-Pack](/products/b07gxxsrd2-epson-502-4-color-multipack/)
 - [Brother LC3013BK Individual High-Yield Black Ink Cartridge](/products/b01ms0kdqf-brother-lc3013bk-xl-black-ink/)
 - [HP 65 Black Ink Cartridge Works with HP AMP 100, DeskJet 2600, 3700, ENVY 5000 Series](/products/b00004y81q-hp-65-black-ink-cartridge/)
+
+## Watchdog picks
+
+- [HP 962XL Black High-Yield Ink Cartridge - Works with OfficeJet 9010, Pro 9010, 9](/products/b07mk5dg9v-product/) · [Buy on Amazon](https://www.amazon.com/dp/B07MK5DG9V?tag=inkledger-20)
+- [B01N4QAK9O](/products/b01n4qak9o-b01n4qak9o/) · [Buy on Amazon](https://www.amazon.com/dp/B01N4QAK9O?tag=inkledger-20)
+- [B0CZSFG7VX](/products/b0czsfg7vx-b0czsfg7vx/) · [Buy on Amazon](https://www.amazon.com/dp/B0CZSFG7VX?tag=inkledger-20)
+- [B0CHJ8T7XS](/products/b0chj8t7xs-b0chj8t7xs/) · [Buy on Amazon](https://www.amazon.com/dp/B0CHJ8T7XS?tag=inkledger-20)
+- [Brother Genuine TN760 High Yield Black Toner Cartridge, (for use with MFC-L2710D](/products/b075x6c5zw-product/) · [Buy on Amazon](https://www.amazon.com/dp/B075X6C5ZW?tag=inkledger-20)
+- [Eva-Dry Wireless Mini Dehumidifier, White (E-333)](/products/b000h0xfcs-eva-dry-wireless-mini-dehumidifier-white-e-333/) · [Buy on Amazon](https://www.amazon.com/dp/B000H0XFCS?tag=inkledger-20)
+- [B0G34F2S65](/products/b0g34f2s65-b0g34f2s65/) · [Buy on Amazon](https://www.amazon.com/dp/B0G34F2S65?tag=inkledger-20)
+- [B0GMMHC3G4](/products/b0gmmhc3g4-b0gmmhc3g4/) · [Buy on Amazon](https://www.amazon.com/dp/B0GMMHC3G4?tag=inkledger-20)
+
+## Products in this guide
+
+- [B0041RRMQS](/products/b0041rrmqs-b0041rrmqs/)
+- [HP Samsung MLT-D116L (SU832A) MLT-D116L Toner Cartridge](/products/b00c18tycy-product/)
+- [B00JTE518E](/products/b00jte518e-b00jte518e/)
+- [B00T6RWJMU](/products/b00t6rwjmu-b00t6rwjmu/)

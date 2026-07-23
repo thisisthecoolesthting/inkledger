@@ -7,19 +7,16 @@ pillarSlug: subscription-savings
 cardTitle: Streaming Subscription Hikes
 cardPick: Cancel creep and swap to staples that actually lower your monthly burn.
 relatedProducts:
-- "B00CAZAU62"
-- "B00NQ1CLTI"
-- "B073Q8P6CQ"
-- "B07G82D89G"
-- "B07RVMZNYR"
-- "B07YPR2DGH"
-- "B0846GFNCQ"
-- "B08PZBPXLZ"
-- "B08R3515SF"
-- "B09DV14ZZL"
-- "B09WDBHXB3"
-- "B0B7MKRR58"
-- "B0CGW48C3G"
+- B0F7K193ZR
+- B07RVMZNYR
+- B0CZSFG7VX
+- B09TG52XT4
+- B09W73NQPW
+- B0DHCKRWDL
+- B0BPD45XG6
+- B000H0XFCS
+- B06XG5ZJN3
+- B07RYXHN2M
 status: draft
 tags:
 - streaming price hike
@@ -174,3 +171,21 @@ Pro tip: Services often grandfather pricing for 6-9 months after hikes. By creat
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [B0F7K193ZR](/products/b0f7k193zr-b0f7k193zr/) · [Buy on Amazon](https://www.amazon.com/dp/B0F7K193ZR?tag=inkledger-20)
+- [YIHUA 939D+ Digital Soldering Station, 75W Equivalent with Precision Heat Contro](/products/b07rvmznyr-yihua-939d-digital-soldering-station-75w-equivalent-with-pre/) · [Buy on Amazon](https://www.amazon.com/dp/B07RVMZNYR?tag=inkledger-20)
+- [B0CZSFG7VX](/products/b0czsfg7vx-b0czsfg7vx/) · [Buy on Amazon](https://www.amazon.com/dp/B0CZSFG7VX?tag=inkledger-20)
+- [B09TG52XT4](/products/b09tg52xt4-b09tg52xt4/) · [Buy on Amazon](https://www.amazon.com/dp/B09TG52XT4?tag=inkledger-20)
+- [B09W73NQPW](/products/b09w73nqpw-b09w73nqpw/) · [Buy on Amazon](https://www.amazon.com/dp/B09W73NQPW?tag=inkledger-20)
+- [B0DHCKRWDL](/products/b0dhckrwdl-b0dhckrwdl/) · [Buy on Amazon](https://www.amazon.com/dp/B0DHCKRWDL?tag=inkledger-20)
+- [AOLIBE MLT-D111S Toner Cartridge High Yield Compatible for Samsung 111S MLT111S ](/products/b0bpd45xg6-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0BPD45XG6?tag=inkledger-20)
+- [Eva-Dry Wireless Mini Dehumidifier, White (E-333)](/products/b000h0xfcs-eva-dry-wireless-mini-dehumidifier-white-e-333/) · [Buy on Amazon](https://www.amazon.com/dp/B000H0XFCS?tag=inkledger-20)
+
+## Products in this guide
+
+- [HP 141A Black Toner Cartridge | Works with LaserJet M110, LaserJet MFP M139, M140 | W1410A](/products/b09n4z8dnl-product/)
+- [Ink Cartridge Printer Replacement Part Compatible with Expression Photo XP-15000](/products/b0gvgsv2kl-product/)
+- [B0041RRMQS](/products/b0041rrmqs-b0041rrmqs/)
+- [HP Samsung MLT-D116L (SU832A) MLT-D116L Toner Cartridge](/products/b00c18tycy-product/)

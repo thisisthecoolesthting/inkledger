@@ -6,7 +6,17 @@ tier: mvp
 cardTitle: "ecotank-megatank-printers-worth-the-investment"
 cardPick: "Editorial printer-ink pick from InkLedger."
 updatedAt: '2026-06-06T03:05:48.112Z'
-relatedProducts: []
+relatedProducts:
+- B0G1NBKD38
+- B0GCZVZ3SZ
+- B0G34F2S65
+- B07MCYDD62
+- B0GVM6YY7B
+- B08VF3XRQ8
+- B0D92PVDQH
+- B0F1FBQRVB
+- B0BHXNP6B1
+- B0FC5XFVH7
 status: published
 subtopic: printer-ink
 publishedAt: '2026-06-06T03:05:48.112Z'
@@ -226,3 +236,21 @@ Price data for this article comes from Keepa, which logs every published price c
 - [Epson 502 Ink Cartridges, Black/Cyan/Magenta/Yellow, 4-Pack](/products/b07gxxsrd2-epson-502-4-color-multipack/)
 - [HP 65 Black Ink Cartridge Works with HP AMP 100, DeskJet 2600, 3700, ENVY 5000 Series](/products/b00004y81q-hp-65-black-ink-cartridge/)
 - [HP 63XL Black High-yield Ink Cartridge](/products/b07rrf8fsx-hp-63xl-black-ink-cartridge/)
+
+## Watchdog picks
+
+- [B0G1NBKD38](/products/b0g1nbkd38-b0g1nbkd38/) · [Buy on Amazon](https://www.amazon.com/dp/B0G1NBKD38?tag=inkledger-20)
+- [Compatible for EPT502 Ink Refill Bottles Eco Tank ET-2850 ET-3850 ET-4850 ET-150](/products/b0gczvz3sz-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0GCZVZ3SZ?tag=inkledger-20)
+- [B0G34F2S65](/products/b0g34f2s65-b0g34f2s65/) · [Buy on Amazon](https://www.amazon.com/dp/B0G34F2S65?tag=inkledger-20)
+- [HP 962 Cyan, Magenta, Yellow Ink Cartridges - Works with OfficeJet 9010, 9020 - ](/products/b07mcydd62-product/) · [Buy on Amazon](https://www.amazon.com/dp/B07MCYDD62?tag=inkledger-20)
+- [65 65XL Black Ink Cartridges Replacement for HP 65XL Black Ink Cartridge Work fo](/products/b0gvm6yy7b-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0GVM6YY7B?tag=inkledger-20)
+- [B08VF3XRQ8](/products/b08vf3xrq8-b08vf3xrq8/) · [Buy on Amazon](https://www.amazon.com/dp/B08VF3XRQ8?tag=inkledger-20)
+- [Soldering Iron Kit, 60W LED Display Digital Solder Pen, 5 Replaceable Tips, 21-i](/products/b0d92pvdqh-soldering-iron-kit-60w-led-display-digital-solder-pen-5-repl/) · [Buy on Amazon](https://www.amazon.com/dp/B0D92PVDQH?tag=inkledger-20)
+- [Epson EcoTank ET-2980 Wireless All-in-One Color Supertank Printer with Refillabl](/products/b0f1fbqrvb-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0F1FBQRVB?tag=inkledger-20)
+
+## Products in this guide
+
+- [HP 63XL Black High-yield Ink Cartridge](/products/b07rrf8fsx-hp-63xl-black-ink-cartridge/)
+- [B0041RRMQS](/products/b0041rrmqs-b0041rrmqs/)
+- [B00JTE518E](/products/b00jte518e-b00jte518e/)
+- [B00T6RWJMU](/products/b00t6rwjmu-b00t6rwjmu/)

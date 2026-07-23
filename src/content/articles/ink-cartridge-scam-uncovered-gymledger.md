@@ -7,23 +7,16 @@ pillarSlug: price-hikes-exposed
 cardTitle: The Ink Cartridge Scam
 cardPick: Household staples that dodge the printer-ink price trap—real $/use math inside.
 relatedProducts:
-- "B004QM8SLG"
-- "B00CBBJ5KY"
-- "B00NQ1CLTI"
-- "B00WSAXBQ0"
-- "B07C11YW88"
-- "B082Y7X9H5"
-- "B083BFPGD8"
-- "B0846GFNCQ"
-- "B0848Q34F8"
-- "B08GX3K9YS"
-- "B093TCYF9T"
-- "B099NZC4PB"
-- "B0BVYBVHK5"
-- "B0C7ZTV376"
-- "B0CB75LML9"
-- "B0CYJV9X52"
-- "B0GF25F12C"
+- B0CT8ZJ7ZC
+- B09VXQ221K
+- B09TG52XT4
+- B077QVSKD5
+- B0C3QXMBC7
+- B0836MYJSD
+- B0FLXG5Z7Q
+- B07F97MPYT
+- B0DRP3LWP5
+- B075X7TFY5
 status: published
 tags:
 - printer ink
@@ -241,3 +234,21 @@ For the DIY-inclined, third-party solutions offer additional savings:
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [B0CT8ZJ7ZC](/products/b0ct8zj7zc-b0ct8zj7zc/) · [Buy on Amazon](https://www.amazon.com/dp/B0CT8ZJ7ZC?tag=inkledger-20)
+- [Soldering Iron Kit, 60W Adjustable Temperature, Digital Multimeter, 5pcs Solderi](/products/b09vxq221k-soldering-iron-kit-60w-adjustable-temperature-digital-multim/) · [Buy on Amazon](https://www.amazon.com/dp/B09VXQ221K?tag=inkledger-20)
+- [B09TG52XT4](/products/b09tg52xt4-b09tg52xt4/) · [Buy on Amazon](https://www.amazon.com/dp/B09TG52XT4?tag=inkledger-20)
+- [Aomya Ink Refill Kit 100ml for HP 67 61 65 60 62 63 910 920 901 902 932 933 934 ](/products/b077qvskd5-product/) · [Buy on Amazon](https://www.amazon.com/dp/B077QVSKD5?tag=inkledger-20)
+- [TN730 TN-730 Black Toner Cartridges 2 Pack Compatible TN730 Toner Cartridge Repl](/products/b0c3qxmbc7-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0C3QXMBC7?tag=inkledger-20)
+- [TEINO Remanufactured Ink Cartridge Replacement for HP 65 65XL 65 XL use with HP ](/products/b0836myjsd-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0836MYJSD?tag=inkledger-20)
+- [B0FLXG5Z7Q](/products/b0flxg5z7q-b0flxg5z7q/) · [Buy on Amazon](https://www.amazon.com/dp/B0FLXG5Z7Q?tag=inkledger-20)
+- [Extra Deep Queen Sheet Set - 6 Piece Breathable and Cooling Sheets - Hotel Luxur](/products/b07f97mpyt-extra-deep-queen-sheet-set-6-piece-breathable-and-cooling-sh/) · [Buy on Amazon](https://www.amazon.com/dp/B07F97MPYT?tag=inkledger-20)
+
+## Products in this guide
+
+- [EPSON 502 EcoTank Ink Ultra-high Capacity Bottle Black Works with ET-2750, 2760, 2850, 3750, 3760, 3850, 4850, and other](/products/b074rfmst8-product/)
+- [EPSON 522 EcoTank Ink Ultra-high Capacity Bottle Black (T522120-S) Works with ET-2720, 2800, 2803, 2840, 4700, 4800, 481](/products/b07pn7g526-product/)
+- [HP 134A Black Toner Cartridge Printers | Works with LaserJet M209 Series; LaserJet MFP M234 Series | W1340A](/products/b08qmqnr76-product/)
+- [Epson 522 EcoTank Ink Ultra-high Capacity Bottle Black & Color Combo Pack (T522120-BCS) Works with ET-2720, 2800, 2803,](/products/b0b4vp5cq4-product/)

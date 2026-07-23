@@ -7,22 +7,16 @@ pillarSlug: price-hike-alerts
 cardTitle: Printer Ink Price Gouging
 cardPick: Household staples that dodge the printer-ink price trap—real $/use math inside.
 relatedProducts:
-- "B00063RWT8"
-- "B004QM8SLG"
-- "B00WSAXBQ0"
-- "B07C11YW88"
-- "B07RVMZNYR"
-- "B082Y7X9H5"
-- "B083BFPGD8"
-- "B08GX3K9YS"
-- "B093TCYF9T"
-- "B0BVYBVHK5"
-- "B0CB75LML9"
-- "B0CGW2TFSV"
-- "B0CGW48C3G"
-- "B0CYJV9X52"
-- "B0F54TYKF9"
-- "B0GF25F12C"
+- B075X6C5ZW
+- B0B4VP5CQ4
+- B00TRDOYLW
+- B08FY8XQ3W
+- B0FLXGHLHS
+- B0GRGQR634
+- B0FKBFH92Q
+- B08PDHVZ4N
+- B0FHDJXJNZ
+- B0CHJ8T7XS
 status: published
 tags:
 - printer ink
@@ -329,3 +323,21 @@ Epson EcoTank 2850
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [Brother Genuine TN760 High Yield Black Toner Cartridge, (for use with MFC-L2710D](/products/b075x6c5zw-product/) · [Buy on Amazon](https://www.amazon.com/dp/B075X6C5ZW?tag=inkledger-20)
+- [Epson 522 EcoTank Ink Ultra-high Capacity Bottle Black & Color Combo Pack (T5221](/products/b0b4vp5cq4-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0B4VP5CQ4?tag=inkledger-20)
+- [Canon PG-245 / CL-246 Genuine Ink Value Pack (2 Cartridges), Compatible with iP2](/products/b00trdoylw-product/) · [Buy on Amazon](https://www.amazon.com/dp/B00TRDOYLW?tag=inkledger-20)
+- [B08FY8XQ3W](/products/b08fy8xq3w-b08fy8xq3w/) · [Buy on Amazon](https://www.amazon.com/dp/B08FY8XQ3W?tag=inkledger-20)
+- [Printer Ink 67 Compatible for HP 67 Ink Cartridges Black/Color Combo Pack for HP](/products/b0flxghlhs-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0FLXGHLHS?tag=inkledger-20)
+- [B0GRGQR634](/products/b0grgqr634-b0grgqr634/) · [Buy on Amazon](https://www.amazon.com/dp/B0GRGQR634?tag=inkledger-20)
+- [65XL Ink Cartridge for HP 65 Black Ink Cartridge High-Yield Replacement for HP I](/products/b0fkbfh92q-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0FKBFH92Q?tag=inkledger-20)
+- [B08PDHVZ4N](/products/b08pdhvz4n-b08pdhvz4n/) · [Buy on Amazon](https://www.amazon.com/dp/B08PDHVZ4N?tag=inkledger-20)
+
+## Products in this guide
+
+- [Epson 502 Ink Cartridges, Black/Cyan/Magenta/Yellow, 4-Pack](/products/b07gxxsrd2-epson-502-4-color-multipack/)
+- [Brother LC3013BK Individual High-Yield Black Ink Cartridge](/products/b01ms0kdqf-brother-lc3013bk-xl-black-ink/)
+- [Brother Printer LC30193PK Super High Yield XXL 3 Pack Ink Cartridges- 1 Ea: Cyan/Magenta/Yellow Ink](/products/b01n4k0zfe-product/)
+- [HP 63XL Black High-yield Ink Cartridge](/products/b07rrf8fsx-hp-63xl-black-ink-cartridge/)

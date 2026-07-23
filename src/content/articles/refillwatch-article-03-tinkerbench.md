@@ -7,15 +7,16 @@ pillarSlug: refillwatch-pillar-3
 cardTitle: '''Printer Ink Economics'
 cardPick: Household staples that dodge the printer-ink price trap—real $/use math inside.
 relatedProducts:
-- "B00CBBJ5KY"
-- "B00WSAXBQ0"
-- "B07C11YW88"
-- "B07RVMZNYR"
-- "B082Y7X9H5"
-- "B083BFPGD8"
-- "B08GX3K9YS"
-- "B0BVYBVHK5"
-- "B0CYJV9X52"
+- B08SWN848G
+- B0BX9HWN7W
+- B07RVMZNYR
+- B089CGSV4N
+- B07C4HMJFS
+- B00CAZAU62
+- B0B1J5PYCF
+- B07C11YW88
+- B09WDBHXB3
+- B0GYNFD72N
 status: published
 tags:
 - printer ink comparison
@@ -178,3 +179,21 @@ Continuous systems delivered strong results for small businesses printing 300+ p
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [HP Original 67 Tri-Color / 67XL Black Ink Cartridges (2-Pack) - Works DeskJet 12](/products/b08swn848g-product/) · [Buy on Amazon](https://www.amazon.com/dp/B08SWN848G?tag=inkledger-20)
+- [GOTOBY Compatible Toner Cartridge Replacement for HP 48A CF248A for Pro M15w M15](/products/b0bx9hwn7w-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0BX9HWN7W?tag=inkledger-20)
+- [YIHUA 939D+ Digital Soldering Station, 75W Equivalent with Precision Heat Contro](/products/b07rvmznyr-yihua-939d-digital-soldering-station-75w-equivalent-with-pre/) · [Buy on Amazon](https://www.amazon.com/dp/B07RVMZNYR?tag=inkledger-20)
+- [B089CGSV4N](/products/b089cgsv4n-b089cgsv4n/) · [Buy on Amazon](https://www.amazon.com/dp/B089CGSV4N?tag=inkledger-20)
+- [Aomya Ink Refill kit 5x100ml for Canon 250 251 270 271 280 281 1200 2200 PG240 C](/products/b07c4hmjfs-product/) · [Buy on Amazon](https://www.amazon.com/dp/B07C4HMJFS?tag=inkledger-20)
+- [B00CAZAU62](/products/b00cazau62-b00cazau62/) · [Buy on Amazon](https://www.amazon.com/dp/B00CAZAU62?tag=inkledger-20)
+- [Epson EcoTank Wireless Color All-in-One Cartridge-Free ET-3850 Supertank Inkjet ](/products/b0b1j5pycf-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0B1J5PYCF?tag=inkledger-20)
+- [InkOwl Compatible Ink Cartridge Replacement for Roland ECO-SOL MAX Printers ESL3](/products/b07c11yw88-inkowl-compatible-ink-cartridge-replacement-for-roland-eco-s/) · [Buy on Amazon](https://www.amazon.com/dp/B07C11YW88?tag=inkledger-20)
+
+## Products in this guide
+
+- [Brother LC3019BK Super High Yield Black Ink Cartridge](/products/b01lyfvg1v-product/)
+- [Brother Printer LC30193PK Super High Yield XXL 3 Pack Ink Cartridges- 1 Ea: Cyan/Magenta/Yellow Ink](/products/b01n4k0zfe-product/)
+- [Brother Genuine Standard Yield Toner Cartridge, TN730, Replacement Black Toner, Page Yield Up To 1,200 Pages, Amazon Das](/products/b075x7tfy5-product/)
+- [Brother Genuine TN730 3-Pack Standard Yield Black Toner Cartridge with Approximately 1,200 Page Yield/Cartridge](/products/b07q8bd3mk-product/)

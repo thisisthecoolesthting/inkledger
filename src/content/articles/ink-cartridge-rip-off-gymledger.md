@@ -7,19 +7,16 @@ pillarSlug: price-hike-alerts
 cardTitle: Printer Ink Price Hikes
 cardPick: Household staples that dodge the printer-ink price trap—real $/use math inside.
 relatedProducts:
-- "B00NQ1CLTI"
-- "B00WSAXBQ0"
-- "B07C11YW88"
-- "B082Y7X9H5"
-- "B08GX3K9YS"
-- "B09W9MF63Y"
-- "B0BVYBVHK5"
-- "B0CYJV9X52"
-- "B0DPHQRLJC"
-- "B0DQQ77WYT"
-- "B0DVT2JTRN"
-- "B0FVY8TTVN"
-- "B0G1R37VJC"
+- B07J2P2V7T
+- B09VXQ221K
+- B08J3NY6QV
+- B0GPFKGNY7
+- B0FLXGHLHS
+- B07YGL9XTH
+- B0CWP64QMT
+- B00NQ1CLTI
+- B07TJ87YKB
+- B0FC5XFVH7
 status: published
 tags:
 - printer-ink
@@ -146,3 +143,21 @@ Printer ink is one of the most expensive liquids by volume—retailers knowingly
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [Utopia Bedding Bed Pillows for Sleeping Queen Size (Blue), Set of 6, Cooling Hot](/products/b07j2p2v7t-utopia-bedding-bed-pillows-for-sleeping-queen-size-blue-set-/) · [Buy on Amazon](https://www.amazon.com/dp/B07J2P2V7T?tag=inkledger-20)
+- [Soldering Iron Kit, 60W Adjustable Temperature, Digital Multimeter, 5pcs Solderi](/products/b09vxq221k-soldering-iron-kit-60w-adjustable-temperature-digital-multim/) · [Buy on Amazon](https://www.amazon.com/dp/B09VXQ221K?tag=inkledger-20)
+- [myCartridge SUPRINT 245XL Ink Cartridge Replacement for Canon 245XL 246XL Combo ](/products/b08j3ny6qv-product/) · [Buy on Amazon](https://www.amazon.com/dp/B08J3NY6QV?tag=inkledger-20)
+- [HP OfficeJet Pro 9125 Wireless All-in-One Color Inkjet Printer, Print, Scan, Cop](/products/b0gpfkgny7-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0GPFKGNY7?tag=inkledger-20)
+- [Printer Ink 67 Compatible for HP 67 Ink Cartridges Black/Color Combo Pack for HP](/products/b0flxghlhs-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0FLXGHLHS?tag=inkledger-20)
+- [Brother Genuine High-Yield Black Toner Cartridge Twin Pack TN760 2Pk, TN7602PK,2](/products/b07ygl9xth-product/) · [Buy on Amazon](https://www.amazon.com/dp/B07YGL9XTH?tag=inkledger-20)
+- [B0CWP64QMT](/products/b0cwp64qmt-b0cwp64qmt/) · [Buy on Amazon](https://www.amazon.com/dp/B0CWP64QMT?tag=inkledger-20)
+- [B00NQ1CLTI](/products/b00nq1clti-b00nq1clti/) · [Buy on Amazon](https://www.amazon.com/dp/B00NQ1CLTI?tag=inkledger-20)
+
+## Products in this guide
+
+- [Brother LC3019BK Super High Yield Black Ink Cartridge](/products/b01lyfvg1v-product/)
+- [Brother Printer LC30193PK Super High Yield XXL 3 Pack Ink Cartridges- 1 Ea: Cyan/Magenta/Yellow Ink](/products/b01n4k0zfe-product/)
+- [HP Original 962 Cyan, Magenta, Yellow / 962XL Black Ink Cartridges (4-Pack) | Works OfficeJet 9010 Series, OfficeJet Pro](/products/b07t2s3d6j-product/)
+- [Brother Genuine High-Yield Black Toner Cartridge Twin Pack TN760 2Pk, TN7602PK,2 Pack](/products/b07ygl9xth-product/)

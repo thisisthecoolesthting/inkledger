@@ -7,15 +7,16 @@ pillarSlug: price-hike-alerts
 cardTitle: Printer Ink Markup
 cardPick: Household staples that dodge the printer-ink price trap—real $/use math inside.
 relatedProducts:
-- "B00CBBJ5KY"
-- "B00NQ1CLTI"
-- "B07C11YW88"
-- "B07RVMZNYR"
-- "B082Y7X9H5"
-- "B08GX3K9YS"
-- "B09W9MF63Y"
-- "B0BVYBVHK5"
-- "B0CYJV9X52"
+- B0BX9HWN7W
+- B00B5JOC5C
+- B001EQ4G0O
+- B07C11YW88
+- B00PB6F2V4
+- B0CQQV1WSR
+- B0DT1NNNS3
+- B07MK5DG9V
+- B0FBRH75LK
+- B07TJ87YKB
 status: published
 tags:
 - printer ink scam
@@ -227,3 +228,21 @@ For most users, we recommend refillable tank systems or laser printers. Those st
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [GOTOBY Compatible Toner Cartridge Replacement for HP 48A CF248A for Pro M15w M15](/products/b0bx9hwn7w-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0BX9HWN7W?tag=inkledger-20)
+- [B00B5JOC5C](/products/b00b5joc5c-b00b5joc5c/) · [Buy on Amazon](https://www.amazon.com/dp/B00B5JOC5C?tag=inkledger-20)
+- [B001EQ4G0O](/products/b001eq4g0o-b001eq4g0o/) · [Buy on Amazon](https://www.amazon.com/dp/B001EQ4G0O?tag=inkledger-20)
+- [InkOwl Compatible Ink Cartridge Replacement for Roland ECO-SOL MAX Printers ESL3](/products/b07c11yw88-inkowl-compatible-ink-cartridge-replacement-for-roland-eco-s/) · [Buy on Amazon](https://www.amazon.com/dp/B07C11YW88?tag=inkledger-20)
+- [B00PB6F2V4](/products/b00pb6f2v4-b00pb6f2v4/) · [Buy on Amazon](https://www.amazon.com/dp/B00PB6F2V4?tag=inkledger-20)
+- [TN730 TN-730 Toner Cartridge 2-Pack Replacement for Brother TN730 Toner Cartridg](/products/b0cqqv1wsr-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0CQQV1WSR?tag=inkledger-20)
+- [B0DT1NNNS3](/products/b0dt1nnns3-b0dt1nnns3/) · [Buy on Amazon](https://www.amazon.com/dp/B0DT1NNNS3?tag=inkledger-20)
+- [HP 962XL Black High-Yield Ink Cartridge - Works with OfficeJet 9010, Pro 9010, 9](/products/b07mk5dg9v-product/) · [Buy on Amazon](https://www.amazon.com/dp/B07MK5DG9V?tag=inkledger-20)
+
+## Products in this guide
+
+- [Brother Printer LC30193PK Super High Yield XXL 3 Pack Ink Cartridges- 1 Ea: Cyan/Magenta/Yellow Ink](/products/b01n4k0zfe-product/)
+- [Ink Cartridge Printer Replacement Part Compatible with Expression Photo XP-15000](/products/b0gvgsv2kl-product/)
+- [B0041RRMQS](/products/b0041rrmqs-b0041rrmqs/)
+- [HP Samsung MLT-D116L (SU832A) MLT-D116L Toner Cartridge](/products/b00c18tycy-product/)

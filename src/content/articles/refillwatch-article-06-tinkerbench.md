@@ -7,17 +7,16 @@ pillarSlug: refillwatch-pillar-3
 cardTitle: Printer Ink Price Hikes
 cardPick: Household staples that dodge the printer-ink price trap—real $/use math inside.
 relatedProducts:
-- "B00NQ1CLTI"
-- "B00WSAXBQ0"
-- "B07C11YW88"
-- "B07RVMZNYR"
-- "B082Y7X9H5"
-- "B083BFPGD8"
-- "B08GX3K9YS"
-- "B0BVYBVHK5"
-- "B0CYJV9X52"
-- "B0DYNQ1WP7"
-- "B0FT32PL8L"
+- B07C11YW88
+- B00TRDOYLW
+- B079Y6FHKJ
+- B01N5Q9Q6J
+- B0041RRMQS
+- B0GPFKGNY7
+- B002R5AF1I
+- B0DS4M632H
+- B0GMKRR64P
+- B0D92PVDQH
 status: published
 tags:
 - printer ink price hike
@@ -199,3 +198,21 @@ After tracking prices across 37 ink models, we recommend the EZ Ink Refill Kit f
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [B07C11YW88](/products/b07c11yw88-b07c11yw88/) · [Buy on Amazon](https://www.amazon.com/dp/B07C11YW88?tag=inkledger-20)
+- [Canon PG-245 / CL-246 Genuine Ink Value Pack (2 Cartridges), Compatible with iP2](/products/b00trdoylw-product/) · [Buy on Amazon](https://www.amazon.com/dp/B00TRDOYLW?tag=inkledger-20)
+- [Canon PG-245 XL / CL-246 XL Genuine Ink Value Pack (2 Cartridges), Compatible wi](/products/b079y6fhkj-product/) · [Buy on Amazon](https://www.amazon.com/dp/B079Y6FHKJ?tag=inkledger-20)
+- [B01N5Q9Q6J](/products/b01n5q9q6j-b01n5q9q6j/) · [Buy on Amazon](https://www.amazon.com/dp/B01N5Q9Q6J?tag=inkledger-20)
+- [B0041RRMQS](/products/b0041rrmqs-b0041rrmqs/) · [Buy on Amazon](https://www.amazon.com/dp/B0041RRMQS?tag=inkledger-20)
+- [HP OfficeJet Pro 9125 Wireless All-in-One Color Inkjet Printer, Print, Scan, Cop](/products/b0gpfkgny7-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0GPFKGNY7?tag=inkledger-20)
+- [B002R5AF1I](/products/b002r5af1i-b002r5af1i/) · [Buy on Amazon](https://www.amazon.com/dp/B002R5AF1I?tag=inkledger-20)
+- [Skydo LC3019XXL Ink Cartridges Replacement for LC3019 XXL LC 3019-XXL LC3019 Wor](/products/b0ds4m632h-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0DS4M632H?tag=inkledger-20)
+
+## Products in this guide
+
+- [Brother Genuine Standard Yield Toner Cartridge, TN730, Replacement Black Toner, Page Yield Up To 1,200 Pages, Amazon Das](/products/b075x7tfy5-product/)
+- [Remanufactured Replacement for Epson 702 Ink Cartridges for 702XL Ink cartridges Combo Pack Work with Printer Workforce](/products/b0ct2ltf55-product/)
+- [Ink Cartridge Printer Replacement Part Compatible with Expression Photo XP-15000](/products/b0gvgsv2kl-product/)
+- [B0041RRMQS](/products/b0041rrmqs-b0041rrmqs/)

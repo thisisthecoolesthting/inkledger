@@ -6,7 +6,17 @@ tier: mvp
 cardTitle: "best-ink-refill-kits-for-home-printers"
 cardPick: "Editorial printer-ink pick from InkLedger."
 updatedAt: '2026-06-06T03:05:48.078Z'
-relatedProducts: []
+relatedProducts:
+- B0FMBGXC2C
+- B0C8J8GY2V
+- B07Q5J5YXV
+- B0963X6B5V
+- B07PN7G526
+- B0FMBTJLX6
+- B0F1FNZB62
+- B073Q8P6CQ
+- B0CC7TVR2F
+- B00TRDOYLW
 status: published
 subtopic: printer-ink
 publishedAt: '2026-06-06T03:05:48.078Z'
@@ -179,3 +189,21 @@ Price data for this article comes from Keepa, which logs every published price c
 - [Epson 502 Ink Cartridges, Black/Cyan/Magenta/Yellow, 4-Pack](/products/b07gxxsrd2-epson-502-4-color-multipack/)
 - [Brother LC3013BK Individual High-Yield Black Ink Cartridge](/products/b01ms0kdqf-brother-lc3013bk-xl-black-ink/)
 - [HP 65 Black Ink Cartridge Works with HP AMP 100, DeskJet 2600, 3700, ENVY 5000 Series](/products/b00004y81q-hp-65-black-ink-cartridge/)
+
+## Watchdog picks
+
+- [B0FMBGXC2C](/products/b0fmbgxc2c-b0fmbgxc2c/) · [Buy on Amazon](https://www.amazon.com/dp/B0FMBGXC2C?tag=inkledger-20)
+- [MLT-D116L High Yield Toner Cartridge - 1 Pack, Black Replacement for Samsung 116](/products/b0c8j8gy2v-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0C8J8GY2V?tag=inkledger-20)
+- [B07Q5J5YXV](/products/b07q5j5yxv-b07q5j5yxv/) · [Buy on Amazon](https://www.amazon.com/dp/B07Q5J5YXV?tag=inkledger-20)
+- [B0963X6B5V](/products/b0963x6b5v-b0963x6b5v/) · [Buy on Amazon](https://www.amazon.com/dp/B0963X6B5V?tag=inkledger-20)
+- [EPSON 522 EcoTank Ink Ultra-high Capacity Bottle Black (T522120-S) Works with ET](/products/b07pn7g526-product/) · [Buy on Amazon](https://www.amazon.com/dp/B07PN7G526?tag=inkledger-20)
+- [B0FMBTJLX6](/products/b0fmbtjlx6-b0fmbtjlx6/) · [Buy on Amazon](https://www.amazon.com/dp/B0FMBTJLX6?tag=inkledger-20)
+- [B0F1FNZB62](/products/b0f1fnzb62-b0f1fnzb62/) · [Buy on Amazon](https://www.amazon.com/dp/B0F1FNZB62?tag=inkledger-20)
+- [B073Q8P6CQ](/products/b073q8p6cq-b073q8p6cq/) · [Buy on Amazon](https://www.amazon.com/dp/B073Q8P6CQ?tag=inkledger-20)
+
+## Products in this guide
+
+- [HP OfficeJet Pro 8125e Wireless All-in-One Color Inkjet Printer, Print, scan, Copy, ADF, Duplex Printing Best-for-Home O](/products/b0ct8zj7zc-product/)
+- [HP OfficeJet Pro 9125e Wireless All-in-One Color Inkjet Printer, Print, scan, copy, fax, ADF, Duplex printing best-for-o](/products/b0cfm82ns2-product/)
+- [HP DeskJet 2855e Wireless All-in-One Color Inkjet Printer, Scanner, Copier, Best-for-home, 3 month Instant Ink trial inc](/products/b0ct2r7199-product/)
+- [HP DeskJet 2955 Wireless All-in-One Color Inkjet Printer, Scanner, Copier, Best-for-Home, 3 Month Trial of Instant Ink I](/products/b0gkjz864r-product/)

@@ -6,7 +6,17 @@ tier: mvp
 cardTitle: "epson-ecotank-worth-it-review"
 cardPick: "Editorial printer-ink pick from InkLedger."
 updatedAt: '2026-06-06T03:05:48.121Z'
-relatedProducts: []
+relatedProducts:
+- B004QM8SLG
+- B0D8B24CTB
+- B000VKGRF0
+- B0BX2N258S
+- B0DT1NNNS3
+- B098JD8HD3
+- B0H1M158VT
+- B074ND5RDT
+- B00WSAXBQ0
+- B0BQQLBMPV
 status: published
 subtopic: printer-ink
 publishedAt: '2026-06-06T03:05:48.121Z'
@@ -195,3 +205,21 @@ Price data for this article comes from Keepa, which logs every published price c
 - [Epson 502 Ink Cartridges, Black/Cyan/Magenta/Yellow, 4-Pack](/products/b07gxxsrd2-epson-502-4-color-multipack/)
 - [Brother LC3013BK Individual High-Yield Black Ink Cartridge](/products/b01ms0kdqf-brother-lc3013bk-xl-black-ink/)
 - [HP 65 Black Ink Cartridge Works with HP AMP 100, DeskJet 2600, 3700, ENVY 5000 Series](/products/b00004y81q-hp-65-black-ink-cartridge/)
+
+## Watchdog picks
+
+- [B004QM8SLG](/products/b004qm8slg-b004qm8slg/) · [Buy on Amazon](https://www.amazon.com/dp/B004QM8SLG?tag=inkledger-20)
+- [B0D8B24CTB](/products/b0d8b24ctb-b0d8b24ctb/) · [Buy on Amazon](https://www.amazon.com/dp/B0D8B24CTB?tag=inkledger-20)
+- [B000VKGRF0](/products/b000vkgrf0-b000vkgrf0/) · [Buy on Amazon](https://www.amazon.com/dp/B000VKGRF0?tag=inkledger-20)
+- [WEP 926LED V3 Soldering Station 130W MAX Soldering Iron Kit with Solder Wire, 5 ](/products/b0bx2n258s-wep-926led-v3-soldering-station-130w-max-soldering-iron-kit-/) · [Buy on Amazon](https://www.amazon.com/dp/B0BX2N258S?tag=inkledger-20)
+- [B0DT1NNNS3](/products/b0dt1nnns3-b0dt1nnns3/) · [Buy on Amazon](https://www.amazon.com/dp/B0DT1NNNS3?tag=inkledger-20)
+- [Soldering Kit, 60W Soldering Iron, 110V Welding Kit with Ceramic Heater, Portabl](/products/b098jd8hd3-soldering-kit-60w-soldering-iron-110v-welding-kit-with-ceram/) · [Buy on Amazon](https://www.amazon.com/dp/B098JD8HD3?tag=inkledger-20)
+- [B0H1M158VT](/products/b0h1m158vt-b0h1m158vt/) · [Buy on Amazon](https://www.amazon.com/dp/B0H1M158VT?tag=inkledger-20)
+- [B074ND5RDT](/products/b074nd5rdt-b074nd5rdt/) · [Buy on Amazon](https://www.amazon.com/dp/B074ND5RDT?tag=inkledger-20)
+
+## Products in this guide
+
+- [Epson EcoTank ET-2980 Wireless All-in-One Color Supertank Printer with Refillable Ink Tanks, 3 Years of Ink, Mobile Prin](/products/b0f1f2xrw9-product/)
+- [Epson EcoTank ET-2980 Wireless All-in-One Color Supertank Printer with Refillable Ink Tanks, 3 Years of Ink, Mobile Prin](/products/b0f1fbqrvb-product/)
+- [Epson EcoTank ET-3950 Wireless All-in-One Color Supertank Printer with up to 3 Years of Ink Refillable Tanks, Perfect fo](/products/b0fc5xfvh7-product/)
+- [Epson EcoTank ET-2988 Wireless All-in-One Color Supertank Printer with up to 3 Years of Ink, Refillable Tanks, Perfect f](/products/b0h476662h-product/)

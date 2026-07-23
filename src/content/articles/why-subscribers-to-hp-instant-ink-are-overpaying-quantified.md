@@ -7,16 +7,16 @@ publishedAt: '2026-04-22T00:00:00Z'
 excerpt: Why subscribers to HP Instant Ink are overpaying (quantified)
 pillarSlug: general
 relatedProducts:
-- "B00MFG54B6"
-- "B00QJ88ODW"
-- "B01MQYKRRZ"
-- "B075X6C5ZW"
-- "B077QVSKD5"
-- "B07C4HMJFS"
-- "B0B4VP5CQ4"
-- "B0CCT8H4YK"
-- "B0CQ4VHBMH"
-- "B0GLTX2PNR"
+- B0CPB11F85
+- B08PZBPXLZ
+- B001QY8QXM
+- B09XT22566
+- B0BHXNP6B1
+- B0F6C98Q8M
+- B07RYXHN2M
+- B07YPR2DGH
+- B00NQ1CLTI
+- B07ZPSFVX5
 status: published
 tags:
 - hp-instant-ink
@@ -50,10 +50,20 @@ HP's Instant Ink program promises convenience with automatic ink deliveries, but
 3. **Laser Consideration**: [Brother HL-L2350DW](https://www.amazon.com/dp/B00MFG54B6?tag=inkledger-20) [toner](https://www.amazon.com/dp/B075X6C5ZW?tag=inkledger-20) costs 2.3¢/page with no subscription required
 
 *Note: HP voids [printer](https://www.amazon.com/dp/B0CCT8H4YK?tag=inkledger-20) warranties if third-party ink causes damage, but our testing shows this occurs in <3% of cases with vetted [compatible](https://www.amazon.com/dp/B00QJ88ODW?tag=inkledger-20) brands.*
+## Watchdog picks
+
+- [B0CPB11F85](/products/b0cpb11f85-b0cpb11f85/) · [Buy on Amazon](https://www.amazon.com/dp/B0CPB11F85?tag=inkledger-20)
+- [Soldering Iron Kit, 80W 110V Fast Heat up in 10s LCD Digital Adjustable Temperat](/products/b08pzbpxlz-soldering-iron-kit-80w-110v-fast-heat-up-in-10s-lcd-digital-/) · [Buy on Amazon](https://www.amazon.com/dp/B08PZBPXLZ?tag=inkledger-20)
+- [B001QY8QXM](/products/b001qy8qxm-b001qy8qxm/) · [Buy on Amazon](https://www.amazon.com/dp/B001QY8QXM?tag=inkledger-20)
+- [B09XT22566](/products/b09xt22566-b09xt22566/) · [Buy on Amazon](https://www.amazon.com/dp/B09XT22566?tag=inkledger-20)
+- [Epson EcoTank ET-2803 Wireless Color All-in-One Cartridge-Free Supertank Printer](/products/b0bhxnp6b1-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0BHXNP6B1?tag=inkledger-20)
+- [67XL Ink Cartridge Replacement for HP 67 XL Remanufactured for HP Ink 67 67XL fo](/products/b0f6c98q8m-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0F6C98Q8M?tag=inkledger-20)
+- [B07RYXHN2M](/products/b07ryxhn2m-b07ryxhn2m/) · [Buy on Amazon](https://www.amazon.com/dp/B07RYXHN2M?tag=inkledger-20)
+- [B07YPR2DGH](/products/b07ypr2dgh-b07ypr2dgh/) · [Buy on Amazon](https://www.amazon.com/dp/B07YPR2DGH?tag=inkledger-20)
 
 ## Products in this guide
 
-- [Brother Genuine Standard Yield Toner Cartridge, TN730, Replacement Black Toner, Page Yield Up To 1,200 Pages, Amazon Das](/products/b075x7tfy5-product/)
-- [HP 962XL Black High-Yield Ink Cartridge | Works with OfficeJet 9010, Pro 9010, 9020 | Eligible for Instant Ink | 3JA03AN](/products/b07mk5dg9v-product/)
-- [Brother Genuine TN730 3-Pack Standard Yield Black Toner Cartridge with Approximately 1,200 Page Yield/Cartridge](/products/b07q8bd3mk-product/)
-- [HP DeskJet 2755 Wireless All-in-One Printer, Mobile Print, Scan & Copy, Instant Ink Ready, Works with Alexa (3XV17A)](/products/b083zy6xfq-product/)
+- [Epson 502 Ink Cartridges, Black/Cyan/Magenta/Yellow, 4-Pack](/products/b07gxxsrd2-epson-502-4-color-multipack/)
+- [HP 65 Black Ink Cartridge Works with HP AMP 100, DeskJet 2600, 3700, ENVY 5000 Series](/products/b00004y81q-hp-65-black-ink-cartridge/)
+- [HP 63XL Black High-yield Ink Cartridge](/products/b07rrf8fsx-hp-63xl-black-ink-cartridge/)
+- [Brother LC3013BK Individual High-Yield Black Ink Cartridge](/products/b01ms0kdqf-brother-lc3013bk-xl-black-ink/)

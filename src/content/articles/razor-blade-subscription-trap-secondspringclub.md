@@ -7,17 +7,16 @@ pillarSlug: subscription-creep-busters
 cardTitle: '''The Razor Blade Subscription Trap'
 cardPick: Cancel creep and swap to staples that actually lower your monthly burn.
 relatedProducts:
-- "B000NH7BPW"
-- "B001QY8QXM"
-- "B002R5AF1I"
-- "B002T4D0WU"
-- "B00WSAXBQ0"
-- "B07C11YW88"
-- "B07RVMZNYR"
-- "B082Y7X9H5"
-- "B083BFPGD8"
-- "B08PZBPXLZ"
-- "B0BVYBVHK5"
+- B07NPHDS24
+- B0G1NBKD38
+- B0DJ79LQP5
+- B0GRGQR634
+- B07N1DF9VV
+- B07L2MZW6B
+- B0CPB11F85
+- B08FY8XQ3W
+- B001EQ4G0O
+- B06XG5ZJN3
 status: published
 tags:
 - razor blade subscription
@@ -252,3 +251,21 @@ If you insist on subscriptions:
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [65XL Black Ink Cartridge Replacement for HP Ink 65 Black HP65XL Black Ink Cartri](/products/b07nphds24-product/) · [Buy on Amazon](https://www.amazon.com/dp/B07NPHDS24?tag=inkledger-20)
+- [B0G1NBKD38](/products/b0g1nbkd38-b0g1nbkd38/) · [Buy on Amazon](https://www.amazon.com/dp/B0G1NBKD38?tag=inkledger-20)
+- [WEAREC Compatible Toner Cartridge Replacement for Brother TN760 TN-760 TN730 wit](/products/b0dj79lqp5-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0DJ79LQP5?tag=inkledger-20)
+- [B0GRGQR634](/products/b0grgqr634-b0grgqr634/) · [Buy on Amazon](https://www.amazon.com/dp/B0GRGQR634?tag=inkledger-20)
+- [B07N1DF9VV](/products/b07n1df9vv-b07n1df9vv/) · [Buy on Amazon](https://www.amazon.com/dp/B07N1DF9VV?tag=inkledger-20)
+- [B07L2MZW6B](/products/b07l2mzw6b-b07l2mzw6b/) · [Buy on Amazon](https://www.amazon.com/dp/B07L2MZW6B?tag=inkledger-20)
+- [B0CPB11F85](/products/b0cpb11f85-b0cpb11f85/) · [Buy on Amazon](https://www.amazon.com/dp/B0CPB11F85?tag=inkledger-20)
+- [B08FY8XQ3W](/products/b08fy8xq3w-b08fy8xq3w/) · [Buy on Amazon](https://www.amazon.com/dp/B08FY8XQ3W?tag=inkledger-20)
+
+## Products in this guide
+
+- [HP 63XL Black High-yield Ink Cartridge](/products/b07rrf8fsx-hp-63xl-black-ink-cartridge/)
+- [HP 65 Black Ink Cartridge Works with HP AMP 100, DeskJet 2600, 3700, ENVY 5000 Series](/products/b00004y81q-hp-65-black-ink-cartridge/)
+- [Astra Platinum Double Edge Safety Razor Blades,100 Blades (20 x 5)](/products/b001qy8qxm-astra-platinum-double-edge-safety-razor-blades-100-blades-20/)
+- [B0041RRMQS](/products/b0041rrmqs-b0041rrmqs/)

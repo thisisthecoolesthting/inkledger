@@ -6,7 +6,17 @@ tier: mvp
 cardTitle: "identify-avoid-counterfeit-ink-cartridges"
 cardPick: "Editorial printer-ink pick from InkLedger."
 updatedAt: '2026-06-06T03:05:48.157Z'
-relatedProducts: []
+relatedProducts:
+- B01MQYKRRZ
+- B0F1FBQRVB
+- B0CT2LTF55
+- B0DPYJWX2F
+- B07T2S3D6J
+- B00PB6F2V4
+- B00FFJ0R1Q
+- B0GYNFD72N
+- B0BN57XFD8
+- B07RYXHN2M
 status: published
 subtopic: printer-ink
 publishedAt: '2026-06-06T03:05:48.157Z'
@@ -102,3 +112,21 @@ If you suspect you've purchased a counterfeit ink cartridge, take the following 
 *   **Do Not Use the Cartridge:** Remove the cartridge from your printer to prevent potential damage. Dispose of the cartridge responsibly.
 
 By staying informed and vigilant, you can significantly reduce your risk of falling victim to counterfeit ink cartridge scams and ensure that you're getting the genuine quality and performance you expect. The small amount of time spent verifying authenticity is worth the money and potential printer damage you will avoid.
+
+## Watchdog picks
+
+- [JETSIR Dye Ink Refill Kit 100ML x5 Bottles for 950 951 952 902 901 60 61 62 63 2](/products/b01mqykrrz-product/) · [Buy on Amazon](https://www.amazon.com/dp/B01MQYKRRZ?tag=inkledger-20)
+- [Epson EcoTank ET-2980 Wireless All-in-One Color Supertank Printer with Refillabl](/products/b0f1fbqrvb-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0F1FBQRVB?tag=inkledger-20)
+- [Remanufactured Replacement for Epson 702 Ink Cartridges for 702XL Ink cartridges](/products/b0ct2ltf55-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0CT2LTF55?tag=inkledger-20)
+- [B0DPYJWX2F](/products/b0dpyjwx2f-b0dpyjwx2f/) · [Buy on Amazon](https://www.amazon.com/dp/B0DPYJWX2F?tag=inkledger-20)
+- [HP Original 962 Cyan, Magenta, Yellow / 962XL Black Ink Cartridges (4-Pack) - Wo](/products/b07t2s3d6j-product/) · [Buy on Amazon](https://www.amazon.com/dp/B07T2S3D6J?tag=inkledger-20)
+- [B00PB6F2V4](/products/b00pb6f2v4-b00pb6f2v4/) · [Buy on Amazon](https://www.amazon.com/dp/B00PB6F2V4?tag=inkledger-20)
+- [B00FFJ0R1Q](/products/b00ffj0r1q-b00ffj0r1q/) · [Buy on Amazon](https://www.amazon.com/dp/B00FFJ0R1Q?tag=inkledger-20)
+- [B0GYNFD72N](/products/b0gynfd72n-b0gynfd72n/) · [Buy on Amazon](https://www.amazon.com/dp/B0GYNFD72N?tag=inkledger-20)
+
+## Products in this guide
+
+- [Brother Genuine TN760 High Yield Black Toner Cartridge, (for use with MFC-L2710DW MFC-L2750DW HL-L2350DW HL-L2370DW HL-L](/products/b075x6c5zw-product/)
+- [Canon PG-245 / CL-246 Genuine Ink Value Pack (2 Cartridges), Compatible with iP2820, MG2420/2924/2920/3020/2522/2525, MX](/products/b00trdoylw-product/)
+- [Brother Printer LC30193PK Super High Yield XXL 3 Pack Ink Cartridges- 1 Ea: Cyan/Magenta/Yellow Ink](/products/b01n4k0zfe-product/)
+- [Genuine Brother LC3019 (LC-3019) (BK/C/M/Y) High Yield Color Ink 4-Pack (Includes 1 Each LC3019BK, LC3019C, LC3019M, LC3](/products/b06xy6rsnb-product/)

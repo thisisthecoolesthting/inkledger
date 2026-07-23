@@ -7,22 +7,16 @@ pillarSlug: price-hikes-exposed
 cardTitle: The Ink Cartridge Scam
 cardPick: Household staples that dodge the printer-ink price trap—real $/use math inside.
 relatedProducts:
-- "B001QY8QXM"
-- "B00NQ1CLTI"
-- "B00WSAXBQ0"
-- "B07C11YW88"
-- "B082Y7X9H5"
-- "B08GX3K9YS"
-- "B08PZBPXLZ"
-- "B098JD8HD3"
-- "B09VXQ221K"
-- "B09W9MF63Y"
-- "B0BVYBVHK5"
-- "B0BX2N258S"
-- "B0CYJV9X52"
-- "B0DHV7ZWH2"
-- "B0DHV8SCLS"
-- "B0G63G9LRJ"
+- B08JHWZ15B
+- B0BVD54HPS
+- B0GVGG7QLT
+- B0CQQV1WSR
+- B0BVYBVHK5
+- B0DKJDRLTZ
+- B0F7KKY728
+- B01MQYKRRZ
+- B0DPYJWX2F
+- B07P5Y5QHG
 status: published
 tags:
 - printer ink
@@ -297,3 +291,21 @@ A: Yes, modern refillable cartridges are designed for multiple uses and provide 
 
 **Q: What’s the most eco-friendly alternative to disposable ink cartridges?**  
 A: Refillable ink systems or bulk ink tanks drastically reduce plastic waste and are the most sustainable option for home or office printing.
+
+## Watchdog picks
+
+- [B08JHWZ15B](/products/b08jhwz15b-b08jhwz15b/) · [Buy on Amazon](https://www.amazon.com/dp/B08JHWZ15B?tag=inkledger-20)
+- [B0BVD54HPS](/products/b0bvd54hps-b0bvd54hps/) · [Buy on Amazon](https://www.amazon.com/dp/B0BVD54HPS?tag=inkledger-20)
+- [HP Original 63/65XL Black High‑Yield + 63/65 Tri-Color- Works DeskJet 1110, 2100](/products/b0gvgg7qlt-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0GVGG7QLT?tag=inkledger-20)
+- [TN730 TN-730 Toner Cartridge 2-Pack Replacement for Brother TN730 Toner Cartridg](/products/b0cqqv1wsr-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0CQQV1WSR?tag=inkledger-20)
+- [280XXL 281XXL Ink for Canon Ink 280 281 Replacement for Canon TR8620 Ink Cartrid](/products/b0bvybvhk5-280xxl-281xxl-ink-for-canon-ink-280-281-replacement-for-cano/) · [Buy on Amazon](https://www.amazon.com/dp/B0BVYBVHK5?tag=inkledger-20)
+- [Skyink Compatible Ink Cartridge Replacement for Canon 245XL 246XL 245 246 XL (Bl](/products/b0dkjdrltz-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0DKJDRLTZ?tag=inkledger-20)
+- [B0F7KKY728](/products/b0f7kky728-b0f7kky728/) · [Buy on Amazon](https://www.amazon.com/dp/B0F7KKY728?tag=inkledger-20)
+- [JETSIR Dye Ink Refill Kit 100ML x5 Bottles for 950 951 952 902 901 60 61 62 63 2](/products/b01mqykrrz-product/) · [Buy on Amazon](https://www.amazon.com/dp/B01MQYKRRZ?tag=inkledger-20)
+
+## Products in this guide
+
+- [Brother Printer LC30193PK Super High Yield XXL 3 Pack Ink Cartridges- 1 Ea: Cyan/Magenta/Yellow Ink](/products/b01n4k0zfe-product/)
+- [Brother Genuine Standard Yield Toner Cartridge, TN730, Replacement Black Toner, Page Yield Up To 1,200 Pages, Amazon Das](/products/b075x7tfy5-product/)
+- [Aomya Ink Refill Kit 100ml for HP 67 61 65 60 62 63 910 920 901 902 932 933 934 940 952 94 95 96 Inkjet Printer Cartridg](/products/b077qvskd5-product/)
+- [HP DeskJet 2755 Wireless All-in-One Printer, Mobile Print, Scan & Copy, Instant Ink Ready, Works with Alexa (3XV17A)](/products/b083zy6xfq-product/)

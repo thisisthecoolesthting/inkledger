@@ -7,17 +7,16 @@ pillarSlug: refillwatch-pillar-3
 cardTitle: Printer Ink Price Hikes
 cardPick: Household staples that dodge the printer-ink price trap—real $/use math inside.
 relatedProducts:
-- "B00NQ1CLTI"
-- "B00WSAXBQ0"
-- "B07C11YW88"
-- "B07RVMZNYR"
-- "B082Y7X9H5"
-- "B083BFPGD8"
-- "B08GX3K9YS"
-- "B0BVYBVHK5"
-- "B0CYJV9X52"
-- "B0DYNQ1WP7"
-- "B0FT32PL8L"
+- B07D5DN269
+- B0BTSZ81C7
+- B01N4K0ZFE
+- B0GBVMMJ3V
+- B0GYNH6H2L
+- B0DS4M632H
+- B0G34F2S65
+- B08TB5YD6R
+- B0GPFKGNY7
+- B071WB6BGN
 status: published
 tags:
 - printer ink price hike
@@ -199,3 +198,21 @@ After tracking prices across 37 ink models, we recommend the EZ Ink Refill Kit f
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [Niagara Sleep Solution Ultra Soft Queen Size Mattress Topper - Rayon Derived fro](/products/b07d5dn269-niagara-sleep-solution-ultra-soft-queen-size-mattress-topper/) · [Buy on Amazon](https://www.amazon.com/dp/B07D5DN269?tag=inkledger-20)
+- [B0BTSZ81C7](/products/b0btsz81c7-b0btsz81c7/) · [Buy on Amazon](https://www.amazon.com/dp/B0BTSZ81C7?tag=inkledger-20)
+- [Brother Printer LC30193PK Super High Yield XXL 3 Pack Ink Cartridges- 1 Ea: Cyan](/products/b01n4k0zfe-product/) · [Buy on Amazon](https://www.amazon.com/dp/B01N4K0ZFE?tag=inkledger-20)
+- [Compatible for EPT502 Ink Refill Bottles ET-2850 ET-3850 ET-4850 ET-15000 Ink Re](/products/b0gbvmmj3v-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0GBVMMJ3V?tag=inkledger-20)
+- [B0GYNH6H2L](/products/b0gynh6h2l-b0gynh6h2l/) · [Buy on Amazon](https://www.amazon.com/dp/B0GYNH6H2L?tag=inkledger-20)
+- [Skydo LC3019XXL Ink Cartridges Replacement for LC3019 XXL LC 3019-XXL LC3019 Wor](/products/b0ds4m632h-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0DS4M632H?tag=inkledger-20)
+- [B0G34F2S65](/products/b0g34f2s65-b0g34f2s65/) · [Buy on Amazon](https://www.amazon.com/dp/B0G34F2S65?tag=inkledger-20)
+- [EPSON 552 EcoTank Ink Ultra-high Capacity Bottle Five Color Combo Pack (T552920-](/products/b08tb5yd6r-product/) · [Buy on Amazon](https://www.amazon.com/dp/B08TB5YD6R?tag=inkledger-20)
+
+## Products in this guide
+
+- [Brother Genuine Standard Yield Toner Cartridge, TN730, Replacement Black Toner, Page Yield Up To 1,200 Pages, Amazon Das](/products/b075x7tfy5-product/)
+- [Remanufactured Replacement for Epson 702 Ink Cartridges for 702XL Ink cartridges Combo Pack Work with Printer Workforce](/products/b0ct2ltf55-product/)
+- [Ink Cartridge Printer Replacement Part Compatible with Expression Photo XP-15000](/products/b0gvgsv2kl-product/)
+- [B0041RRMQS](/products/b0041rrmqs-b0041rrmqs/)

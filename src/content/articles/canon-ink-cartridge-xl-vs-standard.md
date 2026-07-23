@@ -6,7 +6,17 @@ tier: mvp
 cardTitle: "canon-ink-cartridge-xl-vs-standard"
 cardPick: "Editorial printer-ink pick from InkLedger."
 updatedAt: '2026-06-06T03:05:48.096Z'
-relatedProducts: []
+relatedProducts:
+- B000NL0T1K
+- B0CWP64QMT
+- B09N4Z8DNL
+- B00C18TYCY
+- B000N3BBW0
+- B0FCS4HWPH
+- B0F1FNZB62
+- B07ZHTFF44
+- B08X4BQL7D
+- B0DKJDRLTZ
 status: published
 subtopic: printer-ink
 publishedAt: '2026-06-06T03:05:48.096Z'
@@ -101,3 +111,21 @@ For example, compare the cost per page of an Epson EcoTank printer using [/produ
 ## Conclusion
 
 Choosing between Canon Ink Cartridge XL vs Standard requires a careful consideration of your printing habits and needs. While the XL cartridge typically offers a lower cost per page, it's not always the best choice for everyone. By understanding page yield, calculating the cost per page, and considering your individual printing habits, you can make an informed decision that saves you money in the long run. And if neither option seems appealing, remember that alternative ink solutions like compatible cartridges, refill kits, and ink tank printers can offer even greater savings. Don't just blindly buy what's on the shelf – take control of your ink costs!
+
+## Watchdog picks
+
+- [B000NL0T1K](/products/b000nl0t1k-b000nl0t1k/) · [Buy on Amazon](https://www.amazon.com/dp/B000NL0T1K?tag=inkledger-20)
+- [B0CWP64QMT](/products/b0cwp64qmt-b0cwp64qmt/) · [Buy on Amazon](https://www.amazon.com/dp/B0CWP64QMT?tag=inkledger-20)
+- [HP 141A Black Toner Cartridge - Works with LaserJet M110, LaserJet MFP M139, M14](/products/b09n4z8dnl-product/) · [Buy on Amazon](https://www.amazon.com/dp/B09N4Z8DNL?tag=inkledger-20)
+- [HP Samsung MLT-D116L (SU832A) MLT-D116L Toner Cartridge](/products/b00c18tycy-product/) · [Buy on Amazon](https://www.amazon.com/dp/B00C18TYCY?tag=inkledger-20)
+- [B000N3BBW0](/products/b000n3bbw0-b000n3bbw0/) · [Buy on Amazon](https://www.amazon.com/dp/B000N3BBW0?tag=inkledger-20)
+- [B0FCS4HWPH](/products/b0fcs4hwph-b0fcs4hwph/) · [Buy on Amazon](https://www.amazon.com/dp/B0FCS4HWPH?tag=inkledger-20)
+- [B0F1FNZB62](/products/b0f1fnzb62-b0f1fnzb62/) · [Buy on Amazon](https://www.amazon.com/dp/B0F1FNZB62?tag=inkledger-20)
+- [B07ZHTFF44](/products/b07zhtff44-b07zhtff44/) · [Buy on Amazon](https://www.amazon.com/dp/B07ZHTFF44?tag=inkledger-20)
+
+## Products in this guide
+
+- [HP 65 Black Ink Cartridge Works with HP AMP 100, DeskJet 2600, 3700, ENVY 5000 Series](/products/b00004y81q-hp-65-black-ink-cartridge/)
+- [Brother Genuine TN730 3-Pack Standard Yield Black Toner Cartridge with Approximately 1,200 Page Yield/Cartridge](/products/b07q8bd3mk-product/)
+- [Brother LC3013BK Individual High-Yield Black Ink Cartridge](/products/b01ms0kdqf-brother-lc3013bk-xl-black-ink/)
+- [Epson 502 Ink Cartridges, Black/Cyan/Magenta/Yellow, 4-Pack](/products/b07gxxsrd2-epson-502-4-color-multipack/)

@@ -4,7 +4,17 @@ site: inkledger
 topic: 25. Why the Brother HL-1210W might be the cheapest printer to own
 tier: mvp
 updatedAt: '2026-05-12T08:21:50Z'
-relatedProducts: []
+relatedProducts:
+- B09ZVMYHGF
+- B0GFMH3D3X
+- B0DPKJJRBG
+- B0FT39TGXN
+- B002BWQ6XK
+- B0FNMZCLCG
+- B00NQ1CLTI
+- B07N1DF9VV
+- B0DMS3D2JT
+- B01N4NLZJN
 status: published
 heroImage: /heroes/25-why-the-brother-hl-1210w-might-be-the-cheapest-printer-to-own.webp
 subtopic: printers
@@ -127,3 +137,21 @@ By understanding its cost per page math, yield, reliability nuances, and possibl
 <a href="https://www.amazon.com/dp/B07X4SR5MN?tag=inkledger-20" rel="sponsored noopener" target="_blank" style="display:flex;align-items:center;gap:12px;text-decoration:none;margin:8px 0;padding:10px 12px;border:1px solid #e2e8f0;border-radius:10px;background:#f8fafc;"><img src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07X4SR5MN&Format=_SL100_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=inkledger-20" alt="Arteza Expert Colored Pencils 72-Pack" width="80" height="80" loading="lazy" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;border-radius:6px;background:#fff;" /><div style="min-width:0;"><strong style="display:block;color:#1e293b;font-size:0.9em;">Arteza Expert Colored Pencils 72-Pack</strong><span style="color:#64748b;font-size:0.82em;line-height:1.4;">Soft wax-oil core, 72 highly pigmented colors, in a sturdy metal tin.</span></div></a>
 
 <a href="https://www.amazon.com/dp/B00EWUNJN4?tag=inkledger-20" rel="sponsored noopener" target="_blank" style="display:flex;align-items:center;gap:12px;text-decoration:none;margin:8px 0;padding:10px 12px;border:1px solid #e2e8f0;border-radius:10px;background:#f8fafc;"><img src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00EWUNJN4&Format=_SL100_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=inkledger-20" alt="Canon PIXMA iX6820 Wireless Printer" width="80" height="80" loading="lazy" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;border-radius:6px;background:#fff;" /><div style="min-width:0;"><strong style="display:block;color:#1e293b;font-size:0.9em;">Canon PIXMA iX6820 Wireless Printer</strong><span style="color:#64748b;font-size:0.82em;line-height:1.4;">Wireless 13x19 borderless printing—affordable wide-format for small art print runs.</span></div></a>
+
+## Watchdog picks
+
+- [B09ZVMYHGF](/products/b09zvmyhgf-b09zvmyhgf/) · [Buy on Amazon](https://www.amazon.com/dp/B09ZVMYHGF?tag=inkledger-20)
+- [Miss Deer LC3019XXL Ink Cartridges, Comaptible Replacement for Brother LC3019 LC](/products/b0gfmh3d3x-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0GFMH3D3X?tag=inkledger-20)
+- [inkgens 31 32XL Ink Bottle Set Refill for HP Smart Tank 7600 7602 7300 7301 7001](/products/b0dpkjjrbg-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0DPKJJRBG?tag=inkledger-20)
+- [E-Z Ink TN760 Toner for Brother Printer Compatible for Brother TN-760 TN730 TN-7](/products/b0ft39tgxn-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0FT39TGXN?tag=inkledger-20)
+- [B002BWQ6XK](/products/b002bwq6xk-b002bwq6xk/) · [Buy on Amazon](https://www.amazon.com/dp/B002BWQ6XK?tag=inkledger-20)
+- [218A Toner Cartridges 4 Pack (with Chip) Compatible Replacement for HP 218A 218X](/products/b0fnmzclcg-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0FNMZCLCG?tag=inkledger-20)
+- [B00NQ1CLTI](/products/b00nq1clti-b00nq1clti/) · [Buy on Amazon](https://www.amazon.com/dp/B00NQ1CLTI?tag=inkledger-20)
+- [B07N1DF9VV](/products/b07n1df9vv-b07n1df9vv/) · [Buy on Amazon](https://www.amazon.com/dp/B07N1DF9VV?tag=inkledger-20)
+
+## Products in this guide
+
+- [Brother LC3019BK Super High Yield Black Ink Cartridge](/products/b01lyfvg1v-product/)
+- [Brother LC3013BK Individual High-Yield Black Ink Cartridge](/products/b01ms0kdqf-brother-lc3013bk-xl-black-ink/)
+- [Brother Printer LC30193PK Super High Yield XXL 3 Pack Ink Cartridges- 1 Ea: Cyan/Magenta/Yellow Ink](/products/b01n4k0zfe-product/)
+- [Brother Genuine TN760 High Yield Black Toner Cartridge, (for use with MFC-L2710DW MFC-L2750DW HL-L2350DW HL-L2370DW HL-L](/products/b075x6c5zw-product/)

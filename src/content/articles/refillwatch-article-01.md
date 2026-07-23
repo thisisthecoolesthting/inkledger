@@ -7,16 +7,16 @@ pillarSlug: refillwatch-pillar-1
 cardTitle: Printer Ink Price Hikes
 cardPick: Household staples that dodge the printer-ink price trap—real $/use math inside.
 relatedProducts:
-- "B00NQ1CLTI"
-- "B00WSAXBQ0"
-- "B07C11YW88"
-- "B082Y7X9H5"
-- "B083BFPGD8"
-- "B08GX3K9YS"
-- "B0BVYBVHK5"
-- "B0CYJV9X52"
-- "B0DYNQ1WP7"
-- "B0FT32PL8L"
+- B0854BN273
+- B09DV14ZZL
+- B001QY8QXM
+- B075X7TFY5
+- B07TJ87YKB
+- B08KDQZJQ5
+- B00CAZAU62
+- B0D96T79YF
+- B0H1M158VT
+- B0FMBGXC2C
 status: published
 tags:
 - printer ink
@@ -198,3 +198,21 @@ New third-party cartridges include smart chips that reset automatically, bypassi
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [B0854BN273](/products/b0854bn273-b0854bn273/) · [Buy on Amazon](https://www.amazon.com/dp/B0854BN273?tag=inkledger-20)
+- [B09DV14ZZL](/products/b09dv14zzl-b09dv14zzl/) · [Buy on Amazon](https://www.amazon.com/dp/B09DV14ZZL?tag=inkledger-20)
+- [Astra Platinum Double Edge Safety Razor Blades,100 Blades (20 x 5)](/products/b001qy8qxm-astra-platinum-double-edge-safety-razor-blades-100-blades-20/) · [Buy on Amazon](https://www.amazon.com/dp/B001QY8QXM?tag=inkledger-20)
+- [Brother Genuine Standard Yield Toner Cartridge, TN730, Replacement Black Toner, ](/products/b075x7tfy5-product/) · [Buy on Amazon](https://www.amazon.com/dp/B075X7TFY5?tag=inkledger-20)
+- [Valuetoner 245XL Ink Cartridge Replacement for Canon 245XL 246XL Combo Pack PG-2](/products/b07tj87ykb-product/) · [Buy on Amazon](https://www.amazon.com/dp/B07TJ87YKB?tag=inkledger-20)
+- [B08KDQZJQ5](/products/b08kdqzjq5-b08kdqzjq5/) · [Buy on Amazon](https://www.amazon.com/dp/B08KDQZJQ5?tag=inkledger-20)
+- [Dr. Tobias Omega 3 Fish Oil 2000mg Triple Strength with 800mg EPA 600mg DHA Per ](/products/b00cazau62-dr-tobias-omega-3-fish-oil-2000mg-triple-strength-with-800mg/) · [Buy on Amazon](https://www.amazon.com/dp/B00CAZAU62?tag=inkledger-20)
+- [B0D96T79YF](/products/b0d96t79yf-b0d96t79yf/) · [Buy on Amazon](https://www.amazon.com/dp/B0D96T79YF?tag=inkledger-20)
+
+## Products in this guide
+
+- [B0041RRMQS](/products/b0041rrmqs-b0041rrmqs/)
+- [B00JTE518E](/products/b00jte518e-b00jte518e/)
+- [B00T6RWJMU](/products/b00t6rwjmu-b00t6rwjmu/)
+- [B012IWR5X2](/products/b012iwr5x2-b012iwr5x2/)

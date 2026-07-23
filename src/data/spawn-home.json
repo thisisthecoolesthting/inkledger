@@ -44,44 +44,48 @@
     "heroVideoUrl": "/hero/inkledger-hero.mp4",
     "comparePicks": [
       {
-        "title": "280XXL 281XXL Ink for Canon Ink 280 281 Replacement for Canon TR8620 Ink Cartrid",
-        "slug": "b0bvybvhk5-280xxl-281xxl-ink-for-canon-ink-280-281-replacement-for-cano",
-        "priceLabel": "$23.99",
-        "href": "/products/b0bvybvhk5-280xxl-281xxl-ink-for-canon-ink-280-281-replacement-for-cano/",
-        "imageUrl": "https://m.media-amazon.com/images/I/51HC3MZTCrL.jpg",
-        "asin": "B0BVYBVHK5"
+        "title": "Eva-Dry Wireless Mini Dehumidifier, White (E-333)",
+        "slug": "b000h0xfcs-eva-dry-wireless-mini-dehumidifier-white-e-333",
+        "priceLabel": "$14.97",
+        "href": "/products/b000h0xfcs-eva-dry-wireless-mini-dehumidifier-white-e-333/",
+        "imageUrl": "https://m.media-amazon.com/images/I/31Mbr9Br-uL.jpg",
+        "asin": "B000H0XFCS",
+        "rating": 4.2,
+        "price": 14.97,
+        "affiliateUrl": "https://www.amazon.com/dp/B000H0XFCS?tag=inkledger-20"
       },
       {
-        "title": "LxTek Compatible Toner Cartridge 6510 6515 106R03480 106R03477 106R03478 106R034",
-        "slug": "b08gx3k9ys-lxtek-compatible-toner-cartridge-6510-6515-106r03480-106r034",
-        "priceLabel": "$45.99",
-        "href": "/products/b08gx3k9ys-lxtek-compatible-toner-cartridge-6510-6515-106r03480-106r034/",
-        "imageUrl": "https://m.media-amazon.com/images/I/41gNXmpaM+L.jpg",
-        "asin": "B08GX3K9YS"
+        "title": "Downy Fabric Softener Dryer Sheets, April Fresh, 120 Count",
+        "slug": "b0014d3n0q-downy-fabric-softener-dryer-sheets-april-fresh-120-count",
+        "priceLabel": "$13.67",
+        "href": "/products/b0014d3n0q-downy-fabric-softener-dryer-sheets-april-fresh-120-count/",
+        "imageUrl": "https://m.media-amazon.com/images/I/41tgtN1+SgL.jpg",
+        "asin": "B0014D3N0Q",
+        "rating": 4.8,
+        "price": 13.67,
+        "affiliateUrl": "https://www.amazon.com/dp/B0014D3N0Q?tag=inkledger-20"
       },
       {
-        "title": "ecodot 552 Pigment Ink Refill Ink Bottle Replacement for Epson 552 Ink Used for ",
-        "slug": "b09w9mf63y-ecodot-552-pigment-ink-refill-ink-bottle-replacement-for-eps",
-        "priceLabel": "$30.57",
-        "href": "/products/b09w9mf63y-ecodot-552-pigment-ink-refill-ink-bottle-replacement-for-eps/",
-        "imageUrl": "https://m.media-amazon.com/images/I/51JxuXxXdrL.jpg",
-        "asin": "B09W9MF63Y"
+        "title": "Astra Platinum Double Edge Safety Razor Blades,100 Blades (20 x 5)",
+        "slug": "b001qy8qxm-astra-platinum-double-edge-safety-razor-blades-100-blades-20",
+        "priceLabel": "$9.99",
+        "href": "/products/b001qy8qxm-astra-platinum-double-edge-safety-razor-blades-100-blades-20/",
+        "imageUrl": "https://m.media-amazon.com/images/I/41KPdOFKPeL.jpg",
+        "asin": "B001QY8QXM",
+        "rating": 4.6,
+        "price": 9.99,
+        "affiliateUrl": "https://www.amazon.com/dp/B001QY8QXM?tag=inkledger-20"
       },
       {
-        "title": "E-Z Ink Remanufactured Ink Cartridge Replacement for 252XL Combo Pack for Epson ",
-        "slug": "b082y7x9h5-e-z-ink-remanufactured-ink-cartridge-replacement-for-252xl-c",
-        "priceLabel": "$25.99",
-        "href": "/products/b082y7x9h5-e-z-ink-remanufactured-ink-cartridge-replacement-for-252xl-c/",
-        "imageUrl": "https://m.media-amazon.com/images/I/51VZ-evJt2L.jpg",
-        "asin": "B082Y7X9H5"
-      },
-      {
-        "title": "Toner Kingdom Compatible Toner-Cartridge Replacement for Canon 054H 054 High Yie",
-        "slug": "b083bfpgd8-toner-kingdom-compatible-toner-cartridge-replacement-for-can",
-        "priceLabel": "$63.26",
-        "href": "/products/b083bfpgd8-toner-kingdom-compatible-toner-cartridge-replacement-for-can/",
-        "imageUrl": "https://m.media-amazon.com/images/I/51PK92UVnXL.jpg",
-        "asin": "B083BFPGD8"
+        "title": "Hakko T18S3P Tip for Fx-888 Station, 5.2mm",
+        "slug": "b00762ahte-hakko-t18s3p-tip-for-fx-888-station-5-2mm",
+        "priceLabel": "$9.90",
+        "href": "/products/b00762ahte-hakko-t18s3p-tip-for-fx-888-station-5-2mm/",
+        "imageUrl": "https://m.media-amazon.com/images/I/21B6EtLRzEL.jpg",
+        "asin": "B00762AHTE",
+        "rating": 4.7,
+        "price": 9.9,
+        "affiliateUrl": "https://www.amazon.com/dp/B00762AHTE?tag=inkledger-20"
       }
     ],
     "compareRowEnabled": true

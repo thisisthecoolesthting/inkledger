@@ -4,7 +4,17 @@ site: inkledger
 topic: 45. The home-office-without-a-printer setup that saves 240 dollars a year
 tier: mvp
 updatedAt: '2026-05-12T08:30:54Z'
-relatedProducts: []
+relatedProducts:
+- B092T3GBWK
+- B00QJ88SB0
+- B0D3XGJ6HW
+- B074ND5RDT
+- B0041RRMQS
+- B000H0XFCS
+- B0FB96PX2M
+- B0GMKRR64P
+- B0DRP3LWP5
+- B079Y6FHKJ
 status: published
 heroImage: /heroes/45-the-home-office-without-a-printer-setup-that-saves-240-dollars-a-year.webp
 subtopic: printers
@@ -129,3 +139,21 @@ For those who absolutely must print frequently, combining a lean digital workflo
 <a href="https://www.amazon.com/dp/B07X4SR5MN?tag=inkledger-20" rel="sponsored noopener" target="_blank" style="display:flex;align-items:center;gap:12px;text-decoration:none;margin:8px 0;padding:10px 12px;border:1px solid #e2e8f0;border-radius:10px;background:#f8fafc;"><img src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07X4SR5MN&Format=_SL100_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=inkledger-20" alt="Arteza Expert Colored Pencils 72-Pack" width="80" height="80" loading="lazy" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;border-radius:6px;background:#fff;" /><div style="min-width:0;"><strong style="display:block;color:#1e293b;font-size:0.9em;">Arteza Expert Colored Pencils 72-Pack</strong><span style="color:#64748b;font-size:0.82em;line-height:1.4;">Soft wax-oil core, 72 highly pigmented colors, in a sturdy metal tin.</span></div></a>
 
 <a href="https://www.amazon.com/dp/B00EWUNJN4?tag=inkledger-20" rel="sponsored noopener" target="_blank" style="display:flex;align-items:center;gap:12px;text-decoration:none;margin:8px 0;padding:10px 12px;border:1px solid #e2e8f0;border-radius:10px;background:#f8fafc;"><img src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00EWUNJN4&Format=_SL100_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=inkledger-20" alt="Canon PIXMA iX6820 Wireless Printer" width="80" height="80" loading="lazy" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;border-radius:6px;background:#fff;" /><div style="min-width:0;"><strong style="display:block;color:#1e293b;font-size:0.9em;">Canon PIXMA iX6820 Wireless Printer</strong><span style="color:#64748b;font-size:0.82em;line-height:1.4;">Wireless 13x19 borderless printing—affordable wide-format for small art print runs.</span></div></a>
+
+## Watchdog picks
+
+- [HP (Refurbished) OfficeJet Pro 9015e All-in-One Wireless Color Printer for Home ](/products/b092t3gbwk-product/) · [Buy on Amazon](https://www.amazon.com/dp/B092T3GBWK?tag=inkledger-20)
+- [AZ Compatible Toner Cartridge Replacement for Dell 1250, 1250BK / 1250C / 1250Y ](/products/b00qj88sb0-product/) · [Buy on Amazon](https://www.amazon.com/dp/B00QJ88SB0?tag=inkledger-20)
+- [B0D3XGJ6HW](/products/b0d3xgj6hw-b0d3xgj6hw/) · [Buy on Amazon](https://www.amazon.com/dp/B0D3XGJ6HW?tag=inkledger-20)
+- [B074ND5RDT](/products/b074nd5rdt-b074nd5rdt/) · [Buy on Amazon](https://www.amazon.com/dp/B074ND5RDT?tag=inkledger-20)
+- [B0041RRMQS](/products/b0041rrmqs-b0041rrmqs/) · [Buy on Amazon](https://www.amazon.com/dp/B0041RRMQS?tag=inkledger-20)
+- [Eva-Dry Wireless Mini Dehumidifier, White (E-333)](/products/b000h0xfcs-eva-dry-wireless-mini-dehumidifier-white-e-333/) · [Buy on Amazon](https://www.amazon.com/dp/B000H0XFCS?tag=inkledger-20)
+- [myCartridge SUPRINT Remanufactured Replacement for Epson 702 Ink Cartridges 702X](/products/b0fb96px2m-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0FB96PX2M?tag=inkledger-20)
+- [B0GMKRR64P](/products/b0gmkrr64p-b0gmkrr64p/) · [Buy on Amazon](https://www.amazon.com/dp/B0GMKRR64P?tag=inkledger-20)
+
+## Products in this guide
+
+- [HP (Refurbished) OfficeJet Pro 9015e All-in-One Wireless Color Printer for Home Office, Compatible with Alexa (1G5L3A) (](/products/b092t3gbwk-product/)
+- [Epson EcoTank Wireless Color All-in-One Cartridge-Free ET-3850 Supertank Inkjet Printer for Home Office, Scanner, Copier](/products/b0b1j5pycf-product/)
+- [HP OfficeJet Pro 8125e Wireless All-in-One Color Inkjet Printer, Print, scan, Copy, ADF, Duplex Printing Best-for-Home O](/products/b0ct8zj7zc-product/)
+- [Brother Printer LC30193PK Super High Yield XXL 3 Pack Ink Cartridges- 1 Ea: Cyan/Magenta/Yellow Ink](/products/b01n4k0zfe-product/)

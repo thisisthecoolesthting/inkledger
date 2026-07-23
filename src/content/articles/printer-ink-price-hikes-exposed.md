@@ -6,7 +6,17 @@ tier: mvp
 cardTitle: "printer-ink-price-hikes-exposed"
 cardPick: "Editorial printer-ink pick from InkLedger."
 updatedAt: '2026-06-06T03:05:48.179Z'
-relatedProducts: []
+relatedProducts:
+- B000NL0T1K
+- B09W9MF63Y
+- B0FGC43YCL
+- B0H1M158VT
+- B00T6RWJMU
+- B083BFPGD8
+- B06XGMWMDW
+- B09PH83KK5
+- B0BVYBVHK5
+- B0BPD45XG6
 status: published
 subtopic: printer-ink
 publishedAt: '2026-06-06T03:05:48.179Z'
@@ -206,3 +216,21 @@ Price data for this article comes from Keepa, which logs every published price c
 - [Epson 502 Ink Cartridges, Black/Cyan/Magenta/Yellow, 4-Pack](/products/b07gxxsrd2-epson-502-4-color-multipack/)
 - [HP 65 Black Ink Cartridge Works with HP AMP 100, DeskJet 2600, 3700, ENVY 5000 Series](/products/b00004y81q-hp-65-black-ink-cartridge/)
 - [Brother LC3013BK Individual High-Yield Black Ink Cartridge](/products/b01ms0kdqf-brother-lc3013bk-xl-black-ink/)
+
+## Watchdog picks
+
+- [B000NL0T1K](/products/b000nl0t1k-b000nl0t1k/) · [Buy on Amazon](https://www.amazon.com/dp/B000NL0T1K?tag=inkledger-20)
+- [ecodot 552 Pigment Ink Refill Ink Bottle Replacement for Epson 552 Ink Used for ](/products/b09w9mf63y-ecodot-552-pigment-ink-refill-ink-bottle-replacement-for-eps/) · [Buy on Amazon](https://www.amazon.com/dp/B09W9MF63Y?tag=inkledger-20)
+- [B0FGC43YCL](/products/b0fgc43ycl-b0fgc43ycl/) · [Buy on Amazon](https://www.amazon.com/dp/B0FGC43YCL?tag=inkledger-20)
+- [B0H1M158VT](/products/b0h1m158vt-b0h1m158vt/) · [Buy on Amazon](https://www.amazon.com/dp/B0H1M158VT?tag=inkledger-20)
+- [B00T6RWJMU](/products/b00t6rwjmu-b00t6rwjmu/) · [Buy on Amazon](https://www.amazon.com/dp/B00T6RWJMU?tag=inkledger-20)
+- [Toner Kingdom Compatible Toner-Cartridge Replacement for Canon 054H 054 High Yie](/products/b083bfpgd8-toner-kingdom-compatible-toner-cartridge-replacement-for-can/) · [Buy on Amazon](https://www.amazon.com/dp/B083BFPGD8?tag=inkledger-20)
+- [EPSON 702 DURABrite Ultra Ink Standard Capacity Black Cartridge (T702120-S) Work](/products/b06xgmwmdw-product/) · [Buy on Amazon](https://www.amazon.com/dp/B06XGMWMDW?tag=inkledger-20)
+- [B09PH83KK5](/products/b09ph83kk5-b09ph83kk5/) · [Buy on Amazon](https://www.amazon.com/dp/B09PH83KK5?tag=inkledger-20)
+
+## Products in this guide
+
+- [Brother Genuine TN730 3-Pack Standard Yield Black Toner Cartridge with Approximately 1,200 Page Yield/Cartridge](/products/b07q8bd3mk-product/)
+- [HP 134A Black Toner Cartridge Printers | Works with LaserJet M209 Series; LaserJet MFP M234 Series | W1340A](/products/b08qmqnr76-product/)
+- [HP (Refurbished) OfficeJet Pro 9015e All-in-One Wireless Color Printer for Home Office, Compatible with Alexa (1G5L3A) (](/products/b092t3gbwk-product/)
+- [HP DeskJet 2855e Wireless All-in-One Color Inkjet Printer, Scanner, Copier, Best-for-home, 3 month Instant Ink trial inc](/products/b0ct2r7199-product/)

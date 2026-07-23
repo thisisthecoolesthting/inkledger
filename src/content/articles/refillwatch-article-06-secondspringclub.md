@@ -7,17 +7,16 @@ pillarSlug: refillwatch-pillar-3
 cardTitle: Printer Ink Price Hikes
 cardPick: Household staples that dodge the printer-ink price trap—real $/use math inside.
 relatedProducts:
-- "B00NQ1CLTI"
-- "B00WSAXBQ0"
-- "B07C11YW88"
-- "B07RVMZNYR"
-- "B082Y7X9H5"
-- "B083BFPGD8"
-- "B08GX3K9YS"
-- "B0BVYBVHK5"
-- "B0CYJV9X52"
-- "B0DYNQ1WP7"
-- "B0FT32PL8L"
+- B07ZHTFF44
+- B0F1FNZB62
+- B0DPKJJRBG
+- B0GPFKGNY7
+- B0CT2QHQVF
+- B08X4BQL7D
+- B0C1ZF94GW
+- B0GYNFD72N
+- B08K3J4WX6
+- B0963X6B5V
 status: published
 tags:
 - printer ink price hike
@@ -199,3 +198,21 @@ After tracking prices across 37 ink models, we recommend the EZ Ink Refill Kit f
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [B07ZHTFF44](/products/b07zhtff44-b07zhtff44/) · [Buy on Amazon](https://www.amazon.com/dp/B07ZHTFF44?tag=inkledger-20)
+- [B0F1FNZB62](/products/b0f1fnzb62-b0f1fnzb62/) · [Buy on Amazon](https://www.amazon.com/dp/B0F1FNZB62?tag=inkledger-20)
+- [inkgens 31 32XL Ink Bottle Set Refill for HP Smart Tank 7600 7602 7300 7301 7001](/products/b0dpkjjrbg-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0DPKJJRBG?tag=inkledger-20)
+- [HP OfficeJet Pro 9125 Wireless All-in-One Color Inkjet Printer, Print, Scan, Cop](/products/b0gpfkgny7-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0GPFKGNY7?tag=inkledger-20)
+- [B0CT2QHQVF](/products/b0ct2qhqvf-b0ct2qhqvf/) · [Buy on Amazon](https://www.amazon.com/dp/B0CT2QHQVF?tag=inkledger-20)
+- [B08X4BQL7D](/products/b08x4bql7d-b08x4bql7d/) · [Buy on Amazon](https://www.amazon.com/dp/B08X4BQL7D?tag=inkledger-20)
+- [B0C1ZF94GW](/products/b0c1zf94gw-b0c1zf94gw/) · [Buy on Amazon](https://www.amazon.com/dp/B0C1ZF94GW?tag=inkledger-20)
+- [B0GYNFD72N](/products/b0gynfd72n-b0gynfd72n/) · [Buy on Amazon](https://www.amazon.com/dp/B0GYNFD72N?tag=inkledger-20)
+
+## Products in this guide
+
+- [Brother Genuine Standard Yield Toner Cartridge, TN730, Replacement Black Toner, Page Yield Up To 1,200 Pages, Amazon Das](/products/b075x7tfy5-product/)
+- [Remanufactured Replacement for Epson 702 Ink Cartridges for 702XL Ink cartridges Combo Pack Work with Printer Workforce](/products/b0ct2ltf55-product/)
+- [Ink Cartridge Printer Replacement Part Compatible with Expression Photo XP-15000](/products/b0gvgsv2kl-product/)
+- [B0041RRMQS](/products/b0041rrmqs-b0041rrmqs/)

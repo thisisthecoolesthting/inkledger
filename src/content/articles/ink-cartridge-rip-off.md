@@ -7,19 +7,16 @@ pillarSlug: price-hike-alerts
 cardTitle: Printer Ink Price Hikes
 cardPick: Household staples that dodge the printer-ink price trap—real $/use math inside.
 relatedProducts:
-- "B00NQ1CLTI"
-- "B00WSAXBQ0"
-- "B07C11YW88"
-- "B082Y7X9H5"
-- "B08GX3K9YS"
-- "B09W9MF63Y"
-- "B0BVYBVHK5"
-- "B0CYJV9X52"
-- "B0DPHQRLJC"
-- "B0DQQ77WYT"
-- "B0DVT2JTRN"
-- "B0FVY8TTVN"
-- "B0G1R37VJC"
+- B0H476662H
+- B0DS4M632H
+- B000H0XFCS
+- B0F6C98Q8M
+- B0CT2LTF55
+- B08QMQNR76
+- B0014D3N0Q
+- B0B2RM68G2
+- B08KDQZJQ5
+- B01NBB1J9U
 status: published
 tags:
 - printer-ink
@@ -146,3 +143,21 @@ Printer ink is one of the most expensive liquids by volume—retailers knowingly
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [Epson EcoTank ET-2988 Wireless All-in-One Color Supertank Printer with up to 3 Y](/products/b0h476662h-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0H476662H?tag=inkledger-20)
+- [Skydo LC3019XXL Ink Cartridges Replacement for LC3019 XXL LC 3019-XXL LC3019 Wor](/products/b0ds4m632h-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0DS4M632H?tag=inkledger-20)
+- [Eva-Dry Wireless Mini Dehumidifier, White (E-333)](/products/b000h0xfcs-eva-dry-wireless-mini-dehumidifier-white-e-333/) · [Buy on Amazon](https://www.amazon.com/dp/B000H0XFCS?tag=inkledger-20)
+- [67XL Ink Cartridge Replacement for HP 67 XL Remanufactured for HP Ink 67 67XL fo](/products/b0f6c98q8m-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0F6C98Q8M?tag=inkledger-20)
+- [Remanufactured Replacement for Epson 702 Ink Cartridges for 702XL Ink cartridges](/products/b0ct2ltf55-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0CT2LTF55?tag=inkledger-20)
+- [HP 134A Black Toner Cartridge Printers - Works with LaserJet M209 Series; LaserJ](/products/b08qmqnr76-product/) · [Buy on Amazon](https://www.amazon.com/dp/B08QMQNR76?tag=inkledger-20)
+- [B0014D3N0Q](/products/b0014d3n0q-b0014d3n0q/) · [Buy on Amazon](https://www.amazon.com/dp/B0014D3N0Q?tag=inkledger-20)
+- [BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face Mask, Po](/products/b0b2rm68g2-biodance-bio-collagen-real-deep-mask-hydrating-overnight-hyd/) · [Buy on Amazon](https://www.amazon.com/dp/B0B2RM68G2?tag=inkledger-20)
+
+## Products in this guide
+
+- [Brother LC3019BK Super High Yield Black Ink Cartridge](/products/b01lyfvg1v-product/)
+- [Brother Printer LC30193PK Super High Yield XXL 3 Pack Ink Cartridges- 1 Ea: Cyan/Magenta/Yellow Ink](/products/b01n4k0zfe-product/)
+- [HP Original 962 Cyan, Magenta, Yellow / 962XL Black Ink Cartridges (4-Pack) | Works OfficeJet 9010 Series, OfficeJet Pro](/products/b07t2s3d6j-product/)
+- [Brother Genuine High-Yield Black Toner Cartridge Twin Pack TN760 2Pk, TN7602PK,2 Pack](/products/b07ygl9xth-product/)

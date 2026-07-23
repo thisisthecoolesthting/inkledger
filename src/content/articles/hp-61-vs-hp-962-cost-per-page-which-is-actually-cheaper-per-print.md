@@ -7,13 +7,16 @@ publishedAt: '2026-04-22T00:00:00Z'
 excerpt: HP 61 vs HP 962 cost per page — which is actually cheaper per print
 pillarSlug: general
 relatedProducts:
-- "B01MQYKRRZ"
-- "B077QVSKD5"
-- "B07C4HMJFS"
-- "B0CCT8H4YK"
-- "B0CFM82NS2"
-- "B0CQ4VHBMH"
-- "B0GLTX2PNR"
+- B0CWP64QMT
+- B01N7V39UO
+- B08KDQZJQ5
+- B074RFMST8
+- B0DPYJWX2F
+- B0B2RM68G2
+- B002BWQ6XK
+- B001EQ4G0O
+- B098JD8HD3
+- B00T6RWJMU
 status: published
 tags:
 - hp ink
@@ -53,10 +56,20 @@ The 962's premium comes from being bundled with HP's higher-end [OfficeJet](http
 ## The Verdict
 
 Unless your [printer](https://www.amazon.com/dp/B0CCT8H4YK?tag=inkledger-20) specifically requires HP 962 cartridges, the HP 61 series delivers identical prints at 1/3 the cost per page. For maximum savings, consider vetted third-party alternatives that work in both [cartridge](https://www.amazon.com/dp/B0GLTX2PNR?tag=inkledger-20) types.
+## Watchdog picks
+
+- [B0CWP64QMT](/products/b0cwp64qmt-b0cwp64qmt/) · [Buy on Amazon](https://www.amazon.com/dp/B0CWP64QMT?tag=inkledger-20)
+- [B01N7V39UO](/products/b01n7v39uo-b01n7v39uo/) · [Buy on Amazon](https://www.amazon.com/dp/B01N7V39UO?tag=inkledger-20)
+- [B08KDQZJQ5](/products/b08kdqzjq5-b08kdqzjq5/) · [Buy on Amazon](https://www.amazon.com/dp/B08KDQZJQ5?tag=inkledger-20)
+- [EPSON 502 EcoTank Ink Ultra-high Capacity Bottle Black Works with ET-2750, 2760,](/products/b074rfmst8-product/) · [Buy on Amazon](https://www.amazon.com/dp/B074RFMST8?tag=inkledger-20)
+- [B0DPYJWX2F](/products/b0dpyjwx2f-b0dpyjwx2f/) · [Buy on Amazon](https://www.amazon.com/dp/B0DPYJWX2F?tag=inkledger-20)
+- [BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face Mask, Po](/products/b0b2rm68g2-biodance-bio-collagen-real-deep-mask-hydrating-overnight-hyd/) · [Buy on Amazon](https://www.amazon.com/dp/B0B2RM68G2?tag=inkledger-20)
+- [B002BWQ6XK](/products/b002bwq6xk-b002bwq6xk/) · [Buy on Amazon](https://www.amazon.com/dp/B002BWQ6XK?tag=inkledger-20)
+- [B001EQ4G0O](/products/b001eq4g0o-b001eq4g0o/) · [Buy on Amazon](https://www.amazon.com/dp/B001EQ4G0O?tag=inkledger-20)
 
 ## Products in this guide
 
+- [HP 65 Black Ink Cartridge Works with HP AMP 100, DeskJet 2600, 3700, ENVY 5000 Series](/products/b00004y81q-hp-65-black-ink-cartridge/)
+- [Epson 502 Ink Cartridges, Black/Cyan/Magenta/Yellow, 4-Pack](/products/b07gxxsrd2-epson-502-4-color-multipack/)
 - [Brother Genuine Standard Yield Toner Cartridge, TN730, Replacement Black Toner, Page Yield Up To 1,200 Pages, Amazon Das](/products/b075x7tfy5-product/)
 - [Brother Genuine TN730 3-Pack Standard Yield Black Toner Cartridge with Approximately 1,200 Page Yield/Cartridge](/products/b07q8bd3mk-product/)
-- [EPSON 702 DURABrite Ultra Ink Standard Capacity Black & Color Cartridge Combo Pack (T702120-BCS) Works with WorkForce Pr](/products/b06xg5zjn3-product/)
-- [EPSON 702 DURABrite Ultra Ink High Capacity Black & Standard Color Cartridge Combo Pack (T702XL-BCS) Works with WorkForc](/products/b071wb6bgn-product/)

@@ -6,7 +6,17 @@ tier: mvp
 cardTitle: "how-to-refill-your-own-ink-cartridges-guide"
 cardPick: "Editorial printer-ink pick from InkLedger."
 updatedAt: '2026-06-06T03:05:48.136Z'
-relatedProducts: []
+relatedProducts:
+- B0CYGN38RF
+- B0B7MKRR58
+- B0FLXJHGR7
+- B0CPB11F85
+- B0GMW9XT9X
+- B0836MYJSD
+- B07P5BNQJG
+- B0FVFGX7Y5
+- B0CCNKGY6J
+- B0F1CJ93JJ
 status: published
 subtopic: printer-ink
 publishedAt: '2026-06-06T03:05:48.136Z'
@@ -277,3 +287,21 @@ Price data for this article comes from Keepa, which logs every published price c
 - [Brother LC3013BK Individual High-Yield Black Ink Cartridge](/products/b01ms0kdqf-brother-lc3013bk-xl-black-ink/)
 - [Epson 502 Ink Cartridges, Black/Cyan/Magenta/Yellow, 4-Pack](/products/b07gxxsrd2-epson-502-4-color-multipack/)
 - [HP 65 Black Ink Cartridge Works with HP AMP 100, DeskJet 2600, 3700, ENVY 5000 Series](/products/b00004y81q-hp-65-black-ink-cartridge/)
+
+## Watchdog picks
+
+- [B0CYGN38RF](/products/b0cygn38rf-b0cygn38rf/) · [Buy on Amazon](https://www.amazon.com/dp/B0CYGN38RF?tag=inkledger-20)
+- [B0B7MKRR58](/products/b0b7mkrr58-b0b7mkrr58/) · [Buy on Amazon](https://www.amazon.com/dp/B0B7MKRR58?tag=inkledger-20)
+- [TN760 Toner for Brother Printer TN730: Compatible for Brother TN-730/TN-760 TN 7](/products/b0flxjhgr7-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0FLXJHGR7?tag=inkledger-20)
+- [B0CPB11F85](/products/b0cpb11f85-b0cpb11f85/) · [Buy on Amazon](https://www.amazon.com/dp/B0CPB11F85?tag=inkledger-20)
+- [HP DeskJet 2923 Wireless All-in-One Color Inkjet Printer, Scanner, Copier, 6 Mon](/products/b0gmw9xt9x-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0GMW9XT9X?tag=inkledger-20)
+- [TEINO Remanufactured Ink Cartridge Replacement for HP 65 65XL 65 XL use with HP ](/products/b0836myjsd-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0836MYJSD?tag=inkledger-20)
+- [B07P5BNQJG](/products/b07p5bnqjg-b07p5bnqjg/) · [Buy on Amazon](https://www.amazon.com/dp/B07P5BNQJG?tag=inkledger-20)
+- [B0FVFGX7Y5](/products/b0fvfgx7y5-b0fvfgx7y5/) · [Buy on Amazon](https://www.amazon.com/dp/B0FVFGX7Y5?tag=inkledger-20)
+
+## Products in this guide
+
+- [HP Samsung MLT-D116L (SU832A) MLT-D116L Toner Cartridge](/products/b00c18tycy-product/)
+- [Brother Printer LC30193PK Super High Yield XXL 3 Pack Ink Cartridges- 1 Ea: Cyan/Magenta/Yellow Ink](/products/b01n4k0zfe-product/)
+- [Ink Cartridge Printer Replacement Part Compatible with Expression Photo XP-15000](/products/b0gvgsv2kl-product/)
+- [B0041RRMQS](/products/b0041rrmqs-b0041rrmqs/)

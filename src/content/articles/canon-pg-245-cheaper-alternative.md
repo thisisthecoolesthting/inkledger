@@ -6,7 +6,17 @@ tier: mvp
 cardTitle: "canon-pg-245-cheaper-alternative"
 cardPick: "Editorial printer-ink pick from InkLedger."
 updatedAt: '2026-06-06T03:05:48.097Z'
-relatedProducts: []
+relatedProducts:
+- B00CAZAU62
+- B0B4VP5CQ4
+- B07YGL9XTH
+- B07MK5DG9V
+- B0DPYJWX2F
+- B0FB96PX2M
+- B0FVFGX7Y5
+- B0CHJ8T7XS
+- B0GVM6YY7B
+- B0B7MKRR58
 status: published
 subtopic: printer-ink
 publishedAt: '2026-06-06T03:05:48.097Z'
@@ -202,3 +212,21 @@ Price data for this article comes from Keepa, which logs every published price c
 - [Brother LC3013BK Individual High-Yield Black Ink Cartridge](/products/b01ms0kdqf-brother-lc3013bk-xl-black-ink/)
 - [HP 63XL Black High-yield Ink Cartridge](/products/b07rrf8fsx-hp-63xl-black-ink-cartridge/)
 - [HP 65 Black Ink Cartridge Works with HP AMP 100, DeskJet 2600, 3700, ENVY 5000 Series](/products/b00004y81q-hp-65-black-ink-cartridge/)
+
+## Watchdog picks
+
+- [Dr. Tobias Omega 3 Fish Oil 2000mg Triple Strength with 800mg EPA 600mg DHA Per ](/products/b00cazau62-dr-tobias-omega-3-fish-oil-2000mg-triple-strength-with-800mg/) · [Buy on Amazon](https://www.amazon.com/dp/B00CAZAU62?tag=inkledger-20)
+- [Epson 522 EcoTank Ink Ultra-high Capacity Bottle Black & Color Combo Pack (T5221](/products/b0b4vp5cq4-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0B4VP5CQ4?tag=inkledger-20)
+- [Brother Genuine High-Yield Black Toner Cartridge Twin Pack TN760 2Pk, TN7602PK,2](/products/b07ygl9xth-product/) · [Buy on Amazon](https://www.amazon.com/dp/B07YGL9XTH?tag=inkledger-20)
+- [HP 962XL Black High-Yield Ink Cartridge - Works with OfficeJet 9010, Pro 9010, 9](/products/b07mk5dg9v-product/) · [Buy on Amazon](https://www.amazon.com/dp/B07MK5DG9V?tag=inkledger-20)
+- [B0DPYJWX2F](/products/b0dpyjwx2f-b0dpyjwx2f/) · [Buy on Amazon](https://www.amazon.com/dp/B0DPYJWX2F?tag=inkledger-20)
+- [myCartridge SUPRINT Remanufactured Replacement for Epson 702 Ink Cartridges 702X](/products/b0fb96px2m-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0FB96PX2M?tag=inkledger-20)
+- [B0FVFGX7Y5](/products/b0fvfgx7y5-b0fvfgx7y5/) · [Buy on Amazon](https://www.amazon.com/dp/B0FVFGX7Y5?tag=inkledger-20)
+- [B0CHJ8T7XS](/products/b0chj8t7xs-b0chj8t7xs/) · [Buy on Amazon](https://www.amazon.com/dp/B0CHJ8T7XS?tag=inkledger-20)
+
+## Products in this guide
+
+- [Brother Genuine TN730 3-Pack Standard Yield Black Toner Cartridge with Approximately 1,200 Page Yield/Cartridge](/products/b07q8bd3mk-product/)
+- [Brother LC3019BK Super High Yield Black Ink Cartridge](/products/b01lyfvg1v-product/)
+- [Brother Printer LC30193PK Super High Yield XXL 3 Pack Ink Cartridges- 1 Ea: Cyan/Magenta/Yellow Ink](/products/b01n4k0zfe-product/)
+- [Brother Genuine TN760 High Yield Black Toner Cartridge, (for use with MFC-L2710DW MFC-L2750DW HL-L2350DW HL-L2370DW HL-L](/products/b075x6c5zw-product/)

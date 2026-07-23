@@ -4,7 +4,17 @@ metaDescription: Printers, razors, and pod coffee makers are sold cheap because 
 publishedAt: '2026-05-06'
 excerpt: HP sells some printers below manufacturing cost. Gillette sells razors at a loss on the handle. Keurig prices K-Cups at 2–4x the cost of ground coffee per ounce. All three companies are doing the same thing. Here's how to spot the trap before you buy, and escape it after.
 targetKeyword: consumable price traps
-relatedProducts: []
+relatedProducts:
+- B0H476662H
+- B08SWN848G
+- B08R3R5KXJ
+- B0D96T79YF
+- B0FCS1B33K
+- B0F6C98Q8M
+- B0BX2N258S
+- B0GYRCQLFV
+- B0BM9BFLMX
+- B0GMKRR64P
 status: published
 tags:
   - printer ink
@@ -84,3 +94,21 @@ Before buying any new hardware that uses ongoing consumables, run this check:
 4. **Is there an open-standard equivalent?** Safety razors vs. cartridge razors. Tank printers vs. cartridge printers. French press vs. pod machines. The open standard is almost always cheaper.
 
 The razor-and-blade model only works on customers who don't price the consumable before the purchase. Price it first.
+
+## Watchdog picks
+
+- [Epson EcoTank ET-2988 Wireless All-in-One Color Supertank Printer with up to 3 Y](/products/b0h476662h-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0H476662H?tag=inkledger-20)
+- [HP Original 67 Tri-Color / 67XL Black Ink Cartridges (2-Pack) - Works DeskJet 12](/products/b08swn848g-product/) · [Buy on Amazon](https://www.amazon.com/dp/B08SWN848G?tag=inkledger-20)
+- [B08R3R5KXJ](/products/b08r3r5kxj-b08r3r5kxj/) · [Buy on Amazon](https://www.amazon.com/dp/B08R3R5KXJ?tag=inkledger-20)
+- [B0D96T79YF](/products/b0d96t79yf-b0d96t79yf/) · [Buy on Amazon](https://www.amazon.com/dp/B0D96T79YF?tag=inkledger-20)
+- [B0FCS1B33K](/products/b0fcs1b33k-b0fcs1b33k/) · [Buy on Amazon](https://www.amazon.com/dp/B0FCS1B33K?tag=inkledger-20)
+- [67XL Ink Cartridge Replacement for HP 67 XL Remanufactured for HP Ink 67 67XL fo](/products/b0f6c98q8m-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0F6C98Q8M?tag=inkledger-20)
+- [WEP 926LED V3 Soldering Station 130W MAX Soldering Iron Kit with Solder Wire, 5 ](/products/b0bx2n258s-wep-926led-v3-soldering-station-130w-max-soldering-iron-kit-/) · [Buy on Amazon](https://www.amazon.com/dp/B0BX2N258S?tag=inkledger-20)
+- [B0GYRCQLFV](/products/b0gyrcqlfv-b0gyrcqlfv/) · [Buy on Amazon](https://www.amazon.com/dp/B0GYRCQLFV?tag=inkledger-20)
+
+## Products in this guide
+
+- [Folgers Classic Roast Ground Coffee, 48 Oz](/products/b00hhqx0bq-folgers-classic-roast-coffee-48oz/)
+- [Astra Platinum Double Edge Safety Razor Blades,100 Blades (20 x 5)](/products/b001qy8qxm-astra-platinum-double-edge-safety-razor-blades-100-blades-20/)
+- [Brother HL-L2300D Monochrome Laser Printer with Duplex Printing](/products/b00nq1clti-brother-hl-l2300d-monochrome-laser-printer-with-duplex-print/)
+- [Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)

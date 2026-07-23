@@ -7,15 +7,16 @@ pillarSlug: refillwatch-pillar-3
 cardTitle: '''Printer Ink Economics'
 cardPick: Household staples that dodge the printer-ink price trap—real $/use math inside.
 relatedProducts:
-- "B00CBBJ5KY"
-- "B00WSAXBQ0"
-- "B07C11YW88"
-- "B07RVMZNYR"
-- "B082Y7X9H5"
-- "B083BFPGD8"
-- "B08GX3K9YS"
-- "B0BVYBVHK5"
-- "B0CYJV9X52"
+- B0BM9BFLMX
+- B074RG6PN1
+- B08QMQNR76
+- B0GMKRR64P
+- B07D5DN269
+- B081GRVJ5K
+- B0DMS3D2JT
+- B0BPD45XG6
+- B075M8YX5N
+- B09XT22566
 status: published
 tags:
 - printer ink comparison
@@ -178,3 +179,21 @@ Continuous systems delivered strong results for small businesses printing 300+ p
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [Epson EcoTank ET-2400 Wireless Color All-in-One Cartridge-Free Supertank Printer](/products/b0bm9bflmx-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0BM9BFLMX?tag=inkledger-20)
+- [EPSON 502 EcoTank Ink Ultra-high Capacity Bottle Color Combo Pack Works with ET-](/products/b074rg6pn1-product/) · [Buy on Amazon](https://www.amazon.com/dp/B074RG6PN1?tag=inkledger-20)
+- [HP 134A Black Toner Cartridge Printers - Works with LaserJet M209 Series; LaserJ](/products/b08qmqnr76-product/) · [Buy on Amazon](https://www.amazon.com/dp/B08QMQNR76?tag=inkledger-20)
+- [B0GMKRR64P](/products/b0gmkrr64p-b0gmkrr64p/) · [Buy on Amazon](https://www.amazon.com/dp/B0GMKRR64P?tag=inkledger-20)
+- [Niagara Sleep Solution Ultra Soft Queen Size Mattress Topper - Rayon Derived fro](/products/b07d5dn269-niagara-sleep-solution-ultra-soft-queen-size-mattress-topper/) · [Buy on Amazon](https://www.amazon.com/dp/B07D5DN269?tag=inkledger-20)
+- [TEINO Remanufactured 65XL Ink Cartridge Replacement for HP Envy 5055 5052 DeskJe](/products/b081grvj5k-product/) · [Buy on Amazon](https://www.amazon.com/dp/B081GRVJ5K?tag=inkledger-20)
+- [B0DMS3D2JT](/products/b0dms3d2jt-b0dms3d2jt/) · [Buy on Amazon](https://www.amazon.com/dp/B0DMS3D2JT?tag=inkledger-20)
+- [AOLIBE MLT-D111S Toner Cartridge High Yield Compatible for Samsung 111S MLT111S ](/products/b0bpd45xg6-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0BPD45XG6?tag=inkledger-20)
+
+## Products in this guide
+
+- [Brother LC3019BK Super High Yield Black Ink Cartridge](/products/b01lyfvg1v-product/)
+- [Brother Printer LC30193PK Super High Yield XXL 3 Pack Ink Cartridges- 1 Ea: Cyan/Magenta/Yellow Ink](/products/b01n4k0zfe-product/)
+- [Brother Genuine Standard Yield Toner Cartridge, TN730, Replacement Black Toner, Page Yield Up To 1,200 Pages, Amazon Das](/products/b075x7tfy5-product/)
+- [Brother Genuine TN730 3-Pack Standard Yield Black Toner Cartridge with Approximately 1,200 Page Yield/Cartridge](/products/b07q8bd3mk-product/)

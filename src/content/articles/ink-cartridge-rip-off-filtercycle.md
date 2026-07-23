@@ -7,19 +7,16 @@ pillarSlug: price-hike-alerts
 cardTitle: Printer Ink Price Hikes
 cardPick: Household staples that dodge the printer-ink price trap—real $/use math inside.
 relatedProducts:
-- "B00NQ1CLTI"
-- "B00WSAXBQ0"
-- "B07C11YW88"
-- "B082Y7X9H5"
-- "B08GX3K9YS"
-- "B09W9MF63Y"
-- "B0BVYBVHK5"
-- "B0CYJV9X52"
-- "B0DPHQRLJC"
-- "B0DQQ77WYT"
-- "B0DVT2JTRN"
-- "B0FVY8TTVN"
-- "B0G1R37VJC"
+- B0FHDJXJNZ
+- B01MQYKRRZ
+- B0963X6B5V
+- B0GF3BX4P4
+- B0FCS4HWPH
+- B07R3N9X3F
+- B07J2P2V7T
+- B0CYJV9X52
+- B07L2MZW6B
+- B001QY8QXM
 status: published
 tags:
 - printer-ink
@@ -146,3 +143,21 @@ Printer ink is one of the most expensive liquids by volume—retailers knowingly
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [B0FHDJXJNZ](/products/b0fhdjxjnz-b0fhdjxjnz/) · [Buy on Amazon](https://www.amazon.com/dp/B0FHDJXJNZ?tag=inkledger-20)
+- [JETSIR Dye Ink Refill Kit 100ML x5 Bottles for 950 951 952 902 901 60 61 62 63 2](/products/b01mqykrrz-product/) · [Buy on Amazon](https://www.amazon.com/dp/B01MQYKRRZ?tag=inkledger-20)
+- [B0963X6B5V](/products/b0963x6b5v-b0963x6b5v/) · [Buy on Amazon](https://www.amazon.com/dp/B0963X6B5V?tag=inkledger-20)
+- [Skydo 141A Toner Cartridge 2 Black Replacement for HP 141A W1410A 141X W1410X To](/products/b0gf3bx4p4-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0GF3BX4P4?tag=inkledger-20)
+- [B0FCS4HWPH](/products/b0fcs4hwph-b0fcs4hwph/) · [Buy on Amazon](https://www.amazon.com/dp/B0FCS4HWPH?tag=inkledger-20)
+- [B07R3N9X3F](/products/b07r3n9x3f-b07r3n9x3f/) · [Buy on Amazon](https://www.amazon.com/dp/B07R3N9X3F?tag=inkledger-20)
+- [B07J2P2V7T](/products/b07j2p2v7t-b07j2p2v7t/) · [Buy on Amazon](https://www.amazon.com/dp/B07J2P2V7T?tag=inkledger-20)
+- [InkOwl Compatible Ink Cartridge Replacement for Roland ECO-SOL MAX 2 Printers ES](/products/b0cyjv9x52-inkowl-compatible-ink-cartridge-replacement-for-roland-eco-s/) · [Buy on Amazon](https://www.amazon.com/dp/B0CYJV9X52?tag=inkledger-20)
+
+## Products in this guide
+
+- [Brother LC3019BK Super High Yield Black Ink Cartridge](/products/b01lyfvg1v-product/)
+- [Brother Printer LC30193PK Super High Yield XXL 3 Pack Ink Cartridges- 1 Ea: Cyan/Magenta/Yellow Ink](/products/b01n4k0zfe-product/)
+- [HP Original 962 Cyan, Magenta, Yellow / 962XL Black Ink Cartridges (4-Pack) | Works OfficeJet 9010 Series, OfficeJet Pro](/products/b07t2s3d6j-product/)
+- [Brother Genuine High-Yield Black Toner Cartridge Twin Pack TN760 2Pk, TN7602PK,2 Pack](/products/b07ygl9xth-product/)

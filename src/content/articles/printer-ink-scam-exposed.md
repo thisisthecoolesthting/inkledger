@@ -7,15 +7,16 @@ pillarSlug: price-hike-alerts
 cardTitle: Printer Ink Markup
 cardPick: Household staples that dodge the printer-ink price trap—real $/use math inside.
 relatedProducts:
-- "B00CBBJ5KY"
-- "B00NQ1CLTI"
-- "B07C11YW88"
-- "B07RVMZNYR"
-- "B082Y7X9H5"
-- "B08GX3K9YS"
-- "B09W9MF63Y"
-- "B0BVYBVHK5"
-- "B0CYJV9X52"
+- B0CYJV9X52
+- B0FCS1B33K
+- B07TJ87YKB
+- B0FBRH75LK
+- B01N7V39UO
+- B0BTSZ81C7
+- B075X6C5ZW
+- B0H1M158VT
+- B0D8B24CTB
+- B0GF3BX4P4
 status: published
 tags:
 - printer ink scam
@@ -227,3 +228,21 @@ For most users, we recommend refillable tank systems or laser printers. Those st
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [InkOwl Compatible Ink Cartridge Replacement for Roland ECO-SOL MAX 2 Printers ES](/products/b0cyjv9x52-inkowl-compatible-ink-cartridge-replacement-for-roland-eco-s/) · [Buy on Amazon](https://www.amazon.com/dp/B0CYJV9X52?tag=inkledger-20)
+- [B0FCS1B33K](/products/b0fcs1b33k-b0fcs1b33k/) · [Buy on Amazon](https://www.amazon.com/dp/B0FCS1B33K?tag=inkledger-20)
+- [Valuetoner 245XL Ink Cartridge Replacement for Canon 245XL 246XL Combo Pack PG-2](/products/b07tj87ykb-product/) · [Buy on Amazon](https://www.amazon.com/dp/B07TJ87YKB?tag=inkledger-20)
+- [B0FBRH75LK](/products/b0fbrh75lk-b0fbrh75lk/) · [Buy on Amazon](https://www.amazon.com/dp/B0FBRH75LK?tag=inkledger-20)
+- [B01N7V39UO](/products/b01n7v39uo-b01n7v39uo/) · [Buy on Amazon](https://www.amazon.com/dp/B01N7V39UO?tag=inkledger-20)
+- [B0BTSZ81C7](/products/b0btsz81c7-b0btsz81c7/) · [Buy on Amazon](https://www.amazon.com/dp/B0BTSZ81C7?tag=inkledger-20)
+- [Brother Genuine TN760 High Yield Black Toner Cartridge, (for use with MFC-L2710D](/products/b075x6c5zw-product/) · [Buy on Amazon](https://www.amazon.com/dp/B075X6C5ZW?tag=inkledger-20)
+- [B0H1M158VT](/products/b0h1m158vt-b0h1m158vt/) · [Buy on Amazon](https://www.amazon.com/dp/B0H1M158VT?tag=inkledger-20)
+
+## Products in this guide
+
+- [Brother Printer LC30193PK Super High Yield XXL 3 Pack Ink Cartridges- 1 Ea: Cyan/Magenta/Yellow Ink](/products/b01n4k0zfe-product/)
+- [Ink Cartridge Printer Replacement Part Compatible with Expression Photo XP-15000](/products/b0gvgsv2kl-product/)
+- [B0041RRMQS](/products/b0041rrmqs-b0041rrmqs/)
+- [HP Samsung MLT-D116L (SU832A) MLT-D116L Toner Cartridge](/products/b00c18tycy-product/)

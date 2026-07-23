@@ -6,7 +6,17 @@ tier: mvp
 cardTitle: "epson-ecotank-et-2800-vs-et-2803"
 cardPick: "Editorial printer-ink pick from InkLedger."
 updatedAt: '2026-06-06T03:05:48.119Z'
-relatedProducts: []
+relatedProducts:
+- B07D5DN269
+- B07N1DF9VV
+- B0CT8ZJ7ZC
+- B0H476662H
+- B00CAZAU62
+- B075X7TFY5
+- B07VVK39F7
+- B096N8CNBZ
+- B000H0XFCS
+- B08TB5YD6R
 status: published
 subtopic: printer-ink
 publishedAt: '2026-06-06T03:05:48.119Z'
@@ -114,3 +124,21 @@ If you're tired of overpaying for ink, an EcoTank printer is definitely worth co
 Of course, even an EcoTank is still an inkjet. If you are printing primarily black and white documents, or if color fidelity simply isn't a concern for your use case, you may want to consider a monochrome laser printer. Toner cartridges last far longer than ink, and laser printers are generally faster. If you're looking for an even cheaper way to print, consider exploring compatible ink cartridges. We have a guide to [Are Compatible Ink Cartridges Safe for Your Printer? What You Need to Know](/pillars/mvp-pillar-1-calibrating-your-inkjet-to-print-darker-without-usi/).
 
 Ultimately, the choice is yours. But by understanding the differences (or lack thereof) between the Epson EcoTank ET-2800 and ET-2803, you can make an informed decision and choose the printer that best suits your needs and budget. Happy printing!
+
+## Watchdog picks
+
+- [B07D5DN269](/products/b07d5dn269-b07d5dn269/) · [Buy on Amazon](https://www.amazon.com/dp/B07D5DN269?tag=inkledger-20)
+- [B07N1DF9VV](/products/b07n1df9vv-b07n1df9vv/) · [Buy on Amazon](https://www.amazon.com/dp/B07N1DF9VV?tag=inkledger-20)
+- [HP OfficeJet Pro 8125e Wireless All-in-One Color Inkjet Printer, Print, scan, Co](/products/b0ct8zj7zc-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0CT8ZJ7ZC?tag=inkledger-20)
+- [Epson EcoTank ET-2988 Wireless All-in-One Color Supertank Printer with up to 3 Y](/products/b0h476662h-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0H476662H?tag=inkledger-20)
+- [B00CAZAU62](/products/b00cazau62-b00cazau62/) · [Buy on Amazon](https://www.amazon.com/dp/B00CAZAU62?tag=inkledger-20)
+- [Brother Genuine Standard Yield Toner Cartridge, TN730, Replacement Black Toner, ](/products/b075x7tfy5-product/) · [Buy on Amazon](https://www.amazon.com/dp/B075X7TFY5?tag=inkledger-20)
+- [LEVOIT Air Purifier for Home Allergies Pet Hair in Bedroom, Covers Up to 1073 ft](/products/b07vvk39f7-levoit-air-purifier-for-home-allergies-pet-hair-in-bedroom-c/) · [Buy on Amazon](https://www.amazon.com/dp/B07VVK39F7?tag=inkledger-20)
+- [Epson EcoTank ET-2800 Wireless Color All-in-One Cartridge-Free Ink Supertank Pri](/products/b096n8cnbz-product/) · [Buy on Amazon](https://www.amazon.com/dp/B096N8CNBZ?tag=inkledger-20)
+
+## Products in this guide
+
+- [EPSON 522 EcoTank Ink Ultra-high Capacity Bottle Black (T522120-S) Works with ET-2720, 2800, 2803, 2840, 4700, 4800, 481](/products/b07pn7g526-product/)
+- [Epson EcoTank ET-2800 Wireless Color All-in-One Cartridge-Free Ink Supertank Printer with Scan and Copy for Home Use, Wh](/products/b096n8cnbz-product/)
+- [Epson EcoTank ET-2800 Wireless Color All-in-One Cartridge-Free Ink Supertank Printer with Scan and Copy for Home Use, Bl](/products/b096n8dn2h-product/)
+- [Epson 522 EcoTank Ink Ultra-high Capacity Bottle Black & Color Combo Pack (T522120-BCS) Works with ET-2720, 2800, 2803,](/products/b0b4vp5cq4-product/)

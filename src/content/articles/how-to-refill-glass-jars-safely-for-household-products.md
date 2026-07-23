@@ -8,14 +8,16 @@ cardPick: Bulk household staples scored for cost-per-use—not hype.
 updatedAt: '2026-05-12T10:11:44Z'
 
 relatedProducts:
-- "B001QY8QXM"
-- "B00CAZAU62"
-- "B073Q8P6CQ"
-- "B07C11YW88"
-- "B07D5DN269"
-- "B082Y7X9H5"
-- "B09W9MF63Y"
-- "B0BVYBVHK5"
+- B073Q8P6CQ
+- B0BQQLBMPV
+- B0FCS4HWPH
+- B07MCYDD62
+- B08KDQZJQ5
+- B004QM8SLG
+- B06XG5ZJN3
+- B0FBRH75LK
+- B0CQ4VHBMH
+- B0GLTX2PNR
 status: published
 heroImage: /images/hero/how-to-refill-glass-jars-safely-for-household-products.jpg
 subtopic: packaging
@@ -171,3 +173,21 @@ Note: Environmental impact varies with packaging materials of refill sources and
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [B073Q8P6CQ](/products/b073q8p6cq-b073q8p6cq/) · [Buy on Amazon](https://www.amazon.com/dp/B073Q8P6CQ?tag=inkledger-20)
+- [CEEBOO 522 High Capacity (5 Bottles) Refill Ink Replacement for Epson Compatible](/products/b0bqqlbmpv-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0BQQLBMPV?tag=inkledger-20)
+- [B0FCS4HWPH](/products/b0fcs4hwph-b0fcs4hwph/) · [Buy on Amazon](https://www.amazon.com/dp/B0FCS4HWPH?tag=inkledger-20)
+- [HP 962 Cyan, Magenta, Yellow Ink Cartridges - Works with OfficeJet 9010, 9020 - ](/products/b07mcydd62-product/) · [Buy on Amazon](https://www.amazon.com/dp/B07MCYDD62?tag=inkledger-20)
+- [B08KDQZJQ5](/products/b08kdqzjq5-b08kdqzjq5/) · [Buy on Amazon](https://www.amazon.com/dp/B08KDQZJQ5?tag=inkledger-20)
+- [B004QM8SLG](/products/b004qm8slg-b004qm8slg/) · [Buy on Amazon](https://www.amazon.com/dp/B004QM8SLG?tag=inkledger-20)
+- [EPSON 702 DURABrite Ultra Ink Standard Capacity Black & Color Cartridge Combo Pa](/products/b06xg5zjn3-product/) · [Buy on Amazon](https://www.amazon.com/dp/B06XG5ZJN3?tag=inkledger-20)
+- [B0FBRH75LK](/products/b0fbrh75lk-b0fbrh75lk/) · [Buy on Amazon](https://www.amazon.com/dp/B0FBRH75LK?tag=inkledger-20)
+
+## Products in this guide
+
+- [Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)
+- [Inkjet Refill Kit Pro — Compatible with HP, Canon, Epson, and Lexmark Cartridges](/products/b00mfg54b6-inkjet-refill-kit-pro-hp-canon/)
+- [Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)
+- [YIHUA 939D+ Digital Soldering Station, 75W Equivalent with Precision Heat Control (392°F to 896°F) and Built-in Transformer. ESD Safe, Lead Free with °C/°F display (Black)](/products/b07rvmznyr-yihua-939d-digital-soldering-station-75w-equivalent-with-pre/)

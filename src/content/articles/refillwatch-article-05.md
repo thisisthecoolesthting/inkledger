@@ -7,21 +7,16 @@ pillarSlug: refillwatch-pillar-2
 cardTitle: The Ultimate Printer Ink Showdown
 cardPick: Household staples that dodge the printer-ink price trap—real $/use math inside.
 relatedProducts:
-- "B00063RWT8"
-- "B004QM8SLG"
-- "B00NQ1CLTI"
-- "B00WSAXBQ0"
-- "B07C11YW88"
-- "B082Y7X9H5"
-- "B08GX3K9YS"
-- "B093TCYF9T"
-- "B09DY7CCW5"
-- "B0BVYBVHK5"
-- "B0CB75LML9"
-- "B0CGW2TFSV"
-- "B0CYJV9X52"
-- "B0F54TYKF9"
-- "B0GF25F12C"
+- B07Q5J5YXV
+- B096N8DN2H
+- B074RFMST8
+- B077QVSKD5
+- B0FLXG5Z7Q
+- B0D3XGJ6HW
+- B0CT2R7199
+- B09MSPNYQ2
+- B071WB6BGN
+- B0GPFLM562
 status: published
 tags:
 - printer ink
@@ -189,3 +184,21 @@ For graphic designers, the Canon PGI-280XL system costs $0.28/page for photo pri
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [B07Q5J5YXV](/products/b07q5j5yxv-b07q5j5yxv/) · [Buy on Amazon](https://www.amazon.com/dp/B07Q5J5YXV?tag=inkledger-20)
+- [Epson EcoTank ET-2800 Wireless Color All-in-One Cartridge-Free Ink Supertank Pri](/products/b096n8dn2h-product/) · [Buy on Amazon](https://www.amazon.com/dp/B096N8DN2H?tag=inkledger-20)
+- [EPSON 502 EcoTank Ink Ultra-high Capacity Bottle Black Works with ET-2750, 2760,](/products/b074rfmst8-product/) · [Buy on Amazon](https://www.amazon.com/dp/B074RFMST8?tag=inkledger-20)
+- [Aomya Ink Refill Kit 100ml for HP 67 61 65 60 62 63 910 920 901 902 932 933 934 ](/products/b077qvskd5-product/) · [Buy on Amazon](https://www.amazon.com/dp/B077QVSKD5?tag=inkledger-20)
+- [B0FLXG5Z7Q](/products/b0flxg5z7q-b0flxg5z7q/) · [Buy on Amazon](https://www.amazon.com/dp/B0FLXG5Z7Q?tag=inkledger-20)
+- [B0D3XGJ6HW](/products/b0d3xgj6hw-b0d3xgj6hw/) · [Buy on Amazon](https://www.amazon.com/dp/B0D3XGJ6HW?tag=inkledger-20)
+- [HP DeskJet 2855e Wireless All-in-One Color Inkjet Printer, Scanner, Copier, Best](/products/b0ct2r7199-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0CT2R7199?tag=inkledger-20)
+- [B09MSPNYQ2](/products/b09mspnyq2-b09mspnyq2/) · [Buy on Amazon](https://www.amazon.com/dp/B09MSPNYQ2?tag=inkledger-20)
+
+## Products in this guide
+
+- [Inkjet Refill Kit Pro — Compatible with HP, Canon, Epson, and Lexmark Cartridges](/products/b00mfg54b6-inkjet-refill-kit-pro-hp-canon/)
+- [HP 63XL Black High-yield Ink Cartridge](/products/b07rrf8fsx-hp-63xl-black-ink-cartridge/)
+- [Brother Genuine TN730 3-Pack Standard Yield Black Toner Cartridge with Approximately 1,200 Page Yield/Cartridge](/products/b07q8bd3mk-product/)
+- [HP DeskJet 2755 Wireless All-in-One Printer, Mobile Print, Scan & Copy, Instant Ink Ready, Works with Alexa (3XV17A)](/products/b083zy6xfq-product/)

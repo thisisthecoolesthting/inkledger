@@ -7,29 +7,16 @@ pillarSlug: refill-and-reuse
 cardTitle: Are Printer Ink Refill Kits Worth It? A Cost-Benefit Analysis
 cardPick: Household staples that dodge the printer-ink price trap—real $/use math inside.
 relatedProducts:
-- "B00063RWT8"
-- "B004QM8SLG"
-- "B00CBBJ5KY"
-- "B00NQ1CLTI"
-- "B00WSAXBQ0"
-- "B01N5Q9Q6J"
-- "B073Q8P6CQ"
-- "B07C11YW88"
-- "B07P5Y5QHG"
-- "B07R3N9X3F"
-- "B07RVMZNYR"
-- "B07Z6TV9Y7"
-- "B082Y7X9H5"
-- "B08B3K9H7L"
-- "B08GX3K9YS"
-- "B08PDHVZ4N"
-- "B093TCYF9T"
-- "B09DY7CCW5"
-- "B0BVYBVHK5"
-- "B0CB75LML9"
-- "B0CYJV9X52"
-- "B0F54TYKF9"
-- "B0GF25F12C"
+- B0D3XGJ6HW
+- B07T2S3D6J
+- B075M8YX5N
+- B0GYRCQLFV
+- B09W73NQPW
+- B0FT39TGXN
+- B0GCZVZ3SZ
+- B07F97MPYT
+- B09W9MF63Y
+- B0GTL8RCGK
 status: published
 tags:
 - printer ink
@@ -257,3 +244,21 @@ Surprisingly, ink subscriptions make financial sense for users printing 50-150 p
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [B0D3XGJ6HW](/products/b0d3xgj6hw-b0d3xgj6hw/) · [Buy on Amazon](https://www.amazon.com/dp/B0D3XGJ6HW?tag=inkledger-20)
+- [HP Original 962 Cyan, Magenta, Yellow / 962XL Black Ink Cartridges (4-Pack) - Wo](/products/b07t2s3d6j-product/) · [Buy on Amazon](https://www.amazon.com/dp/B07T2S3D6J?tag=inkledger-20)
+- [STAROVER Compatible Toner Cartridge Replacement for Samsung MLT-D111S D111S 111S](/products/b075m8yx5n-product/) · [Buy on Amazon](https://www.amazon.com/dp/B075M8YX5N?tag=inkledger-20)
+- [B0GYRCQLFV](/products/b0gyrcqlfv-b0gyrcqlfv/) · [Buy on Amazon](https://www.amazon.com/dp/B0GYRCQLFV?tag=inkledger-20)
+- [B09W73NQPW](/products/b09w73nqpw-b09w73nqpw/) · [Buy on Amazon](https://www.amazon.com/dp/B09W73NQPW?tag=inkledger-20)
+- [E-Z Ink TN760 Toner for Brother Printer Compatible for Brother TN-760 TN730 TN-7](/products/b0ft39tgxn-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0FT39TGXN?tag=inkledger-20)
+- [Compatible for EPT502 Ink Refill Bottles Eco Tank ET-2850 ET-3850 ET-4850 ET-150](/products/b0gczvz3sz-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0GCZVZ3SZ?tag=inkledger-20)
+- [Extra Deep Queen Sheet Set - 6 Piece Breathable and Cooling Sheets - Hotel Luxur](/products/b07f97mpyt-extra-deep-queen-sheet-set-6-piece-breathable-and-cooling-sh/) · [Buy on Amazon](https://www.amazon.com/dp/B07F97MPYT?tag=inkledger-20)
+
+## Products in this guide
+
+- [HP (Refurbished) OfficeJet Pro 9015e All-in-One Wireless Color Printer for Home Office, Compatible with Alexa (1G5L3A) (](/products/b092t3gbwk-product/)
+- [Epson EcoTank Wireless Color All-in-One Cartridge-Free ET-3850 Supertank Inkjet Printer for Home Office, Scanner, Copier](/products/b0b1j5pycf-product/)
+- [HP Samsung MLT-D116L (SU832A) MLT-D116L Toner Cartridge](/products/b00c18tycy-product/)
+- [Canon PG-245 / CL-246 Genuine Ink Value Pack (2 Cartridges), Compatible with iP2820, MG2420/2924/2920/3020/2522/2525, MX](/products/b00trdoylw-product/)

@@ -6,7 +6,17 @@ tier: mvp
 cardTitle: "cheapest-way-to-print-at-home"
 cardPick: "Editorial printer-ink pick from InkLedger."
 updatedAt: '2026-06-06T03:05:48.102Z'
-relatedProducts: []
+relatedProducts:
+- B00T6RWJMU
+- B0FB96PX2M
+- B0BM9BFLMX
+- B077GLLZBW
+- B01N4IWH2O
+- B08PDHVZ4N
+- B07YGL9XTH
+- B0DPKJJRBG
+- B0BVD54HPS
+- B09XT22566
 status: published
 subtopic: printer-ink
 publishedAt: '2026-06-06T03:05:48.102Z'
@@ -248,3 +258,21 @@ Price data for this article comes from Keepa, which logs every published price c
 - [Brother LC3013BK Individual High-Yield Black Ink Cartridge](/products/b01ms0kdqf-brother-lc3013bk-xl-black-ink/)
 - [Epson 502 Ink Cartridges, Black/Cyan/Magenta/Yellow, 4-Pack](/products/b07gxxsrd2-epson-502-4-color-multipack/)
 - [HP 65 Black Ink Cartridge Works with HP AMP 100, DeskJet 2600, 3700, ENVY 5000 Series](/products/b00004y81q-hp-65-black-ink-cartridge/)
+
+## Watchdog picks
+
+- [B00T6RWJMU](/products/b00t6rwjmu-b00t6rwjmu/) · [Buy on Amazon](https://www.amazon.com/dp/B00T6RWJMU?tag=inkledger-20)
+- [myCartridge SUPRINT Remanufactured Replacement for Epson 702 Ink Cartridges 702X](/products/b0fb96px2m-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0FB96PX2M?tag=inkledger-20)
+- [Epson EcoTank ET-2400 Wireless Color All-in-One Cartridge-Free Supertank Printer](/products/b0bm9bflmx-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0BM9BFLMX?tag=inkledger-20)
+- [Aomya Compatible Ink Refill kit for HP 60 61 63 64 65 902 932 952 564 Refillable](/products/b077gllzbw-product/) · [Buy on Amazon](https://www.amazon.com/dp/B077GLLZBW?tag=inkledger-20)
+- [B01N4IWH2O](/products/b01n4iwh2o-b01n4iwh2o/) · [Buy on Amazon](https://www.amazon.com/dp/B01N4IWH2O?tag=inkledger-20)
+- [B08PDHVZ4N](/products/b08pdhvz4n-b08pdhvz4n/) · [Buy on Amazon](https://www.amazon.com/dp/B08PDHVZ4N?tag=inkledger-20)
+- [Brother Genuine High-Yield Black Toner Cartridge Twin Pack TN760 2Pk, TN7602PK,2](/products/b07ygl9xth-product/) · [Buy on Amazon](https://www.amazon.com/dp/B07YGL9XTH?tag=inkledger-20)
+- [inkgens 31 32XL Ink Bottle Set Refill for HP Smart Tank 7600 7602 7300 7301 7001](/products/b0dpkjjrbg-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0DPKJJRBG?tag=inkledger-20)
+
+## Products in this guide
+
+- [HP OfficeJet Pro 8125e Wireless All-in-One Color Inkjet Printer, Print, scan, Copy, ADF, Duplex Printing Best-for-Home O](/products/b0ct8zj7zc-product/)
+- [HP OfficeJet Pro 9125e Wireless All-in-One Color Inkjet Printer, Print, scan, copy, fax, ADF, Duplex printing best-for-o](/products/b0cfm82ns2-product/)
+- [Inkjet Refill Kit Pro — Compatible with HP, Canon, Epson, and Lexmark Cartridges](/products/b00mfg54b6-inkjet-refill-kit-pro-hp-canon/)
+- [Brother Genuine Standard Yield Toner Cartridge, TN730, Replacement Black Toner, Page Yield Up To 1,200 Pages, Amazon Das](/products/b075x7tfy5-product/)

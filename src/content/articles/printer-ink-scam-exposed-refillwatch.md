@@ -7,15 +7,16 @@ pillarSlug: price-hike-alerts
 cardTitle: Printer Ink Markup
 cardPick: Household staples that dodge the printer-ink price trap—real $/use math inside.
 relatedProducts:
-- "B00CBBJ5KY"
-- "B00NQ1CLTI"
-- "B07C11YW88"
-- "B07RVMZNYR"
-- "B082Y7X9H5"
-- "B08GX3K9YS"
-- "B09W9MF63Y"
-- "B0BVYBVHK5"
-- "B0CYJV9X52"
+- B0GKJZ864R
+- B000N3BBW0
+- B09W9MF63Y
+- B0FT39TGXN
+- B07VVK39F7
+- B08412HXK9
+- B07C11YW88
+- B0FDL1LS3B
+- B0GYNH6H2L
+- B0FKBFH92Q
 status: published
 tags:
 - printer ink scam
@@ -384,3 +385,21 @@ A: Not if you use premium ink—many refillable options match or exceed the qual
 
 **Q: How do I refill a cartridge without making a mess?**  
 A: Most refill kits include syringes and detailed instructions, making the process clean and simple. Just follow the steps carefully and work on a protected surface.
+
+## Watchdog picks
+
+- [HP DeskJet 2955 Wireless All-in-One Color Inkjet Printer, Scanner, Copier, Best-](/products/b0gkjz864r-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0GKJZ864R?tag=inkledger-20)
+- [B000N3BBW0](/products/b000n3bbw0-b000n3bbw0/) · [Buy on Amazon](https://www.amazon.com/dp/B000N3BBW0?tag=inkledger-20)
+- [ecodot 552 Pigment Ink Refill Ink Bottle Replacement for Epson 552 Ink Used for ](/products/b09w9mf63y-ecodot-552-pigment-ink-refill-ink-bottle-replacement-for-eps/) · [Buy on Amazon](https://www.amazon.com/dp/B09W9MF63Y?tag=inkledger-20)
+- [E-Z Ink TN760 Toner for Brother Printer Compatible for Brother TN-760 TN730 TN-7](/products/b0ft39tgxn-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0FT39TGXN?tag=inkledger-20)
+- [LEVOIT Air Purifier for Home Allergies Pet Hair in Bedroom, Covers Up to 1073 ft](/products/b07vvk39f7-levoit-air-purifier-for-home-allergies-pet-hair-in-bedroom-c/) · [Buy on Amazon](https://www.amazon.com/dp/B07VVK39F7?tag=inkledger-20)
+- [HP 67 Black/Tri-Color Ink Cartridges (2-Pack) - Works with DeskJet 1255, 2700, 4](/products/b08412hxk9-product/) · [Buy on Amazon](https://www.amazon.com/dp/B08412HXK9?tag=inkledger-20)
+- [B07C11YW88](/products/b07c11yw88-b07c11yw88/) · [Buy on Amazon](https://www.amazon.com/dp/B07C11YW88?tag=inkledger-20)
+- [B0FDL1LS3B](/products/b0fdl1ls3b-b0fdl1ls3b/) · [Buy on Amazon](https://www.amazon.com/dp/B0FDL1LS3B?tag=inkledger-20)
+
+## Products in this guide
+
+- [Brother Printer LC30193PK Super High Yield XXL 3 Pack Ink Cartridges- 1 Ea: Cyan/Magenta/Yellow Ink](/products/b01n4k0zfe-product/)
+- [Brother Genuine Standard Yield Toner Cartridge, TN730, Replacement Black Toner, Page Yield Up To 1,200 Pages, Amazon Das](/products/b075x7tfy5-product/)
+- [Aomya Ink Refill Kit 100ml for HP 67 61 65 60 62 63 910 920 901 902 932 933 934 940 952 94 95 96 Inkjet Printer Cartridg](/products/b077qvskd5-product/)
+- [HP DeskJet 2755 Wireless All-in-One Printer, Mobile Print, Scan & Copy, Instant Ink Ready, Works with Alexa (3XV17A)](/products/b083zy6xfq-product/)

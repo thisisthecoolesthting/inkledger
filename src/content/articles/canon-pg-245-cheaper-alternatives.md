@@ -6,7 +6,17 @@ tier: mvp
 cardTitle: "canon-pg-245-cheaper-alternatives"
 cardPick: "Editorial printer-ink pick from InkLedger."
 updatedAt: '2026-06-06T03:05:48.098Z'
-relatedProducts: []
+relatedProducts:
+- B0GYNH6H2L
+- B0FW9LH3Q5
+- B0B7MKRR58
+- B0GYNVJ62W
+- B09TG52XT4
+- B0BVYBVHK5
+- B00NQ1CLTI
+- B0FLXJHGR7
+- B0G1NBKD38
+- B089CGSV4N
 status: published
 subtopic: printer-ink
 publishedAt: '2026-06-06T03:05:48.098Z'
@@ -191,3 +201,21 @@ Price data for this article comes from Keepa, which logs every published price c
 - [HP 65 Black Ink Cartridge Works with HP AMP 100, DeskJet 2600, 3700, ENVY 5000 Series](/products/b00004y81q-hp-65-black-ink-cartridge/)
 - [Brother LC3013BK Individual High-Yield Black Ink Cartridge](/products/b01ms0kdqf-brother-lc3013bk-xl-black-ink/)
 - [HP 63XL Black High-yield Ink Cartridge](/products/b07rrf8fsx-hp-63xl-black-ink-cartridge/)
+
+## Watchdog picks
+
+- [B0GYNH6H2L](/products/b0gynh6h2l-b0gynh6h2l/) · [Buy on Amazon](https://www.amazon.com/dp/B0GYNH6H2L?tag=inkledger-20)
+- [67XL 67 XL 6055e 2755e 2800e 2855e 6000 Ink Cartridges Black/Color Combo Pack Co](/products/b0fw9lh3q5-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0FW9LH3Q5?tag=inkledger-20)
+- [B0B7MKRR58](/products/b0b7mkrr58-b0b7mkrr58/) · [Buy on Amazon](https://www.amazon.com/dp/B0B7MKRR58?tag=inkledger-20)
+- [B0GYNVJ62W](/products/b0gynvj62w-b0gynvj62w/) · [Buy on Amazon](https://www.amazon.com/dp/B0GYNVJ62W?tag=inkledger-20)
+- [B09TG52XT4](/products/b09tg52xt4-b09tg52xt4/) · [Buy on Amazon](https://www.amazon.com/dp/B09TG52XT4?tag=inkledger-20)
+- [280XXL 281XXL Ink for Canon Ink 280 281 Replacement for Canon TR8620 Ink Cartrid](/products/b0bvybvhk5-280xxl-281xxl-ink-for-canon-ink-280-281-replacement-for-cano/) · [Buy on Amazon](https://www.amazon.com/dp/B0BVYBVHK5?tag=inkledger-20)
+- [Brother HL-L2300D Monochrome Laser Printer with Duplex Printing](/products/b00nq1clti-brother-hl-l2300d-monochrome-laser-printer-with-duplex-print/) · [Buy on Amazon](https://www.amazon.com/dp/B00NQ1CLTI?tag=inkledger-20)
+- [TN760 Toner for Brother Printer TN730: Compatible for Brother TN-730/TN-760 TN 7](/products/b0flxjhgr7-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0FLXJHGR7?tag=inkledger-20)
+
+## Products in this guide
+
+- [Valuetoner 245XL Ink Cartridge Replacement for Canon 245XL 246XL Combo Pack PG-245XL CL-246XL for Pixma TR4520 TR4527 MG](/products/b07tj87ykb-product/)
+- [Ink Cartridge Printer Replacement Part Compatible with Expression Photo XP-15000](/products/b0gvgsv2kl-product/)
+- [B0041RRMQS](/products/b0041rrmqs-b0041rrmqs/)
+- [HP Samsung MLT-D116L (SU832A) MLT-D116L Toner Cartridge](/products/b00c18tycy-product/)

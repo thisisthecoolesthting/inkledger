@@ -7,17 +7,16 @@ pillarSlug: refillwatch-pillar-3
 cardTitle: Printer Ink Price Hikes
 cardPick: Household staples that dodge the printer-ink price trap—real $/use math inside.
 relatedProducts:
-- "B00NQ1CLTI"
-- "B00WSAXBQ0"
-- "B07C11YW88"
-- "B07RVMZNYR"
-- "B082Y7X9H5"
-- "B083BFPGD8"
-- "B08GX3K9YS"
-- "B0BVYBVHK5"
-- "B0CYJV9X52"
-- "B0DYNQ1WP7"
-- "B0FT32PL8L"
+- B08GX3K9YS
+- B00762AHTE
+- B07D5DN269
+- B0D8B24CTB
+- B0DPYJWX2F
+- B0BTXXQ5TC
+- B07J2P2V7T
+- B0F7K193ZR
+- B098JD8HD3
+- B0F1FNZB62
 status: published
 tags:
 - printer ink price hike
@@ -199,3 +198,21 @@ After tracking prices across 37 ink models, we recommend the EZ Ink Refill Kit f
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [LxTek Compatible Toner Cartridge 6510 6515 106R03480 106R03477 106R03478 106R034](/products/b08gx3k9ys-lxtek-compatible-toner-cartridge-6510-6515-106r03480-106r034/) · [Buy on Amazon](https://www.amazon.com/dp/B08GX3K9YS?tag=inkledger-20)
+- [B00762AHTE](/products/b00762ahte-b00762ahte/) · [Buy on Amazon](https://www.amazon.com/dp/B00762AHTE?tag=inkledger-20)
+- [B07D5DN269](/products/b07d5dn269-b07d5dn269/) · [Buy on Amazon](https://www.amazon.com/dp/B07D5DN269?tag=inkledger-20)
+- [B0D8B24CTB](/products/b0d8b24ctb-b0d8b24ctb/) · [Buy on Amazon](https://www.amazon.com/dp/B0D8B24CTB?tag=inkledger-20)
+- [B0DPYJWX2F](/products/b0dpyjwx2f-b0dpyjwx2f/) · [Buy on Amazon](https://www.amazon.com/dp/B0DPYJWX2F?tag=inkledger-20)
+- [MLT-D111S 111S Toner Cartridge High Yield Replacement for Samsung MLT-D111S MLTD](/products/b0btxxq5tc-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0BTXXQ5TC?tag=inkledger-20)
+- [B07J2P2V7T](/products/b07j2p2v7t-b07j2p2v7t/) · [Buy on Amazon](https://www.amazon.com/dp/B07J2P2V7T?tag=inkledger-20)
+- [B0F7K193ZR](/products/b0f7k193zr-b0f7k193zr/) · [Buy on Amazon](https://www.amazon.com/dp/B0F7K193ZR?tag=inkledger-20)
+
+## Products in this guide
+
+- [Brother Genuine Standard Yield Toner Cartridge, TN730, Replacement Black Toner, Page Yield Up To 1,200 Pages, Amazon Das](/products/b075x7tfy5-product/)
+- [Remanufactured Replacement for Epson 702 Ink Cartridges for 702XL Ink cartridges Combo Pack Work with Printer Workforce](/products/b0ct2ltf55-product/)
+- [Ink Cartridge Printer Replacement Part Compatible with Expression Photo XP-15000](/products/b0gvgsv2kl-product/)
+- [B0041RRMQS](/products/b0041rrmqs-b0041rrmqs/)

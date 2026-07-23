@@ -8,14 +8,16 @@ cardPick: Concentrates and refill-friendly cleaners that shrink plastic and repe
 updatedAt: '2026-05-12T09:46:48Z'
 
 relatedProducts:
-- "B001QY8QXM"
-- "B00CAZAU62"
-- "B073Q8P6CQ"
-- "B07C11YW88"
-- "B07D5DN269"
-- "B07RVMZNYR"
-- "B09W9MF63Y"
-- "B0BVYBVHK5"
+- B0GMKRR64P
+- B0GF3BX4P4
+- B001ET76H8
+- B0014D3N0Q
+- B0G34F2S65
+- B0FLXGHLHS
+- B00SAYAKPK
+- B07N1DF9VV
+- B0GFMH3D3X
+- B0D92PVDQH
 status: published
 heroImage: /images/hero/concentrates-for-cleaning-cost-efficiency-and-environmental-benefits.jpg
 subtopic: cleaning
@@ -169,3 +171,21 @@ Here’s a comparison of cleaning concentrates against traditional pre-diluted l
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [B0GMKRR64P](/products/b0gmkrr64p-b0gmkrr64p/) · [Buy on Amazon](https://www.amazon.com/dp/B0GMKRR64P?tag=inkledger-20)
+- [Skydo 141A Toner Cartridge 2 Black Replacement for HP 141A W1410A 141X W1410X To](/products/b0gf3bx4p4-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0GF3BX4P4?tag=inkledger-20)
+- [B001ET76H8](/products/b001et76h8-b001et76h8/) · [Buy on Amazon](https://www.amazon.com/dp/B001ET76H8?tag=inkledger-20)
+- [B0014D3N0Q](/products/b0014d3n0q-b0014d3n0q/) · [Buy on Amazon](https://www.amazon.com/dp/B0014D3N0Q?tag=inkledger-20)
+- [B0G34F2S65](/products/b0g34f2s65-b0g34f2s65/) · [Buy on Amazon](https://www.amazon.com/dp/B0G34F2S65?tag=inkledger-20)
+- [Printer Ink 67 Compatible for HP 67 Ink Cartridges Black/Color Combo Pack for HP](/products/b0flxghlhs-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0FLXGHLHS?tag=inkledger-20)
+- [B00SAYAKPK](/products/b00sayakpk-b00sayakpk/) · [Buy on Amazon](https://www.amazon.com/dp/B00SAYAKPK?tag=inkledger-20)
+- [B07N1DF9VV](/products/b07n1df9vv-b07n1df9vv/) · [Buy on Amazon](https://www.amazon.com/dp/B07N1DF9VV?tag=inkledger-20)
+
+## Products in this guide
+
+- [Inkjet Refill Kit Pro — Compatible with HP, Canon, Epson, and Lexmark Cartridges](/products/b00mfg54b6-inkjet-refill-kit-pro-hp-canon/)
+- [EPSON 702 DURABrite Ultra Ink High Capacity Black & Standard Color Cartridge Combo Pack (T702XL-BCS) Works with WorkForc](/products/b071wb6bgn-product/)
+- [EPSON 502 EcoTank Ink Ultra-high Capacity Bottle Black Works with ET-2750, 2760, 2850, 3750, 3760, 3850, 4850, and other](/products/b074rfmst8-product/)
+- [EPSON 502 EcoTank Ink Ultra-high Capacity Bottle Color Combo Pack Works with ET-2750, 2760, 2850, 3750, 3760, 3850, 4850](/products/b074rg6pn1-product/)

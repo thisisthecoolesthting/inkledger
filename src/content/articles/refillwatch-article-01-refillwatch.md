@@ -7,16 +7,16 @@ pillarSlug: refillwatch-pillar-1
 cardTitle: Printer Ink Price Hikes
 cardPick: Household staples that dodge the printer-ink price trap—real $/use math inside.
 relatedProducts:
-- "B00NQ1CLTI"
-- "B00WSAXBQ0"
-- "B07C11YW88"
-- "B082Y7X9H5"
-- "B083BFPGD8"
-- "B08GX3K9YS"
-- "B0BVYBVHK5"
-- "B0CYJV9X52"
-- "B0DYNQ1WP7"
-- "B0FT32PL8L"
+- B09WDBHXB3
+- B004QM8SLG
+- B09W73NQPW
+- B0FHDJXJNZ
+- B000H0XFCS
+- B0BL466Y41
+- B00CAZAU62
+- B0BHXNP6B1
+- B083ZY6XFQ
+- B01N7V39UO
 status: published
 tags:
 - printer ink
@@ -316,3 +316,21 @@ A: Most manufacturers can’t legally void warranties solely for using refills, 
 
 **Q: How do ink refills help the environment compared to disposable cartridges?**  
 A: Refills reduce plastic waste—over 375 million cartridges are dumped yearly—and cut carbon emissions from manufacturing and shipping new ones.
+
+## Watchdog picks
+
+- [B09WDBHXB3](/products/b09wdbhxb3-b09wdbhxb3/) · [Buy on Amazon](https://www.amazon.com/dp/B09WDBHXB3?tag=inkledger-20)
+- [B004QM8SLG](/products/b004qm8slg-b004qm8slg/) · [Buy on Amazon](https://www.amazon.com/dp/B004QM8SLG?tag=inkledger-20)
+- [B09W73NQPW](/products/b09w73nqpw-b09w73nqpw/) · [Buy on Amazon](https://www.amazon.com/dp/B09W73NQPW?tag=inkledger-20)
+- [B0FHDJXJNZ](/products/b0fhdjxjnz-b0fhdjxjnz/) · [Buy on Amazon](https://www.amazon.com/dp/B0FHDJXJNZ?tag=inkledger-20)
+- [B000H0XFCS](/products/b000h0xfcs-b000h0xfcs/) · [Buy on Amazon](https://www.amazon.com/dp/B000H0XFCS?tag=inkledger-20)
+- [B0BL466Y41](/products/b0bl466y41-b0bl466y41/) · [Buy on Amazon](https://www.amazon.com/dp/B0BL466Y41?tag=inkledger-20)
+- [B00CAZAU62](/products/b00cazau62-b00cazau62/) · [Buy on Amazon](https://www.amazon.com/dp/B00CAZAU62?tag=inkledger-20)
+- [Epson EcoTank ET-2803 Wireless Color All-in-One Cartridge-Free Supertank Printer](/products/b0bhxnp6b1-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0BHXNP6B1?tag=inkledger-20)
+
+## Products in this guide
+
+- [Brother HL-L2300D Monochrome Laser Printer with Duplex Printing](/products/b00nq1clti-brother-hl-l2300d-monochrome-laser-printer-with-duplex-print/)
+- [HP DeskJet 2755 Wireless All-in-One Printer, Mobile Print, Scan & Copy, Instant Ink Ready, Works with Alexa (3XV17A)](/products/b083zy6xfq-product/)
+- [HP (Refurbished) OfficeJet Pro 9015e All-in-One Wireless Color Printer for Home Office, Compatible with Alexa (1G5L3A) (](/products/b092t3gbwk-product/)
+- [Epson EcoTank ET-2800 Wireless Color All-in-One Cartridge-Free Ink Supertank Printer with Scan and Copy for Home Use, Wh](/products/b096n8cnbz-product/)

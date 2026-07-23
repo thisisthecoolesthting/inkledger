@@ -6,7 +6,17 @@ tier: mvp
 cardTitle: "best-black-white-laser-printers-home"
 cardPick: "Editorial printer-ink pick from InkLedger."
 updatedAt: '2026-06-06T03:05:48.077Z'
-relatedProducts: []
+relatedProducts:
+- B075M8YX5N
+- B07ZHTFF44
+- B0014D3N0Q
+- B00B5JOC5C
+- B075X7TFY5
+- B0FCS1B33K
+- B09PH83KK5
+- B0CFM82NS2
+- B0D41ZMDPD
+- B0F7K193ZR
 status: published
 subtopic: printer-ink
 publishedAt: '2026-06-06T03:05:48.077Z'
@@ -88,3 +98,21 @@ While black and white laser printers are excellent for text-based documents, the
 *   **Ditching Paper Altogether:** Before investing in any printer, consider whether you can reduce your printing needs by going paperless. Many documents can be viewed and shared digitally, saving you money on paper, ink/toner, and storage space.
 
 By carefully considering your printing needs and comparing the cost per page of different printers and toner cartridges, you can choose the best black and white laser printer for your home and save a significant amount of money in the long run. Don't fall victim to overpriced ink cartridges! Do your research and make an informed decision.
+
+## Watchdog picks
+
+- [STAROVER Compatible Toner Cartridge Replacement for Samsung MLT-D111S D111S 111S](/products/b075m8yx5n-product/) · [Buy on Amazon](https://www.amazon.com/dp/B075M8YX5N?tag=inkledger-20)
+- [B07ZHTFF44](/products/b07zhtff44-b07zhtff44/) · [Buy on Amazon](https://www.amazon.com/dp/B07ZHTFF44?tag=inkledger-20)
+- [B0014D3N0Q](/products/b0014d3n0q-b0014d3n0q/) · [Buy on Amazon](https://www.amazon.com/dp/B0014D3N0Q?tag=inkledger-20)
+- [B00B5JOC5C](/products/b00b5joc5c-b00b5joc5c/) · [Buy on Amazon](https://www.amazon.com/dp/B00B5JOC5C?tag=inkledger-20)
+- [Brother Genuine Standard Yield Toner Cartridge, TN730, Replacement Black Toner, ](/products/b075x7tfy5-product/) · [Buy on Amazon](https://www.amazon.com/dp/B075X7TFY5?tag=inkledger-20)
+- [B0FCS1B33K](/products/b0fcs1b33k-b0fcs1b33k/) · [Buy on Amazon](https://www.amazon.com/dp/B0FCS1B33K?tag=inkledger-20)
+- [B09PH83KK5](/products/b09ph83kk5-b09ph83kk5/) · [Buy on Amazon](https://www.amazon.com/dp/B09PH83KK5?tag=inkledger-20)
+- [HP OfficeJet Pro 9125e Wireless All-in-One Color Inkjet Printer, Print, scan, co](/products/b0cfm82ns2-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0CFM82NS2?tag=inkledger-20)
+
+## Products in this guide
+
+- [Inkjet Refill Kit Pro — Compatible with HP, Canon, Epson, and Lexmark Cartridges](/products/b00mfg54b6-inkjet-refill-kit-pro-hp-canon/)
+- [HP OfficeJet Pro 8125e Wireless All-in-One Color Inkjet Printer, Print, scan, Copy, ADF, Duplex Printing Best-for-Home O](/products/b0ct8zj7zc-product/)
+- [Brother LC3013BK Individual High-Yield Black Ink Cartridge](/products/b01ms0kdqf-brother-lc3013bk-xl-black-ink/)
+- [Epson 502 Ink Cartridges, Black/Cyan/Magenta/Yellow, 4-Pack](/products/b07gxxsrd2-epson-502-4-color-multipack/)

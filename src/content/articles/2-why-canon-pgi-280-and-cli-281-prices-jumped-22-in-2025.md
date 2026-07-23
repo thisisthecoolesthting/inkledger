@@ -4,7 +4,17 @@ site: inkledger
 topic: 2. Why Canon PGI-280 and CLI-281 prices jumped 22% in 2025
 tier: mvp
 updatedAt: '2026-05-12T05:47:07Z'
-relatedProducts: []
+relatedProducts:
+- B08KDQZJQ5
+- B07YPR2DGH
+- B09N4Z8DNL
+- B0G33T139M
+- B0BN57XFD8
+- B0F2478Q95
+- B0BTSZ81C7
+- B077QVSKD5
+- B0G1NBKD38
+- B0CYJV9X52
 status: published
 heroImage: /heroes/2-why-canon-pgi-280-and-cli-281-prices-jumped-22-in-2025.webp
 subtopic: printers
@@ -135,3 +145,21 @@ Rising costs for OEM Canon PGI-280 and CLI-281 cartridges are a pain point, but 
 <a href="https://www.amazon.com/dp/B07X4SR5MN?tag=inkledger-20" rel="sponsored noopener" target="_blank" style="display:flex;align-items:center;gap:12px;text-decoration:none;margin:8px 0;padding:10px 12px;border:1px solid #e2e8f0;border-radius:10px;background:#f8fafc;"><img src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07X4SR5MN&Format=_SL100_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=inkledger-20" alt="Arteza Expert Colored Pencils 72-Pack" width="80" height="80" loading="lazy" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;border-radius:6px;background:#fff;" /><div style="min-width:0;"><strong style="display:block;color:#1e293b;font-size:0.9em;">Arteza Expert Colored Pencils 72-Pack</strong><span style="color:#64748b;font-size:0.82em;line-height:1.4;">Soft wax-oil core, 72 highly pigmented colors, in a sturdy metal tin.</span></div></a>
 
 <a href="https://www.amazon.com/dp/B00EWUNJN4?tag=inkledger-20" rel="sponsored noopener" target="_blank" style="display:flex;align-items:center;gap:12px;text-decoration:none;margin:8px 0;padding:10px 12px;border:1px solid #e2e8f0;border-radius:10px;background:#f8fafc;"><img src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00EWUNJN4&Format=_SL100_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=inkledger-20" alt="Canon PIXMA iX6820 Wireless Printer" width="80" height="80" loading="lazy" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;border-radius:6px;background:#fff;" /><div style="min-width:0;"><strong style="display:block;color:#1e293b;font-size:0.9em;">Canon PIXMA iX6820 Wireless Printer</strong><span style="color:#64748b;font-size:0.82em;line-height:1.4;">Wireless 13x19 borderless printing—affordable wide-format for small art print runs.</span></div></a>
+
+## Watchdog picks
+
+- [B08KDQZJQ5](/products/b08kdqzjq5-b08kdqzjq5/) · [Buy on Amazon](https://www.amazon.com/dp/B08KDQZJQ5?tag=inkledger-20)
+- [B07YPR2DGH](/products/b07ypr2dgh-b07ypr2dgh/) · [Buy on Amazon](https://www.amazon.com/dp/B07YPR2DGH?tag=inkledger-20)
+- [HP 141A Black Toner Cartridge - Works with LaserJet M110, LaserJet MFP M139, M14](/products/b09n4z8dnl-product/) · [Buy on Amazon](https://www.amazon.com/dp/B09N4Z8DNL?tag=inkledger-20)
+- [EaseFusion Replacement for Epson 502 Ink Refill Bottles Work with ET-2850 ET-385](/products/b0g33t139m-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0G33T139M?tag=inkledger-20)
+- [B0BN57XFD8](/products/b0bn57xfd8-b0bn57xfd8/) · [Buy on Amazon](https://www.amazon.com/dp/B0BN57XFD8?tag=inkledger-20)
+- [B0F2478Q95](/products/b0f2478q95-b0f2478q95/) · [Buy on Amazon](https://www.amazon.com/dp/B0F2478Q95?tag=inkledger-20)
+- [B0BTSZ81C7](/products/b0btsz81c7-b0btsz81c7/) · [Buy on Amazon](https://www.amazon.com/dp/B0BTSZ81C7?tag=inkledger-20)
+- [Aomya Ink Refill Kit 100ml for HP 67 61 65 60 62 63 910 920 901 902 932 933 934 ](/products/b077qvskd5-product/) · [Buy on Amazon](https://www.amazon.com/dp/B077QVSKD5?tag=inkledger-20)
+
+## Products in this guide
+
+- [HP Original 962 Cyan, Magenta, Yellow / 962XL Black Ink Cartridges (4-Pack) | Works OfficeJet 9010 Series, OfficeJet Pro](/products/b07t2s3d6j-product/)
+- [Inkjet Refill Kit Pro — Compatible with HP, Canon, Epson, and Lexmark Cartridges](/products/b00mfg54b6-inkjet-refill-kit-pro-hp-canon/)
+- [Brother Printer LC30193PK Super High Yield XXL 3 Pack Ink Cartridges- 1 Ea: Cyan/Magenta/Yellow Ink](/products/b01n4k0zfe-product/)
+- [HP Original 67 Tri-Color / 67XL Black Ink Cartridges (2-Pack) | Works DeskJet 1255, 2700, 4100 Series Envy 6000, 6400 Se](/products/b08swn848g-product/)

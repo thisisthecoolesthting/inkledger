@@ -7,22 +7,16 @@ pillarSlug: refill-and-reusable-guides
 cardTitle: The Best Reusable Water Bottles to Save Money and the Planet
 cardPick: Water and grocery price traps—pitcher, coffee, and bulk staples compared.
 relatedProducts:
-- "B004QM8SLG"
-- "B00CBBJ5KY"
-- "B00NQ1CLTI"
-- "B00WSAXBQ0"
-- "B07C11YW88"
-- "B07RVMZNYR"
-- "B082Y7X9H5"
-- "B083BFPGD8"
-- "B0846GFNCQ"
-- "B093TCYF9T"
-- "B099NZC4PB"
-- "B0BVYBVHK5"
-- "B0C7ZTV376"
-- "B0CB75LML9"
-- "B0D92PVDQH"
-- "B0GF25F12C"
+- B08QR6P8KV
+- B00C18TYCY
+- B07C11YW88
+- B0BTSZ81C7
+- B0GVGSV2KL
+- B09W9MF63Y
+- B0BQQLBMPV
+- B0CZSFG7VX
+- B0CCT8H4YK
+- B07Q8BD3MK
 status: published
 tags:
 - reusable water bottles
@@ -242,3 +236,21 @@ Total daily cost: $0.25 vs $3.48 for equivalent bottled water
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [B08QR6P8KV](/products/b08qr6p8kv-b08qr6p8kv/) · [Buy on Amazon](https://www.amazon.com/dp/B08QR6P8KV?tag=inkledger-20)
+- [HP Samsung MLT-D116L (SU832A) MLT-D116L Toner Cartridge](/products/b00c18tycy-product/) · [Buy on Amazon](https://www.amazon.com/dp/B00C18TYCY?tag=inkledger-20)
+- [B07C11YW88](/products/b07c11yw88-b07c11yw88/) · [Buy on Amazon](https://www.amazon.com/dp/B07C11YW88?tag=inkledger-20)
+- [B0BTSZ81C7](/products/b0btsz81c7-b0btsz81c7/) · [Buy on Amazon](https://www.amazon.com/dp/B0BTSZ81C7?tag=inkledger-20)
+- [Ink Cartridge Printer Replacement Part Compatible with Expression Photo XP-15000](/products/b0gvgsv2kl-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0GVGSV2KL?tag=inkledger-20)
+- [ecodot 552 Pigment Ink Refill Ink Bottle Replacement for Epson 552 Ink Used for ](/products/b09w9mf63y-ecodot-552-pigment-ink-refill-ink-bottle-replacement-for-eps/) · [Buy on Amazon](https://www.amazon.com/dp/B09W9MF63Y?tag=inkledger-20)
+- [CEEBOO 522 High Capacity (5 Bottles) Refill Ink Replacement for Epson Compatible](/products/b0bqqlbmpv-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0BQQLBMPV?tag=inkledger-20)
+- [B0CZSFG7VX](/products/b0czsfg7vx-b0czsfg7vx/) · [Buy on Amazon](https://www.amazon.com/dp/B0CZSFG7VX?tag=inkledger-20)
+
+## Products in this guide
+
+- [Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)
+- [Inkjet Refill Kit Pro — Compatible with HP, Canon, Epson, and Lexmark Cartridges](/products/b00mfg54b6-inkjet-refill-kit-pro-hp-canon/)
+- [B0041RRMQS](/products/b0041rrmqs-b0041rrmqs/)
+- [HP Samsung MLT-D116L (SU832A) MLT-D116L Toner Cartridge](/products/b00c18tycy-product/)

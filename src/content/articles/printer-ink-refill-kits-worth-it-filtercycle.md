@@ -7,29 +7,16 @@ pillarSlug: refill-and-reuse
 cardTitle: Are Printer Ink Refill Kits Worth It? A Cost-Benefit Analysis
 cardPick: Household staples that dodge the printer-ink price trap—real $/use math inside.
 relatedProducts:
-- "B00063RWT8"
-- "B004QM8SLG"
-- "B00CBBJ5KY"
-- "B00NQ1CLTI"
-- "B00WSAXBQ0"
-- "B01N5Q9Q6J"
-- "B073Q8P6CQ"
-- "B07C11YW88"
-- "B07P5Y5QHG"
-- "B07R3N9X3F"
-- "B07RVMZNYR"
-- "B07Z6TV9Y7"
-- "B082Y7X9H5"
-- "B08B3K9H7L"
-- "B08GX3K9YS"
-- "B08PDHVZ4N"
-- "B093TCYF9T"
-- "B09DY7CCW5"
-- "B0BVYBVHK5"
-- "B0CB75LML9"
-- "B0CYJV9X52"
-- "B0F54TYKF9"
-- "B0GF25F12C"
+- B08PDHVZ4N
+- B0854BN273
+- B09XT22566
+- B09VXQ221K
+- B075X6C5ZW
+- B0GLTX2PNR
+- B01NBB1J9U
+- B07YPR2DGH
+- B07D5DN269
+- B07Q8BD3MK
 status: published
 tags:
 - printer ink
@@ -257,3 +244,21 @@ Surprisingly, ink subscriptions make financial sense for users printing 50-150 p
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [B08PDHVZ4N](/products/b08pdhvz4n-b08pdhvz4n/) · [Buy on Amazon](https://www.amazon.com/dp/B08PDHVZ4N?tag=inkledger-20)
+- [B0854BN273](/products/b0854bn273-b0854bn273/) · [Buy on Amazon](https://www.amazon.com/dp/B0854BN273?tag=inkledger-20)
+- [B09XT22566](/products/b09xt22566-b09xt22566/) · [Buy on Amazon](https://www.amazon.com/dp/B09XT22566?tag=inkledger-20)
+- [Soldering Iron Kit, 60W Adjustable Temperature, Digital Multimeter, 5pcs Solderi](/products/b09vxq221k-soldering-iron-kit-60w-adjustable-temperature-digital-multim/) · [Buy on Amazon](https://www.amazon.com/dp/B09VXQ221K?tag=inkledger-20)
+- [Brother Genuine TN760 High Yield Black Toner Cartridge, (for use with MFC-L2710D](/products/b075x6c5zw-product/) · [Buy on Amazon](https://www.amazon.com/dp/B075X6C5ZW?tag=inkledger-20)
+- [HP 63XL/65XL Black High-Yield Ink Cartridge (Replaces and Works with Both 63XL &](/products/b0gltx2pnr-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0GLTX2PNR?tag=inkledger-20)
+- [B01NBB1J9U](/products/b01nbb1j9u-b01nbb1j9u/) · [Buy on Amazon](https://www.amazon.com/dp/B01NBB1J9U?tag=inkledger-20)
+- [B07YPR2DGH](/products/b07ypr2dgh-b07ypr2dgh/) · [Buy on Amazon](https://www.amazon.com/dp/B07YPR2DGH?tag=inkledger-20)
+
+## Products in this guide
+
+- [HP (Refurbished) OfficeJet Pro 9015e All-in-One Wireless Color Printer for Home Office, Compatible with Alexa (1G5L3A) (](/products/b092t3gbwk-product/)
+- [Epson EcoTank Wireless Color All-in-One Cartridge-Free ET-3850 Supertank Inkjet Printer for Home Office, Scanner, Copier](/products/b0b1j5pycf-product/)
+- [HP Samsung MLT-D116L (SU832A) MLT-D116L Toner Cartridge](/products/b00c18tycy-product/)
+- [Canon PG-245 / CL-246 Genuine Ink Value Pack (2 Cartridges), Compatible with iP2820, MG2420/2924/2920/3020/2522/2525, MX](/products/b00trdoylw-product/)

@@ -8,15 +8,16 @@ excerpt: Canon PGI-280 and CLI-281 ink cartridge prices spiked 22% in early 2025
   maintain print quality without breaking the bank.
 pillarSlug: general
 relatedProducts:
-- "B01BYKUI9C"
-- "B077QVSKD5"
-- "B08412HXK9"
-- "B08SWN848G"
-- "B0B4VP5CQ4"
-- "B0CCT8H4YK"
-- "B0CQ4VHBMH"
-- "B0FKBFH92Q"
-- "B0GLTX2PNR"
+- B0FMBGXC2C
+- B07J2P2V7T
+- B09DY7CCW5
+- B0FBRH75LK
+- B01N5Q9Q6J
+- B07MK5DG9V
+- B08412HXK9
+- B0B1J5PYCF
+- B0CWP64QMT
+- B00QJ88SB0
 status: published
 tags:
 - canon
@@ -48,6 +49,16 @@ Pro Tip: Reset your [printer](https://www.amazon.com/dp/B0CCT8H4YK?tag=inkledger
 ## The Bottom Line
 
 While OEM ink prices fluctuate, our testing shows these alternatives deliver comparable print quality. For occasional users, consider buying single cartridges during Amazon lightning deals (we've seen the CLI-281 [pack](https://www.amazon.com/dp/B08412HXK9?tag=inkledger-20) drop to $36.99 during promotions). High-volume printers should explore bulk ink systems for maximum savings.
+## Watchdog picks
+
+- [B0FMBGXC2C](/products/b0fmbgxc2c-b0fmbgxc2c/) · [Buy on Amazon](https://www.amazon.com/dp/B0FMBGXC2C?tag=inkledger-20)
+- [Utopia Bedding Bed Pillows for Sleeping Queen Size (Blue), Set of 6, Cooling Hot](/products/b07j2p2v7t-utopia-bedding-bed-pillows-for-sleeping-queen-size-blue-set-/) · [Buy on Amazon](https://www.amazon.com/dp/B07J2P2V7T?tag=inkledger-20)
+- [60W Adjustable Temperature Soldering Iron Kit - 9-in-1 With 5 Tips, Solder Wire ](/products/b09dy7ccw5-60w-adjustable-temperature-soldering-iron-kit-9-in-1-with-5-/) · [Buy on Amazon](https://www.amazon.com/dp/B09DY7CCW5?tag=inkledger-20)
+- [B0FBRH75LK](/products/b0fbrh75lk-b0fbrh75lk/) · [Buy on Amazon](https://www.amazon.com/dp/B0FBRH75LK?tag=inkledger-20)
+- [B01N5Q9Q6J](/products/b01n5q9q6j-b01n5q9q6j/) · [Buy on Amazon](https://www.amazon.com/dp/B01N5Q9Q6J?tag=inkledger-20)
+- [HP 962XL Black High-Yield Ink Cartridge - Works with OfficeJet 9010, Pro 9010, 9](/products/b07mk5dg9v-product/) · [Buy on Amazon](https://www.amazon.com/dp/B07MK5DG9V?tag=inkledger-20)
+- [HP 67 Black/Tri-Color Ink Cartridges (2-Pack) - Works with DeskJet 1255, 2700, 4](/products/b08412hxk9-product/) · [Buy on Amazon](https://www.amazon.com/dp/B08412HXK9?tag=inkledger-20)
+- [Epson EcoTank Wireless Color All-in-One Cartridge-Free ET-3850 Supertank Inkjet ](/products/b0b1j5pycf-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0B1J5PYCF?tag=inkledger-20)
 
 ## Products in this guide
 

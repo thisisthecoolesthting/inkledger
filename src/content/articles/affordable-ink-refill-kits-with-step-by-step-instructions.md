@@ -4,7 +4,17 @@ site: inkledger
 topic: Affordable Ink Refill Kits with Step-by-Step Instructions
 tier: mvp
 updatedAt: '2026-05-12T08:43:36Z'
-relatedProducts: []
+relatedProducts:
+- B012IWR5X2
+- B09ZVMYHGF
+- B09W73NQPW
+- B002R5AF1I
+- B089CGSV4N
+- B08SWN848G
+- B09W9MF63Y
+- B0BM9BFLMX
+- B01NBB1J9U
+- B092T3GBWK
 status: published
 heroImage: /heroes/affordable-ink-refill-kits-with-step-by-step-instructions.webp
 subtopic: cartridges
@@ -138,3 +148,21 @@ Affordable ink refill kits represent one of the most cost-effective solutions fo
 <a href="https://www.amazon.com/dp/B07X4SR5MN?tag=inkledger-20" rel="sponsored noopener" target="_blank" style="display:flex;align-items:center;gap:12px;text-decoration:none;margin:8px 0;padding:10px 12px;border:1px solid #e2e8f0;border-radius:10px;background:#f8fafc;"><img src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07X4SR5MN&Format=_SL100_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=inkledger-20" alt="Arteza Expert Colored Pencils 72-Pack" width="80" height="80" loading="lazy" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;border-radius:6px;background:#fff;" /><div style="min-width:0;"><strong style="display:block;color:#1e293b;font-size:0.9em;">Arteza Expert Colored Pencils 72-Pack</strong><span style="color:#64748b;font-size:0.82em;line-height:1.4;">Soft wax-oil core, 72 highly pigmented colors, in a sturdy metal tin.</span></div></a>
 
 <a href="https://www.amazon.com/dp/B00EWUNJN4?tag=inkledger-20" rel="sponsored noopener" target="_blank" style="display:flex;align-items:center;gap:12px;text-decoration:none;margin:8px 0;padding:10px 12px;border:1px solid #e2e8f0;border-radius:10px;background:#f8fafc;"><img src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00EWUNJN4&Format=_SL100_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=inkledger-20" alt="Canon PIXMA iX6820 Wireless Printer" width="80" height="80" loading="lazy" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;border-radius:6px;background:#fff;" /><div style="min-width:0;"><strong style="display:block;color:#1e293b;font-size:0.9em;">Canon PIXMA iX6820 Wireless Printer</strong><span style="color:#64748b;font-size:0.82em;line-height:1.4;">Wireless 13x19 borderless printing—affordable wide-format for small art print runs.</span></div></a>
+
+## Watchdog picks
+
+- [B012IWR5X2](/products/b012iwr5x2-b012iwr5x2/) · [Buy on Amazon](https://www.amazon.com/dp/B012IWR5X2?tag=inkledger-20)
+- [B09ZVMYHGF](/products/b09zvmyhgf-b09zvmyhgf/) · [Buy on Amazon](https://www.amazon.com/dp/B09ZVMYHGF?tag=inkledger-20)
+- [B09W73NQPW](/products/b09w73nqpw-b09w73nqpw/) · [Buy on Amazon](https://www.amazon.com/dp/B09W73NQPW?tag=inkledger-20)
+- [B002R5AF1I](/products/b002r5af1i-b002r5af1i/) · [Buy on Amazon](https://www.amazon.com/dp/B002R5AF1I?tag=inkledger-20)
+- [B089CGSV4N](/products/b089cgsv4n-b089cgsv4n/) · [Buy on Amazon](https://www.amazon.com/dp/B089CGSV4N?tag=inkledger-20)
+- [HP Original 67 Tri-Color / 67XL Black Ink Cartridges (2-Pack) - Works DeskJet 12](/products/b08swn848g-product/) · [Buy on Amazon](https://www.amazon.com/dp/B08SWN848G?tag=inkledger-20)
+- [ecodot 552 Pigment Ink Refill Ink Bottle Replacement for Epson 552 Ink Used for ](/products/b09w9mf63y-ecodot-552-pigment-ink-refill-ink-bottle-replacement-for-eps/) · [Buy on Amazon](https://www.amazon.com/dp/B09W9MF63Y?tag=inkledger-20)
+- [Epson EcoTank ET-2400 Wireless Color All-in-One Cartridge-Free Supertank Printer](/products/b0bm9bflmx-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0BM9BFLMX?tag=inkledger-20)
+
+## Products in this guide
+
+- [Brother Printer LC30193PK Super High Yield XXL 3 Pack Ink Cartridges- 1 Ea: Cyan/Magenta/Yellow Ink](/products/b01n4k0zfe-product/)
+- [EPSON 702 DURABrite Ultra Ink High Capacity Black & Standard Color Cartridge Combo Pack (T702XL-BCS) Works with WorkForc](/products/b071wb6bgn-product/)
+- [EPSON 502 EcoTank Ink Ultra-high Capacity Bottle Black Works with ET-2750, 2760, 2850, 3750, 3760, 3850, 4850, and other](/products/b074rfmst8-product/)
+- [EPSON 502 EcoTank Ink Ultra-high Capacity Bottle Color Combo Pack Works with ET-2750, 2760, 2850, 3750, 3760, 3850, 4850](/products/b074rg6pn1-product/)

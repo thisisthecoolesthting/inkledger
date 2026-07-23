@@ -7,15 +7,16 @@ pillarSlug: price-hike-alerts
 cardTitle: Printer Ink Markup
 cardPick: Household staples that dodge the printer-ink price trap—real $/use math inside.
 relatedProducts:
-- "B00CBBJ5KY"
-- "B00NQ1CLTI"
-- "B07C11YW88"
-- "B07RVMZNYR"
-- "B082Y7X9H5"
-- "B08GX3K9YS"
-- "B09W9MF63Y"
-- "B0BVYBVHK5"
-- "B0CYJV9X52"
+- B0DKJDRLTZ
+- B0D3XGJ6HW
+- B0G6Z1834N
+- B0FMB4JBJ8
+- B0F6C98Q8M
+- B08VF3XRQ8
+- B0B4VP5CQ4
+- B08R3515SF
+- B00CAZAU62
+- B0BX2N258S
 status: published
 tags:
 - printer ink scam
@@ -227,3 +228,21 @@ For most users, we recommend refillable tank systems or laser printers. Those st
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [Skyink Compatible Ink Cartridge Replacement for Canon 245XL 246XL 245 246 XL (Bl](/products/b0dkjdrltz-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0DKJDRLTZ?tag=inkledger-20)
+- [B0D3XGJ6HW](/products/b0d3xgj6hw-b0d3xgj6hw/) · [Buy on Amazon](https://www.amazon.com/dp/B0D3XGJ6HW?tag=inkledger-20)
+- [B0G6Z1834N](/products/b0g6z1834n-b0g6z1834n/) · [Buy on Amazon](https://www.amazon.com/dp/B0G6Z1834N?tag=inkledger-20)
+- [B0FMB4JBJ8](/products/b0fmb4jbj8-b0fmb4jbj8/) · [Buy on Amazon](https://www.amazon.com/dp/B0FMB4JBJ8?tag=inkledger-20)
+- [67XL Ink Cartridge Replacement for HP 67 XL Remanufactured for HP Ink 67 67XL fo](/products/b0f6c98q8m-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0F6C98Q8M?tag=inkledger-20)
+- [B08VF3XRQ8](/products/b08vf3xrq8-b08vf3xrq8/) · [Buy on Amazon](https://www.amazon.com/dp/B08VF3XRQ8?tag=inkledger-20)
+- [Epson 522 EcoTank Ink Ultra-high Capacity Bottle Black & Color Combo Pack (T5221](/products/b0b4vp5cq4-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0B4VP5CQ4?tag=inkledger-20)
+- [Soldering Iron Kit, 80W 110V LCD Digital Solder Iron Pen with Ceramic Heater, Po](/products/b08r3515sf-soldering-iron-kit-80w-110v-lcd-digital-solder-iron-pen-with/) · [Buy on Amazon](https://www.amazon.com/dp/B08R3515SF?tag=inkledger-20)
+
+## Products in this guide
+
+- [Brother Printer LC30193PK Super High Yield XXL 3 Pack Ink Cartridges- 1 Ea: Cyan/Magenta/Yellow Ink](/products/b01n4k0zfe-product/)
+- [Ink Cartridge Printer Replacement Part Compatible with Expression Photo XP-15000](/products/b0gvgsv2kl-product/)
+- [B0041RRMQS](/products/b0041rrmqs-b0041rrmqs/)
+- [HP Samsung MLT-D116L (SU832A) MLT-D116L Toner Cartridge](/products/b00c18tycy-product/)

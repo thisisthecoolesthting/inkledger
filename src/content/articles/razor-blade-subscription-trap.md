@@ -7,17 +7,16 @@ pillarSlug: subscription-creep-busters
 cardTitle: '''The Razor Blade Subscription Trap'
 cardPick: Cancel creep and swap to staples that actually lower your monthly burn.
 relatedProducts:
-- "B000NH7BPW"
-- "B001QY8QXM"
-- "B002R5AF1I"
-- "B002T4D0WU"
-- "B00WSAXBQ0"
-- "B07C11YW88"
-- "B07RVMZNYR"
-- "B082Y7X9H5"
-- "B083BFPGD8"
-- "B08PZBPXLZ"
-- "B0BVYBVHK5"
+- B00WSAXBQ0
+- B07YGL9XTH
+- B00762AHTE
+- B0BX2N258S
+- B0B1J5PYCF
+- B08R3R5KXJ
+- B096N8CNBZ
+- B08X4BQL7D
+- B096N7TXR1
+- B002R5AF1I
 status: published
 tags:
 - razor blade subscription
@@ -252,3 +251,21 @@ If you insist on subscriptions:
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [HQ Replacement Soldering Iron For Hakko FX-8801 FX-888D Station](/products/b00wsaxbq0-hq-replacement-soldering-iron-for-hakko-fx-8801-fx-888d-stat/) · [Buy on Amazon](https://www.amazon.com/dp/B00WSAXBQ0?tag=inkledger-20)
+- [Brother Genuine High-Yield Black Toner Cartridge Twin Pack TN760 2Pk, TN7602PK,2](/products/b07ygl9xth-product/) · [Buy on Amazon](https://www.amazon.com/dp/B07YGL9XTH?tag=inkledger-20)
+- [B00762AHTE](/products/b00762ahte-b00762ahte/) · [Buy on Amazon](https://www.amazon.com/dp/B00762AHTE?tag=inkledger-20)
+- [WEP 926LED V3 Soldering Station 130W MAX Soldering Iron Kit with Solder Wire, 5 ](/products/b0bx2n258s-wep-926led-v3-soldering-station-130w-max-soldering-iron-kit-/) · [Buy on Amazon](https://www.amazon.com/dp/B0BX2N258S?tag=inkledger-20)
+- [Epson EcoTank Wireless Color All-in-One Cartridge-Free ET-3850 Supertank Inkjet ](/products/b0b1j5pycf-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0B1J5PYCF?tag=inkledger-20)
+- [B08R3R5KXJ](/products/b08r3r5kxj-b08r3r5kxj/) · [Buy on Amazon](https://www.amazon.com/dp/B08R3R5KXJ?tag=inkledger-20)
+- [Epson EcoTank ET-2800 Wireless Color All-in-One Cartridge-Free Ink Supertank Pri](/products/b096n8cnbz-product/) · [Buy on Amazon](https://www.amazon.com/dp/B096N8CNBZ?tag=inkledger-20)
+- [B08X4BQL7D](/products/b08x4bql7d-b08x4bql7d/) · [Buy on Amazon](https://www.amazon.com/dp/B08X4BQL7D?tag=inkledger-20)
+
+## Products in this guide
+
+- [HP 63XL Black High-yield Ink Cartridge](/products/b07rrf8fsx-hp-63xl-black-ink-cartridge/)
+- [HP 65 Black Ink Cartridge Works with HP AMP 100, DeskJet 2600, 3700, ENVY 5000 Series](/products/b00004y81q-hp-65-black-ink-cartridge/)
+- [Astra Platinum Double Edge Safety Razor Blades,100 Blades (20 x 5)](/products/b001qy8qxm-astra-platinum-double-edge-safety-razor-blades-100-blades-20/)
+- [B0041RRMQS](/products/b0041rrmqs-b0041rrmqs/)

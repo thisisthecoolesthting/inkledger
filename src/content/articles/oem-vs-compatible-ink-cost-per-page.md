@@ -6,7 +6,17 @@ tier: mvp
 cardTitle: "oem-vs-compatible-ink-cost-per-page"
 cardPick: "Editorial printer-ink pick from InkLedger."
 updatedAt: '2026-06-06T03:05:48.174Z'
-relatedProducts: []
+relatedProducts:
+- B00C18TYCY
+- B001QY8QXM
+- B0CPB11F85
+- B0D8B24CTB
+- B09W73NQPW
+- B06XG5ZJN3
+- B0GYNVJ62W
+- B001EQ4G0O
+- B00QJ88SB0
+- B0GCZVZ3SZ
 status: published
 subtopic: printer-ink
 publishedAt: '2026-06-06T03:05:48.174Z'
@@ -201,3 +211,21 @@ Price data for this article comes from Keepa, which logs every published price c
 - [Epson 502 Ink Cartridges, Black/Cyan/Magenta/Yellow, 4-Pack](/products/b07gxxsrd2-epson-502-4-color-multipack/)
 - [HP 65 Black Ink Cartridge Works with HP AMP 100, DeskJet 2600, 3700, ENVY 5000 Series](/products/b00004y81q-hp-65-black-ink-cartridge/)
 - [Brother LC3013BK Individual High-Yield Black Ink Cartridge](/products/b01ms0kdqf-brother-lc3013bk-xl-black-ink/)
+
+## Watchdog picks
+
+- [HP Samsung MLT-D116L (SU832A) MLT-D116L Toner Cartridge](/products/b00c18tycy-product/) · [Buy on Amazon](https://www.amazon.com/dp/B00C18TYCY?tag=inkledger-20)
+- [B001QY8QXM](/products/b001qy8qxm-b001qy8qxm/) · [Buy on Amazon](https://www.amazon.com/dp/B001QY8QXM?tag=inkledger-20)
+- [B0CPB11F85](/products/b0cpb11f85-b0cpb11f85/) · [Buy on Amazon](https://www.amazon.com/dp/B0CPB11F85?tag=inkledger-20)
+- [B0D8B24CTB](/products/b0d8b24ctb-b0d8b24ctb/) · [Buy on Amazon](https://www.amazon.com/dp/B0D8B24CTB?tag=inkledger-20)
+- [B09W73NQPW](/products/b09w73nqpw-b09w73nqpw/) · [Buy on Amazon](https://www.amazon.com/dp/B09W73NQPW?tag=inkledger-20)
+- [EPSON 702 DURABrite Ultra Ink Standard Capacity Black & Color Cartridge Combo Pa](/products/b06xg5zjn3-product/) · [Buy on Amazon](https://www.amazon.com/dp/B06XG5ZJN3?tag=inkledger-20)
+- [B0GYNVJ62W](/products/b0gynvj62w-b0gynvj62w/) · [Buy on Amazon](https://www.amazon.com/dp/B0GYNVJ62W?tag=inkledger-20)
+- [Stuart Weitzman Women's Metro Slingback Sandal,Palomino Llama Calf,8 M US](/products/b001eq4g0o-stuart-weitzman-women-s-metro-slingback-sandal-palomino-llam/) · [Buy on Amazon](https://www.amazon.com/dp/B001EQ4G0O?tag=inkledger-20)
+
+## Products in this guide
+
+- [Inkjet Refill Kit Pro — Compatible with HP, Canon, Epson, and Lexmark Cartridges](/products/b00mfg54b6-inkjet-refill-kit-pro-hp-canon/)
+- [Brother Genuine TN730 3-Pack Standard Yield Black Toner Cartridge with Approximately 1,200 Page Yield/Cartridge](/products/b07q8bd3mk-product/)
+- [Brother LC3019BK Super High Yield Black Ink Cartridge](/products/b01lyfvg1v-product/)
+- [Brother Genuine Standard Yield Toner Cartridge, TN730, Replacement Black Toner, Page Yield Up To 1,200 Pages, Amazon Das](/products/b075x7tfy5-product/)

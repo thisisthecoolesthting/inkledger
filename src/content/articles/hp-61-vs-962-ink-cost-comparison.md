@@ -6,7 +6,17 @@ tier: mvp
 cardTitle: "hp-61-vs-962-ink-cost-comparison"
 cardPick: "Editorial printer-ink pick from InkLedger."
 updatedAt: '2026-06-06T03:05:48.140Z'
-relatedProducts: []
+relatedProducts:
+- B07Q5J5YXV
+- B0FGC43YCL
+- B09W9MF63Y
+- B07D5DN269
+- B0GTL8RCGK
+- B01BYKUI9C
+- B0D92PVDQH
+- B0FKBFH92Q
+- B0F1FBQRVB
+- B0FMBTJLX6
 status: published
 subtopic: printer-ink
 publishedAt: '2026-06-06T03:05:48.140Z'
@@ -234,3 +244,21 @@ Price data for this article comes from Keepa, which logs every published price c
 - [HP 65 Black Ink Cartridge Works with HP AMP 100, DeskJet 2600, 3700, ENVY 5000 Series](/products/b00004y81q-hp-65-black-ink-cartridge/)
 - [HP 63XL Black High-yield Ink Cartridge](/products/b07rrf8fsx-hp-63xl-black-ink-cartridge/)
 - [Brother LC3013BK Individual High-Yield Black Ink Cartridge](/products/b01ms0kdqf-brother-lc3013bk-xl-black-ink/)
+
+## Watchdog picks
+
+- [B07Q5J5YXV](/products/b07q5j5yxv-b07q5j5yxv/) · [Buy on Amazon](https://www.amazon.com/dp/B07Q5J5YXV?tag=inkledger-20)
+- [B0FGC43YCL](/products/b0fgc43ycl-b0fgc43ycl/) · [Buy on Amazon](https://www.amazon.com/dp/B0FGC43YCL?tag=inkledger-20)
+- [ecodot 552 Pigment Ink Refill Ink Bottle Replacement for Epson 552 Ink Used for ](/products/b09w9mf63y-ecodot-552-pigment-ink-refill-ink-bottle-replacement-for-eps/) · [Buy on Amazon](https://www.amazon.com/dp/B09W9MF63Y?tag=inkledger-20)
+- [B07D5DN269](/products/b07d5dn269-b07d5dn269/) · [Buy on Amazon](https://www.amazon.com/dp/B07D5DN269?tag=inkledger-20)
+- [B0GTL8RCGK](/products/b0gtl8rcgk-b0gtl8rcgk/) · [Buy on Amazon](https://www.amazon.com/dp/B0GTL8RCGK?tag=inkledger-20)
+- [HP 65 Black Ink Cartridge - Works with AMP 100, DeskJet 2600, 3700; Envy 5000 - ](/products/b01bykui9c-product/) · [Buy on Amazon](https://www.amazon.com/dp/B01BYKUI9C?tag=inkledger-20)
+- [Soldering Iron Kit, 60W LED Display Digital Solder Pen, 5 Replaceable Tips, 21-i](/products/b0d92pvdqh-soldering-iron-kit-60w-led-display-digital-solder-pen-5-repl/) · [Buy on Amazon](https://www.amazon.com/dp/B0D92PVDQH?tag=inkledger-20)
+- [65XL Ink Cartridge for HP 65 Black Ink Cartridge High-Yield Replacement for HP I](/products/b0fkbfh92q-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0FKBFH92Q?tag=inkledger-20)
+
+## Products in this guide
+
+- [HP 65 Black Ink Cartridge Works with HP AMP 100, DeskJet 2600, 3700, ENVY 5000 Series](/products/b00004y81q-hp-65-black-ink-cartridge/)
+- [Brother LC3013BK Individual High-Yield Black Ink Cartridge](/products/b01ms0kdqf-brother-lc3013bk-xl-black-ink/)
+- [HP 962XL Black High-Yield Ink Cartridge | Works with OfficeJet 9010, Pro 9010, 9020 | Eligible for Instant Ink | 3JA03AN](/products/b07mk5dg9v-product/)
+- [Inkjet Refill Kit Pro — Compatible with HP, Canon, Epson, and Lexmark Cartridges](/products/b00mfg54b6-inkjet-refill-kit-pro-hp-canon/)

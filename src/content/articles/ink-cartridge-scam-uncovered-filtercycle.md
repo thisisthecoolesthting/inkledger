@@ -7,23 +7,16 @@ pillarSlug: price-hikes-exposed
 cardTitle: The Ink Cartridge Scam
 cardPick: Household staples that dodge the printer-ink price trap—real $/use math inside.
 relatedProducts:
-- "B004QM8SLG"
-- "B00CBBJ5KY"
-- "B00NQ1CLTI"
-- "B00WSAXBQ0"
-- "B07C11YW88"
-- "B082Y7X9H5"
-- "B083BFPGD8"
-- "B0846GFNCQ"
-- "B0848Q34F8"
-- "B08GX3K9YS"
-- "B093TCYF9T"
-- "B099NZC4PB"
-- "B0BVYBVHK5"
-- "B0C7ZTV376"
-- "B0CB75LML9"
-- "B0CYJV9X52"
-- "B0GF25F12C"
+- B0BL466Y41
+- B0G6Z1834N
+- B0GF3BX4P4
+- B0CFM82NS2
+- B0DRP3LWP5
+- B0G33T139M
+- B0D96T79YF
+- B08VF3XRQ8
+- B09W73NQPW
+- B08PDT1Y3H
 status: published
 tags:
 - printer ink
@@ -241,3 +234,21 @@ For the DIY-inclined, third-party solutions offer additional savings:
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [B0BL466Y41](/products/b0bl466y41-b0bl466y41/) · [Buy on Amazon](https://www.amazon.com/dp/B0BL466Y41?tag=inkledger-20)
+- [B0G6Z1834N](/products/b0g6z1834n-b0g6z1834n/) · [Buy on Amazon](https://www.amazon.com/dp/B0G6Z1834N?tag=inkledger-20)
+- [Skydo 141A Toner Cartridge 2 Black Replacement for HP 141A W1410A 141X W1410X To](/products/b0gf3bx4p4-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0GF3BX4P4?tag=inkledger-20)
+- [HP OfficeJet Pro 9125e Wireless All-in-One Color Inkjet Printer, Print, scan, co](/products/b0cfm82ns2-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0CFM82NS2?tag=inkledger-20)
+- [JANMORE Universal Ink Refills Kit Dye Ink Refill Kit Compatible for HP Canon Bro](/products/b0drp3lwp5-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0DRP3LWP5?tag=inkledger-20)
+- [EaseFusion Replacement for Epson 502 Ink Refill Bottles Work with ET-2850 ET-385](/products/b0g33t139m-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0G33T139M?tag=inkledger-20)
+- [B0D96T79YF](/products/b0d96t79yf-b0d96t79yf/) · [Buy on Amazon](https://www.amazon.com/dp/B0D96T79YF?tag=inkledger-20)
+- [B08VF3XRQ8](/products/b08vf3xrq8-b08vf3xrq8/) · [Buy on Amazon](https://www.amazon.com/dp/B08VF3XRQ8?tag=inkledger-20)
+
+## Products in this guide
+
+- [EPSON 502 EcoTank Ink Ultra-high Capacity Bottle Black Works with ET-2750, 2760, 2850, 3750, 3760, 3850, 4850, and other](/products/b074rfmst8-product/)
+- [EPSON 522 EcoTank Ink Ultra-high Capacity Bottle Black (T522120-S) Works with ET-2720, 2800, 2803, 2840, 4700, 4800, 481](/products/b07pn7g526-product/)
+- [HP 134A Black Toner Cartridge Printers | Works with LaserJet M209 Series; LaserJet MFP M234 Series | W1340A](/products/b08qmqnr76-product/)
+- [Epson 522 EcoTank Ink Ultra-high Capacity Bottle Black & Color Combo Pack (T522120-BCS) Works with ET-2720, 2800, 2803,](/products/b0b4vp5cq4-product/)

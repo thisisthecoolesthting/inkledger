@@ -6,7 +6,17 @@ tier: mvp
 cardTitle: "hp-instant-ink-subscription-scam-or-saver"
 cardPick: "Editorial printer-ink pick from InkLedger."
 updatedAt: '2026-06-06T03:05:48.154Z'
-relatedProducts: []
+relatedProducts:
+- B08QMQNR76
+- B0FBRH75LK
+- B07F97MPYT
+- B0GGYYBXP4
+- B000H0XFCS
+- B08J3NY6QV
+- B0FNMZCLCG
+- B06XY6RSNB
+- B0GVGG7QLT
+- B0D8B24CTB
 status: published
 subtopic: printer-ink
 publishedAt: '2026-06-06T03:05:48.154Z'
@@ -189,4 +199,22 @@ Price data for this article comes from Keepa, which logs every published price c
 - [Inkjet Refill Kit Pro — Compatible with HP, Canon, Epson, and Lexmark Cartridges](/products/b00mfg54b6-inkjet-refill-kit-pro-hp-canon/)
 - [Brother LC3013BK Individual High-Yield Black Ink Cartridge](/products/b01ms0kdqf-brother-lc3013bk-xl-black-ink/)
 - [Epson 502 Ink Cartridges, Black/Cyan/Magenta/Yellow, 4-Pack](/products/b07gxxsrd2-epson-502-4-color-multipack/)
+- [HP 65 Black Ink Cartridge Works with HP AMP 100, DeskJet 2600, 3700, ENVY 5000 Series](/products/b00004y81q-hp-65-black-ink-cartridge/)
+
+## Watchdog picks
+
+- [HP 134A Black Toner Cartridge Printers - Works with LaserJet M209 Series; LaserJ](/products/b08qmqnr76-product/) · [Buy on Amazon](https://www.amazon.com/dp/B08QMQNR76?tag=inkledger-20)
+- [B0FBRH75LK](/products/b0fbrh75lk-b0fbrh75lk/) · [Buy on Amazon](https://www.amazon.com/dp/B0FBRH75LK?tag=inkledger-20)
+- [B07F97MPYT](/products/b07f97mpyt-b07f97mpyt/) · [Buy on Amazon](https://www.amazon.com/dp/B07F97MPYT?tag=inkledger-20)
+- [B0GGYYBXP4](/products/b0ggyybxp4-b0ggyybxp4/) · [Buy on Amazon](https://www.amazon.com/dp/B0GGYYBXP4?tag=inkledger-20)
+- [B000H0XFCS](/products/b000h0xfcs-b000h0xfcs/) · [Buy on Amazon](https://www.amazon.com/dp/B000H0XFCS?tag=inkledger-20)
+- [myCartridge SUPRINT 245XL Ink Cartridge Replacement for Canon 245XL 246XL Combo ](/products/b08j3ny6qv-product/) · [Buy on Amazon](https://www.amazon.com/dp/B08J3NY6QV?tag=inkledger-20)
+- [218A Toner Cartridges 4 Pack (with Chip) Compatible Replacement for HP 218A 218X](/products/b0fnmzclcg-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0FNMZCLCG?tag=inkledger-20)
+- [Genuine Brother LC3019 (LC-3019) (BK/C/M/Y) High Yield Color Ink 4-Pack (Include](/products/b06xy6rsnb-product/) · [Buy on Amazon](https://www.amazon.com/dp/B06XY6RSNB?tag=inkledger-20)
+
+## Products in this guide
+
+- [HP 63XL Black High-yield Ink Cartridge](/products/b07rrf8fsx-hp-63xl-black-ink-cartridge/)
+- [HP 67 Black/Tri-Color Ink Cartridges (2-Pack) | Works with DeskJet 1255, 2700, 4100, Envy 6000, 6400 | Instant Ink Eligi](/products/b08412hxk9-product/)
+- [HP DeskJet 2755 All-in-One Wireless Printer Scanner Copier Instant Ink Ready Mobile Print Black 7.5ppm Color 5.5ppm Wifi](/products/b08byz5n7q-product/)
 - [HP 65 Black Ink Cartridge Works with HP AMP 100, DeskJet 2600, 3700, ENVY 5000 Series](/products/b00004y81q-hp-65-black-ink-cartridge/)

@@ -6,7 +6,17 @@ tier: mvp
 cardTitle: "how-to-refill-ink-cartridges-guide"
 cardPick: "Editorial printer-ink pick from InkLedger."
 updatedAt: '2026-06-06T03:05:48.135Z'
-relatedProducts: []
+relatedProducts:
+- B0BJ194Z43
+- B07RVMZNYR
+- B00FFJ0R1Q
+- B0GMMHC3G4
+- B0DJ79LQP5
+- B0FDL1LS3B
+- B096N8DN2H
+- B0F1CJ93JJ
+- B00WSAXBQ0
+- B0D3XGJ6HW
 status: published
 subtopic: printer-ink
 publishedAt: '2026-06-06T03:05:48.135Z'
@@ -175,3 +185,21 @@ Price data for this article comes from Keepa, which logs every published price c
 - [Brother LC3013BK Individual High-Yield Black Ink Cartridge](/products/b01ms0kdqf-brother-lc3013bk-xl-black-ink/)
 - [Epson 502 Ink Cartridges, Black/Cyan/Magenta/Yellow, 4-Pack](/products/b07gxxsrd2-epson-502-4-color-multipack/)
 - [HP 65 Black Ink Cartridge Works with HP AMP 100, DeskJet 2600, 3700, ENVY 5000 Series](/products/b00004y81q-hp-65-black-ink-cartridge/)
+
+## Watchdog picks
+
+- [B0BJ194Z43](/products/b0bj194z43-b0bj194z43/) · [Buy on Amazon](https://www.amazon.com/dp/B0BJ194Z43?tag=inkledger-20)
+- [YIHUA 939D+ Digital Soldering Station, 75W Equivalent with Precision Heat Contro](/products/b07rvmznyr-yihua-939d-digital-soldering-station-75w-equivalent-with-pre/) · [Buy on Amazon](https://www.amazon.com/dp/B07RVMZNYR?tag=inkledger-20)
+- [B00FFJ0R1Q](/products/b00ffj0r1q-b00ffj0r1q/) · [Buy on Amazon](https://www.amazon.com/dp/B00FFJ0R1Q?tag=inkledger-20)
+- [B0GMMHC3G4](/products/b0gmmhc3g4-b0gmmhc3g4/) · [Buy on Amazon](https://www.amazon.com/dp/B0GMMHC3G4?tag=inkledger-20)
+- [WEAREC Compatible Toner Cartridge Replacement for Brother TN760 TN-760 TN730 wit](/products/b0dj79lqp5-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0DJ79LQP5?tag=inkledger-20)
+- [B0FDL1LS3B](/products/b0fdl1ls3b-b0fdl1ls3b/) · [Buy on Amazon](https://www.amazon.com/dp/B0FDL1LS3B?tag=inkledger-20)
+- [Epson EcoTank ET-2800 Wireless Color All-in-One Cartridge-Free Ink Supertank Pri](/products/b096n8dn2h-product/) · [Buy on Amazon](https://www.amazon.com/dp/B096N8DN2H?tag=inkledger-20)
+- [65XL Ink Cartridges Black/Color Combo Pack High-Yield Replacement for HP Ink 65 ](/products/b0f1cj93jj-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0F1CJ93JJ?tag=inkledger-20)
+
+## Products in this guide
+
+- [HP OfficeJet Pro 8125e Wireless All-in-One Color Inkjet Printer, Print, scan, Copy, ADF, Duplex Printing Best-for-Home O](/products/b0ct8zj7zc-product/)
+- [B0041RRMQS](/products/b0041rrmqs-b0041rrmqs/)
+- [B00JTE518E](/products/b00jte518e-b00jte518e/)
+- [B00T6RWJMU](/products/b00t6rwjmu-b00t6rwjmu/)

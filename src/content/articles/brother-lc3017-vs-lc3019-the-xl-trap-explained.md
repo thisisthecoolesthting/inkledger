@@ -7,18 +7,16 @@ publishedAt: '2026-04-22T00:00:00Z'
 excerpt: Brother LC3017 vs LC3019 — the XL trap, explained
 pillarSlug: general
 relatedProducts:
-- "B01BYKUI9C"
-- "B01LYFVG1V"
-- "B01N4K0ZFE"
-- "B06XY6RSNB"
-- "B077QVSKD5"
-- "B07NPHDS24"
-- "B081GRVJ5K"
-- "B0CCT8H4YK"
-- "B0DS4M632H"
-- "B0FKBFH92Q"
-- "B0GFMH3D3X"
-- "B0GLTX2PNR"
+- B00762AHTE
+- B06XGMWMDW
+- B000NL0T1K
+- B07ZHTFF44
+- B0FCS1B33K
+- B0GRGQR634
+- B0CCT8H4YK
+- B08R3R5KXJ
+- B07P5Y5QHG
+- B0D8B24CTB
 status: published
 tags:
 - brother
@@ -62,6 +60,16 @@ For most home users:
 3. If you do heavy printing, calculate your actual monthly usage before assuming XL saves money
 
 Remember: [Printer](https://www.amazon.com/dp/B0CCT8H4YK?tag=inkledger-20) manufacturers make their profits on ink, not printers. That 'XL' label is often just a psychological trick to get you to spend more.
+## Watchdog picks
+
+- [B00762AHTE](/products/b00762ahte-b00762ahte/) · [Buy on Amazon](https://www.amazon.com/dp/B00762AHTE?tag=inkledger-20)
+- [EPSON 702 DURABrite Ultra Ink Standard Capacity Black Cartridge (T702120-S) Work](/products/b06xgmwmdw-product/) · [Buy on Amazon](https://www.amazon.com/dp/B06XGMWMDW?tag=inkledger-20)
+- [B000NL0T1K](/products/b000nl0t1k-b000nl0t1k/) · [Buy on Amazon](https://www.amazon.com/dp/B000NL0T1K?tag=inkledger-20)
+- [B07ZHTFF44](/products/b07zhtff44-b07zhtff44/) · [Buy on Amazon](https://www.amazon.com/dp/B07ZHTFF44?tag=inkledger-20)
+- [B0FCS1B33K](/products/b0fcs1b33k-b0fcs1b33k/) · [Buy on Amazon](https://www.amazon.com/dp/B0FCS1B33K?tag=inkledger-20)
+- [B0GRGQR634](/products/b0grgqr634-b0grgqr634/) · [Buy on Amazon](https://www.amazon.com/dp/B0GRGQR634?tag=inkledger-20)
+- [AYMSous 5-Pack Universal Ink Refill Kit for All HP Canon Epsn Brother Printers C](/products/b0cct8h4yk-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0CCT8H4YK?tag=inkledger-20)
+- [B08R3R5KXJ](/products/b08r3r5kxj-b08r3r5kxj/) · [Buy on Amazon](https://www.amazon.com/dp/B08R3R5KXJ?tag=inkledger-20)
 
 ## Products in this guide
 

@@ -6,7 +6,17 @@ tier: mvp
 cardTitle: "refilling-empty-ink-cartridges"
 cardPick: "Editorial printer-ink pick from InkLedger."
 updatedAt: '2026-06-06T03:05:48.185Z'
-relatedProducts: []
+relatedProducts:
+- B0FCS4HWPH
+- B00T6RWJMU
+- B0CT2R7199
+- B0CQ4VHBMH
+- B073Q8P6CQ
+- B0GTL8RCGK
+- B00CAZAU62
+- B0F1FBQRVB
+- B08GX3K9YS
+- B0FVFGX7Y5
 status: published
 subtopic: printer-ink
 publishedAt: '2026-06-06T03:05:48.185Z'
@@ -116,3 +126,21 @@ The best way to save on ink is to print less. Consider going paperless whenever 
 While refilling is a cost-effective option, other alternatives exist. Compatible cartridges offer a lower-cost alternative to OEM cartridges, though quality can vary. Ink tank printers, such as Epson EcoTank and Canon MegaTank models, use refillable ink tanks instead of cartridges, offering significantly lower running costs. See our comparison of [Ecotank vs. Megatank: The Ultimate Ink Tank Printer Showdown](/articles/ecotank-vs-megatank-the-ultimate-ink-tank-printer-showdown/). Consider compatible [Canon PG-245 Cheaper Alternatives](/articles/finding-cheaper-alternatives-for-canon-pg-245-ink-cartridges/) if you are trying to reduce the cost of your printing.
 
 Refilling empty ink cartridges requires some initial effort, but the long-term savings and environmental benefits are substantial. By following these steps and troubleshooting common problems, you can reduce your printing costs and minimize your environmental impact.
+
+## Watchdog picks
+
+- [B0FCS4HWPH](/products/b0fcs4hwph-b0fcs4hwph/) · [Buy on Amazon](https://www.amazon.com/dp/B0FCS4HWPH?tag=inkledger-20)
+- [B00T6RWJMU](/products/b00t6rwjmu-b00t6rwjmu/) · [Buy on Amazon](https://www.amazon.com/dp/B00T6RWJMU?tag=inkledger-20)
+- [HP DeskJet 2855e Wireless All-in-One Color Inkjet Printer, Scanner, Copier, Best](/products/b0ct2r7199-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0CT2R7199?tag=inkledger-20)
+- [Dikarsum 5 in 1 Ink Refill Tools Compatible with Hp Inkjet Ink Cartridges (Ink C](/products/b0cq4vhbmh-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0CQ4VHBMH?tag=inkledger-20)
+- [B073Q8P6CQ](/products/b073q8p6cq-b073q8p6cq/) · [Buy on Amazon](https://www.amazon.com/dp/B073Q8P6CQ?tag=inkledger-20)
+- [B0GTL8RCGK](/products/b0gtl8rcgk-b0gtl8rcgk/) · [Buy on Amazon](https://www.amazon.com/dp/B0GTL8RCGK?tag=inkledger-20)
+- [Dr. Tobias Omega 3 Fish Oil 2000mg Triple Strength with 800mg EPA 600mg DHA Per ](/products/b00cazau62-dr-tobias-omega-3-fish-oil-2000mg-triple-strength-with-800mg/) · [Buy on Amazon](https://www.amazon.com/dp/B00CAZAU62?tag=inkledger-20)
+- [Epson EcoTank ET-2980 Wireless All-in-One Color Supertank Printer with Refillabl](/products/b0f1fbqrvb-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0F1FBQRVB?tag=inkledger-20)
+
+## Products in this guide
+
+- [Inkjet Refill Kit Pro — Compatible with HP, Canon, Epson, and Lexmark Cartridges](/products/b00mfg54b6-inkjet-refill-kit-pro-hp-canon/)
+- [HP OfficeJet Pro 9125e Wireless All-in-One Color Inkjet Printer, Print, scan, copy, fax, ADF, Duplex printing best-for-o](/products/b0cfm82ns2-product/)
+- [HP OfficeJet Pro 8125e Wireless All-in-One Color Inkjet Printer, Print, scan, Copy, ADF, Duplex Printing Best-for-Home O](/products/b0ct8zj7zc-product/)
+- [Brother Printer LC30193PK Super High Yield XXL 3 Pack Ink Cartridges- 1 Ea: Cyan/Magenta/Yellow Ink](/products/b01n4k0zfe-product/)

@@ -6,7 +6,17 @@ tier: mvp
 cardTitle: "prevent-ink-cartridges-drying"
 cardPick: "Editorial printer-ink pick from InkLedger."
 updatedAt: '2026-06-06T03:05:48.175Z'
-relatedProducts: []
+relatedProducts:
+- B012IWR5X2
+- B07Q5J5YXV
+- B073Q8P6CQ
+- B07ZHTFF44
+- B0C1ZF94GW
+- B0BVD54HPS
+- B0B2RM68G2
+- B0DT1NNNS3
+- B00QJ88SB0
+- B0FKBFH92Q
 status: published
 subtopic: printer-ink
 publishedAt: '2026-06-06T03:05:48.175Z'
@@ -104,3 +114,21 @@ Sometimes, despite your best efforts, a cartridge may dry out. Here are some met
 If you're tired of battling dried-out cartridges and exorbitant ink prices, consider switching to an ink tank printer. These printers, such as the Epson EcoTank series or the Canon MegaTank series, use refillable ink tanks instead of cartridges. While the initial cost is higher, the cost per page is significantly lower, and the ink is less prone to drying out due to the larger volume and sealed tank design. We have a full breakdown of [Ecotank vs. Megatank](/pillars/mvp-pillar-3-storing-unused-cartridges-the-vacuum-sealing-trick/) printers if you're curious.  You can also purchase bottles of compatible ink, such as the [/products/b012iwr5x2-epson-664-ecotank-ink-ultra-high-capacity-bottle-yellow-t664/] Epson 664.
 
 By implementing these strategies, you can significantly extend the life of your ink cartridges and save money in the long run. Remember, prevention is always better than cure when it comes to ink cartridges!
+
+## Watchdog picks
+
+- [B012IWR5X2](/products/b012iwr5x2-b012iwr5x2/) · [Buy on Amazon](https://www.amazon.com/dp/B012IWR5X2?tag=inkledger-20)
+- [B07Q5J5YXV](/products/b07q5j5yxv-b07q5j5yxv/) · [Buy on Amazon](https://www.amazon.com/dp/B07Q5J5YXV?tag=inkledger-20)
+- [B073Q8P6CQ](/products/b073q8p6cq-b073q8p6cq/) · [Buy on Amazon](https://www.amazon.com/dp/B073Q8P6CQ?tag=inkledger-20)
+- [B07ZHTFF44](/products/b07zhtff44-b07zhtff44/) · [Buy on Amazon](https://www.amazon.com/dp/B07ZHTFF44?tag=inkledger-20)
+- [B0C1ZF94GW](/products/b0c1zf94gw-b0c1zf94gw/) · [Buy on Amazon](https://www.amazon.com/dp/B0C1ZF94GW?tag=inkledger-20)
+- [B0BVD54HPS](/products/b0bvd54hps-b0bvd54hps/) · [Buy on Amazon](https://www.amazon.com/dp/B0BVD54HPS?tag=inkledger-20)
+- [BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face Mask, Po](/products/b0b2rm68g2-biodance-bio-collagen-real-deep-mask-hydrating-overnight-hyd/) · [Buy on Amazon](https://www.amazon.com/dp/B0B2RM68G2?tag=inkledger-20)
+- [B0DT1NNNS3](/products/b0dt1nnns3-b0dt1nnns3/) · [Buy on Amazon](https://www.amazon.com/dp/B0DT1NNNS3?tag=inkledger-20)
+
+## Products in this guide
+
+- [HP DeskJet 2755 Wireless All-in-One Printer, Mobile Print, Scan & Copy, Instant Ink Ready, Works with Alexa (3XV17A)](/products/b083zy6xfq-product/)
+- [HP DeskJet 2755 All-in-One Wireless Printer Scanner Copier Instant Ink Ready Mobile Print Black 7.5ppm Color 5.5ppm Wifi](/products/b08byz5n7q-product/)
+- [HP OfficeJet Pro 9125e Wireless All-in-One Color Inkjet Printer, Print, scan, copy, fax, ADF, Duplex printing best-for-o](/products/b0cfm82ns2-product/)
+- [HP OfficeJet Pro 8125e Wireless All-in-One Color Inkjet Printer, Print, scan, Copy, ADF, Duplex Printing Best-for-Home O](/products/b0ct8zj7zc-product/)

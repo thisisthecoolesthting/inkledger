@@ -7,27 +7,16 @@ pillarSlug: price-hike-alerts
 cardTitle: 'Pet Food Prices: Don''t Let Retailers Gouge Your Furry Friends'
 cardPick: Bulk-buy angles and pantry staples when pet food prices creep up.
 relatedProducts:
-- "B00CAZAU62"
-- "B00JA3YPN4"
-- "B00NQ1CLTI"
-- "B00WSAXBQ0"
-- "B073Q8P6CQ"
-- "B074ND5RDT"
-- "B07D5DN269"
-- "B07F97MPYT"
-- "B07RVMZNYR"
-- "B08PZBPXLZ"
-- "B08R3515SF"
-- "B098JD8HD3"
-- "B09VXQ221K"
-- "B09W9MF63Y"
-- "B0B2RM68G2"
-- "B0BX2N258S"
-- "B0D41ZMDPD"
-- "B0DHV7ZWH2"
-- "B0DHV8SCLS"
-- "B0G63G9LRJ"
-- "B0GCMVP12Q"
+- B073Q8P6CQ
+- B074RFMST8
+- B09J7946RJ
+- B0H476662H
+- B0FMB4JBJ8
+- B0GMMHC3G4
+- B08X4BQL7D
+- B079Y6FHKJ
+- B0BHXNP6B1
+- B07T2S3D6J
 status: published
 tags:
 - pet food inflation
@@ -199,3 +188,21 @@ The Petco WholeHearted refill program saves 15% but limits variety. For cats, Sm
 </div>
 </a>
 </div>
+
+## Watchdog picks
+
+- [B073Q8P6CQ](/products/b073q8p6cq-b073q8p6cq/) · [Buy on Amazon](https://www.amazon.com/dp/B073Q8P6CQ?tag=inkledger-20)
+- [EPSON 502 EcoTank Ink Ultra-high Capacity Bottle Black Works with ET-2750, 2760,](/products/b074rfmst8-product/) · [Buy on Amazon](https://www.amazon.com/dp/B074RFMST8?tag=inkledger-20)
+- [B09J7946RJ](/products/b09j7946rj-b09j7946rj/) · [Buy on Amazon](https://www.amazon.com/dp/B09J7946RJ?tag=inkledger-20)
+- [Epson EcoTank ET-2988 Wireless All-in-One Color Supertank Printer with up to 3 Y](/products/b0h476662h-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0H476662H?tag=inkledger-20)
+- [B0FMB4JBJ8](/products/b0fmb4jbj8-b0fmb4jbj8/) · [Buy on Amazon](https://www.amazon.com/dp/B0FMB4JBJ8?tag=inkledger-20)
+- [B0GMMHC3G4](/products/b0gmmhc3g4-b0gmmhc3g4/) · [Buy on Amazon](https://www.amazon.com/dp/B0GMMHC3G4?tag=inkledger-20)
+- [B08X4BQL7D](/products/b08x4bql7d-b08x4bql7d/) · [Buy on Amazon](https://www.amazon.com/dp/B08X4BQL7D?tag=inkledger-20)
+- [Canon PG-245 XL / CL-246 XL Genuine Ink Value Pack (2 Cartridges), Compatible wi](/products/b079y6fhkj-product/) · [Buy on Amazon](https://www.amazon.com/dp/B079Y6FHKJ?tag=inkledger-20)
+
+## Products in this guide
+
+- [Folgers Classic Roast Ground Coffee, 48 Oz](/products/b00hhqx0bq-folgers-classic-roast-coffee-48oz/)
+- [Dawn Ultra Dish Soap, Original Scent, 75 fl oz (2-Pack)](/products/b000wkwmws-dawn-ultra-dish-soap-75oz-2-pack/)
+- [B0041RRMQS](/products/b0041rrmqs-b0041rrmqs/)
+- [HP Samsung MLT-D116L (SU832A) MLT-D116L Toner Cartridge](/products/b00c18tycy-product/)
