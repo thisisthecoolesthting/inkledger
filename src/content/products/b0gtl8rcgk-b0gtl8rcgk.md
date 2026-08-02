@@ -9,7 +9,7 @@ rating: 0
 bsr: null
 commissionPerSale: 0
 score: 0
-imageUrl: "https://images-na.ssl-images-amazon.com/images/P/B0GTL8RCGK.01._SCLZZZZZZZ_.jpg"
+imageUrl: "https://m.media-amazon.com/images/I/51biAMIgq3L.jpg"
 affiliateUrl: "https://www.amazon.com/dp/B0GTL8RCGK?tag=inkledger-20"
 isPrime: false
 status: published
