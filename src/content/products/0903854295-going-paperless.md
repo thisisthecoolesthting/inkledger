@@ -1,5 +1,5 @@
 ---
-asin: 0903854295
+asin: '0903854295'
 title: Going Paperless
 seoTitle: Going Paperless — review
 metaDescription: Hands-on notes on Going Paperless.

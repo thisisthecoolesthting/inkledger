@@ -1,5 +1,5 @@
 ---
-asin: 1857755197
+asin: '1857755197'
 title: "Going Paperless: A Guide to Computerisation in Primary Care (Primary Care Health Informatics Series)"
 seoTitle: "Going Paperless: A Guide to Computerisation in Primary Care (Primary Care Health Informatics Series) \u2014 review"
 metaDescription: "Hands-on notes on Going Paperless: A Guide to Computerisation in Primary Care (Primary Care Health Informatics Series)."

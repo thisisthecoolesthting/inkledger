@@ -1,5 +1,5 @@
 ---
-asin: 1630680052
+asin: '1630680052'
 title: "Going Paperless: Taking Real Estate into the 21st Century"
 seoTitle: "Going Paperless: Taking Real Estate into the 21st Century \u2014 review"
 metaDescription: "Hands-on notes on Going Paperless: Taking Real Estate into the 21st Century."

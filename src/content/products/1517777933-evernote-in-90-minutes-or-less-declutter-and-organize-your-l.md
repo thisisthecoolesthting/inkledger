@@ -1,5 +1,5 @@
 ---
-asin: 1517777933
+asin: '1517777933'
 title: "Evernote In 90 Minutes Or Less: Declutter and organize your life by going completely paperless"
 seoTitle: "Evernote In 90 Minutes Or Less: Declutter and organize your life by going completely paperless \u2014 review"
 metaDescription: "Hands-on notes on Evernote In 90 Minutes Or Less: Declutter and organize your life by going completely paperless."

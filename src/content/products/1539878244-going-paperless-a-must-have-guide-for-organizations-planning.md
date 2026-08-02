@@ -1,5 +1,5 @@
 ---
-asin: 1539878244
+asin: '1539878244'
 title: "Going Paperless: A must-have guide for organizations planning to go paperless and for enterprise content management (ECM) initiatives"
 seoTitle: "Going Paperless: A must-have guide for organizations planning to go paperless and for enterprise content management (ECM) initiatives \u2014 review"
 metaDescription: "Hands-on notes on Going Paperless: A must-have guide for organizations planning to go paperless and for enterprise content management (ECM) initiatives."
