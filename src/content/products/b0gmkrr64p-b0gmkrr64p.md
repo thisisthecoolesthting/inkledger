@@ -1,47 +1,43 @@
 ---
-asin: B0GMKRR64P
-title: B0GMKRR64P
-seoTitle: B0GMKRR64P — review
-metaDescription: Hands-on notes on B0GMKRR64P.
-category: general
-price: 0
-rating: 0
-bsr: null
+asin: "B0GMKRR64P"
+title: "HP Envy 6155 Wireless All-in-One Color Inkjet Printer, Print, Scan, Copy, Duplex Printing Best-for-Home, 3 Month Trial of Instant Ink Included, AI-Capable (C2WR7A) Portobello"
+seoTitle: "HP Envy 6155 Wireless All-in-One Color Inkjet Printer, Print, Scan, Copy, Duplex Printing Best-for-Home, 3 Month Trial of Instant Ink Included, AI-Capable (C2WR7A) Portobello — Review"
+metaDescription: "The HP Envy 6155 is a Wireless All-in-One Color Inkjet Printer, specifically designed as best-for-home use. It provides print, scan, and copy functionaliti"
+category: Inkjet Printers
+price: 99.99
+rating: null
+bsr: 6003
 commissionPerSale: 0
 score: 0
-imageUrl: "https://m.media-amazon.com/images/I/41Wfr8noQUL.jpg"
+imageUrl: "https://m.media-amazon.com/images/I/61hZ50yyBzL.jpg"
 affiliateUrl: "https://www.amazon.com/dp/B0GMKRR64P?tag=inkledger-20"
 isPrime: false
 status: published
-firstSeen: "2026-07-23"
-lastSeen: "2026-07-23"
+firstSeen: "2026-08-03"
+lastSeen: "2026-08-03"
 slug: b0gmkrr64p-b0gmkrr64p
-cardTitle: B0GMKRR64P
-cardPick: Solid pick for most readers
+cardTitle: "HP Envy 6155 Wireless All-in-One Color Inkjet Printer, Pr..."
+cardPick: "For home users needing a versatile all-in-one printer with duplex printing and AI..."
 tags: []
 ---
 
 ## Overview
 
-**B0GMKRR64P** is a oem-cartridges pick we track for OEM cartridge prices rose 43% in the last five years. We track the increases, review the refill and compatible alternatives that actually work, and show you exactly how much your household is losing to Epson, HP, Brother, and Canon each year.. We do not claim hands-on lab testing on every SKU; we combine listing specs, pricing history signals, and how the product maps to common buyer mistakes in this niche.
+The HP Envy 6155 is a Wireless All-in-One Color Inkjet Printer, specifically designed as best-for-home use. It provides print, scan, and copy functionalities, featuring convenient duplex printing. This AI-Capable printer also includes a 3-month trial of Instant Ink.
 
 Price varies on Amazon — check the live listing before you buy.
 
-We weight verified owner feedback alongside spec fit for the niche.
-
-Popularity shifts with promos; we re-check listings during refresh passes.
-
-Last catalog check: **2026-07-23**.
+Last catalog check via Keepa: **2026-08-03**.
 
 ## Who it's for
 
-Choose this when you want a mainstream Amazon listing with clear specs and enough owner feedback to spot obvious mismatches. It fits readers who already know the problem they are solving and need a vetted shortcut—not a deep brand story.
+Choose this when the specs and price above line up with what you need — this page is an editorial snapshot, not a lab-tested review.
 
-Skip it if you need white-glove support, pro-only features, or a guarantee that only a specialty retailer can provide.
+Skip it if you need white-glove support, pro-only features, or a guarantee only a specialty retailer can provide.
 
 ## What we like
 
-- **Fit for the niche** — title and category tags align with oem-cartridges searches our readers actually run.
+- **Real, current data** — title, price, and category pulled directly from Amazon via Keepa on 2026-08-03.
 - **Transparent commerce** — we link to Amazon with our associate tag; you pay the same price, we may earn a commission.
 - **Comparable context** — see our [buyer's guides](/articles/) and [methodology](/methodology/) for how we score alternatives.
 
@@ -53,11 +49,11 @@ Skip it if you need white-glove support, pro-only features, or a guarantee that 
 
 ## How we score it
 
-Our desk scores **value**, **spec clarity**, and **review credibility** for oem-cartridges. This page is an editorial snapshot—not a sponsored post. ASIN **B0GMKRR64P** is tracked in our harvest catalog for price and availability refreshes.
+Our desk scores **value**, **spec clarity**, and **review credibility** for Inkjet Printers. This page is an editorial snapshot — not a sponsored post. ASIN **B0GMKRR64P** is tracked in our harvest catalog for price and availability refreshes.
 
 ## Verdict
 
-**B0GMKRR64P** is a reasonable shortlist candidate for OEM cartridge prices rose 43% in the last five years. We track the increases, review the refill and compatible alternatives that actually work, and show you exactly how much your household is losing to Epson, HP, Brother, and Canon each year. if the live price and seller look normal today. Compare it against our top guides before you buy, and treat this write-up as a starting point—not the final word.
+For home users needing a versatile all-in-one printer with duplex printing and AI capabilities, the HP Envy 6155 is a suitable option. Priced at $99.99, it also offers a 3-month trial of Instant Ink.
 
 ---
 

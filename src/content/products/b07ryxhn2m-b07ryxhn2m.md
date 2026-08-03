@@ -1,47 +1,43 @@
 ---
-asin: B07RYXHN2M
-title: B07RYXHN2M
-seoTitle: B07RYXHN2M — review
-metaDescription: Hands-on notes on B07RYXHN2M.
-category: general
-price: 0
-rating: 0
-bsr: null
+asin: "B07RYXHN2M"
+title: "Conquest Scents Vs-1 Deer Scent Refill Cartridges – 2 Pack for Scent Dispenser | Doe Estrus Works with ScentFire Kit and Deer Hunting Accessories"
+seoTitle: "Conquest Scents Vs-1 Deer Scent Refill Cartridges – 2 Pack for Scent Dispenser | Doe Estrus Works with ScentFire Kit and Deer Hunting Accessories — Review"
+metaDescription: "The Conquest Scents Vs-1 Deer Scent Refill Cartridges are a 2-pack of doe estrus scent, falling under the 'Scents' category. These cartridges are specifica"
+category: Scents
+price: 59.99
+rating: null
+bsr: 375384
 commissionPerSale: 0
 score: 0
-imageUrl: "https://m.media-amazon.com/images/I/41qiYF+9IaL.jpg"
+imageUrl: "https://m.media-amazon.com/images/I/713gg45+dlL.jpg"
 affiliateUrl: "https://www.amazon.com/dp/B07RYXHN2M?tag=inkledger-20"
 isPrime: false
 status: published
-firstSeen: "2026-07-23"
-lastSeen: "2026-07-23"
+firstSeen: "2026-08-03"
+lastSeen: "2026-08-03"
 slug: b07ryxhn2m-b07ryxhn2m
-cardTitle: B07RYXHN2M
-cardPick: Solid pick for most readers
+cardTitle: "Conquest Scents Vs-1 Deer Scent Refill Cartridges – 2 Pac..."
+cardPick: "For deer hunters seeking doe estrus refills compatible with scent dispensers and..."
 tags: []
 ---
 
 ## Overview
 
-**B07RYXHN2M** is a oem-cartridges pick we track for OEM cartridge prices rose 43% in the last five years. We track the increases, review the refill and compatible alternatives that actually work, and show you exactly how much your household is losing to Epson, HP, Brother, and Canon each year.. We do not claim hands-on lab testing on every SKU; we combine listing specs, pricing history signals, and how the product maps to common buyer mistakes in this niche.
+The Conquest Scents Vs-1 Deer Scent Refill Cartridges are a 2-pack of doe estrus scent, falling under the 'Scents' category. These cartridges are specifically designed for use with a scent dispenser and are compatible with the ScentFire Kit and other deer hunting accessories. This product is suitable for deer hunters looking for refill options.
 
 Price varies on Amazon — check the live listing before you buy.
 
-We weight verified owner feedback alongside spec fit for the niche.
-
-Popularity shifts with promos; we re-check listings during refresh passes.
-
-Last catalog check: **2026-07-23**.
+Last catalog check via Keepa: **2026-08-03**.
 
 ## Who it's for
 
-Choose this when you want a mainstream Amazon listing with clear specs and enough owner feedback to spot obvious mismatches. It fits readers who already know the problem they are solving and need a vetted shortcut—not a deep brand story.
+Choose this when the specs and price above line up with what you need — this page is an editorial snapshot, not a lab-tested review.
 
-Skip it if you need white-glove support, pro-only features, or a guarantee that only a specialty retailer can provide.
+Skip it if you need white-glove support, pro-only features, or a guarantee only a specialty retailer can provide.
 
 ## What we like
 
-- **Fit for the niche** — title and category tags align with oem-cartridges searches our readers actually run.
+- **Real, current data** — title, price, and category pulled directly from Amazon via Keepa on 2026-08-03.
 - **Transparent commerce** — we link to Amazon with our associate tag; you pay the same price, we may earn a commission.
 - **Comparable context** — see our [buyer's guides](/articles/) and [methodology](/methodology/) for how we score alternatives.
 
@@ -53,11 +49,11 @@ Skip it if you need white-glove support, pro-only features, or a guarantee that 
 
 ## How we score it
 
-Our desk scores **value**, **spec clarity**, and **review credibility** for oem-cartridges. This page is an editorial snapshot—not a sponsored post. ASIN **B07RYXHN2M** is tracked in our harvest catalog for price and availability refreshes.
+Our desk scores **value**, **spec clarity**, and **review credibility** for Scents. This page is an editorial snapshot — not a sponsored post. ASIN **B07RYXHN2M** is tracked in our harvest catalog for price and availability refreshes.
 
 ## Verdict
 
-**B07RYXHN2M** is a reasonable shortlist candidate for OEM cartridge prices rose 43% in the last five years. We track the increases, review the refill and compatible alternatives that actually work, and show you exactly how much your household is losing to Epson, HP, Brother, and Canon each year. if the live price and seller look normal today. Compare it against our top guides before you buy, and treat this write-up as a starting point—not the final word.
+For deer hunters seeking doe estrus refills compatible with scent dispensers and ScentFire Kits, this 2-pack offers a targeted solution. It is available for $59.99.
 
 ---
 

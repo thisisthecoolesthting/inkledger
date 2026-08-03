@@ -1,47 +1,43 @@
 ---
-asin: B08X4BQL7D
-title: B08X4BQL7D
-seoTitle: B08X4BQL7D — review
-metaDescription: Hands-on notes on B08X4BQL7D.
-category: general
-price: 0
-rating: 0
-bsr: null
+asin: "B08X4BQL7D"
+title: "COCADEEX 67XL 65XL 500ml Ink Refill Kit"
+seoTitle: "COCADEEX 67XL 65XL 500ml Ink Refill Kit — Review"
+metaDescription: "The COCADEEX 67XL 65XL 500ml Ink Refill Kit is an offering within the Inkjet Ink Refills & Kits category. This kit provides a substantial 500ml of ink, sui"
+category: Inkjet Ink Refills & Kits
+price: 21.99
+rating: null
+bsr: 285499
 commissionPerSale: 0
 score: 0
-imageUrl: "https://m.media-amazon.com/images/I/51iGvX3rEZL.jpg"
+imageUrl: "https://m.media-amazon.com/images/I/71BMu0vnNgL.jpg"
 affiliateUrl: "https://www.amazon.com/dp/B08X4BQL7D?tag=inkledger-20"
 isPrime: false
 status: published
-firstSeen: "2026-07-23"
-lastSeen: "2026-07-23"
+firstSeen: "2026-08-03"
+lastSeen: "2026-08-03"
 slug: b08x4bql7d-b08x4bql7d
-cardTitle: B08X4BQL7D
-cardPick: Solid pick for most readers
+cardTitle: "COCADEEX 67XL 65XL 500ml Ink Refill Kit"
+cardPick: "This COCADEEX 67XL 65XL 500ml Ink Refill Kit is available for $21.99, offering a solution..."
 tags: []
 ---
 
 ## Overview
 
-**B08X4BQL7D** is a oem-cartridges pick we track for OEM cartridge prices rose 43% in the last five years. We track the increases, review the refill and compatible alternatives that actually work, and show you exactly how much your household is losing to Epson, HP, Brother, and Canon each year.. We do not claim hands-on lab testing on every SKU; we combine listing specs, pricing history signals, and how the product maps to common buyer mistakes in this niche.
+The COCADEEX 67XL 65XL 500ml Ink Refill Kit is an offering within the Inkjet Ink Refills & Kits category. This kit provides a substantial 500ml of ink, suitable for users looking to refill their compatible cartridges.
 
 Price varies on Amazon — check the live listing before you buy.
 
-We weight verified owner feedback alongside spec fit for the niche.
-
-Popularity shifts with promos; we re-check listings during refresh passes.
-
-Last catalog check: **2026-07-23**.
+Last catalog check via Keepa: **2026-08-03**.
 
 ## Who it's for
 
-Choose this when you want a mainstream Amazon listing with clear specs and enough owner feedback to spot obvious mismatches. It fits readers who already know the problem they are solving and need a vetted shortcut—not a deep brand story.
+Choose this when the specs and price above line up with what you need — this page is an editorial snapshot, not a lab-tested review.
 
-Skip it if you need white-glove support, pro-only features, or a guarantee that only a specialty retailer can provide.
+Skip it if you need white-glove support, pro-only features, or a guarantee only a specialty retailer can provide.
 
 ## What we like
 
-- **Fit for the niche** — title and category tags align with oem-cartridges searches our readers actually run.
+- **Real, current data** — title, price, and category pulled directly from Amazon via Keepa on 2026-08-03.
 - **Transparent commerce** — we link to Amazon with our associate tag; you pay the same price, we may earn a commission.
 - **Comparable context** — see our [buyer's guides](/articles/) and [methodology](/methodology/) for how we score alternatives.
 
@@ -53,11 +49,11 @@ Skip it if you need white-glove support, pro-only features, or a guarantee that 
 
 ## How we score it
 
-Our desk scores **value**, **spec clarity**, and **review credibility** for oem-cartridges. This page is an editorial snapshot—not a sponsored post. ASIN **B08X4BQL7D** is tracked in our harvest catalog for price and availability refreshes.
+Our desk scores **value**, **spec clarity**, and **review credibility** for Inkjet Ink Refills & Kits. This page is an editorial snapshot — not a sponsored post. ASIN **B08X4BQL7D** is tracked in our harvest catalog for price and availability refreshes.
 
 ## Verdict
 
-**B08X4BQL7D** is a reasonable shortlist candidate for OEM cartridge prices rose 43% in the last five years. We track the increases, review the refill and compatible alternatives that actually work, and show you exactly how much your household is losing to Epson, HP, Brother, and Canon each year. if the live price and seller look normal today. Compare it against our top guides before you buy, and treat this write-up as a starting point—not the final word.
+This COCADEEX 67XL 65XL 500ml Ink Refill Kit is available for $21.99, offering a solution for those seeking inkjet ink refills.
 
 ---
 

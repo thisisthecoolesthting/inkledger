@@ -1,47 +1,43 @@
 ---
-asin: B001QY8QXM
-title: B001QY8QXM
-seoTitle: B001QY8QXM — review
-metaDescription: Hands-on notes on B001QY8QXM.
-category: general
-price: null
+asin: "B001QY8QXM"
+title: "Astra Platinum Double Edge Safety Razor Blades,100 Blades (20 x 5)"
+seoTitle: "Astra Platinum Double Edge Safety Razor Blades,100 Blades (20 x 5) — Review"
+metaDescription: "The Astra Platinum Double Edge Safety Razor Blades come in a bulk pack of 100, distributed as 20 smaller packs of 5. Categorized under Cartridges, these bl"
+category: Cartridges
+price: 12.12
 rating: null
-bsr: null
+bsr: 1892
 commissionPerSale: 0
 score: 0
-imageUrl: "https://images-na.ssl-images-amazon.com/images/P/B001QY8QXM.01._SCLZZZZZZZ_.jpg"
-affiliateUrl: https://www.amazon.com/dp/B001QY8QXM?tag=inkledger-20
+imageUrl: "https://m.media-amazon.com/images/I/71e6nFIuwJL.jpg"
+affiliateUrl: "https://www.amazon.com/dp/B001QY8QXM?tag=inkledger-20"
 isPrime: false
-status: draft
-firstSeen: '2026-06-01'
-lastSeen: '2026-06-01'
+status: published
+firstSeen: "2026-08-03"
+lastSeen: "2026-08-03"
 slug: b001qy8qxm-b001qy8qxm
-cardTitle: B001QY8QXM
-cardPick: Solid pick for most readers
+cardTitle: "Astra Platinum Double Edge Safety Razor Blades,100 Blades..."
+cardPick: "Priced at $12.12, the Astra Platinum Double Edge Safety Razor Blades provide a generous..."
 tags: []
-updatedAt: '2026-06-01'
 ---
+
 ## Overview
 
-**B001QY8QXM** is a general pick we track for We track the household staples you buy on repeat — water, detergent, pet food, ink — and flag the hikes retailers hope you will not notice. Then we point you to refills, reusables, and smarter swaps.. We do not claim hands-on lab testing on every SKU; we combine listing specs, pricing history signals, and how the product maps to common buyer mistakes in this niche.
+The Astra Platinum Double Edge Safety Razor Blades come in a bulk pack of 100, distributed as 20 smaller packs of 5. Categorized under Cartridges, these blades are suitable for regular users seeking a significant supply. With a Best Seller Rank (BSR) of 1892, they hold a competitive position.
 
 Price varies on Amazon — check the live listing before you buy.
 
-We weight verified owner feedback alongside spec fit for the niche.
-
-Popularity shifts with promos; we re-check listings during refresh passes.
-
-Last catalog check: **2026-06-01**.
+Last catalog check via Keepa: **2026-08-03**.
 
 ## Who it's for
 
-Choose this when you want a mainstream Amazon listing with clear specs and enough owner feedback to spot obvious mismatches. It fits readers who already know the problem they are solving and need a vetted shortcut—not a deep brand story.
+Choose this when the specs and price above line up with what you need — this page is an editorial snapshot, not a lab-tested review.
 
-Skip it if you need white-glove support, pro-only features, or a guarantee that only a specialty retailer can provide.
+Skip it if you need white-glove support, pro-only features, or a guarantee only a specialty retailer can provide.
 
 ## What we like
 
-- **Fit for the niche** — title and category tags align with general searches our readers actually run.
+- **Real, current data** — title, price, and category pulled directly from Amazon via Keepa on 2026-08-03.
 - **Transparent commerce** — we link to Amazon with our associate tag; you pay the same price, we may earn a commission.
 - **Comparable context** — see our [buyer's guides](/articles/) and [methodology](/methodology/) for how we score alternatives.
 
@@ -53,19 +49,12 @@ Skip it if you need white-glove support, pro-only features, or a guarantee that 
 
 ## How we score it
 
-Our desk scores **value**, **spec clarity**, and **review credibility** for general. This page is an editorial snapshot—not a sponsored post. ASIN **B001QY8QXM** is tracked in our harvest catalog for price and availability refreshes.
+Our desk scores **value**, **spec clarity**, and **review credibility** for Cartridges. This page is an editorial snapshot — not a sponsored post. ASIN **B001QY8QXM** is tracked in our harvest catalog for price and availability refreshes.
 
 ## Verdict
 
-**B001QY8QXM** is a reasonable shortlist candidate for We track the household staples you buy on repeat — water, detergent, pet food, ink — and flag the hikes retailers hope you will not notice. Then we point you to refills, reusables, and smarter swaps. if the live price and seller look normal today. Compare it against our top guides before you buy, and treat this write-up as a starting point—not the final word.
+Priced at $12.12, the Astra Platinum Double Edge Safety Razor Blades provide a generous 100-blade supply for long-term use. Their Best Seller Rank (BSR) of 1892 indicates their strong market presence.
 
 ---
 
 *Affiliate disclosure: purchasing through our Amazon link may support this site at no extra cost to you.*
-
-## In our catalog
-
-- [Printer Ink Price Hikes: We Tracked 15–30% Increases This Year](/articles/ink-cartridge-rip-off-gymledger/)
-- [Printer Ink Price Hikes: We Tracked 15–30% Increases This Year](/articles/ink-cartridge-rip-off-filtercycle/)
-- [Printer Ink Price Hikes: We Tracked 15–30% Increases This Year](/articles/ink-cartridge-rip-off-secondspringclub/)
-- [Printer Ink Price Hikes: We Tracked 15–30% Increases This Year](/articles/ink-cartridge-rip-off-tinkerbench/)

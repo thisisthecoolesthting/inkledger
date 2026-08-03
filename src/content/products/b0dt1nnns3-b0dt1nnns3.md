@@ -1,47 +1,43 @@
 ---
-asin: B0DT1NNNS3
-title: B0DT1NNNS3
-seoTitle: B0DT1NNNS3 — review
-metaDescription: Hands-on notes on B0DT1NNNS3.
-category: general
-price: 0
-rating: 0
-bsr: null
+asin: "B0DT1NNNS3"
+title: "Smart Ink Remanufactured Ink Cartridges Replacement for HP 962XL 962 XL Combo Pack (962XL Black, Cyan, Magenta, Yellow) to use with OfficeJet Pro 9015e 9018e 9025e 9012e 9015 9010 9012 9018 9020 9025"
+seoTitle: "Smart Ink Remanufactured Ink Cartridges Replacement for HP 962XL 962 XL Combo Pack (962XL Black, Cyan, Magenta, Yellow) to use with OfficeJet Pro 9015e 9018e 9025e 9012e 9015 9010 9012 9018 9020 9025 — Review"
+metaDescription: "The Smart Ink Remanufactured Ink Cartridges are a replacement combo pack for HP 962XL ink, featuring black, cyan, magenta, and yellow cartridges. These ink"
+category: Inkjet Ink Cartridges
+price: 51.29
+rating: null
+bsr: 2460
 commissionPerSale: 0
 score: 0
-imageUrl: "https://m.media-amazon.com/images/I/511FcV4MuFL.jpg"
+imageUrl: "https://m.media-amazon.com/images/I/81unj6CV1fL.jpg"
 affiliateUrl: "https://www.amazon.com/dp/B0DT1NNNS3?tag=inkledger-20"
 isPrime: false
 status: published
-firstSeen: "2026-07-23"
-lastSeen: "2026-07-23"
+firstSeen: "2026-08-03"
+lastSeen: "2026-08-03"
 slug: b0dt1nnns3-b0dt1nnns3
-cardTitle: B0DT1NNNS3
-cardPick: Solid pick for most readers
+cardTitle: "Smart Ink Remanufactured Ink Cartridges Replacement for H..."
+cardPick: "For users of compatible HP OfficeJet Pro printers seeking a replacement ink solution,..."
 tags: []
 ---
 
 ## Overview
 
-**B0DT1NNNS3** is a oem-cartridges pick we track for OEM cartridge prices rose 43% in the last five years. We track the increases, review the refill and compatible alternatives that actually work, and show you exactly how much your household is losing to Epson, HP, Brother, and Canon each year.. We do not claim hands-on lab testing on every SKU; we combine listing specs, pricing history signals, and how the product maps to common buyer mistakes in this niche.
+The Smart Ink Remanufactured Ink Cartridges are a replacement combo pack for HP 962XL ink, featuring black, cyan, magenta, and yellow cartridges. These inkjet ink cartridges are designed for use with a range of HP OfficeJet Pro printers, including models like the 9015e, 9018e, 9025e, 9015, and 9025.
 
 Price varies on Amazon — check the live listing before you buy.
 
-We weight verified owner feedback alongside spec fit for the niche.
-
-Popularity shifts with promos; we re-check listings during refresh passes.
-
-Last catalog check: **2026-07-23**.
+Last catalog check via Keepa: **2026-08-03**.
 
 ## Who it's for
 
-Choose this when you want a mainstream Amazon listing with clear specs and enough owner feedback to spot obvious mismatches. It fits readers who already know the problem they are solving and need a vetted shortcut—not a deep brand story.
+Choose this when the specs and price above line up with what you need — this page is an editorial snapshot, not a lab-tested review.
 
-Skip it if you need white-glove support, pro-only features, or a guarantee that only a specialty retailer can provide.
+Skip it if you need white-glove support, pro-only features, or a guarantee only a specialty retailer can provide.
 
 ## What we like
 
-- **Fit for the niche** — title and category tags align with oem-cartridges searches our readers actually run.
+- **Real, current data** — title, price, and category pulled directly from Amazon via Keepa on 2026-08-03.
 - **Transparent commerce** — we link to Amazon with our associate tag; you pay the same price, we may earn a commission.
 - **Comparable context** — see our [buyer's guides](/articles/) and [methodology](/methodology/) for how we score alternatives.
 
@@ -53,11 +49,11 @@ Skip it if you need white-glove support, pro-only features, or a guarantee that 
 
 ## How we score it
 
-Our desk scores **value**, **spec clarity**, and **review credibility** for oem-cartridges. This page is an editorial snapshot—not a sponsored post. ASIN **B0DT1NNNS3** is tracked in our harvest catalog for price and availability refreshes.
+Our desk scores **value**, **spec clarity**, and **review credibility** for Inkjet Ink Cartridges. This page is an editorial snapshot — not a sponsored post. ASIN **B0DT1NNNS3** is tracked in our harvest catalog for price and availability refreshes.
 
 ## Verdict
 
-**B0DT1NNNS3** is a reasonable shortlist candidate for OEM cartridge prices rose 43% in the last five years. We track the increases, review the refill and compatible alternatives that actually work, and show you exactly how much your household is losing to Epson, HP, Brother, and Canon each year. if the live price and seller look normal today. Compare it against our top guides before you buy, and treat this write-up as a starting point—not the final word.
+For users of compatible HP OfficeJet Pro printers seeking a replacement ink solution, this combo pack is available for $51.29.
 
 ---
 
