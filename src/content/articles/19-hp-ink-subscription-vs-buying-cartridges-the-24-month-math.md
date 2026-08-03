@@ -6,7 +6,6 @@ tier: mvp
 updatedAt: "2026-05-12T08:18:54Z"
 relatedProducts:
 - B00NQ1CLTI
-- B01N7V39UO
 - B08JHWZ15B
 - B07N1DF9VV
 - B08X4BQL7D

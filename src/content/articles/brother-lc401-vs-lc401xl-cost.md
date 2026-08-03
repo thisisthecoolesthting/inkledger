@@ -7,7 +7,6 @@ cardTitle: "brother-lc401-vs-lc401xl-cost"
 cardPick: "Editorial printer-ink pick from InkLedger."
 updatedAt: '2026-06-06T03:05:48.095Z'
 relatedProducts:
-- B002R5AF1I
 - B0CCNKGY6J
 - B074ND5RDT
 - B092T3GBWK
@@ -16,7 +15,6 @@ relatedProducts:
 - B0CT2QHQVF
 - B0GMW9XT9X
 - B0F1FNZB62
-- B07Q5J5XJL
 status: published
 subtopic: printer-ink
 publishedAt: '2026-06-06T03:05:48.095Z'

@@ -12,11 +12,8 @@ relatedProducts:
 - B0DFYBSVB8
 - B0BPD45XG6
 - B0CQQV1WSR
-- B002BWQ6XK
 - B0F1FNZB62
-- B08PDHVZ4N
 - B0CYGN38RF
-- B00SAYAKPK
 status: published
 tags:
 - printer ink

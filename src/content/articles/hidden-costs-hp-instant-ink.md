@@ -7,11 +7,9 @@ cardTitle: "hidden-costs-hp-instant-ink"
 cardPick: "Editorial printer-ink pick from InkLedger."
 updatedAt: '2026-06-06T03:05:48.129Z'
 relatedProducts:
-- B000VKGRF0
 - B0CZSFG7VX
 - B07ZHTFF44
 - B0D92PVDQH
-- B001ET73J2
 - B0F7KKY728
 - B08VF3XRQ8
 - B0GMKRR64P

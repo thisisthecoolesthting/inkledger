@@ -6,7 +6,6 @@ tier: mvp
 updatedAt: '2026-05-12T08:19:50Z'
 relatedProducts:
 - B0G2LS7RMK
-- B00SAYAKPK
 - B0B1J5PYCF
 - B000H0XFCS
 - B07C11YW88

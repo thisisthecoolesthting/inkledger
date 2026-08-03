@@ -15,7 +15,6 @@ relatedProducts:
 - B08JHWZ15B
 - B004QM8SLG
 - B00NQ1CLTI
-- B08B3K9H7L
 - B0BJ194Z43
 status: published
 subtopic: printer-ink

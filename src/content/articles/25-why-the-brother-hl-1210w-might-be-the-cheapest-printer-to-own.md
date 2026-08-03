@@ -9,12 +9,10 @@ relatedProducts:
 - B0GFMH3D3X
 - B0DPKJJRBG
 - B0FT39TGXN
-- B002BWQ6XK
 - B0FNMZCLCG
 - B00NQ1CLTI
 - B07N1DF9VV
 - B0DMS3D2JT
-- B01N4NLZJN
 status: published
 heroImage: /heroes/25-why-the-brother-hl-1210w-might-be-the-cheapest-printer-to-own.webp
 subtopic: printers

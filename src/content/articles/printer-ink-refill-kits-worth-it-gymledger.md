@@ -16,7 +16,6 @@ relatedProducts:
 - B00QJ88SB0
 - B0F2478Q95
 - B089CGSV4N
-- B00FFJ0R1Q
 status: published
 tags:
 - printer ink

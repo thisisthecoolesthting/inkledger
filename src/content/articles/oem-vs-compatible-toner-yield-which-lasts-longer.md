@@ -5,7 +5,6 @@ topic: 'OEM vs Compatible Toner Yield: Which Lasts Longer?'
 tier: mvp
 updatedAt: "2026-05-12T08:42:49Z"
 relatedProducts:
-- B09WDBHXB3
 - B0F1FBQRVB
 - B0GRGQR634
 - B0G1NBKD38

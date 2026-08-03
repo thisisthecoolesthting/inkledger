@@ -8,10 +8,8 @@ cardTitle: Printer Ink Markup
 cardPick: Household staples that dodge the printer-ink price trap—real $/use math inside.
 relatedProducts:
 - B0BX9HWN7W
-- B00B5JOC5C
 - B001EQ4G0O
 - B07C11YW88
-- B00PB6F2V4
 - B0CQQV1WSR
 - B0DT1NNNS3
 - B07MK5DG9V

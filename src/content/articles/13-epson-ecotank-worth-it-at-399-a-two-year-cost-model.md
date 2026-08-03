@@ -12,7 +12,6 @@ relatedProducts:
 - B0G6YZ5YFV
 - B00NQ1CLTI
 - B09ZVMYHGF
-- B07YPR2DGH
 - B0BM9BFLMX
 - B0CFM82NS2
 status: published

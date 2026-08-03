@@ -7,11 +7,9 @@ cardTitle: "canon-ink-cartridge-xl-vs-standard"
 cardPick: "Editorial printer-ink pick from InkLedger."
 updatedAt: '2026-06-06T03:05:48.096Z'
 relatedProducts:
-- B000NL0T1K
 - B0CWP64QMT
 - B09N4Z8DNL
 - B00C18TYCY
-- B000N3BBW0
 - B0FCS4HWPH
 - B0F1FNZB62
 - B07ZHTFF44

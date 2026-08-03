@@ -15,7 +15,6 @@ relatedProducts:
 - B00CAZAU62
 - B0B1J5PYCF
 - B07C11YW88
-- B09WDBHXB3
 - B0GYNFD72N
 status: published
 tags:

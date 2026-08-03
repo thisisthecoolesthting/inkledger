@@ -14,7 +14,6 @@ relatedProducts:
 - B00TRDOYLW
 - B07L2MZW6B
 - B00NQ1CLTI
-- B08KDQZJQ5
 - B0CT2LTF55
 - B0F2478Q95
 status: published

@@ -12,11 +12,9 @@ relatedProducts:
 - B00762AHTE
 - B0BX2N258S
 - B0B1J5PYCF
-- B08R3R5KXJ
 - B096N8CNBZ
 - B08X4BQL7D
 - B096N7TXR1
-- B002R5AF1I
 status: published
 tags:
 - razor blade subscription

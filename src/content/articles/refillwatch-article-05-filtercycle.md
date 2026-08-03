@@ -14,8 +14,6 @@ relatedProducts:
 - B0CYJV9X52
 - B09N4Z8DNL
 - B00QJ88ODW
-- B00SAYAKPK
-- B001ET76H8
 - B0FMBTJLX6
 status: published
 tags:

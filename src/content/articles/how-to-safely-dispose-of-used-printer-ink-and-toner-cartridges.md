@@ -14,7 +14,6 @@ relatedProducts:
 - B09TG52XT4
 - B075M8YX5N
 - B0FMBTJLX6
-- B07ZPSFVX5
 status: published
 heroImage: /heroes/how-to-safely-dispose-of-used-printer-ink-and-toner-cartridges.webp
 subtopic: cartridges

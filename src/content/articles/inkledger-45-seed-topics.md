@@ -7,7 +7,6 @@ status: published
 tags: []
 relatedProducts:
 - B07ZHTFF44
-- B000N3BBW0
 - B0GMMHC3G4
 - B0GKJZ864R
 - B0G1N9SX2M

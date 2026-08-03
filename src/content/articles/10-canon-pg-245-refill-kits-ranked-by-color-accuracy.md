@@ -12,9 +12,7 @@ relatedProducts:
 - B0D92PVDQH
 - B0D3XGJ6HW
 - B0BPD45XG6
-- B002R5AF1I
 - B09ZVMYHGF
-- B08PDT1Y3H
 status: published
 heroImage: /heroes/10-canon-pg-245-refill-kits-ranked-by-color-accuracy.webp
 subtopic: cartridges

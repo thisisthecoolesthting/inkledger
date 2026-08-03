@@ -5,7 +5,6 @@ topic: 9. The best HP compatible cartridges — tested on six printers
 tier: mvp
 updatedAt: '2026-05-12T08:14:51Z'
 relatedProducts:
-- B08KDQZJQ5
 - B0G6Z1834N
 - B0DS4M632H
 - B00C18TYCY

@@ -15,7 +15,6 @@ relatedProducts:
 - B08QMQNR76
 - B0014D3N0Q
 - B0B2RM68G2
-- B08KDQZJQ5
 - B01NBB1J9U
 status: published
 tags:

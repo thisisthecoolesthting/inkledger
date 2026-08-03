@@ -7,14 +7,11 @@ updatedAt: '2026-05-12T08:32:01Z'
 relatedProducts:
 - B0D3XGJ6HW
 - B0D92PVDQH
-- B002R5AF1I
 - B00CAZAU62
 - B00762AHTE
 - B09QCG2PM6
-- B07YPR2DGH
 - B0014D3N0Q
 - B001QY8QXM
-- B000VKGRF0
 status: published
 heroImage: /heroes/how-compatible-toner-saves-money-without-sacrificing-quality.webp
 subtopic: cartridges

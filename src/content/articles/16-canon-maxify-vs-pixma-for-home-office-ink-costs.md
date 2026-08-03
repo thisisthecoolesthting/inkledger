@@ -6,7 +6,6 @@ tier: mvp
 updatedAt: '2026-05-12T08:17:25Z'
 relatedProducts:
 - B074RFMST8
-- B001ET73J2
 - B08X4BQL7D
 - B0CT8ZJ7ZC
 - B00063RWT8

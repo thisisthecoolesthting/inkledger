@@ -7,7 +7,6 @@ cardTitle: "hp-61-vs-962-ink-cost-comparison"
 cardPick: "Editorial printer-ink pick from InkLedger."
 updatedAt: '2026-06-06T03:05:48.140Z'
 relatedProducts:
-- B07Q5J5YXV
 - B0FGC43YCL
 - B09W9MF63Y
 - B07D5DN269

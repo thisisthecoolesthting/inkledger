@@ -16,7 +16,6 @@ relatedProducts:
 - B0FVFGX7Y5
 - B0CHJ8T7XS
 - B0GVM6YY7B
-- B0B7MKRR58
 status: published
 subtopic: printer-ink
 publishedAt: '2026-06-06T03:05:48.097Z'

@@ -13,7 +13,6 @@ relatedProducts:
 - B08QMQNR76
 - B0H1M158VT
 - B0CT8ZJ7ZC
-- B0B7MKRR58
 - B0FVFGX7Y5
 status: published
 heroImage: /heroes/how-to-choose-the-right-toner-cartridge-for-your-printer-model.webp

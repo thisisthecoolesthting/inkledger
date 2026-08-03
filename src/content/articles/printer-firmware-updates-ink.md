@@ -7,14 +7,11 @@ cardTitle: "printer-firmware-updates-ink"
 cardPick: "Editorial printer-ink pick from InkLedger."
 updatedAt: '2026-06-06T03:05:48.176Z'
 relatedProducts:
-- B07YPR2DGH
 - B0FW9LH3Q5
 - B0C1ZF94GW
 - B0DMS3D2JT
 - B0GYNFD72N
-- B000N3BBW0
 - B0F1F2XRW9
-- B01N7V39QJ
 - B0F6C98Q8M
 - B07C4HMJFS
 status: published

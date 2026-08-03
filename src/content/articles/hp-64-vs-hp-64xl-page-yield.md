@@ -10,12 +10,10 @@ relatedProducts:
 - B07ZHTFF44
 - B0D3XGJ6HW
 - B0CFM82NS2
-- B00PB6F2V4
 - B098JD8HD3
 - B0FT39TGXN
 - B07RVMZNYR
 - B092T3GBWK
-- B09WDBHXB3
 - B0FKBFH92Q
 status: published
 subtopic: printer-ink

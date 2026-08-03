@@ -7,10 +7,8 @@ pillarSlug: refillwatch-pillar-2
 cardTitle: The Ultimate Printer Ink Showdown
 cardPick: Household staples that dodge the printer-ink price trap—real $/use math inside.
 relatedProducts:
-- B09WDBHXB3
 - B08412HXK9
 - B07F97MPYT
-- B07P5Y5QHG
 - B0F1FNZB62
 - B07MCYDD62
 - B0B1J5PYCF

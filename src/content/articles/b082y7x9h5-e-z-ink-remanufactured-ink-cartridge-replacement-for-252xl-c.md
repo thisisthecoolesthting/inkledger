@@ -28,8 +28,6 @@ relatedProducts:
 - B0CQQV1WSR
 - B08BYZ5N7Q
 - B0G33T139M
-- B001ET73J2
-- B01N4QAK9O
 
 ---
 

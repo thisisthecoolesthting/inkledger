@@ -7,7 +7,6 @@ targetKeyword: consumable price traps
 relatedProducts:
 - B0H476662H
 - B08SWN848G
-- B08R3R5KXJ
 - B0D96T79YF
 - B0FCS1B33K
 - B0F6C98Q8M

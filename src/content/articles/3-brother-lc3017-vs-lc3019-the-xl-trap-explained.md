@@ -14,7 +14,6 @@ relatedProducts:
 - B00762AHTE
 - B0FMBGXC2C
 - B0B2RM68G2
-- B07P5Y5QHG
 status: published
 heroImage: /heroes/3-brother-lc3017-vs-lc3019-the-xl-trap-explained.webp
 subtopic: cartridges

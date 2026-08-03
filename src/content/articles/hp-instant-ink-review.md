@@ -7,11 +7,9 @@ cardTitle: "hp-instant-ink-review"
 cardPick: "Editorial printer-ink pick from InkLedger."
 updatedAt: '2026-06-06T03:05:48.151Z'
 relatedProducts:
-- B07P5BNQJG
 - B07N1DF9VV
 - B00WSAXBQ0
 - B000H0XFCS
-- B01N7V39UO
 - B07J2P2V7T
 - B00762AHTE
 - B07MK5DG9V

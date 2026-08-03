@@ -6,7 +6,6 @@ tier: mvp
 updatedAt: "2026-05-12T08:22:10Z"
 relatedProducts:
 - B09PH83KK5
-- B07YPR2DGH
 - B0BL466Y41
 - B01NBB1J9U
 - B07VVK39F7
@@ -14,7 +13,6 @@ relatedProducts:
 - B075X7TFY5
 - B0FGC43YCL
 - B073Q8P6CQ
-- B000NL0T1K
 status: published
 heroImage: /heroes/26-monochrome-laser-vs-inkjet-real-world-cost-comparison.webp
 subtopic: cartridges

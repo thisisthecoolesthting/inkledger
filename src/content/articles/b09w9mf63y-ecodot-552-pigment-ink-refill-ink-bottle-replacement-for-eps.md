@@ -20,7 +20,6 @@ cardTitle: ecodot 552 Pigment Ink Refill Ink Bottle Replacement for Epson 552 In
 cardPick: Solid pick for most readers
 tags: []
 relatedProducts:
-- B002BWQ6XK
 - B0G6YZ5YFV
 - B0CQQV1WSR
 - B0D3XGJ6HW

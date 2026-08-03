@@ -10,11 +10,8 @@ relatedProducts:
 - B0FW9LH3Q5
 - B07C11YW88
 - B07D5DN269
-- B001ET76H8
 - B07F97MPYT
-- B00FFJ0R1Q
 - B0FMBTJLX6
-- B09WDBHXB3
 status: published
 heroImage: /heroes/troubleshooting-common-print-quality-issues-with-compatible-cartridges.webp
 subtopic: cartridges

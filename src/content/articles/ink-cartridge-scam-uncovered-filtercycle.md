@@ -16,7 +16,6 @@ relatedProducts:
 - B0D96T79YF
 - B08VF3XRQ8
 - B09W73NQPW
-- B08PDT1Y3H
 status: published
 tags:
 - printer ink

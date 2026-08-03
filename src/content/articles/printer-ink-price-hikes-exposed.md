@@ -7,7 +7,6 @@ cardTitle: "printer-ink-price-hikes-exposed"
 cardPick: "Editorial printer-ink pick from InkLedger."
 updatedAt: '2026-06-06T03:05:48.179Z'
 relatedProducts:
-- B000NL0T1K
 - B09W9MF63Y
 - B0FGC43YCL
 - B0H1M158VT

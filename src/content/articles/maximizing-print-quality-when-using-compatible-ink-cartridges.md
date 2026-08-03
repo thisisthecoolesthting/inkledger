@@ -8,12 +8,10 @@ relatedProducts:
 - B07L2MZW6B
 - B0D41ZMDPD
 - B0DPYJWX2F
-- B01N4QAK9O
 - B00JTE518E
 - B0GMKRR64P
 - B07G82D89G
 - B0DMS3D2JT
-- B07Q5J5YXV
 - B00CAZAU62
 status: published
 heroImage: /heroes/maximizing-print-quality-when-using-compatible-ink-cartridges.webp

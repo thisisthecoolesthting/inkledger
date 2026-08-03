@@ -6,14 +6,11 @@ tier: mvp
 updatedAt: "2026-05-12T08:15:55Z"
 relatedProducts:
 - B0F2478Q95
-- B09DV14ZZL
-- B08KDQZJQ5
 - B0G33T139M
 - B07TJ87YKB
 - B0GMMHC3G4
 - B0CZSFG7VX
 - B001EQ4G0O
-- B01N4NLZJN
 - B0FDL1LS3B
 status: published
 heroImage: /heroes/12-continuous-ink-systems-who-should-buy-one-who-should-avoid.webp

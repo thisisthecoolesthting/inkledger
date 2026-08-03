@@ -12,7 +12,6 @@ relatedProducts:
 - B00CAZAU62
 - B00762AHTE
 - B0BJ194Z43
-- B002BWQ6XK
 - B08SWN848G
 - B0F2478Q95
 status: published

@@ -6,7 +6,6 @@ status: published
 publishedAt: 2026-07-19
 updatedAt: 2026-07-19
 relatedProducts:
-- B07P5Y5QHG
 - B07MCYDD62
 - B0CT2LTF55
 - B0GZW7VXWT

@@ -5,9 +5,7 @@ topic: Best Printers for Using Compatible Ink Cartridges in 2024
 tier: mvp
 updatedAt: '2026-05-12T08:32:59Z'
 relatedProducts:
-- B00FFJ0R1Q
 - B0D41ZMDPD
-- B001E10B9I
 - B0BL466Y41
 - B0FGC43YCL
 - B0963X6B5V

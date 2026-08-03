@@ -14,7 +14,6 @@ relatedProducts:
 - B07J2P2V7T
 - B0D92PVDQH
 - B0BHXNP6B1
-- B002BWQ6XK
 status: published
 heroImage: /heroes/troubleshooting-faded-prints-from-compatible-ink-cartridges.webp
 subtopic: cartridges

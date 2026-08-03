@@ -7,13 +7,8 @@ updatedAt: '2026-05-12T08:59:08Z'
 relatedProducts:
 - B00QJ88ODW
 - B08VF3XRQ8
-- B08R3R5KXJ
-- B002R5AF1I
 - B08412HXK9
-- B08B3K9H7L
-- B00B5JOC5C
 - B0D41ZMDPD
-- B01N4NLZJN
 - B0BX2N258S
 status: published
 heroImage: /heroes/how-refill-kits-affect-printer-warranty-and-manufacturer-support.webp

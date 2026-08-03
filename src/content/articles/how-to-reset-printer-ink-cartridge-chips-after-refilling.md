@@ -8,13 +8,10 @@ relatedProducts:
 - B083BFPGD8
 - B0DPKJJRBG
 - B0DKJDRLTZ
-- B07Q5J5XJL
 - B07RYXHN2M
-- B07Q5J5YXV
 - B0BVYBVHK5
 - B0DFYBSVB8
 - B01MQYKRRZ
-- B01N4QAK9O
 status: published
 heroImage: /heroes/how-to-reset-printer-ink-cartridge-chips-after-refilling.webp
 subtopic: cartridges

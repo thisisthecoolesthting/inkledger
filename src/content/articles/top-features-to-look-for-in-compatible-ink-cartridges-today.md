@@ -13,7 +13,6 @@ relatedProducts:
 - B07MCYDD62
 - B0014D3N0Q
 - B0CCT8H4YK
-- B00FFJ0R1Q
 - B0FCS1B33K
 status: published
 heroImage: /heroes/top-features-to-look-for-in-compatible-ink-cartridges-today.webp

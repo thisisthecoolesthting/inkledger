@@ -7,14 +7,10 @@ updatedAt: '2026-05-12T08:29:42Z'
 relatedProducts:
 - B06XG5ZJN3
 - B0CQQV1WSR
-- B07R3N9X3F
 - B0DT1NNNS3
-- B00FFJ0R1Q
 - B01BYKUI9C
-- B000NL0T1K
 - B0963X6B5V
 - B0FMBGXC2C
-- B001ET76H8
 status: published
 heroImage: /heroes/43-thermal-printers-for-receipts-and-small-batch-postage.webp
 subtopic: printers

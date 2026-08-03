@@ -7,13 +7,10 @@ cardTitle: "printer-settings-ink-conservation"
 cardPick: "Editorial printer-ink pick from InkLedger."
 updatedAt: '2026-06-06T03:05:48.184Z'
 relatedProducts:
-- B001E10B9I
-- B08KDQZJQ5
 - B075M8YX5N
 - B0C8J8GY2V
 - B000H0XFCS
 - B0DFYBSVB8
-- B000VKGRF0
 - B0F7KKY728
 - B0DT1NNNS3
 - B0GVGG7QLT

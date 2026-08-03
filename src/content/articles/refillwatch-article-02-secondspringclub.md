@@ -16,7 +16,6 @@ relatedProducts:
 - B0F1CJ93JJ
 - B0CPB11F85
 - B07MK5DG9V
-- B001ET73J2
 status: published
 tags:
 - printer ink

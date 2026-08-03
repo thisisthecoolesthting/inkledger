@@ -12,7 +12,6 @@ relatedProducts:
 - B0GYNVJ62W
 - B096N7TXR1
 - B0CHJ8T7XS
-- B08PDT1Y3H
 - B077GLLZBW
 - B0F7K193ZR
 status: published

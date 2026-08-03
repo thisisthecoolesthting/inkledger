@@ -15,8 +15,6 @@ relatedProducts:
 - B01LYFVG1V
 - B0041RRMQS
 - B0BX9HWN7W
-- B0B7MKRR58
-- B00PB6F2V4
 status: published
 tags:
 - printer ink scam

@@ -11,10 +11,8 @@ relatedProducts:
 - B0FBRH75LK
 - B0748ZCG45
 - B0014D3N0Q
-- B00B5JOC5C
 - B0H1M158VT
 - B0C3QXMBC7
-- B08PDT1Y3H
 status: published
 heroImage: /heroes/27-canon-pixma-tr4720-vs-hp-deskjet-2755e-long-term-review.webp
 subtopic: printers

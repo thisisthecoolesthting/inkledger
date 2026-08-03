@@ -7,7 +7,6 @@ cardTitle: "instant-ink-subscription-worth-it-analysis"
 cardPick: "Editorial printer-ink pick from InkLedger."
 updatedAt: '2026-06-06T03:05:48.160Z'
 relatedProducts:
-- B001E10B9I
 - B07T2S3D6J
 - B0GMKRR64P
 - B07VVK39F7

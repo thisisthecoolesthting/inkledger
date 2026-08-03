@@ -7,12 +7,10 @@ cardTitle: "why-is-printer-ink-so-expensive-uncovered"
 cardPick: "Editorial printer-ink pick from InkLedger."
 updatedAt: '2026-06-06T03:05:48.201Z'
 relatedProducts:
-- B01N5Q9Q6J
 - B071WB6BGN
 - B07T2S3D6J
 - B0GFMH3D3X
 - B08JHWZ15B
-- B00B5JOC5C
 - B0BX2N258S
 - B0041RRMQS
 - B0D3XGJ6HW

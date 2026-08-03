@@ -12,7 +12,6 @@ relatedProducts:
 - B09PH83KK5
 - B07TJ87YKB
 - B0CT2QHQVF
-- B08KDQZJQ5
 - B00TRDOYLW
 - B0DPYJWX2F
 status: published

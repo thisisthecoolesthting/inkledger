@@ -8,9 +8,7 @@ cardPick: "Editorial printer-ink pick from InkLedger."
 updatedAt: '2026-06-06T03:05:48.124Z'
 relatedProducts:
 - B0FB96PX2M
-- B00B5JOC5C
 - B0FGC43YCL
-- B01N4IWH2O
 - B0DFYBSVB8
 - B0GVGG7QLT
 - B0FHDJXJNZ

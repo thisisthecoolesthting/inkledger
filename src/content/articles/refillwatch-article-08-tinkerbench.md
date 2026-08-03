@@ -7,15 +7,12 @@ pillarSlug: refillwatch-pillar-2
 cardTitle: Printer Ink Prices Skyrocket
 cardPick: Household staples that dodge the printer-ink price trap—real $/use math inside.
 relatedProducts:
-- B00FFJ0R1Q
 - B0FMB4JBJ8
 - B00063RWT8
 - B09TXP1KDV
 - B0B2RM68G2
 - B09QCG2PM6
-- B00B5JOC5C
 - B00762AHTE
-- B09DV14ZZL
 - B07G82D89G
 status: published
 tags:

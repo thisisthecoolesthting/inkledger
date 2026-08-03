@@ -15,7 +15,6 @@ relatedProducts:
 - B00QJ88SB0
 - B09VXQ221K
 - B0GMMHC3G4
-- B00SAYAKPK
 - B08JHWZ15B
 status: published
 subtopic: printer-ink

@@ -15,7 +15,6 @@ relatedProducts:
 - B0H476662H
 - B0CWP64QMT
 - B0GZW7VXWT
-- B08PDHVZ4N
 - B07YGL9XTH
 status: published
 subtopic: printer-ink

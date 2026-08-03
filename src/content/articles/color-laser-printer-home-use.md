@@ -7,14 +7,11 @@ cardTitle: "color-laser-printer-home-use"
 cardPick: "Editorial printer-ink pick from InkLedger."
 updatedAt: '2026-06-06T03:05:48.106Z'
 relatedProducts:
-- B01N4IWH2O
 - B0D41ZMDPD
-- B00PB6F2V4
 - B0DHCKRWDL
 - B07D5DN269
 - B0FDL1LS3B
 - B07J2P2V7T
-- B08R3R5KXJ
 - B0836MYJSD
 - B0GMW9XT9X
 status: published

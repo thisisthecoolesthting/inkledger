@@ -7,7 +7,6 @@ status: published
 tags: []
 relatedProducts:
 - B07RYXHN2M
-- B07Q5J5XJL
 - B0CYGN38RF
 - B001EQ4G0O
 - B0FHDJXJNZ

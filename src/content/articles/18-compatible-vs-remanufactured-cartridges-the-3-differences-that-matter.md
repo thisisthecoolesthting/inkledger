@@ -8,13 +8,10 @@ relatedProducts:
 - B0GBVMMJ3V
 - B07J2P2V7T
 - B09PH83KK5
-- B00PB6F2V4
 - B0C1ZF94GW
 - B000H0XFCS
 - B08VF3XRQ8
 - B0963X6B5V
-- B08R3R5KXJ
-- B01N4NLZJN
 status: published
 heroImage: /heroes/18-compatible-vs-remanufactured-cartridges-the-3-differences-that-matter.webp
 subtopic: cartridges

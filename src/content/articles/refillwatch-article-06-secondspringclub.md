@@ -15,7 +15,6 @@ relatedProducts:
 - B08X4BQL7D
 - B0C1ZF94GW
 - B0GYNFD72N
-- B08K3J4WX6
 - B0963X6B5V
 status: published
 tags:

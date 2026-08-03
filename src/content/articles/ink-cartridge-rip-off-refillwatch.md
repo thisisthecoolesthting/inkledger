@@ -7,14 +7,12 @@ pillarSlug: price-hike-alerts
 cardTitle: Printer Ink Price Hikes
 cardPick: Household staples that dodge the printer-ink price trap—real $/use math inside.
 relatedProducts:
-- B07R3N9X3F
 - B096N8DN2H
 - B07D5DN269
 - B0D96T79YF
 - B0DT1NNNS3
 - B0D3XGJ6HW
 - B0GCZVZ3SZ
-- B00PB6F2V4
 - B0DS4M632H
 - B0D41ZMDPD
 status: published

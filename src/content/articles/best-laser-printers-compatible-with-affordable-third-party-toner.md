@@ -5,13 +5,11 @@ topic: Best Laser Printers Compatible with Affordable Third-Party Toner
 tier: mvp
 updatedAt: '2026-05-12T08:38:01Z'
 relatedProducts:
-- B07ZPSFVX5
 - B00C18TYCY
 - B0FC5XFVH7
 - B0D8B24CTB
 - B00TRDOYLW
 - B0GFMH3D3X
-- B07R3N9X3F
 - B08CDK75M8
 - B077GLLZBW
 - B0CHJ8T7XS

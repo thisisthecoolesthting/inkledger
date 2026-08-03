@@ -12,7 +12,6 @@ relatedProducts:
 - B0FMBGXC2C
 - B001EQ4G0O
 - B0G6YZ5YFV
-- B000N3BBW0
 - B0GGYYBXP4
 - B07G82D89G
 status: published

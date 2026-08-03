@@ -12,7 +12,6 @@ relatedProducts:
 - B0C1ZF94GW
 - B0F1FBQRVB
 - B07RVMZNYR
-- B07P5Y5QHG
 - B0BVD54HPS
 - B07J2P2V7T
 status: published

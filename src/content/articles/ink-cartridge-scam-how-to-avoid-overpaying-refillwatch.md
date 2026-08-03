@@ -16,7 +16,6 @@ relatedProducts:
 - B0F7KKY728
 - B01MQYKRRZ
 - B0DPYJWX2F
-- B07P5Y5QHG
 status: published
 tags:
 - printer ink

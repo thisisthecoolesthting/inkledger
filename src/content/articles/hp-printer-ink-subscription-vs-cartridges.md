@@ -7,7 +7,6 @@ cardTitle: "hp-printer-ink-subscription-vs-cartridges"
 cardPick: "Editorial printer-ink pick from InkLedger."
 updatedAt: '2026-06-06T03:05:48.155Z'
 relatedProducts:
-- B07R3N9X3F
 - B07VVK39F7
 - B077GLLZBW
 - B0BN57XFD8

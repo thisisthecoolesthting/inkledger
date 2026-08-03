@@ -5,12 +5,10 @@ topic: '33. Printing less without sacrificing work: 7 concrete moves'
 tier: mvp
 updatedAt: "2026-05-12T08:25:22Z"
 relatedProducts:
-- B07Q5J5XJL
 - B0CWP64QMT
 - B0GPFLM562
 - B0FLXJHGR7
 - B0FMB4JBJ8
-- B08PDHVZ4N
 - B0FB96PX2M
 - B09MSPNYQ2
 - B0FBRH75LK

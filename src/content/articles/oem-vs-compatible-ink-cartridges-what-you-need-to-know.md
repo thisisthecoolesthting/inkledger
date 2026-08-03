@@ -7,8 +7,6 @@ cardTitle: "oem-vs-compatible-ink-cartridges-what-you-need-to-know"
 cardPick: "Editorial printer-ink pick from InkLedger."
 updatedAt: '2026-06-06T03:05:48.172Z'
 relatedProducts:
-- B07YPR2DGH
-- B002R5AF1I
 - B0GYNH6H2L
 - B0D3XGJ6HW
 - B00QJ88SB0
@@ -16,7 +14,6 @@ relatedProducts:
 - B0854BN273
 - B00762AHTE
 - B0FW9LH3Q5
-- B07ZPSFVX5
 status: published
 subtopic: printer-ink
 publishedAt: '2026-06-06T03:05:48.172Z'

@@ -7,14 +7,12 @@ pillarSlug: refill-and-reuse
 cardTitle: Are Printer Ink Refill Kits Worth It? A Cost-Benefit Analysis
 cardPick: Household staples that dodge the printer-ink price trap—real $/use math inside.
 relatedProducts:
-- B08PDHVZ4N
 - B0854BN273
 - B09XT22566
 - B09VXQ221K
 - B075X6C5ZW
 - B0GLTX2PNR
 - B01NBB1J9U
-- B07YPR2DGH
 - B07D5DN269
 - B07Q8BD3MK
 status: published

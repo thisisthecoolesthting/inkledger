@@ -8,12 +8,9 @@ excerpt: HP 61 vs HP 962 cost per page — which is actually cheaper per print
 pillarSlug: general
 relatedProducts:
 - B0CWP64QMT
-- B01N7V39UO
-- B08KDQZJQ5
 - B074RFMST8
 - B0DPYJWX2F
 - B0B2RM68G2
-- B002BWQ6XK
 - B001EQ4G0O
 - B098JD8HD3
 - B00T6RWJMU

@@ -14,7 +14,6 @@ relatedProducts:
 - B0BTSZ81C7
 - B0GMW9XT9X
 - B08PZBPXLZ
-- B002R5AF1I
 status: published
 heroImage: /heroes/troubleshooting-printer-error-codes-related-to-ink-and-toner.webp
 subtopic: cartridges

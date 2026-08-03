@@ -7,7 +7,6 @@ publishedAt: 2026-07-19
 updatedAt: 2026-07-19
 relatedProducts:
 - B07L2MZW6B
-- B08B3K9H7L
 - B09J7946RJ
 - B0BM9BFLMX
 - B0FB96PX2M

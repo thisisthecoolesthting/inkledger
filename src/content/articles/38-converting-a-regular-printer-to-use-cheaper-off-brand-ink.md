@@ -14,7 +14,6 @@ relatedProducts:
 - B0FMB4JBJ8
 - B0FDL1LS3B
 - B08X4BQL7D
-- B07ZPSFVX5
 status: published
 heroImage: /heroes/38-converting-a-regular-printer-to-use-cheaper-off-brand-ink.webp
 subtopic: cartridges

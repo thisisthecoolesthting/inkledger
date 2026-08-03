@@ -14,7 +14,6 @@ relatedProducts:
 - B08PZBPXLZ
 - B074ND5RDT
 - B08SWN848G
-- B08B3K9H7L
 status: published
 heroImage: /heroes/cost-per-page-savings-using-compatible-ink-vs-oem-cartridges.webp
 subtopic: cartridges

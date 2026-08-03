@@ -14,7 +14,6 @@ relatedProducts:
 - B07N1DF9VV
 - B07L2MZW6B
 - B0CPB11F85
-- B08FY8XQ3W
 - B001EQ4G0O
 - B06XG5ZJN3
 status: published

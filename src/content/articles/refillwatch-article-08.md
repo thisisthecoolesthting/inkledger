@@ -9,7 +9,6 @@ cardPick: Household staples that dodge the printer-ink price trap—real $/use m
 relatedProducts:
 - B0GYNFD72N
 - B0FKBFH92Q
-- B001ET76H8
 - B0G34F2S65
 - B0FB96PX2M
 - B0FVFGX7Y5

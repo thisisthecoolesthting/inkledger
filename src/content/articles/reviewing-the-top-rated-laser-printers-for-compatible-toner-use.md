@@ -12,9 +12,6 @@ relatedProducts:
 - B071WB6BGN
 - B07F97MPYT
 - B07C11YW88
-- B00B5JOC5C
-- B01N7V39UO
-- B08KDQZJQ5
 status: published
 heroImage: /heroes/reviewing-the-top-rated-laser-printers-for-compatible-toner-use.webp
 subtopic: cartridges

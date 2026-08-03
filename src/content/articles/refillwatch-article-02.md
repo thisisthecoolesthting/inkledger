@@ -15,7 +15,6 @@ relatedProducts:
 - B0D41ZMDPD
 - B096N8DN2H
 - B08CDK75M8
-- B08B3K9H7L
 - B07TJ87YKB
 status: published
 tags:

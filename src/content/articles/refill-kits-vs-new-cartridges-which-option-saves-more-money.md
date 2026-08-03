@@ -5,13 +5,11 @@ topic: 'Refill Kits vs New Cartridges: Which Option Saves More Money?'
 tier: mvp
 updatedAt: "2026-05-12T08:37:08Z"
 relatedProducts:
-- B07P5Y5QHG
 - B096N8CNBZ
 - B0F2478Q95
 - B0B2RM68G2
 - B0CQ4VHBMH
 - B0GYNH6H2L
-- B09DV14ZZL
 - B0GCZVZ3SZ
 - B0CPB11F85
 - B0FC5XFVH7

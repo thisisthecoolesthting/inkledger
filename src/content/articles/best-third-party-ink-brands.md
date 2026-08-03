@@ -12,11 +12,9 @@ relatedProducts:
 - B0FMBGXC2C
 - B07RVMZNYR
 - B01MQYKRRZ
-- B09WDBHXB3
 - B08412HXK9
 - B09PH83KK5
 - B07NPHDS24
-- B07ZPSFVX5
 faqs:
   - question: "Are compatible (third-party) ink cartridges safe for my printer?"
     answer: "Compatible cartridges from established remanufacturers won't void your printer's warranty in the United States -- the Magnuson-Moss Warranty Act prohibits manufacturers from voiding coverage solely because you used a non-OEM consumable. The real risk of head clogs comes from poor-quality ink chemistry, not from the cartridge body itself, so the brand of ink matters more than whether it's labeled OEM or compatible. See our <a href='/articles/oem-vs-compatible-ink-cartridges-cost-comparison/'>OEM vs. compatible cost comparison</a> for the full numbers."

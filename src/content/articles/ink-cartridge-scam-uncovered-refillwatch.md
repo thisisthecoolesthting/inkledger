@@ -15,7 +15,6 @@ relatedProducts:
 - B0GVM6YY7B
 - B01LYFVG1V
 - B01MQYKRRZ
-- B07P5BNQJG
 - B0C8J8GY2V
 status: published
 tags:

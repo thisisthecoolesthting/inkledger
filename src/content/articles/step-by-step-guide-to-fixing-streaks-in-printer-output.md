@@ -12,7 +12,6 @@ relatedProducts:
 - B0GMKRR64P
 - B0CYJV9X52
 - B0GPFKGNY7
-- B08K3J4WX6
 - B0B1J5PYCF
 - B0FB96PX2M
 status: published

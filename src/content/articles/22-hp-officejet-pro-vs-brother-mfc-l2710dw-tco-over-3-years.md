@@ -12,7 +12,6 @@ relatedProducts:
 - B074RFMST8
 - B0D3XGJ6HW
 - B08QR6P8KV
-- B000NL0T1K
 - B0DPYJWX2F
 - B0GGYYBXP4
 status: published

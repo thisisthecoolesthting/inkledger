@@ -5,13 +5,11 @@ topic: 23. Epson EcoTank ET-2800 vs Canon MegaTank G3270 comparison
 tier: mvp
 updatedAt: '2026-05-12T08:20:58Z'
 relatedProducts:
-- B08FY8XQ3W
 - B00QJ88ODW
 - B077QVSKD5
 - B07F97MPYT
 - B0DRP3LWP5
 - B09N4Z8DNL
-- B001ET76H8
 - B0GVGG7QLT
 - B0GTL8RCGK
 - B06XGMWMDW

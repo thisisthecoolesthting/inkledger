@@ -14,9 +14,7 @@ relatedProducts:
 - B0BHXNP6B1
 - B0F6C98Q8M
 - B07RYXHN2M
-- B07YPR2DGH
 - B00NQ1CLTI
-- B07ZPSFVX5
 status: published
 tags:
 - hp-instant-ink
