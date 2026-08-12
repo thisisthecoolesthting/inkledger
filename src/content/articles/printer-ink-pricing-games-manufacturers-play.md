@@ -64,7 +64,7 @@ Let's analyze how OEM cartridges compare to compatible alternatives across multi
 | HP 61 | $30 | $10 | 190 | 210 | $0.16 | $0.05 | 67% |
 | Canon PG-245 | $25 | $12 | 180 | 200 | $0.14 | $0.06 | 60% |
 | Epson 252 | $28 | $11 | 200 | 220 | $0.14 | $0.05 | 61% |
-| [Brother TN-760](https://www.amazon.com/dp/B07P3X73QD?tag=inkledger-20) | $32 | $14 | 2,600 | 2,800 | $0.012 | $0.005 | 58% |
+| Brother TN-760 | $32 | $14 | 2,600 | 2,800 | $0.012 | $0.005 | 58% |
 
 Our testing revealed consistent patterns:
 - Compatible cartridges cost 58–67% less than OEM equivalents
@@ -143,7 +143,7 @@ Third-party cartridges offer the easiest transition with minimal setup:
 
 Top recommendations:
 1. HP 61XL High-Yield Compatible — Best for HP Envy/OfficeJet users
-2. [Canon PG-245XL](https://www.amazon.com/dp/B00QKWTIJ4?tag=inkledger-20) Multipack — Ideal for Pixma owners
+2. Canon PG-245XL Multipack — Ideal for Pixma owners
 3. Epson 252XL Compatible — Works well with standard Epson models
 
 ### Refill Systems
@@ -287,14 +287,14 @@ Price data for this article comes from Keepa, which logs every published price c
 
 ## Watchdog picks
 
-- [HP 962XL Black High-Yield Ink Cartridge - Works with OfficeJet 9010, Pro 9010, 9](/products/b07mk5dg9v-product/) · [Buy on Amazon](https://www.amazon.com/dp/B07MK5DG9V?tag=inkledger-20)
-- [B01N4QAK9O](/products/b01n4qak9o-b01n4qak9o/) · [Buy on Amazon](https://www.amazon.com/dp/B01N4QAK9O?tag=inkledger-20)
-- [B0CZSFG7VX](/products/b0czsfg7vx-b0czsfg7vx/) · [Buy on Amazon](https://www.amazon.com/dp/B0CZSFG7VX?tag=inkledger-20)
-- [B0CHJ8T7XS](/products/b0chj8t7xs-b0chj8t7xs/) · [Buy on Amazon](https://www.amazon.com/dp/B0CHJ8T7XS?tag=inkledger-20)
-- [Brother Genuine TN760 High Yield Black Toner Cartridge, (for use with MFC-L2710D](/products/b075x6c5zw-product/) · [Buy on Amazon](https://www.amazon.com/dp/B075X6C5ZW?tag=inkledger-20)
-- [Eva-Dry Wireless Mini Dehumidifier, White (E-333)](/products/b000h0xfcs-eva-dry-wireless-mini-dehumidifier-white-e-333/) · [Buy on Amazon](https://www.amazon.com/dp/B000H0XFCS?tag=inkledger-20)
-- [B0G34F2S65](/products/b0g34f2s65-b0g34f2s65/) · [Buy on Amazon](https://www.amazon.com/dp/B0G34F2S65?tag=inkledger-20)
-- [B0GMMHC3G4](/products/b0gmmhc3g4-b0gmmhc3g4/) · [Buy on Amazon](https://www.amazon.com/dp/B0GMMHC3G4?tag=inkledger-20)
+- [HP 962XL Black High-Yield Ink Cartridge - Works with OfficeJet 9010, Pro 9010, 9](/products/b07mk5dg9v-product/) · Buy on Amazon
+- [B01N4QAK9O](/products/b01n4qak9o-b01n4qak9o/) · Buy on Amazon
+- [B0CZSFG7VX](/products/b0czsfg7vx-b0czsfg7vx/) · Buy on Amazon
+- [B0CHJ8T7XS](/products/b0chj8t7xs-b0chj8t7xs/) · Buy on Amazon
+- [Brother Genuine TN760 High Yield Black Toner Cartridge, (for use with MFC-L2710D](/products/b075x6c5zw-product/) · Buy on Amazon
+- [Eva-Dry Wireless Mini Dehumidifier, White (E-333)](/products/b000h0xfcs-eva-dry-wireless-mini-dehumidifier-white-e-333/) · Buy on Amazon
+- [B0G34F2S65](/products/b0g34f2s65-b0g34f2s65/) · Buy on Amazon
+- [B0GMMHC3G4](/products/b0gmmhc3g4-b0gmmhc3g4/) · Buy on Amazon
 
 ## Products in this guide
 

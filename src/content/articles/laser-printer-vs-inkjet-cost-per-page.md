@@ -39,7 +39,7 @@ Our research team conducted a longitudinal study with 42 participants across dif
 - Environmental conditions (humidity affecting ink drying)
 - Maintenance routines (printhead cleaning cycles)
 
-The printer industry thrives on what economists call the "razor and blades" model - sell the hardware cheap, then profit from the consumables. Our testing reveals that some printers can cost more in ink over two years than the machine itself. This guide will walk you through the math, comparing everything from the [Brother HL-L2350DW](https://www.amazon.com/dp/B00MFG59S8?tag=inkledger-20) laser printer to the [Epson EcoTank ET-2800](https://www.amazon.com/dp/B08HSNHJRH?tag=inkledger-20) inkjet, with concrete numbers on when each technology makes financial sense.
+The printer industry thrives on what economists call the "razor and blades" model - sell the hardware cheap, then profit from the consumables. Our testing reveals that some printers can cost more in ink over two years than the machine itself. This guide will walk you through the math, comparing everything from the Brother HL-L2350DW laser printer to the Epson EcoTank ET-2800 inkjet, with concrete numbers on when each technology makes financial sense.
 
 ## Why this matters
 
@@ -49,7 +49,7 @@ Consider these real-world scenarios:
 
 1. **The College Student**: Prints 50 pages weekly (mostly text documents)
    - Inkjet cost: $15/month (using HP 61XL cartridges)
-   - Laser cost: $6/month (Brother [TN760 toner](https://www.amazon.com/dp/B07P3X73QD?tag=inkledger-20))
+   - Laser cost: $6/month (Brother TN760 toner)
    - Annual savings: $108 with laser
 
 2. **The Photography Enthusiast**: Prints 20 high-quality photos monthly
@@ -69,21 +69,21 @@ We tested four representative models across different price points with controll
 
 | Model | Type | Starter Yield | Replacement Cost | Cost/Page | Best For |
 |-------|------|--------------|------------------|-----------|----------|
-| [Brother HL-L2350DW](https://www.amazon.com/dp/B00MFG59S8?tag=inkledger-20) | Laser | 1,200 pages | $62.99 | 5.2¢ | Text documents |
-| [HP Color LaserJet Pro M255dw](https://www.amazon.com/dp/B093TCYF9T?tag=inkledger-20) | Color Laser | 1,000 pages | $219/set | 22¢ | Color business docs |
-| [Epson EcoTank ET-2800](https://www.amazon.com/dp/B08HSNHJRH?tag=inkledger-20) | Inkjet | 4,500 pages | $13.99/bottle | 0.3¢ | High-volume color |
-| [Canon PIXMA TR4520](https://www.amazon.com/dp/B074ND5RDT?tag=inkledger-20) | Inkjet | 300 pages | $41.99/set | 14¢ | Occasional home use |
+| Brother HL-L2350DW | Laser | 1,200 pages | $62.99 | 5.2¢ | Text documents |
+| HP Color LaserJet Pro M255dw | Color Laser | 1,000 pages | $219/set | 22¢ | Color business docs |
+| Epson EcoTank ET-2800 | Inkjet | 4,500 pages | $13.99/bottle | 0.3¢ | High-volume color |
+| Canon PIXMA TR4520 | Inkjet | 300 pages | $41.99/set | 14¢ | Occasional home use |
 
 Key findings from our 6-month stress test:
 
-- The [Epson EcoTank](https://www.amazon.com/dp/B08HSNHJRH?tag=inkledger-20) has the lowest cost per page (0.3¢) but requires $250+ upfront investment. Our test unit printed 4,823 pages before needing its first refill.
-- Laser printers like the [Brother HL-L2350DW](https://www.amazon.com/dp/B00MFG59S8?tag=inkledger-20) dominate for text (5.2¢/page), with consistent quality even after 10,000 pages.
+- The Epson EcoTank has the lowest cost per page (0.3¢) but requires $250+ upfront investment. Our test unit printed 4,823 pages before needing its first refill.
+- Laser printers like the Brother HL-L2350DW dominate for text (5.2¢/page), with consistent quality even after 10,000 pages.
 - Traditional inkjets (Canon PIXMA) become expensive at >100 pages/month due to frequent cartridge replacements.
-- Color lasers show surprising efficiency for business graphics, with the [HP Color LaserJet](https://www.amazon.com/dp/B093TCYF9T?tag=inkledger-20) maintaining 22¢/page even with 30% image coverage.
+- Color lasers show surprising efficiency for business graphics, with the HP Color LaserJet maintaining 22¢/page even with 30% image coverage.
 
 ## Real-world performance
 
-Manufacturers' yield claims often assume 5% page coverage - real documents average 15-20%. Our testing with the [HP 61XL cartridge](https://www.amazon.com/dp/B004QM8SLG?tag=inkledger-20) showed:
+Manufacturers' yield claims often assume 5% page coverage - real documents average 15-20%. Our testing with the HP 61XL cartridge showed:
 
 - Advertised yield: 480 pages
 - Actual text documents: 320 pages (15% coverage)
@@ -92,7 +92,7 @@ Manufacturers' yield claims often assume 5% page coverage - real documents avera
 
 Laser printers have their own quirks. While toner doesn't dry out like ink, other components need periodic replacement:
 
-- The [Brother TN760 toner](https://www.amazon.com/dp/B0CB75LML9?tag=inkledger-20) lasts 2,600 pages
+- The Brother TN760 toner lasts 2,600 pages
 - Drum unit (DR-730) needs changing every 12,000 pages ($99)
 - Fuser assembly typically lasts 50,000 pages ($150)
 
@@ -111,7 +111,7 @@ Let's compare two scenarios with detailed breakdowns:
 
 **Home user (100 pages/month - 80% text, 20% color):**
 
-| Cost Factor | [Canon PIXMA](https://www.amazon.com/dp/B074ND5RDT?tag=inkledger-20) Inkjet | [Brother HL-L2350DW](https://www.amazon.com/dp/B00MFG59S8?tag=inkledger-20) Laser |
+| Cost Factor | Canon PIXMA Inkjet | Brother HL-L2350DW Laser |
 |------------|----------------|----------------|
 | Cartridge/Toner | $41.99 (300 pages) | $62.99 (1,200 pages) |
 | Cost per month | $14 | $5.20 |
@@ -122,7 +122,7 @@ Let's compare two scenarios with detailed breakdowns:
 
 **Small business (1,000 pages/month - 60% text, 40% color):**
 
-| Cost Factor | [HP Color LaserJet](https://www.amazon.com/dp/B093TCYF9T?tag=inkledger-20) | [Epson EcoTank](https://www.amazon.com/dp/B08HSNHJRH?tag=inkledger-20) |
+| Cost Factor | HP Color LaserJet | Epson EcoTank |
 |------------|----------------|----------------|
 | Toner/Ink | $219 (1,000 pages) | $13.99 (4,500 pages) |
 | Cost per month | $220 | $30 |
@@ -139,7 +139,7 @@ Breakeven analysis:
 
 Third-party options can slash costs, but with tradeoffs:
 
-1. **Toner refills**: Kits like the [Genuine Brother TN760](https://www.amazon.com/dp/B0CB75LML9?tag=inkledger-20) cost 30% less than OEM. Our tests showed:
+1. **Toner refills**: Kits like the Genuine Brother TN760 cost 30% less than OEM. Our tests showed:
    - Page yield within 10% of OEM
    - Slightly more frequent drum replacements
    - Potential warranty voidance
@@ -149,11 +149,11 @@ Third-party options can slash costs, but with tradeoffs:
    - Con: Requires internet connection
    - Hidden cost: Unused pages don't roll over
 
-3. **Bulk ink**: The [Epson 502 ink bottles](https://www.amazon.com/dp/B0GF25F12C?tag=inkledger-20) last 2-3x longer than cartridges
+3. **Bulk ink**: The Epson 502 ink bottles last 2-3x longer than cartridges
    - Best for: Schools, churches, nonprofits
    - Warning: Requires compatible printer models
 
-4. **Remanufactured cartridges**: Brands like [G&G](https://www.amazon.com/dp/B0F54TYKF9?tag=inkledger-20) work in most Brother/Lexmark printers
+4. **Remanufactured cartridges**: Brands like G&G work in most Brother/Lexmark printers
    - Savings: 40-60% vs. OEM
    - Risk: Higher failure rates (12% in our sample)
 
@@ -175,7 +175,7 @@ Yes, if you print >50 pages monthly. Below that threshold, ink drying may waste 
 
 ### Are ink tanks better than cartridges?
 
-For >300 pages/month, absolutely. The [Epson EcoTank ET-2800](https://www.amazon.com/dp/B08HSNHJRH?tag=inkledger-20) cuts costs by 80% vs. cartridges. Key advantages:
+For >300 pages/month, absolutely. The Epson EcoTank ET-2800 cuts costs by 80% vs. cartridges. Key advantages:
 - No cartridge replacement hassles
 - Visible ink levels
 - Lower environmental impact
@@ -199,13 +199,13 @@ Follow this precise method:
 
 After 12 months of rigorous testing, we recommend:
 
-For most users, the [Brother HL-L2350DW](https://www.amazon.com/dp/B00MFG59S8?tag=inkledger-20) laser printer offers the best balance of low cost (5.2¢/page) and reliability for text documents. Its monochrome output is perfect for:
+For most users, the Brother HL-L2350DW laser printer offers the best balance of low cost (5.2¢/page) and reliability for text documents. Its monochrome output is perfect for:
 - Student papers
 - Office documents
 - Legal forms
 - Novel manuscripts
 
-High-volume color users should consider the [Epson EcoTank ET-2800](https://www.amazon.com/dp/B08HSNHJRH?tag=inkledger-20) at 0.3¢/page. Its tank system excels for:
+High-volume color users should consider the Epson EcoTank ET-2800 at 0.3¢/page. Its tank system excels for:
 - Marketing materials
 - Photo printing
 - School projects
@@ -273,14 +273,14 @@ Price data for this article comes from Keepa, which logs every published price c
 
 ## Watchdog picks
 
-- [B0CCNKGY6J](/products/b0ccnkgy6j-b0ccnkgy6j/) · [Buy on Amazon](https://www.amazon.com/dp/B0CCNKGY6J?tag=inkledger-20)
-- [B000NL0T1K](/products/b000nl0t1k-b000nl0t1k/) · [Buy on Amazon](https://www.amazon.com/dp/B000NL0T1K?tag=inkledger-20)
-- [B0FMB4JBJ8](/products/b0fmb4jbj8-b0fmb4jbj8/) · [Buy on Amazon](https://www.amazon.com/dp/B0FMB4JBJ8?tag=inkledger-20)
-- [EPSON 552 EcoTank Ink Ultra-high Capacity Bottle Five Color Combo Pack (T552920-](/products/b08tb5yd6r-product/) · [Buy on Amazon](https://www.amazon.com/dp/B08TB5YD6R?tag=inkledger-20)
-- [B0BVD54HPS](/products/b0bvd54hps-b0bvd54hps/) · [Buy on Amazon](https://www.amazon.com/dp/B0BVD54HPS?tag=inkledger-20)
-- [Epson EcoTank ET-2800 Wireless Color All-in-One Cartridge-Free Ink Supertank Pri](/products/b096n8cnbz-product/) · [Buy on Amazon](https://www.amazon.com/dp/B096N8CNBZ?tag=inkledger-20)
-- [Utopia Bedding Bed Pillows for Sleeping Queen Size (Blue), Set of 6, Cooling Hot](/products/b07j2p2v7t-utopia-bedding-bed-pillows-for-sleeping-queen-size-blue-set-/) · [Buy on Amazon](https://www.amazon.com/dp/B07J2P2V7T?tag=inkledger-20)
-- [B000VKGRF0](/products/b000vkgrf0-b000vkgrf0/) · [Buy on Amazon](https://www.amazon.com/dp/B000VKGRF0?tag=inkledger-20)
+- [B0CCNKGY6J](/products/b0ccnkgy6j-b0ccnkgy6j/) · Buy on Amazon
+- [B000NL0T1K](/products/b000nl0t1k-b000nl0t1k/) · Buy on Amazon
+- [B0FMB4JBJ8](/products/b0fmb4jbj8-b0fmb4jbj8/) · Buy on Amazon
+- [EPSON 552 EcoTank Ink Ultra-high Capacity Bottle Five Color Combo Pack (T552920-](/products/b08tb5yd6r-product/) · Buy on Amazon
+- [B0BVD54HPS](/products/b0bvd54hps-b0bvd54hps/) · Buy on Amazon
+- [Epson EcoTank ET-2800 Wireless Color All-in-One Cartridge-Free Ink Supertank Pri](/products/b096n8cnbz-product/) · Buy on Amazon
+- [Utopia Bedding Bed Pillows for Sleeping Queen Size (Blue), Set of 6, Cooling Hot](/products/b07j2p2v7t-utopia-bedding-bed-pillows-for-sleeping-queen-size-blue-set-/) · Buy on Amazon
+- [B000VKGRF0](/products/b000vkgrf0-b000vkgrf0/) · Buy on Amazon
 
 ## Products in this guide
 

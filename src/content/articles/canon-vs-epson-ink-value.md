@@ -130,14 +130,14 @@ Before making a decision, consider your typical printing volume, the types of do
 
 ## Watchdog picks
 
-- [B0GGYYBXP4](/products/b0ggyybxp4-b0ggyybxp4/) · [Buy on Amazon](https://www.amazon.com/dp/B0GGYYBXP4?tag=inkledger-20)
-- [65XL Ink Cartridges Black/Color Combo Pack High-Yield Replacement for HP Ink 65 ](/products/b0f1cj93jj-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0F1CJ93JJ?tag=inkledger-20)
-- [HP DeskJet 2855e Wireless All-in-One Color Inkjet Printer, Scanner, Copier, Best](/products/b0ct2r7199-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0CT2R7199?tag=inkledger-20)
-- [B07L2MZW6B](/products/b07l2mzw6b-b07l2mzw6b/) · [Buy on Amazon](https://www.amazon.com/dp/B07L2MZW6B?tag=inkledger-20)
-- [B004QM8SLG](/products/b004qm8slg-b004qm8slg/) · [Buy on Amazon](https://www.amazon.com/dp/B004QM8SLG?tag=inkledger-20)
-- [B089CGSV4N](/products/b089cgsv4n-b089cgsv4n/) · [Buy on Amazon](https://www.amazon.com/dp/B089CGSV4N?tag=inkledger-20)
-- [Epson 522 EcoTank Ink Ultra-high Capacity Bottle Black & Color Combo Pack (T5221](/products/b0b4vp5cq4-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0B4VP5CQ4?tag=inkledger-20)
-- [60W Adjustable Temperature Soldering Iron Kit - 9-in-1 With 5 Tips, Solder Wire ](/products/b09dy7ccw5-60w-adjustable-temperature-soldering-iron-kit-9-in-1-with-5-/) · [Buy on Amazon](https://www.amazon.com/dp/B09DY7CCW5?tag=inkledger-20)
+- [B0GGYYBXP4](/products/b0ggyybxp4-b0ggyybxp4/) · Buy on Amazon
+- [65XL Ink Cartridges Black/Color Combo Pack High-Yield Replacement for HP Ink 65 ](/products/b0f1cj93jj-product/) · Buy on Amazon
+- [HP DeskJet 2855e Wireless All-in-One Color Inkjet Printer, Scanner, Copier, Best](/products/b0ct2r7199-product/) · Buy on Amazon
+- [B07L2MZW6B](/products/b07l2mzw6b-b07l2mzw6b/) · Buy on Amazon
+- [B004QM8SLG](/products/b004qm8slg-b004qm8slg/) · Buy on Amazon
+- [B089CGSV4N](/products/b089cgsv4n-b089cgsv4n/) · Buy on Amazon
+- [Epson 522 EcoTank Ink Ultra-high Capacity Bottle Black & Color Combo Pack (T5221](/products/b0b4vp5cq4-product/) · Buy on Amazon
+- [60W Adjustable Temperature Soldering Iron Kit - 9-in-1 With 5 Tips, Solder Wire ](/products/b09dy7ccw5-60w-adjustable-temperature-soldering-iron-kit-9-in-1-with-5-/) · Buy on Amazon
 
 ## Products in this guide
 

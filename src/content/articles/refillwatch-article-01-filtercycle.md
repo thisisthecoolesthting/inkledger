@@ -154,14 +154,14 @@ New third-party cartridges include smart chips that reset automatically, bypassi
 
 ## Watchdog picks
 
-- [B0854BN273](/products/b0854bn273-b0854bn273/) · [Buy on Amazon](https://www.amazon.com/dp/B0854BN273?tag=inkledger-20)
-- [B002R5AF1I](/products/b002r5af1i-b002r5af1i/) · [Buy on Amazon](https://www.amazon.com/dp/B002R5AF1I?tag=inkledger-20)
-- [Fanttik T1 Max Soldering Iron Kit, Cordless Soldering Iron, 7 Seconds Fast Heati](/products/b0d41zmdpd-fanttik-t1-max-soldering-iron-kit-cordless-soldering-iron-7-/) · [Buy on Amazon](https://www.amazon.com/dp/B0D41ZMDPD?tag=inkledger-20)
-- [B0963X6B5V](/products/b0963x6b5v-b0963x6b5v/) · [Buy on Amazon](https://www.amazon.com/dp/B0963X6B5V?tag=inkledger-20)
-- [65XL Black Ink Cartridge Replacement for HP Ink 65 Black HP65XL Black Ink Cartri](/products/b07nphds24-product/) · [Buy on Amazon](https://www.amazon.com/dp/B07NPHDS24?tag=inkledger-20)
-- [B001E10B9I](/products/b001e10b9i-b001e10b9i/) · [Buy on Amazon](https://www.amazon.com/dp/B001E10B9I?tag=inkledger-20)
-- [B0F2478Q95](/products/b0f2478q95-b0f2478q95/) · [Buy on Amazon](https://www.amazon.com/dp/B0F2478Q95?tag=inkledger-20)
-- [Skydo LC3019XXL Ink Cartridges Replacement for LC3019 XXL LC 3019-XXL LC3019 Wor](/products/b0ds4m632h-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0DS4M632H?tag=inkledger-20)
+- [B0854BN273](/products/b0854bn273-b0854bn273/) · Buy on Amazon
+- [B002R5AF1I](/products/b002r5af1i-b002r5af1i/) · Buy on Amazon
+- [Fanttik T1 Max Soldering Iron Kit, Cordless Soldering Iron, 7 Seconds Fast Heati](/products/b0d41zmdpd-fanttik-t1-max-soldering-iron-kit-cordless-soldering-iron-7-/) · Buy on Amazon
+- [B0963X6B5V](/products/b0963x6b5v-b0963x6b5v/) · Buy on Amazon
+- [65XL Black Ink Cartridge Replacement for HP Ink 65 Black HP65XL Black Ink Cartri](/products/b07nphds24-product/) · Buy on Amazon
+- [B001E10B9I](/products/b001e10b9i-b001e10b9i/) · Buy on Amazon
+- [B0F2478Q95](/products/b0f2478q95-b0f2478q95/) · Buy on Amazon
+- [Skydo LC3019XXL Ink Cartridges Replacement for LC3019 XXL LC 3019-XXL LC3019 Wor](/products/b0ds4m632h-product/) · Buy on Amazon
 
 ## Products in this guide
 

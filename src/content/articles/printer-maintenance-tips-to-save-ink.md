@@ -30,7 +30,7 @@ author: marcus-webb
 
 ## Introduction
 
-Ever watched your printer's ink levels plummet while watching your bank account do the same? You're not alone. The average household spends $120–$200 annually on ink—often more than the printer itself. But here's the good news: you can cut that in half with the right maintenance habits, cartridge choices, and refill strategies. This guide walks you through the methods we tested across 18 months using three popular printers (HP Envy 6055, Canon Pixma TR4520, Epson [EcoTank ET-2800](https://www.amazon.com/dp/B08B3K9H7L?tag=inkledger-20)).
+Ever watched your printer's ink levels plummet while watching your bank account do the same? You're not alone. The average household spends $120–$200 annually on ink—often more than the printer itself. But here's the good news: you can cut that in half with the right maintenance habits, cartridge choices, and refill strategies. This guide walks you through the methods we tested across 18 months using three popular printers (HP Envy 6055, Canon Pixma TR4520, Epson EcoTank ET-2800).
 
 Our testing revealed that roughly 68% of ink waste comes from three preventable problems: dried printheads (42%), unnecessary deep cleaning cycles (23%), and firmware restrictions that disable compatible cartridges prematurely (3%). The remaining 32% is actual printing. By tackling these issues, you can extend cartridge life while maintaining print quality that rivals OEM standards.
 
@@ -178,14 +178,14 @@ Price data for this article comes from Keepa, which logs every published price c
 
 ## Watchdog picks
 
-- [B001EQ4G0O](/products/b001eq4g0o-b001eq4g0o/) · [Buy on Amazon](https://www.amazon.com/dp/B001EQ4G0O?tag=inkledger-20)
-- [WEP 927-IV Soldering Station Kit High-Power 110W with 3 Preset Channels, Sleep M](/products/b09txp1kdv-wep-927-iv-soldering-station-kit-high-power-110w-with-3-pres/) · [Buy on Amazon](https://www.amazon.com/dp/B09TXP1KDV?tag=inkledger-20)
-- [Fanttik T1 Max Soldering Iron Kit, Cordless Soldering Iron, 7 Seconds Fast Heati](/products/b0d41zmdpd-fanttik-t1-max-soldering-iron-kit-cordless-soldering-iron-7-/) · [Buy on Amazon](https://www.amazon.com/dp/B0D41ZMDPD?tag=inkledger-20)
-- [B0FGC43YCL](/products/b0fgc43ycl-b0fgc43ycl/) · [Buy on Amazon](https://www.amazon.com/dp/B0FGC43YCL?tag=inkledger-20)
-- [Astra Platinum Double Edge Safety Razor Blades,100 Blades (20 x 5)](/products/b001qy8qxm-astra-platinum-double-edge-safety-razor-blades-100-blades-20/) · [Buy on Amazon](https://www.amazon.com/dp/B001QY8QXM?tag=inkledger-20)
-- [B08KDQZJQ5](/products/b08kdqzjq5-b08kdqzjq5/) · [Buy on Amazon](https://www.amazon.com/dp/B08KDQZJQ5?tag=inkledger-20)
-- [B0DPYJWX2F](/products/b0dpyjwx2f-b0dpyjwx2f/) · [Buy on Amazon](https://www.amazon.com/dp/B0DPYJWX2F?tag=inkledger-20)
-- [B08CDK75M8](/products/b08cdk75m8-b08cdk75m8/) · [Buy on Amazon](https://www.amazon.com/dp/B08CDK75M8?tag=inkledger-20)
+- [B001EQ4G0O](/products/b001eq4g0o-b001eq4g0o/) · Buy on Amazon
+- [WEP 927-IV Soldering Station Kit High-Power 110W with 3 Preset Channels, Sleep M](/products/b09txp1kdv-wep-927-iv-soldering-station-kit-high-power-110w-with-3-pres/) · Buy on Amazon
+- [Fanttik T1 Max Soldering Iron Kit, Cordless Soldering Iron, 7 Seconds Fast Heati](/products/b0d41zmdpd-fanttik-t1-max-soldering-iron-kit-cordless-soldering-iron-7-/) · Buy on Amazon
+- [B0FGC43YCL](/products/b0fgc43ycl-b0fgc43ycl/) · Buy on Amazon
+- [Astra Platinum Double Edge Safety Razor Blades,100 Blades (20 x 5)](/products/b001qy8qxm-astra-platinum-double-edge-safety-razor-blades-100-blades-20/) · Buy on Amazon
+- [B08KDQZJQ5](/products/b08kdqzjq5-b08kdqzjq5/) · Buy on Amazon
+- [B0DPYJWX2F](/products/b0dpyjwx2f-b0dpyjwx2f/) · Buy on Amazon
+- [B08CDK75M8](/products/b08cdk75m8-b08cdk75m8/) · Buy on Amazon
 
 ## Products in this guide
 

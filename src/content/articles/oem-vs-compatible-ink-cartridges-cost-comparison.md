@@ -34,7 +34,7 @@ author: marcus-webb
 
 "Why does printer ink cost more than champagne?" This isn't just rhetorical frustration—the average OEM ink cartridge costs $30, while compatible alternatives sell for as little as $8. But when your child's school project prints with streaks or your small business invoices come out blurry, that savings evaporates fast.
 
-We conducted the most comprehensive independent study of ink cartridge economics to date, tracking 14 months of pricing data for 18 popular cartridges (including the [HP 61 Black](https://www.amazon.com/dp/B0CB75LML9?tag=inkledger-20) and [Canon PG-245](https://www.amazon.com/dp/B093TCYF9T?tag=inkledger-20)), ran 3,000 test pages through 6 printer models, and interviewed 37 home and office users. Our lab tested cartridges under various environmental conditions (15-90% humidity, 50-90°F temperatures) to simulate real-world usage. The verdict? Compatibles can save you $328/year per printer—if you navigate four critical tradeoffs.
+We conducted the most comprehensive independent study of ink cartridge economics to date, tracking 14 months of pricing data for 18 popular cartridges (including the HP 61 Black and Canon PG-245), ran 3,000 test pages through 6 printer models, and interviewed 37 home and office users. Our lab tested cartridges under various environmental conditions (15-90% humidity, 50-90°F temperatures) to simulate real-world usage. The verdict? Compatibles can save you $328/year per printer—if you navigate four critical tradeoffs.
 
 What most guides don't tell you: The ink cartridge market has shifted dramatically since 2022. New "premium compatible" manufacturers like InkOwl and InkTown now use industrial-grade print heads and ISO-certified inks that rival OEM quality. Meanwhile, printer manufacturers have doubled down on anti-third-party measures—HP's Dynamic Security 3.0 blocks more compatible cartridges than ever, while Epson's EcoTank patent lawsuits have reshaped the refill market.
 
@@ -48,7 +48,7 @@ Printer manufacturers employ a razor-and-blades model: sell printers at cost, pr
 
 Compatible cartridges bypass these restrictions, but with three legitimate concerns:
 
-1. **Yield discrepancies**: A Brother TN-660 OEM toner claims 2,600 pages but averaged 2,140 in our tests, while a [compatible version](https://www.amazon.com/dp/B0GF25F12C?tag=inkledger-20) rated for 2,400 pages delivered 2,310. We found yield variances are most pronounced with:
+1. **Yield discrepancies**: A Brother TN-660 OEM toner claims 2,600 pages but averaged 2,140 in our tests, while a compatible version rated for 2,400 pages delivered 2,310. We found yield variances are most pronounced with:
    - Photo printing (OEM inks yielded 12% more photos before quality degradation)
    - High-coverage documents (compatibles performed better on text-heavy pages)
 
@@ -56,7 +56,7 @@ Compatible cartridges bypass these restrictions, but with three legitimate conce
    - 92% of warranty claims we reviewed were honored regardless of ink source
    - Only print head failures were routinely denied when using third-party ink
 
-3. **Quality variance**: Cheap compatibles ($5-8) showed 23% more banding than mid-range ($10-15) options in our print tests. The $12-15 "premium compatible" segment (like [InkTown's HP 61](https://www.amazon.com/dp/B0CB75LML9?tag=inkledger-20)) matched OEM quality in blind tests with graphic designers.
+3. **Quality variance**: Cheap compatibles ($5-8) showed 23% more banding than mid-range ($10-15) options in our print tests. The $12-15 "premium compatible" segment (like InkTown's HP 61) matched OEM quality in blind tests with graphic designers.
 
 For a family printing 250 pages/month, OEM ink costs $432/year versus $104 for compatibles—enough savings to buy a new printer annually. Small businesses printing 1,000 pages/month save $1,300+/year—the cost of a commercial-grade printer.
 
@@ -78,7 +78,7 @@ We tested cartridges across three key metrics: cost per page, reliability, and p
 
 Key findings:
 
-- The [Epson 502 compatible](https://www.amazon.com/dp/B08KGY4XJ5?tag=inkledger-20) outperformed OEM in yield tests by 5.5% due to higher ink capacity
+- The Epson 502 compatible outperformed OEM in yield tests by 5.5% due to higher ink capacity
 - HP cartridges showed the widest quality variance (23% of cheap compatibles failed within 1 month vs 8% of OEM)
 - Canon printers were most tolerant of third-party inks in our jam tests (0.3 jams/1,000 pages vs HP's 1.2)
 - Brother laser toners showed negligible quality difference between OEM and premium compatibles
@@ -92,7 +92,7 @@ Longevity reveals hidden costs. In our 6-month real-world deployment with 12 tes
 **Humidity Impact**
 - OEM cartridges lasted 15% longer than compatibles in high-humidity (70%+ RH) environments
 - In climate-controlled offices (50% RH), the difference shrunk to 3%
-- [Premium compatibles](https://www.amazon.com/dp/B0C7ZTV376?tag=inkledger-20) with sealed ink ports outperformed OEM in dusty environments
+- Premium compatibles with sealed ink ports outperformed OEM in dusty environments
 
 **Archival Quality**
 - Aftermarket inks faded 8% faster under UV light in accelerated aging tests
@@ -146,7 +146,7 @@ For businesses, the savings compound:
 ## Alternatives and refills
 
 **Refill Kits**
-The [Inkjet refill kit](https://www.amazon.com/dp/B099NZC4PB?tag=inkledger-20) ($25 refills 6 cartridges = $0.03/page) presents a third path with caveats:
+The Inkjet refill kit ($25 refills 6 cartridges = $0.03/page) presents a third path with caveats:
 
 Pros:
 - Lowest cost per page
@@ -166,7 +166,7 @@ HP Instant Ink makes sense only if:
 - Don't use compatibles (system auto-ships OEM cartridges)
 
 **Laser Considerations**
-For laser users, [toner refill kits](https://www.amazon.com/dp/B0848Q34F8?tag=inkledger-20) offer better reliability than inkjet refills:
+For laser users, toner refill kits offer better reliability than inkjet refills:
 - 89% success rate in our tests
 - No drying issues
 - Lower per-page cost than even compatibles ($0.012/page for Brother TN-660)
@@ -198,7 +198,7 @@ No. The program's terms require:
 - Continuous internet connection for ink monitoring
 - Monthly page limits (excess pages charged at $1/10 pages)
 
-Workaround: Cancel Instant Ink, then use [HP 61XL compatibles](https://www.amazon.com/dp/B0CB75LML9?tag=inkledger-20) for 60% savings.
+Workaround: Cancel Instant Ink, then use HP 61XL compatibles for 60% savings.
 
 ### Do all printers accept compatibles?
 
@@ -226,7 +226,7 @@ Look for:
 
 ## Bottom line
 
-For most home users, **mid-range compatible cartridges** ($10-15 range) offer the best balance of savings and reliability. Our top pick: the [InkTown Premium HP 61](https://www.amazon.com/dp/B0CB75LML9?tag=inkledger-20) for consistent yields and chip reliability. Key decision factors:
+For most home users, **mid-range compatible cartridges** ($10-15 range) offer the best balance of savings and reliability. Our top pick: the InkTown Premium HP 61 for consistent yields and chip reliability. Key decision factors:
 
 **Choose OEM If:**
 - Printing archival-quality photos
@@ -238,7 +238,7 @@ For most home users, **mid-range compatible cartridges** ($10-15 range) offer th
 - Willing to research quality brands
 - Printing 1,000+ pages annually
 
-Heavy users (500+ pages/month) should consider laser printers—the [Brother TN-660 compatible](https://www.amazon.com/dp/B0GF25F12C?tag=inkledger-20) delivers OEM-equivalent quality at 40% lower cost. Avoid bargain-bin compatibles under $8 unless you enjoy troubleshooting—our data shows they have 3x the failure rate of $12+ options.
+Heavy users (500+ pages/month) should consider laser printers—the Brother TN-660 compatible delivers OEM-equivalent quality at 40% lower cost. Avoid bargain-bin compatibles under $8 unless you enjoy troubleshooting—our data shows they have 3x the failure rate of $12+ options.
 
 <!-- padded-no-api-v2 -->
 
@@ -296,14 +296,14 @@ Price data for this article comes from Keepa, which logs every published price c
 
 ## Watchdog picks
 
-- [Remanufactured Replacement for Epson 702 Ink Cartridges for 702XL Ink cartridges](/products/b0ct2ltf55-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0CT2LTF55?tag=inkledger-20)
-- [B0FGC43YCL](/products/b0fgc43ycl-b0fgc43ycl/) · [Buy on Amazon](https://www.amazon.com/dp/B0FGC43YCL?tag=inkledger-20)
-- [B0FLXG5Z7Q](/products/b0flxg5z7q-b0flxg5z7q/) · [Buy on Amazon](https://www.amazon.com/dp/B0FLXG5Z7Q?tag=inkledger-20)
-- [InkOwl Compatible Ink Cartridge Replacement for Roland ECO-SOL MAX Printers ESL3](/products/b07c11yw88-inkowl-compatible-ink-cartridge-replacement-for-roland-eco-s/) · [Buy on Amazon](https://www.amazon.com/dp/B07C11YW88?tag=inkledger-20)
-- [B09MSPNYQ2](/products/b09mspnyq2-b09mspnyq2/) · [Buy on Amazon](https://www.amazon.com/dp/B09MSPNYQ2?tag=inkledger-20)
-- [B07ZHTFF44](/products/b07zhtff44-b07zhtff44/) · [Buy on Amazon](https://www.amazon.com/dp/B07ZHTFF44?tag=inkledger-20)
-- [B09PH83KK5](/products/b09ph83kk5-b09ph83kk5/) · [Buy on Amazon](https://www.amazon.com/dp/B09PH83KK5?tag=inkledger-20)
-- [B0G1NBKD38](/products/b0g1nbkd38-b0g1nbkd38/) · [Buy on Amazon](https://www.amazon.com/dp/B0G1NBKD38?tag=inkledger-20)
+- [Remanufactured Replacement for Epson 702 Ink Cartridges for 702XL Ink cartridges](/products/b0ct2ltf55-product/) · Buy on Amazon
+- [B0FGC43YCL](/products/b0fgc43ycl-b0fgc43ycl/) · Buy on Amazon
+- [B0FLXG5Z7Q](/products/b0flxg5z7q-b0flxg5z7q/) · Buy on Amazon
+- [InkOwl Compatible Ink Cartridge Replacement for Roland ECO-SOL MAX Printers ESL3](/products/b07c11yw88-inkowl-compatible-ink-cartridge-replacement-for-roland-eco-s/) · Buy on Amazon
+- [B09MSPNYQ2](/products/b09mspnyq2-b09mspnyq2/) · Buy on Amazon
+- [B07ZHTFF44](/products/b07zhtff44-b07zhtff44/) · Buy on Amazon
+- [B09PH83KK5](/products/b09ph83kk5-b09ph83kk5/) · Buy on Amazon
+- [B0G1NBKD38](/products/b0g1nbkd38-b0g1nbkd38/) · Buy on Amazon
 
 ## Products in this guide
 

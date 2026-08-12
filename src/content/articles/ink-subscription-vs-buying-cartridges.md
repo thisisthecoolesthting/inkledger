@@ -32,11 +32,11 @@ InkLedger tracks OEM and compatible supplies on real cost-per-page — not list-
 
 | Product | Price | Rating | Amazon | Our review |
 |---------|------:|-------:|--------|------------|
-| 280XXL 281XXL Ink for Canon Ink 280 281 Replacem | $23.99 | 4.7 | [Check price](https://www.amazon.com/dp/B0BVYBVHK5?tag=inkledger-20) | [Review](/products/b0bvybvhk5-280xxl-281xxl-ink-for-canon-ink-280-281-replacement-for-cano/) |
-| LxTek Compatible Toner Cartridge 6510 6515 106R0 | $45.99 | 4.6 | [Check price](https://www.amazon.com/dp/B08GX3K9YS?tag=inkledger-20) | [Review](/products/b08gx3k9ys-lxtek-compatible-toner-cartridge-6510-6515-106r03480-106r034/) |
-| E-Z Ink Remanufactured Ink Cartridge Replacement | $25.99 | 4.2 | [Check price](https://www.amazon.com/dp/B082Y7X9H5?tag=inkledger-20) | [Review](/products/b082y7x9h5-e-z-ink-remanufactured-ink-cartridge-replacement-for-252xl-c/) |
-| Toner Kingdom Compatible Toner-Cartridge Replace | $63.26 | 3.8 | [Check price](https://www.amazon.com/dp/B083BFPGD8?tag=inkledger-20) | [Review](/products/b083bfpgd8-toner-kingdom-compatible-toner-cartridge-replacement-for-can/) |
-| ecodot 552 Pigment Ink Refill Ink Bottle Replace | $30.57 | 4.4 | [Check price](https://www.amazon.com/dp/B09W9MF63Y?tag=inkledger-20) | [Review](/products/b09w9mf63y-ecodot-552-pigment-ink-refill-ink-bottle-replacement-for-eps/) |
+| 280XXL 281XXL Ink for Canon Ink 280 281 Replacem | $23.99 | 4.7 | Check price | [Review](/products/b0bvybvhk5-280xxl-281xxl-ink-for-canon-ink-280-281-replacement-for-cano/) |
+| LxTek Compatible Toner Cartridge 6510 6515 106R0 | $45.99 | 4.6 | Check price | [Review](/products/b08gx3k9ys-lxtek-compatible-toner-cartridge-6510-6515-106r03480-106r034/) |
+| E-Z Ink Remanufactured Ink Cartridge Replacement | $25.99 | 4.2 | Check price | [Review](/products/b082y7x9h5-e-z-ink-remanufactured-ink-cartridge-replacement-for-252xl-c/) |
+| Toner Kingdom Compatible Toner-Cartridge Replace | $63.26 | 3.8 | Check price | [Review](/products/b083bfpgd8-toner-kingdom-compatible-toner-cartridge-replacement-for-can/) |
+| ecodot 552 Pigment Ink Refill Ink Bottle Replace | $30.57 | 4.4 | Check price | [Review](/products/b09w9mf63y-ecodot-552-pigment-ink-refill-ink-bottle-replacement-for-eps/) |
 
 ## How we scored these
 
@@ -50,14 +50,14 @@ Buy OEM when your printer is under warranty and print volume is low. Switch to h
 
 ## Watchdog picks
 
-- [B07L2MZW6B](/products/b07l2mzw6b-b07l2mzw6b/) · [Buy on Amazon](https://www.amazon.com/dp/B07L2MZW6B?tag=inkledger-20)
-- [B08B3K9H7L](/products/b08b3k9h7l-b08b3k9h7l/) · [Buy on Amazon](https://www.amazon.com/dp/B08B3K9H7L?tag=inkledger-20)
-- [B09J7946RJ](/products/b09j7946rj-b09j7946rj/) · [Buy on Amazon](https://www.amazon.com/dp/B09J7946RJ?tag=inkledger-20)
-- [Epson EcoTank ET-2400 Wireless Color All-in-One Cartridge-Free Supertank Printer](/products/b0bm9bflmx-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0BM9BFLMX?tag=inkledger-20)
-- [myCartridge SUPRINT Remanufactured Replacement for Epson 702 Ink Cartridges 702X](/products/b0fb96px2m-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0FB96PX2M?tag=inkledger-20)
-- [B07D5DN269](/products/b07d5dn269-b07d5dn269/) · [Buy on Amazon](https://www.amazon.com/dp/B07D5DN269?tag=inkledger-20)
-- [B0BTSZ81C7](/products/b0btsz81c7-b0btsz81c7/) · [Buy on Amazon](https://www.amazon.com/dp/B0BTSZ81C7?tag=inkledger-20)
-- [Remanufactured Replacement for Epson 702 Ink Cartridges for 702XL Ink cartridges](/products/b0ct2ltf55-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0CT2LTF55?tag=inkledger-20)
+- [B07L2MZW6B](/products/b07l2mzw6b-b07l2mzw6b/) · Buy on Amazon
+- [B08B3K9H7L](/products/b08b3k9h7l-b08b3k9h7l/) · Buy on Amazon
+- [B09J7946RJ](/products/b09j7946rj-b09j7946rj/) · Buy on Amazon
+- [Epson EcoTank ET-2400 Wireless Color All-in-One Cartridge-Free Supertank Printer](/products/b0bm9bflmx-product/) · Buy on Amazon
+- [myCartridge SUPRINT Remanufactured Replacement for Epson 702 Ink Cartridges 702X](/products/b0fb96px2m-product/) · Buy on Amazon
+- [B07D5DN269](/products/b07d5dn269-b07d5dn269/) · Buy on Amazon
+- [B0BTSZ81C7](/products/b0btsz81c7-b0btsz81c7/) · Buy on Amazon
+- [Remanufactured Replacement for Epson 702 Ink Cartridges for 702XL Ink cartridges](/products/b0ct2ltf55-product/) · Buy on Amazon
 
 ## Products in this guide
 

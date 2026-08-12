@@ -31,19 +31,19 @@ author: marcus-webb
 ---
 ## Introduction
 
-The discrepancy between advertised and actual ink cartridge yields isn't just frustrating—it's expensive. When HP claims their [HP 61 cartridge](https://www.amazon.com/dp/B0DHV8SCLS?tag=inkledger-20) yields 480 pages but real-world tests show only 372 pages, that's a 22.5% difference that directly impacts your printing budget. Our six-month study of 12 popular cartridges revealed systemic overstatements across brands, with OEM yields averaging 18-27% below claims. The worst offender? The [Epson 502](https://www.amazon.com/dp/B00WSAXBQ0?tag=inkledger-20), which delivered just 62% of its 2,000-page promise in mixed-document testing.
+The discrepancy between advertised and actual ink cartridge yields isn't just frustrating—it's expensive. When HP claims their HP 61 cartridge yields 480 pages but real-world tests show only 372 pages, that's a 22.5% difference that directly impacts your printing budget. Our six-month study of 12 popular cartridges revealed systemic overstatements across brands, with OEM yields averaging 18-27% below claims. The worst offender? The Epson 502, which delivered just 62% of its 2,000-page promise in mixed-document testing.
 
 Understanding these yield calculations matters because printer ink remains one of the most expensive liquids by volume—more costly than premium champagne at $2,700 per gallon for some OEM inks.
 
 This guide doesn't just expose the myths; it provides actionable data from our 5,000+ page print test, including:
 - How ISO/IEC testing standards create unrealistic benchmarks
 - The actual coverage percentages of common documents (spoiler: your '5% coverage' resume is likely 12-15%)
-- Why high-yield cartridges like the [HP 61XL](https://www.amazon.com/dp/B0DHV7ZWH2?tag=inkledger-20) deliver better value despite higher upfront costs
+- Why high-yield cartridges like the HP 61XL deliver better value despite higher upfront costs
 - How to calculate true cost-per-page including hidden maintenance cycles
 
 ## Why This Matters
 
-Consider this: A family printing 500 pages monthly with an [Epson EcoTank ET-2800](https://www.amazon.com/dp/B08PZBPXLZ?tag=inkledger-20) might budget $0.005/page based on manufacturer claims, only to discover real costs of $0.008/page—a 60% increase that adds $180 annually. IEEE's 2025 Printer Economics Report found that ink accounts for 63% of total ownership costs over three years, surpassing paper and electricity combined.
+Consider this: A family printing 500 pages monthly with an Epson EcoTank ET-2800 might budget $0.005/page based on manufacturer claims, only to discover real costs of $0.008/page—a 60% increase that adds $180 annually. IEEE's 2025 Printer Economics Report found that ink accounts for 63% of total ownership costs over three years, surpassing paper and electricity combined.
 
 The root issue lies in testing methodologies: ISO/IEC 19752 standards measure yield at:
 - 5% page coverage (a single-spaced page with 1" margins averages 12-15%)
@@ -51,11 +51,11 @@ The root issue lies in testing methodologies: ISO/IEC 19752 standards measure yi
 - Controlled humidity (ink evaporation reduces yields by 8-12% in dry climates)
 
 Our stress tests revealed dramatic discrepancies:
-- School reports (18-22% coverage) reduced [Canon PG-245](https://www.amazon.com/dp/B09VXQ221K?tag=inkledger-20) yields by 37% vs claims
-- Spreadsheets with light shading (25-30% coverage) cut [Brother TN-730](https://www.amazon.com/dp/B098JD8HD3?tag=inkledger-20) toner yields by 28%
+- School reports (18-22% coverage) reduced Canon PG-245 yields by 37% vs claims
+- Spreadsheets with light shading (25-30% coverage) cut Brother TN-730 toner yields by 28%
 - Photo prints (80-95% coverage) consumed ink 6-8x faster than text documents
 
-The financial impact compounds over time. Switching from standard [HP 61](https://www.amazon.com/dp/B0DHV8SCLS?tag=inkledger-20) to [61XL](https://www.amazon.com/dp/B0DHV7ZWH2?tag=inkledger-20) high-yield cartridges saves $142 over two years for moderate users (300 pages/month). For businesses, laser printers like the [Brother HL-L2350DW](https://www.amazon.com/dp/B00WSAXBQ0?tag=inkledger-20) maintain consistent 2.1¢/page costs even at 30% coverage. We've tracked 847 small-business owners in our reader survey; 78% of those printing over 300 pages/month had switched to toner. Our [brother laser vs inkjet cost comparison](/articles/brother-laser-vs-inkjet-cost-comparison) walks through when that switch actually pays off.
+The financial impact compounds over time. Switching from standard HP 61 to 61XL high-yield cartridges saves $142 over two years for moderate users (300 pages/month). For businesses, laser printers like the Brother HL-L2350DW maintain consistent 2.1¢/page costs even at 30% coverage. We've tracked 847 small-business owners in our reader survey; 78% of those printing over 300 pages/month had switched to toner. Our [brother laser vs inkjet cost comparison](/articles/brother-laser-vs-inkjet-cost-comparison) walks through when that switch actually pays off.
 
 ## Head-to-Head Comparison
 
@@ -65,18 +65,18 @@ Our 120-hour print marathon tested cartridges under three conditions: ISO-standa
 |---------------------|--------------:|---------:|------------:|-----------:|---------------:|
 | HP 61 (OEM)         | 480 pages     | 455      | 372         | 92         | $0.05          |
 | HP 61XL (High Yield)| 1,200 pages   | 1,140    | 987         | 240        | $0.03          |
-| [Brother TN-760](https://www.amazon.com/dp/B07P3X73QD?tag=inkledger-20)      | 2,500 pages   | 2,480    | 2,180       | N/A        | $0.02          |
+| Brother TN-760      | 2,500 pages   | 2,480    | 2,180       | N/A        | $0.02          |
 | Epson 502           | 2,000 pages   | 1,950    | 1,240       | 310        | $0.04          |
 | Canon PG-245        | 400 pages     | 380      | 290         | 75         | $0.06          |
 | InkOwl TN-760       | 2,200 pages   | 1,920    | 1,900       | N/A        | $0.015         |
 
 Key findings:
-1. **Toner outperforms inkjet**: The [Brother TN-760](https://www.amazon.com/dp/B0G63G9LRJ?tag=inkledger-20) maintained 87% yield even at 20% coverage vs inkjet's 60-70%
-2. **High-yield savings**: [HP 61XL](https://www.amazon.com/dp/B0DHV7ZWH2?tag=inkledger-20) costs 40% less per page than standard 61
+1. **Toner outperforms inkjet**: The Brother TN-760 maintained 87% yield even at 20% coverage vs inkjet's 60-70%
+2. **High-yield savings**: HP 61XL costs 40% less per page than standard 61
 3. **Photo penalties**: Inkjet yields plummet to 20-25% of claims when printing photos
-4. **Third-party variance**: [InkOwl TN-760](https://www.amazon.com/dp/B0BX2N258S?tag=inkledger-20) delivered 86% of OEM yield at 65% cost
+4. **Third-party variance**: InkOwl TN-760 delivered 86% of OEM yield at 65% cost
 
-For heavy users, the math is clear: Investing $20 more upfront for high-yield [HP 305XL](https://www.amazon.com/dp/B08PZBPXLZ?tag=inkledger-20) over standard 305 saves $0.02/page—$120 annually at 500 pages/month.
+For heavy users, the math is clear: Investing $20 more upfront for high-yield HP 305XL over standard 305 saves $0.02/page—$120 annually at 500 pages/month.
 
 ## Real-World Performance
 
@@ -85,19 +85,19 @@ Document complexity dramatically impacts yields. Our test team printed:
 **Case Study 1: Middle School Science Report**
 - 12 pages with 3 charts (22% coverage)
 - Consumed:
-  - 14% of [Canon PG-245](https://www.amazon.com/dp/B09VXQ221K?tag=inkledger-20) (vs 9% at 5% coverage)
-  - 9% of [Brother TN-730](https://www.amazon.com/dp/B098JD8HD3?tag=inkledger-20) (vs 5% at 5% coverage)
+  - 14% of Canon PG-245 (vs 9% at 5% coverage)
+  - 9% of Brother TN-730 (vs 5% at 5% coverage)
 
 **Case Study 2: Small Business Marketing Packet**
 - 8 pages with logo headers and product images (38% coverage)
 - Consumed:
-  - 27% of [Epson 502](https://www.amazon.com/dp/B00WSAXBQ0?tag=inkledger-20)
-  - 15% of [HP 305XL](https://www.amazon.com/dp/B08PZBPXLZ?tag=inkledger-20)
+  - 27% of Epson 502
+  - 15% of HP 305XL
 
 **Photo Printing Reality Check**
 Six 4x6" photos drained:
-- 38% of [Epson 502](https://www.amazon.com/dp/B00WSAXBQ0?tag=inkledger-20) capacity
-- 22% of [HP 305XL](https://www.amazon.com/dp/B08PZBPXLZ?tag=inkledger-20)
+- 38% of Epson 502 capacity
+- 22% of HP 305XL
 
 Three settings cut ink use before you spend a dollar on alternatives. Draft Mode saves 35–40% ink with perfectly readable text. Grayscale Only blocks the silent color-ink draw that happens even on black-and-white documents. Borderless photo printing does the opposite—it burns 15–20% more ink, so only enable it when you actually need edge-to-edge output.
 
@@ -119,12 +119,12 @@ Calculating true cost per page requires three adjustments manufacturers omit:
    - Text docs: Divide color cartridge cost by 2
    - Mixed docs: Divide by 1.5
 
-**Example Calculation: [Brother TN-760](https://www.amazon.com/dp/B0G63G9LRJ?tag=inkledger-20)**
+**Example Calculation: Brother TN-760**
 - $43.99 ÷ 2,180 tested pages = $0.020
 - +5% maintenance = $0.021
 - Actual cost: 2.1¢/page
 
-**Inkjet Example: [HP 61XL](https://www.amazon.com/dp/B0DHV7ZWH2?tag=inkledger-20)**
+**Inkjet Example: HP 61XL**
 - $38.99 ÷ 987 pages = $0.039
 - +15% maintenance = $0.045
 - Color adjustment (÷2) = $0.023
@@ -135,7 +135,7 @@ To put those numbers to work, divide your cartridge price by your real tested yi
 ## Alternatives and Refills
 
 **Third-Party Cartridges**
-Options like [InkOwl TN-760](https://www.amazon.com/dp/B0BX2N258S?tag=inkledger-20) provide 1,900 pages at $28.99 (1.5¢/page) but carry risks. Our 12-month test showed a 12% higher failure rate versus OEM, printer warning triggers on newer firmware, and color matching issues in 18% of cases—mostly with cyan on glossy media. See our [OEM vs compatible ink cartridge cost comparison](/articles/oem-vs-compatible-ink-cartridges-cost-comparison) for a full breakdown by brand.
+Options like InkOwl TN-760 provide 1,900 pages at $28.99 (1.5¢/page) but carry risks. Our 12-month test showed a 12% higher failure rate versus OEM, printer warning triggers on newer firmware, and color matching issues in 18% of cases—mostly with cyan on glossy media. See our [OEM vs compatible ink cartridge cost comparison](/articles/oem-vs-compatible-ink-cartridges-cost-comparison) for a full breakdown by brand.
 
 **Refill Kits**
 Best for:
@@ -158,7 +158,7 @@ HP Instant Ink makes sense only if:
 
 ### Do higher PPM ratings mean better quality?
 
-No. PPM measures quantity, not print quality. Some high-yield cartridges like [Brother TN-760](https://www.amazon.com/dp/B0G63G9LRJ?tag=inkledger-20) actually produce sharper text (1200x1200 dpi) than standard yield options.
+No. PPM measures quantity, not print quality. Some high-yield cartridges like Brother TN-760 actually produce sharper text (1200x1200 dpi) than standard yield options.
 
 ### Why do my cartridges dry out before reaching yield?
 
@@ -167,7 +167,7 @@ Inkjet cartridges lose:
 - 25-30% in arid regions
 - 8-12% if printer isn't used weekly
 
-Solution: Laser printers like [Brother HL-L2350DW](https://www.amazon.com/dp/B00WSAXBQ0?tag=inkledger-20) use dry toner that doesn't evaporate.
+Solution: Laser printers like Brother HL-L2350DW use dry toner that doesn't evaporate.
 
 ### Are subscription services like Instant Ink worth it?
 
@@ -192,7 +192,7 @@ Technically yes, but:
 
 ## Bottom Line
 
-After testing 12 cartridges across 5,000+ pages, the [Brother TN-760](https://www.amazon.com/dp/B0G63G9LRJ?tag=inkledger-20) delivers the most honest yield at 2.1¢/page—maintaining 87% of claimed capacity even with complex documents. For inkjet users, the [HP 61XL](https://www.amazon.com/dp/B0DHV7ZWH2?tag=inkledger-20) provides reliable 2.3¢/page performance when calculated properly. Three key takeaways:
+After testing 12 cartridges across 5,000+ pages, the Brother TN-760 delivers the most honest yield at 2.1¢/page—maintaining 87% of claimed capacity even with complex documents. For inkjet users, the HP 61XL provides reliable 2.3¢/page performance when calculated properly. Three key takeaways:
 1. **Assume 75% of claimed yield** for inkjet, 90% for laser
 2. **High-yield cartridges save 30-40%** long-term despite higher upfront cost
 3. **Laser printers dominate** for volumes over 300 pages/month
@@ -253,14 +253,14 @@ Price data for this article comes from Keepa, which logs every published price c
 
 ## Watchdog picks
 
-- [B0G6Z1834N](/products/b0g6z1834n-b0g6z1834n/) · [Buy on Amazon](https://www.amazon.com/dp/B0G6Z1834N?tag=inkledger-20)
-- [B01N7V39QJ](/products/b01n7v39qj-b01n7v39qj/) · [Buy on Amazon](https://www.amazon.com/dp/B01N7V39QJ?tag=inkledger-20)
-- [B08R3R5KXJ](/products/b08r3r5kxj-b08r3r5kxj/) · [Buy on Amazon](https://www.amazon.com/dp/B08R3R5KXJ?tag=inkledger-20)
-- [B09PH83KK5](/products/b09ph83kk5-b09ph83kk5/) · [Buy on Amazon](https://www.amazon.com/dp/B09PH83KK5?tag=inkledger-20)
-- [B07Q5J5YXV](/products/b07q5j5yxv-b07q5j5yxv/) · [Buy on Amazon](https://www.amazon.com/dp/B07Q5J5YXV?tag=inkledger-20)
-- [Epson EcoTank ET-2980 Wireless All-in-One Color Supertank Printer with Refillabl](/products/b0f1f2xrw9-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0F1F2XRW9?tag=inkledger-20)
-- [HP Original 63/65XL Black High‑Yield + 63/65 Tri-Color- Works DeskJet 1110, 2100](/products/b0gvgg7qlt-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0GVGG7QLT?tag=inkledger-20)
-- [B0014D3N0Q](/products/b0014d3n0q-b0014d3n0q/) · [Buy on Amazon](https://www.amazon.com/dp/B0014D3N0Q?tag=inkledger-20)
+- [B0G6Z1834N](/products/b0g6z1834n-b0g6z1834n/) · Buy on Amazon
+- [B01N7V39QJ](/products/b01n7v39qj-b01n7v39qj/) · Buy on Amazon
+- [B08R3R5KXJ](/products/b08r3r5kxj-b08r3r5kxj/) · Buy on Amazon
+- [B09PH83KK5](/products/b09ph83kk5-b09ph83kk5/) · Buy on Amazon
+- [B07Q5J5YXV](/products/b07q5j5yxv-b07q5j5yxv/) · Buy on Amazon
+- [Epson EcoTank ET-2980 Wireless All-in-One Color Supertank Printer with Refillabl](/products/b0f1f2xrw9-product/) · Buy on Amazon
+- [HP Original 63/65XL Black High‑Yield + 63/65 Tri-Color- Works DeskJet 1110, 2100](/products/b0gvgg7qlt-product/) · Buy on Amazon
+- [B0014D3N0Q](/products/b0014d3n0q-b0014d3n0q/) · Buy on Amazon
 
 ## Products in this guide
 

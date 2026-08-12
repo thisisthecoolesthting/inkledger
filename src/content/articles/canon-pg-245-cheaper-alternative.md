@@ -37,7 +37,7 @@ But cheaper alternatives exist. Through six months of testing with 1,200 pages p
 
 - **Third-party compatible cartridges** (easiest swap-in)
 - **Bulk ink refill systems** (lowest cost per page)
-- **High-yield OEM alternatives** like the [Canon PG-245XL](https://www.amazon.com/dp/B07C11YW88?tag=inkledger-20) (warranty-safe)
+- **High-yield OEM alternatives** like the Canon PG-245XL (warranty-safe)
 
 Each solution has tradeoffs in convenience, print quality, and upfront cost. We'll break down the math, performance data, and best use cases for each.
 
@@ -62,10 +62,10 @@ We tested four PG-245 alternatives under controlled conditions using a Canon Pix
 | Product | Type | Price | Yield (pages) | Cost/Page | Best Use Case |
 |---------|------|-------|---------------|-----------|---------------|
 | Canon PG-245 (OEM) | Original | $34.99 | ~180 | $0.19 | Photo printing, warranty-sensitive users |
-| [InkOwl PG-245](https://www.amazon.com/dp/B0FT32PL8L?tag=inkledger-20) | Compatible | $19.95 | ~210 | $0.09 | Everyday documents, small businesses |
-| [EZ Ink Refill Kit](https://www.amazon.com/dp/B08GX3K9YS?tag=inkledger-20) | Refill | $12.99 | ~400 | $0.03 | High-volume users, budget-conscious families |
-| [Canon PG-245XL](https://www.amazon.com/dp/B07C11YW88?tag=inkledger-20) | OEM High Yield | $49.99 | ~400 | $0.12 | Users seeking OEM quality with lower cost-per-page |
-| [HICC High-Capacity](https://www.amazon.com/dp/B0BVYBVHK5?tag=inkledger-20) | Compatible XL | $28.50 | ~600 | $0.05 | Offices, students printing 300+ pages monthly |
+| InkOwl PG-245 | Compatible | $19.95 | ~210 | $0.09 | Everyday documents, small businesses |
+| EZ Ink Refill Kit | Refill | $12.99 | ~400 | $0.03 | High-volume users, budget-conscious families |
+| Canon PG-245XL | OEM High Yield | $49.99 | ~400 | $0.12 | Users seeking OEM quality with lower cost-per-page |
+| HICC High-Capacity | Compatible XL | $28.50 | ~600 | $0.05 | Offices, students printing 300+ pages monthly |
 
 **Key findings:**
 
@@ -79,11 +79,11 @@ We tested longevity by leaving cartridges unused for 30 days. OEM and InkOwl sho
 
 ## Real-World Performance
 
-We ran a 90-day trial with five households printing 300+ mixed documents. The [InkOwl PG-245](https://www.amazon.com/dp/B0FT32PL8L?tag=inkledger-20) compatibles performed without issue in four printers but triggered ink warnings in one newer Pixma TR8620a (these warnings can be dismissed and do not indicate a defect). Refill kits showed wider variability—one user achieved 450 pages from a $12.99 refill, while another experienced clogging after 200 pages by not shaking the ink bottle first.
+We ran a 90-day trial with five households printing 300+ mixed documents. The InkOwl PG-245 compatibles performed without issue in four printers but triggered ink warnings in one newer Pixma TR8620a (these warnings can be dismissed and do not indicate a defect). Refill kits showed wider variability—one user achieved 450 pages from a $12.99 refill, while another experienced clogging after 200 pages by not shaking the ink bottle first.
 
-For photo printing, OEM ink still leads. We measured approximately 12% wider color gamut with genuine Canon ink versus compatibles. However, for documents and schoolwork, the difference was imperceptible. The [HICC High-Capacity](https://www.amazon.com/dp/B0BVYBVHK5?tag=inkledger-20) proved best for heavy users, delivering up to 600 pages.
+For photo printing, OEM ink still leads. We measured approximately 12% wider color gamut with genuine Canon ink versus compatibles. However, for documents and schoolwork, the difference was imperceptible. The HICC High-Capacity proved best for heavy users, delivering up to 600 pages.
 
-We partnered with a local school to test alternatives in high-volume environments. Over three months, they saved approximately $387 by switching 12 printers to [HICC cartridges](https://www.amazon.com/dp/B0BVYBVHK5?tag=inkledger-20) while maintaining acceptable quality for worksheets and handouts. Their art department retained OEM ink for color-critical projects, demonstrating how hybrid approaches optimize both savings and quality.
+We partnered with a local school to test alternatives in high-volume environments. Over three months, they saved approximately $387 by switching 12 printers to HICC cartridges while maintaining acceptable quality for worksheets and handouts. Their art department retained OEM ink for color-critical projects, demonstrating how hybrid approaches optimize both savings and quality.
 
 ## Cost Math
 
@@ -95,13 +95,13 @@ Breaking down total cost of ownership for 10,000 pages:
 4. **OEM XL Cartridges**: 25 cartridges × $49.99 = **$1,249.75** (36% savings)
 5. **HICC High-Capacity**: 17 cartridges × $28.50 = **$484.50** (75% savings)
 
-At 500 pages per month, switching from OEM to refills saves approximately $1,634.65 annually. Even moving to compatibles like [InkOwl](https://www.amazon.com/dp/B0FT32PL8L?tag=inkledger-20) saves approximately $1,001.80 per year with minimal quality tradeoffs on everyday documents.
+At 500 pages per month, switching from OEM to refills saves approximately $1,634.65 annually. Even moving to compatibles like InkOwl saves approximately $1,001.80 per year with minimal quality tradeoffs on everyday documents.
 
 ## Alternatives and Refill Options
 
 ### Refill Kits
 
-For maximum cost savings, refill kits require more hands-on effort. The [EZ Ink Refill Kit](https://www.amazon.com/dp/B08GX3K9YS?tag=inkledger-20) includes:
+For maximum cost savings, refill kits require more hands-on effort. The EZ Ink Refill Kit includes:
 
 - 4oz black ink (sufficient for approximately 8 refills)
 - Syringes and needles
@@ -114,11 +114,11 @@ We recommend practicing on empty cartridges first. Properly refilled cartridges 
 
 ### Continuous Ink Supply Systems (CISS)
 
-These permanently installed tanks connect to modified cartridges via tubing, reducing costs to approximately $0.005 per page. While originally designed for commercial use, home models like the [Apexel CISS](https://www.amazon.com/dp/B083BFPGD8?tag=inkledger-20) now work with PG-245 compatible printers.
+These permanently installed tanks connect to modified cartridges via tubing, reducing costs to approximately $0.005 per page. While originally designed for commercial use, home models like the Apexel CISS now work with PG-245 compatible printers.
 
 ### High-Capacity Alternatives
 
-For those uncomfortable with refills, the [HICC High-Capacity](https://www.amazon.com/dp/B0BVYBVHK5?tag=inkledger-20) compatibles offer a middle ground with approximately 3× OEM yield.
+For those uncomfortable with refills, the HICC High-Capacity compatibles offer a middle ground with approximately 3× OEM yield.
 
 ## FAQ
 
@@ -128,7 +128,7 @@ No. Under US law (Magnuson-Moss Warranty Act, 1975), manufacturers cannot void w
 
 **How many times can I refill a PG-245 cartridge?**
 
-Typically 3–5 times before the sponge deteriorates. The [EZ Ink Refill Kit](https://www.amazon.com/dp/B08GX3K9YS?tag=inkledger-20) includes replacement sponges for extended use. Some users report 8+ refills with proper maintenance.
+Typically 3–5 times before the sponge deteriorates. The EZ Ink Refill Kit includes replacement sponges for extended use. Some users report 8+ refills with proper maintenance.
 
 **Why do some compatibles show 'low ink' prematurely?**
 
@@ -140,25 +140,25 @@ In our testing, properly refilled cartridges showed no higher leak rates than OE
 
 **Which alternative works best for photos?**
 
-For critical color work, OEM ink performs best. The [Canon PG-245XL](https://www.amazon.com/dp/B07C11YW88?tag=inkledger-20) delivers identical quality to standard OEM at a lower cost-per-page. For casual photo printing, [InkOwl's photo-black variant](https://www.amazon.com/dp/B0FT32PL8L?tag=inkledger-20) performs nearly as well at 40% savings.
+For critical color work, OEM ink performs best. The Canon PG-245XL delivers identical quality to standard OEM at a lower cost-per-page. For casual photo printing, InkOwl's photo-black variant performs nearly as well at 40% savings.
 
 ## Bottom Line
 
 After testing six alternatives across multiple metrics, here's what we recommend based on your needs:
 
-**Best Overall Value**: [InkOwl PG-245 Compatible](https://www.amazon.com/dp/B0FT32PL8L?tag=inkledger-20)  
+**Best Overall Value**: InkOwl PG-245 Compatible  
 Balances 50% cost savings with reliable, drop-in performance. No special handling required.
 
-**Maximum Savings**: [EZ Ink Refill Kit](https://www.amazon.com/dp/B08GX3K9YS?tag=inkledger-20)  
+**Maximum Savings**: EZ Ink Refill Kit  
 Lowest cost-per-page ($0.03) for hands-on users. Best for high-volume printing.
 
-**OEM Alternative**: [Canon PG-245XL](https://www.amazon.com/dp/B07C11YW88?tag=inkledger-20)  
+**OEM Alternative**: Canon PG-245XL  
 Higher-yield official option for warranty-conscious users. 36% savings versus standard OEM.
 
-**High-Volume Solution**: [HICC High-Capacity](https://www.amazon.com/dp/B0BVYBVHK5?tag=inkledger-20)  
+**High-Volume Solution**: HICC High-Capacity  
 600-page yield ideal for offices and students. 75% savings.
 
-For households printing 100+ pages monthly, switching from OEM to either compatibles or refills typically pays for itself within 6–9 months. Even casual users can save $150+ annually on everyday documents without noticeable quality loss. Professional photographers who require maximum color accuracy should stick with genuine Canon ink or the [PG-245XL](https://www.amazon.com/dp/B07C11YW88?tag=inkledger-20).
+For households printing 100+ pages monthly, switching from OEM to either compatibles or refills typically pays for itself within 6–9 months. Even casual users can save $150+ annually on everyday documents without noticeable quality loss. Professional photographers who require maximum color accuracy should stick with genuine Canon ink or the PG-245XL.
 
 <!-- padded-no-api-v2 -->
 
@@ -214,14 +214,14 @@ Price data for this article comes from Keepa, which logs every published price c
 
 ## Watchdog picks
 
-- [Dr. Tobias Omega 3 Fish Oil 2000mg Triple Strength with 800mg EPA 600mg DHA Per ](/products/b00cazau62-dr-tobias-omega-3-fish-oil-2000mg-triple-strength-with-800mg/) · [Buy on Amazon](https://www.amazon.com/dp/B00CAZAU62?tag=inkledger-20)
-- [Epson 522 EcoTank Ink Ultra-high Capacity Bottle Black & Color Combo Pack (T5221](/products/b0b4vp5cq4-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0B4VP5CQ4?tag=inkledger-20)
-- [Brother Genuine High-Yield Black Toner Cartridge Twin Pack TN760 2Pk, TN7602PK,2](/products/b07ygl9xth-product/) · [Buy on Amazon](https://www.amazon.com/dp/B07YGL9XTH?tag=inkledger-20)
-- [HP 962XL Black High-Yield Ink Cartridge - Works with OfficeJet 9010, Pro 9010, 9](/products/b07mk5dg9v-product/) · [Buy on Amazon](https://www.amazon.com/dp/B07MK5DG9V?tag=inkledger-20)
-- [B0DPYJWX2F](/products/b0dpyjwx2f-b0dpyjwx2f/) · [Buy on Amazon](https://www.amazon.com/dp/B0DPYJWX2F?tag=inkledger-20)
-- [myCartridge SUPRINT Remanufactured Replacement for Epson 702 Ink Cartridges 702X](/products/b0fb96px2m-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0FB96PX2M?tag=inkledger-20)
-- [B0FVFGX7Y5](/products/b0fvfgx7y5-b0fvfgx7y5/) · [Buy on Amazon](https://www.amazon.com/dp/B0FVFGX7Y5?tag=inkledger-20)
-- [B0CHJ8T7XS](/products/b0chj8t7xs-b0chj8t7xs/) · [Buy on Amazon](https://www.amazon.com/dp/B0CHJ8T7XS?tag=inkledger-20)
+- [Dr. Tobias Omega 3 Fish Oil 2000mg Triple Strength with 800mg EPA 600mg DHA Per ](/products/b00cazau62-dr-tobias-omega-3-fish-oil-2000mg-triple-strength-with-800mg/) · Buy on Amazon
+- [Epson 522 EcoTank Ink Ultra-high Capacity Bottle Black & Color Combo Pack (T5221](/products/b0b4vp5cq4-product/) · Buy on Amazon
+- [Brother Genuine High-Yield Black Toner Cartridge Twin Pack TN760 2Pk, TN7602PK,2](/products/b07ygl9xth-product/) · Buy on Amazon
+- [HP 962XL Black High-Yield Ink Cartridge - Works with OfficeJet 9010, Pro 9010, 9](/products/b07mk5dg9v-product/) · Buy on Amazon
+- [B0DPYJWX2F](/products/b0dpyjwx2f-b0dpyjwx2f/) · Buy on Amazon
+- [myCartridge SUPRINT Remanufactured Replacement for Epson 702 Ink Cartridges 702X](/products/b0fb96px2m-product/) · Buy on Amazon
+- [B0FVFGX7Y5](/products/b0fvfgx7y5-b0fvfgx7y5/) · Buy on Amazon
+- [B0CHJ8T7XS](/products/b0chj8t7xs-b0chj8t7xs/) · Buy on Amazon
 
 ## Products in this guide
 

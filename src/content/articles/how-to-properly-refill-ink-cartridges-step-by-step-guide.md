@@ -41,7 +41,7 @@ Our testing methodology involved:
 - Microscope analysis of print head nozzles
 - Viscosity measurements at different temperatures
 
-The results shocked even our team - properly refilled cartridges using the [PrecisionFill Deluxe Kit](https://www.amazon.com/dp/B0CB75LML9?tag=inkledger-20) actually outperformed some OEM cartridges in page yield tests. Here's everything we learned about doing it right.
+The results shocked even our team - properly refilled cartridges using the PrecisionFill Deluxe Kit actually outperformed some OEM cartridges in page yield tests. Here's everything we learned about doing it right.
 
 ## Why This Matters
 
@@ -54,9 +54,9 @@ Printer manufacturers bank on you buying their overpriced ink. HP's Instant Ink 
 We analyzed 32 repair shop invoices and found the average cost of refill-related repairs is $89 — more than two years of ink savings if done wrong. But when done right using our method, you'll save 72-84% versus OEM cartridges.
 
 Consider these real-world examples:
-1. **Sarah's Home Office**: Saved $127/year refilling HP 63 cartridges using the [InkMasters Refill Kit](https://www.amazon.com/dp/B004QM8SLG?tag=inkledger-20)
-2. **Mike's Photography Business**: Cut ink costs by 68% using [B0F54TYKF9 pigment inks](https://www.amazon.com/dp/B0F54TYKF9?tag=inkledger-20) for proofs
-3. **School District Savings**: 42 teachers saved $3,200 annually with bulk [B0CGW2TFSV ink](https://www.amazon.com/dp/B0CGW2TFSV?tag=inkledger-20)
+1. **Sarah's Home Office**: Saved $127/year refilling HP 63 cartridges using the InkMasters Refill Kit
+2. **Mike's Photography Business**: Cut ink costs by 68% using B0F54TYKF9 pigment inks for proofs
+3. **School District Savings**: 42 teachers saved $3,200 annually with bulk B0CGW2TFSV ink
 
 The environmental impact is equally impressive - we calculated that proper refilling prevents 1.3 pounds of plastic waste per user annually.
 
@@ -64,36 +64,36 @@ The environmental impact is equally impressive - we calculated that proper refil
 
 | Product | Price | Ink Yield | Warranty Safe | Tools Included | Best For |
 |---------|-------|-----------|---------------|----------------|----------|
-|[InkMasters Refill Kit](https://www.amazon.com/dp/B004QM8SLG?tag=inkledger-20) | $24.99 | 6 refills | Yes | Syringes, gloves, drill bit | Beginners |
-|[EZ Ink Pro](https://www.amazon.com/dp/B093TCYF9T?tag=inkledger-20) | $18.50 | 4 refills | No | Bottles only | Emergency use only |
-|[PrecisionFill Deluxe](https://www.amazon.com/dp/B0CB75LML9?tag=inkledger-20) | $32.75 | 10 refills | Yes | Full toolkit with air clip | Professionals |
-|[JetTank Pro](https://www.amazon.com/dp/B08Y2VRSQ9?tag=inkledger-20) | $49.99 | 15 refills | Yes | Vacuum filler, chip resetter | High-volume users |
+|InkMasters Refill Kit | $24.99 | 6 refills | Yes | Syringes, gloves, drill bit | Beginners |
+|EZ Ink Pro | $18.50 | 4 refills | No | Bottles only | Emergency use only |
+|PrecisionFill Deluxe | $32.75 | 10 refills | Yes | Full toolkit with air clip | Professionals |
+|JetTank Pro | $49.99 | 15 refills | Yes | Vacuum filler, chip resetter | High-volume users |
 
 Key findings from our 6-month testing period:
-- The $8.50 [EZ Ink Pro](https://www.amazon.com/dp/B093TCYF9T?tag=inkledger-20) bottles leaked in 3/5 tests and caused 2 printer failures
-- Only kits with air balance tools (like the [PrecisionFill](https://www.amazon.com/dp/B0CB75LML9?tag=inkledger-20)) prevented blotching on photo paper
-- Generic inks faded 27% faster than OEM in accelerated testing, except [this cartridge](https://www.amazon.com/dp/B0F54TYKF9?tag=inkledger-20) which matched OEM performance
-- The [JetTank Pro](https://www.amazon.com/dp/B08Y2VRSQ9?tag=inkledger-20) vacuum system reduced refill time by 63% for office use
+- The $8.50 EZ Ink Pro bottles leaked in 3/5 tests and caused 2 printer failures
+- Only kits with air balance tools (like the PrecisionFill) prevented blotching on photo paper
+- Generic inks faded 27% faster than OEM in accelerated testing, except this cartridge which matched OEM performance
+- The JetTank Pro vacuum system reduced refill time by 63% for office use
 
-Surprising discovery: Cartridges refilled with [this cartridge](https://www.amazon.com/dp/B0CB75LML9?tag=inkledger-20) ink actually yielded 12% more pages than new OEM cartridges in our Epson tests.
+Surprising discovery: Cartridges refilled with this cartridge ink actually yielded 12% more pages than new OEM cartridges in our Epson tests.
 
 ## Real-World Performance
 
-We refilled 47 cartridges using the [InkMasters Kit](https://www.amazon.com/dp/B004QM8SLG?tag=inkledger-20) across six months. Critical lessons:
+We refilled 47 cartridges using the InkMasters Kit across six months. Critical lessons:
 
-1. **Temperature matters**: Ink thickened below 65°F, causing 3 clogs. Store ink between 68-77°F for optimal viscosity. The [B0CB75LML9 kit](https://www.amazon.com/dp/B0CB75LML9?tag=inkledger-20) includes a digital thermometer for this purpose.
+1. **Temperature matters**: Ink thickened below 65°F, causing 3 clogs. Store ink between 68-77°F for optimal viscosity. The B0CB75LML9 kit includes a digital thermometer for this purpose.
 
-2. **Reset chips are mandatory**: The [B0GF25F12C resetter](https://www.amazon.com/dp/B0GF25F12C?tag=inkledger-20) worked on 19/20 HP cartridges. For Epson, you'll need the [B08KJYH6P5 resetter](https://www.amazon.com/dp/B08KJYH6P5?tag=inkledger-20).
+2. **Reset chips are mandatory**: The B0GF25F12C resetter worked on 19/20 HP cartridges. For Epson, you'll need the B08KJYH6P5 resetter.
 
 3. **Patience pays**: Waiting 2 hours after refilling reduced streaking by 61%. For photo printing, we recommend 4 hours settling time.
 
-4. **Priming technique**: Use the [B07QZ4X6NK priming tool](https://www.amazon.com/dp/B07QZ4X6NK?tag=inkledger-20) to remove air bubbles - reduced waste by 22% in our tests.
+4. **Priming technique**: Use the B07QZ4X6NK priming tool to remove air bubbles - reduced waste by 22% in our tests.
 
-The [B0F54TYKF9 high-yield black ink](https://www.amazon.com/dp/B0F54TYKF9?tag=inkledger-20) lasted 1,893 pages before fading — just 7% shy of OEM results. For color printing, the [B08Y2VRSQ9 pigment set](https://www.amazon.com/dp/B08Y2VRSQ9?tag=inkledger-20) maintained color accuracy for 1,200+ pages.
+The B0F54TYKF9 high-yield black ink lasted 1,893 pages before fading — just 7% shy of OEM results. For color printing, the B08Y2VRSQ9 pigment set maintained color accuracy for 1,200+ pages.
 
 ## Cost Math
 
-Breaking down actual savings for an [HP 962XL](https://www.amazon.com/dp/B07GRRXJXG?tag=inkledger-20) cartridge:
+Breaking down actual savings for an HP 962XL cartridge:
 
 | Cost Type | OEM | Refill | Savings |
 |-----------|-----|--------|---------|
@@ -102,31 +102,31 @@ Breaking down actual savings for an [HP 962XL](https://www.amazon.com/dp/B07GRRX
 | Annual (500 pages) | $40 | $10 | $30 |
 | 3-Year Total | $120 | $30 | $90 |
 
-At scale: A home printing 1,200 pages/year saves $72 annually. The [B0CGW2TFSV bulk ink](https://www.amazon.com/dp/B0CGW2TFSV?tag=inkledger-20) drops costs to $0.015/page.
+At scale: A home printing 1,200 pages/year saves $72 annually. The B0CGW2TFSV bulk ink drops costs to $0.015/page.
 
 For businesses:
 - Law office saving $380/month refilling 15 HP 952XL cartridges
-- School saving $2,100/year using [this cartridge](https://www.amazon.com/dp/B0CGW2TFSV?tag=inkledger-20) in 8 printers
+- School saving $2,100/year using this cartridge in 8 printers
 - Photography studio cut ink costs by 62% while maintaining gallery-quality prints
 
 ## Alternatives and Refills
 
 For those who hate messes:
 
-1. **EcoTank printers**: The [B08HSNHJRH model](https://www.amazon.com/dp/B08HSNHJRH?tag=inkledger-20) costs $0.005/page with no refilling needed
-2. **Laser printers**: Toner doesn't dry out like ink - the [this cartridge](https://www.amazon.com/dp/B08KJYH6P5?tag=inkledger-20) yields 5,000 pages
-3. **Third-party cartridges**: But avoid [this cartridge](https://www.amazon.com/dp/B08KGY4XJ5?tag=inkledger-20) — 31% failure rate in our tests
+1. **EcoTank printers**: The B08HSNHJRH model costs $0.005/page with no refilling needed
+2. **Laser printers**: Toner doesn't dry out like ink - the this cartridge yields 5,000 pages
+3. **Third-party cartridges**: But avoid this cartridge — 31% failure rate in our tests
 
 Advanced refill techniques:
-- Use the [B00063RWT8 surfactant](https://www.amazon.com/dp/B00063RWT8?tag=inkledger-20) (2-3 drops per 10ml ink) to prevent nozzle clogs
-- For photo printing, add [B08Y2VRSQ9 color stabilizer](https://www.amazon.com/dp/B08Y2VRSQ9?tag=inkledger-20) to prevent fading
-- Store cartridges upside down in the [B07QZ4X6NK storage case](https://www.amazon.com/dp/B07QZ4X6NK?tag=inkledger-20) to prevent drying
+- Use the B00063RWT8 surfactant (2-3 drops per 10ml ink) to prevent nozzle clogs
+- For photo printing, add B08Y2VRSQ9 color stabilizer to prevent fading
+- Store cartridges upside down in the B07QZ4X6NK storage case to prevent drying
 
 ## FAQ
 
 ### Will refilling void my warranty?
 
-Most printer warranties can't legally void coverage for using third-party ink, but they can deny claims if you damage the printer during refilling. Epson and HP specifically exclude refill-related damage. We recommend using warranty-safe kits like [this cartridge](https://www.amazon.com/dp/B0CB75LML9?tag=inkledger-20) that include non-damaging tools.
+Most printer warranties can't legally void coverage for using third-party ink, but they can deny claims if you damage the printer during refilling. Epson and HP specifically exclude refill-related damage. We recommend using warranty-safe kits like this cartridge that include non-damaging tools.
 
 ### How many times can I refill a cartridge?
 
@@ -137,28 +137,28 @@ Quality cartridges like HP 62XL handle 3-5 refills before the sponge degrades. A
 
 ### Why does my refilled ink fade faster?
 
-Cheap inks lack optical brighteners. The [B0F54TYKF9 pigment ink](https://www.amazon.com/dp/B0F54TYKF9?tag=inkledger-20) matches OEM fade resistance for documents. For photos, use [B08Y2VRSQ9 archival ink](https://www.amazon.com/dp/B08Y2VRSQ9?tag=inkledger-20).
+Cheap inks lack optical brighteners. The B0F54TYKF9 pigment ink matches OEM fade resistance for documents. For photos, use B08Y2VRSQ9 archival ink.
 
 ### Can I mix different ink brands?
 
-Never. Chemical reactions can create sludge. One user mixed [this cartridge](https://www.amazon.com/dp/B093TCYF9T?tag=inkledger-20) with OEM ink and permanently clogged their print head. Always fully flush old ink before switching brands.
+Never. Chemical reactions can create sludge. One user mixed this cartridge with OEM ink and permanently clogged their print head. Always fully flush old ink before switching brands.
 
 ### How do I store unused ink?
 
-Keep ink bottles upright at 60-75°F. The [B0CB75LML9 kit](https://www.amazon.com/dp/B0CB75LML9?tag=inkledger-20) includes storage caps that prevent oxidation. For long-term storage:
+Keep ink bottles upright at 60-75°F. The B0CB75LML9 kit includes storage caps that prevent oxidation. For long-term storage:
 - Use amber glass bottles
-- Add 1% [B00063RWT8 preservative](https://www.amazon.com/dp/B00063RWT8?tag=inkledger-20)
+- Add 1% B00063RWT8 preservative
 - Store in dark, cool place
 
 ## Bottom Line
 
-For most home users, the [PrecisionFill Deluxe Kit](https://www.amazon.com/dp/B0CB75LML9?tag=inkledger-20) offers the best balance of tools and quality ink. Pair it with the [B0GF25F12C resetter](https://www.amazon.com/dp/B0GF25F12C?tag=inkledger-20) for HP printers. Expect to save $60-$100 annually while maintaining print quality — just avoid the temptation to use bargain-bin inks. For heavy users, consider switching to an EcoTank system to eliminate refills entirely.
+For most home users, the PrecisionFill Deluxe Kit offers the best balance of tools and quality ink. Pair it with the B0GF25F12C resetter for HP printers. Expect to save $60-$100 annually while maintaining print quality — just avoid the temptation to use bargain-bin inks. For heavy users, consider switching to an EcoTank system to eliminate refills entirely.
 
 Final pro tip: Create a refill station with:
-- [B07QZ4X6NK silicone mat](https://www.amazon.com/dp/B07QZ4X6NK?tag=inkledger-20)
-- [B08Y2VRSQ9 precision scale](https://www.amazon.com/dp/B08Y2VRSQ9?tag=inkledger-20)
-- [B0CB75LML9 toolkit](https://www.amazon.com/dp/B0CB75LML9?tag=inkledger-20)
-- [B00063RWT8 cleaning solution](https://www.amazon.com/dp/B00063RWT8?tag=inkledger-20)
+- B07QZ4X6NK silicone mat
+- B08Y2VRSQ9 precision scale
+- B0CB75LML9 toolkit
+- B00063RWT8 cleaning solution
 
 This setup will make refilling faster, cleaner, and more consistent - turning a messy chore into a money-saving routine.
 
@@ -218,14 +218,14 @@ Price data for this article comes from Keepa, which logs every published price c
 
 ## Watchdog picks
 
-- [EaseFusion Replacement for Epson 502 Ink Refill Bottles Work with ET-2850 ET-385](/products/b0g33t139m-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0G33T139M?tag=inkledger-20)
-- [HP DeskJet 2755 Wireless All-in-One Printer, Mobile Print, Scan & Copy, Instant ](/products/b083zy6xfq-product/) · [Buy on Amazon](https://www.amazon.com/dp/B083ZY6XFQ?tag=inkledger-20)
-- [B0963X6B5V](/products/b0963x6b5v-b0963x6b5v/) · [Buy on Amazon](https://www.amazon.com/dp/B0963X6B5V?tag=inkledger-20)
-- [Ink Cartridge Printer Replacement Part Compatible with Expression Photo XP-15000](/products/b0gvgsv2kl-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0GVGSV2KL?tag=inkledger-20)
-- [Fanttik T1 Max Soldering Iron Kit, Cordless Soldering Iron, 7 Seconds Fast Heati](/products/b0d41zmdpd-fanttik-t1-max-soldering-iron-kit-cordless-soldering-iron-7-/) · [Buy on Amazon](https://www.amazon.com/dp/B0D41ZMDPD?tag=inkledger-20)
-- [Epson EcoTank ET-2988 Wireless All-in-One Color Supertank Printer with up to 3 Y](/products/b0h476662h-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0H476662H?tag=inkledger-20)
-- [B0CWP64QMT](/products/b0cwp64qmt-b0cwp64qmt/) · [Buy on Amazon](https://www.amazon.com/dp/B0CWP64QMT?tag=inkledger-20)
-- [65XL 65 Ink Cartridges Black/Color Combo Pack Replacement for HP 65XL Ink Work f](/products/b0gzw7vxwt-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0GZW7VXWT?tag=inkledger-20)
+- [EaseFusion Replacement for Epson 502 Ink Refill Bottles Work with ET-2850 ET-385](/products/b0g33t139m-product/) · Buy on Amazon
+- [HP DeskJet 2755 Wireless All-in-One Printer, Mobile Print, Scan & Copy, Instant ](/products/b083zy6xfq-product/) · Buy on Amazon
+- [B0963X6B5V](/products/b0963x6b5v-b0963x6b5v/) · Buy on Amazon
+- [Ink Cartridge Printer Replacement Part Compatible with Expression Photo XP-15000](/products/b0gvgsv2kl-product/) · Buy on Amazon
+- [Fanttik T1 Max Soldering Iron Kit, Cordless Soldering Iron, 7 Seconds Fast Heati](/products/b0d41zmdpd-fanttik-t1-max-soldering-iron-kit-cordless-soldering-iron-7-/) · Buy on Amazon
+- [Epson EcoTank ET-2988 Wireless All-in-One Color Supertank Printer with up to 3 Y](/products/b0h476662h-product/) · Buy on Amazon
+- [B0CWP64QMT](/products/b0cwp64qmt-b0cwp64qmt/) · Buy on Amazon
+- [65XL 65 Ink Cartridges Black/Color Combo Pack Replacement for HP 65XL Ink Work f](/products/b0gzw7vxwt-product/) · Buy on Amazon
 
 ## Products in this guide
 

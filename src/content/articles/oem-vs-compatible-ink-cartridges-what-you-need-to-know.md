@@ -33,7 +33,7 @@ author: marcus-webb
 
 "Why does printer ink cost more than champagne?" If you've ever stared at a $50 OEM cartridge wondering if the $15 compatible version would work just as well, you're not alone. Printer manufacturers make 70% of their profits from ink, not hardware—which explains why they aggressively discourage third-party alternatives. But here's what they don't want you to know: modern compatible cartridges from reputable brands now achieve 90-95% of OEM print quality for 40-60% less money.
 
-This guide cuts through the fear tactics by comparing real-world performance data across 14 cartridge types (including the [HP 61XL](https://www.amazon.com/dp/B0DHV8SCLS?tag=inkledger-20) and its [top-rated compatible](https://www.amazon.com/dp/B0G63G9LRJ?tag=inkledger-20)). We'll show you exactly where OEM cartridges still matter (photo printing, warranty coverage) and where generics shine (everyday documents, school projects).
+This guide cuts through the fear tactics by comparing real-world performance data across 14 cartridge types (including the HP 61XL and its top-rated compatible). We'll show you exactly where OEM cartridges still matter (photo printing, warranty coverage) and where generics shine (everyday documents, school projects).
 
 **Deep Dive**: The ink cartridge market is projected to reach $42.7 billion by 2027, with compatible cartridges growing at 8.3% CAGR. Manufacturers like HP embed microchips that artificially limit ink usage—a 2023 FTC complaint revealed some cartridges stop working with 20% ink remaining. Third-party solutions circumvent these restrictions, but require understanding tradeoffs in nozzle technology and pigment stability.
 
@@ -47,23 +47,23 @@ Printer manufacturers employ three tactics to lock you into their ink ecosystem:
 
 Compatible cartridges bypass these tricks but introduce new variables: pigment stability (some fade faster under UV), nozzle clogging risk when the printer sits unused for two or more weeks, and inconsistent yields that average 7–12% below claims in our 14-model test. For home users printing 50–100 pages/month, the savings outweigh those tradeoffs—compatibles saved our test households $120–$180 a year on average. Graphic designers and photographers should stick with OEM for color accuracy. See our [compatible ink cartridges safety guide](/articles/compatible-ink-cartridges-safety) for the full clogging and UV-fade data by brand.
 
-A 12-attorney firm in Phoenix that we surveyed switched from HP 952XL OEM ($110) to [InkTec 952XL](https://www.amazon.com/dp/B0G63G9LRJ?tag=inkledger-20) ($45) and saved $2,340 annually across 12 printers. They logged 3% more printhead-cleaning service calls during the summer, which they attributed to low office humidity—solved with a $40 dehumidifier and weekly cleaning cycles.
+A 12-attorney firm in Phoenix that we surveyed switched from HP 952XL OEM ($110) to InkTec 952XL ($45) and saved $2,340 annually across 12 printers. They logged 3% more printhead-cleaning service calls during the summer, which they attributed to low office humidity—solved with a $40 dehumidifier and weekly cleaning cycles.
 
 ## Head-to-head comparison
 
 | Model               | Type       | Price | Yield (pages) | Cost/page | Warranty impact | Best for          |
 |---------------------|------------|-------|---------------|-----------|-----------------|-------------------|
-| HP 61XL (OEM)       | [this cartridge](https://www.amazon.com/dp/B0DHV8SCLS?tag=inkledger-20) | $38   | 300           | $0.127    | Full            | Photos, resumes   |
-| InkTec 61XL         | [this cartridge](https://www.amazon.com/dp/B0G63G9LRJ?tag=inkledger-20) | $16   | 280           | $0.057    | Voided          | Homework, drafts  |
-| Canon PG-245 OEM    | [this cartridge](https://www.amazon.com/dp/B00WSAXBQ0?tag=inkledger-20) | $29   | 180           | $0.161    | Full            | Office docs       |
-| Epson 502 Compatible | [this cartridge](https://www.amazon.com/dp/B0DHV7ZWH2?tag=inkledger-20) | $12   | 150           | $0.080    | Voided          | Internal reports  |
+| HP 61XL (OEM)       | this cartridge | $38   | 300           | $0.127    | Full            | Photos, resumes   |
+| InkTec 61XL         | this cartridge | $16   | 280           | $0.057    | Voided          | Homework, drafts  |
+| Canon PG-245 OEM    | this cartridge | $29   | 180           | $0.161    | Full            | Office docs       |
+| Epson 502 Compatible | this cartridge | $12   | 150           | $0.080    | Voided          | Internal reports  |
 
 **Extended Analysis**: 
 - **Color Gamut**: OEM cartridges cover 98% of sRGB vs 89-92% for compatibles
 - **Drying Time**: Compatibles take 15-30 seconds longer to dry on glossy paper
 - **Archival Quality**: OEM inks last 25+ years vs 7-10 years for most compatibles when tested under ISO 11798
 
-Key findings: Compatibles average 7-12% lower yield than claimed, while OEMs hit their marks. The [InkTec 61XL](https://www.amazon.com/dp/B0G63G9LRJ?tag=inkledger-20) delivers sharper text than most generics but shows slight banding in grayscale graphics.
+Key findings: Compatibles average 7-12% lower yield than claimed, while OEMs hit their marks. The InkTec 61XL delivers sharper text than most generics but shows slight banding in grayscale graphics.
 
 ## Real-world performance
 
@@ -71,12 +71,12 @@ After testing 6 cartridge types in identical HP Envy printers, we found:
 
 - **Longevity**: OEM inks lasted 18 months before drying in unused printers vs 12 months for compatibles
 - **Clogging**: Compatibles required 2-3 more cleaning cycles after 2 weeks of inactivity
-- **Edge cases**: The [Epson 502 compatible](https://www.amazon.com/dp/B0DHV7ZWH2?tag=inkledger-20) failed to recognize in 1 of 5 printers until a firmware rollback
+- **Edge cases**: The Epson 502 compatible failed to recognize in 1 of 5 printers until a firmware rollback
 
 **Unexpected Findings**:
 - High-altitude users (above 5,000 ft) reported 23% faster drying with OEM inks
 - Compatibles performed better in continuous-feed printers than cartridge-based systems
-- The [HP 61XL](https://www.amazon.com/dp/B0DHV8SCLS?tag=inkledger-20) printed 328 pages at 15% coverage—9% over its rated yield—while budget compatibles averaged 8% under.
+- The HP 61XL printed 328 pages at 15% coverage—9% over its rated yield—while budget compatibles averaged 8% under.
 
 ## Cost math
 
@@ -86,19 +86,19 @@ Breakdown for a household printing 800 pages/year:
 - **Compatible**: $16 x 3 cartridges + $30 for occasional printhead cleaning = $78/year
 - **Breakeven**: Switching pays for itself after 4 months
 
-**Enterprise Scenario**: A 100-person office printing 250,000 pages/year would save $18,750 annually using [Brother TN-760](https://www.amazon.com/dp/B09VXQ221K?tag=inkledger-20) compatibles instead of OEM toners, enough to fund two new industrial printers each year.
+**Enterprise Scenario**: A 100-person office printing 250,000 pages/year would save $18,750 annually using Brother TN-760 compatibles instead of OEM toners, enough to fund two new industrial printers each year.
 
-For laser printers, the [Brother TN-760](https://www.amazon.com/dp/B09VXQ221K?tag=inkledger-20) compatible toner delivers 2,600 pages at $0.023/page—47% cheaper than OEM. Inkjet users printing <100 pages/month should consider [EcoTank](https://www.amazon.com/dp/B098JD8HD3?tag=inkledger-20) models.
+For laser printers, the Brother TN-760 compatible toner delivers 2,600 pages at $0.023/page—47% cheaper than OEM. Inkjet users printing <100 pages/month should consider EcoTank models.
 
 ## Alternatives and refills
 
-1. **Bulk ink systems**: The [Epson EcoTank ET-2800](https://www.amazon.com/dp/B098JD8HD3?tag=inkledger-20) cuts costs to $0.005/page but requires $300 upfront
-2. **Refill kits**: Works best with [HP 61XL](https://www.amazon.com/dp/B0DHV8SCLS?tag=inkledger-20) cartridges—get 3 refills before chip resets are needed
+1. **Bulk ink systems**: The Epson EcoTank ET-2800 cuts costs to $0.005/page but requires $300 upfront
+2. **Refill kits**: Works best with HP 61XL cartridges—get 3 refills before chip resets are needed
 3. **Subscription services**: HP Instant Ink at $3/month for 100 pages makes sense only if you never exceed quota
 
-**Pro Tip**: For refill kits, the [InkMiser Pro Series](https://www.amazon.com/dp/B08PZBPXLZ?tag=inkledger-20) includes anti-clog additives that extend cartridge life by 40% compared to basic syringes.
+**Pro Tip**: For refill kits, the InkMiser Pro Series includes anti-clog additives that extend cartridge life by 40% compared to basic syringes.
 
-Warning: Avoid [no-name refill kits](https://www.amazon.com/dp/B08PZBPXLZ?tag=inkledger-20) with syringes—80% of users report spills causing printer damage.
+Warning: Avoid no-name refill kits with syringes—80% of users report spills causing printer damage.
 
 ## FAQ
 
@@ -126,13 +126,13 @@ Use third-party tools like InkSoft or PrinterLogic to bypass the manufacturer's 
 
 ## Bottom line
 
-For most home users, compatible cartridges like the [InkTec 61XL](https://www.amazon.com/dp/B0G63G9LRJ?tag=inkledger-20) deliver 90% of OEM quality at half the cost. Stick with OEM for:
+For most home users, compatible cartridges like the InkTec 61XL deliver 90% of OEM quality at half the cost. Stick with OEM for:
 
 - Photo printing
 - Printers still under warranty
 - Low-volume users (printing <20 pages/month)
 
-High-volume users (500+ pages/month) should switch to laser printers or [EcoTank systems](https://www.amazon.com/dp/B098JD8HD3?tag=inkledger-20) for maximum savings—our [EcoTank vs MegaTank breakdown](/articles/ecotank-vs-megatank-which-ink-tank-printer-is-best) has the 3-year ownership model. Keep one set of OEM cartridges on hand for firmware update situations that may temporarily lock out third-party chips.
+High-volume users (500+ pages/month) should switch to laser printers or EcoTank systems for maximum savings—our [EcoTank vs MegaTank breakdown](/articles/ecotank-vs-megatank-which-ink-tank-printer-is-best) has the 3-year ownership model. Keep one set of OEM cartridges on hand for firmware update situations that may temporarily lock out third-party chips.
 
 Mixing OEM and compatible cartridges strategically—OEM for color photo work, compatible for everyday documents—saves the average household around $1,200 over five years based on our reader survey data across 312 households.
 
@@ -192,14 +192,14 @@ Price data for this article comes from Keepa, which logs every published price c
 
 ## Watchdog picks
 
-- [B07YPR2DGH](/products/b07ypr2dgh-b07ypr2dgh/) · [Buy on Amazon](https://www.amazon.com/dp/B07YPR2DGH?tag=inkledger-20)
-- [B002R5AF1I](/products/b002r5af1i-b002r5af1i/) · [Buy on Amazon](https://www.amazon.com/dp/B002R5AF1I?tag=inkledger-20)
-- [B0GYNH6H2L](/products/b0gynh6h2l-b0gynh6h2l/) · [Buy on Amazon](https://www.amazon.com/dp/B0GYNH6H2L?tag=inkledger-20)
-- [962XL Ink Cartridges for HP 962XL Ink Cartridges Combo Pack Work for HP Officeje](/products/b0d3xgj6hw-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0D3XGJ6HW?tag=inkledger-20)
-- [AZ Compatible Toner Cartridge Replacement for Dell 1250, 1250BK / 1250C / 1250Y ](/products/b00qj88sb0-product/) · [Buy on Amazon](https://www.amazon.com/dp/B00QJ88SB0?tag=inkledger-20)
-- [B01NBB1J9U](/products/b01nbb1j9u-b01nbb1j9u/) · [Buy on Amazon](https://www.amazon.com/dp/B01NBB1J9U?tag=inkledger-20)
-- [B0854BN273](/products/b0854bn273-b0854bn273/) · [Buy on Amazon](https://www.amazon.com/dp/B0854BN273?tag=inkledger-20)
-- [B00762AHTE](/products/b00762ahte-b00762ahte/) · [Buy on Amazon](https://www.amazon.com/dp/B00762AHTE?tag=inkledger-20)
+- [B07YPR2DGH](/products/b07ypr2dgh-b07ypr2dgh/) · Buy on Amazon
+- [B002R5AF1I](/products/b002r5af1i-b002r5af1i/) · Buy on Amazon
+- [B0GYNH6H2L](/products/b0gynh6h2l-b0gynh6h2l/) · Buy on Amazon
+- [962XL Ink Cartridges for HP 962XL Ink Cartridges Combo Pack Work for HP Officeje](/products/b0d3xgj6hw-product/) · Buy on Amazon
+- [AZ Compatible Toner Cartridge Replacement for Dell 1250, 1250BK / 1250C / 1250Y ](/products/b00qj88sb0-product/) · Buy on Amazon
+- [B01NBB1J9U](/products/b01nbb1j9u-b01nbb1j9u/) · Buy on Amazon
+- [B0854BN273](/products/b0854bn273-b0854bn273/) · Buy on Amazon
+- [B00762AHTE](/products/b00762ahte-b00762ahte/) · Buy on Amazon
 
 ## Products in this guide
 

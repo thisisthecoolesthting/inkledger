@@ -31,7 +31,7 @@ author: marcus-webb
 
 # Introduction
 
-If you've ever stood in the office supply aisle staring at a $40 ink cartridge wondering how liquid gold got so cheap, you're not alone. Printer ink consistently ranks among the most expensive liquids by volume - costing more than fine champagne, premium perfume, or even human blood. The average HP 61 black ink cartridge costs $22.99 for just 5ml of fluid - that's $4,600 per gallon. Meanwhile, you can buy an entire [HP DeskJet printer](https://www.amazon.com/dp/B08H4YTTLP?tag=inkledger-20) for $39.99.
+If you've ever stood in the office supply aisle staring at a $40 ink cartridge wondering how liquid gold got so cheap, you're not alone. Printer ink consistently ranks among the most expensive liquids by volume - costing more than fine champagne, premium perfume, or even human blood. The average HP 61 black ink cartridge costs $22.99 for just 5ml of fluid - that's $4,600 per gallon. Meanwhile, you can buy an entire HP DeskJet printer for $39.99.
 
 This isn't an accident - it's a deliberate pricing strategy called the razor-and-blade model.
 
@@ -62,7 +62,7 @@ This creates a hidden cost trap. That $50 printer bargain might cost you $300 in
 - **Preemptive alerts**: Low-ink warnings triggering at 30-40% remaining capacity
 - **Region locking**: Cartridges sold in one country may not work in identical printers elsewhere
 
-Our testing reveals compatible cartridges like the [this cartridge](https://www.amazon.com/dp/B0GF25F12C?tag=inkledger-20) can reduce costs by 60-80% with minimal quality differences for everyday documents. For high-volume users, bulk ink systems like Epson's EcoTank (using [this cartridge](https://www.amazon.com/dp/B0CB75LML9?tag=inkledger-20) ink bottles) slash costs to under 1¢ per page.
+Our testing reveals compatible cartridges like the this cartridge can reduce costs by 60-80% with minimal quality differences for everyday documents. For high-volume users, bulk ink systems like Epson's EcoTank (using this cartridge ink bottles) slash costs to under 1¢ per page.
 
 The environmental impact is equally concerning. A lifecycle analysis by the European Toner and Inkjet Remanufacturers Association (ETIRA) found:
 
@@ -78,10 +78,10 @@ We compared four popular ink cartridge types across price, yield, and cost per p
 
 | Product | Type | Price | Page Yield | Cost/Page | Notes |
 |---------|------|-------|------------|-----------|-------|
-| [HP 302XL](https://www.amazon.com/dp/B093TCYF9T?tag=inkledger-20) | OEM | $38.99 | 600 | 6.5¢ | HP's "high yield" option |
-| [InkTek Compatible 302XL](https://www.amazon.com/dp/B0GF25F12C?tag=inkledger-20) | Compatible | $12.99 | 550 | 2.4¢ | 63% savings over OEM |
-| [Epson 502 Black](https://www.amazon.com/dp/B004QM8SLG?tag=inkledger-20) | OEM | $19.99 | 400 | 5.0¢ | Standard yield |
-| [EcoTank Bottle](https://www.amazon.com/dp/B0CB75LML9?tag=inkledger-20) | Refill | $12.99 | 4,500 | 0.3¢ | Requires [EcoTank printer](https://www.amazon.com/dp/B08B3K9H7L?tag=inkledger-20) |
+| HP 302XL | OEM | $38.99 | 600 | 6.5¢ | HP's "high yield" option |
+| InkTek Compatible 302XL | Compatible | $12.99 | 550 | 2.4¢ | 63% savings over OEM |
+| Epson 502 Black | OEM | $19.99 | 400 | 5.0¢ | Standard yield |
+| EcoTank Bottle | Refill | $12.99 | 4,500 | 0.3¢ | Requires EcoTank printer |
 
 Key findings:
 
@@ -105,14 +105,14 @@ Beyond lab tests, we ran three months of actual usage comparisons across four pr
 
 **Document Printing**
 - OEM and compatible cartridges produced indistinguishable text quality at 10pt font size
-- [this cartridge](https://www.amazon.com/dp/B0CGW2TFSV?tag=inkledger-20) compatible cartridges showed slight banding on photo paper when printing gradients
+- this cartridge compatible cartridges showed slight banding on photo paper when printing gradients
 - All cartridges exceeded 90% of claimed yield for mixed documents
-- [Brother HL-L2350DW](https://www.amazon.com/dp/B00MFG54B6?tag=inkledger-20) laser printer maintained consistent quality throughout testing
+- Brother HL-L2350DW laser printer maintained consistent quality throughout testing
 
 **Photo Printing**
-- OEM cartridges (like [this cartridge](https://www.amazon.com/dp/B0F54TYKF9?tag=inkledger-20)) delivered 12-15% better color accuracy in Pantone matching
+- OEM cartridges (like this cartridge) delivered 12-15% better color accuracy in Pantone matching
 - Compatible inks faded 5-8% faster in accelerated aging tests (simulating 1 year of display)
-- For casual photos, differences were negligible when using quality paper like [this cartridge](https://www.amazon.com/dp/B09V3HN1MK?tag=inkledger-20)
+- For casual photos, differences were negligible when using quality paper like this cartridge
 - EcoTank systems showed the least variation between first and last prints
 
 **Gotchas to Watch**
@@ -177,7 +177,7 @@ These projections reveal how quickly OEM ink costs spiral compared to alternativ
 # Alternatives and Refills
 
 **Third-Party Cartridges**
-Brands like InkTek ([this cartridge](https://www.amazon.com/dp/B0CGW48C3G?tag=inkledger-20)) and LD provide reliable alternatives at 30-50% of OEM cost. Downsides include:
+Brands like InkTek (this cartridge) and LD provide reliable alternatives at 30-50% of OEM cost. Downsides include:
 - Possible warranty implications
 - Slightly lower color accuracy
 - Occasional compatibility issues after updates
@@ -193,7 +193,7 @@ The best-performing compatible brands were:
 3. E-Z Ink (91% success rate)
 
 **Refill Kits**
-DIY refills for cartridges like [this cartridge](https://www.amazon.com/dp/B00063RWT8?tag=inkledger-20) can cost under 1¢/page but require:
+DIY refills for cartridges like this cartridge can cost under 1¢/page but require:
 - Precise syringe work
 - Chip resetters for some models
 - Risk of leaks and printer damage
@@ -203,7 +203,7 @@ We tested five refill kits and found:
 - Success rate: 68% for first-time users
 - Improved to 92% success after three attempts
 
-The [this cartridge](https://www.amazon.com/dp/B00063RWT8?tag=inkledger-20) kit included the most comprehensive instructions and tools. Key tips for successful refilling:
+The this cartridge kit included the most comprehensive instructions and tools. Key tips for successful refilling:
 1. Work on newspaper in a well-ventilated area
 2. Use the included rubber gloves
 3. Inject ink slowly to prevent air bubbles
@@ -230,7 +230,7 @@ No - the Digital Millennium Copyright Act specifically exempts printer ink cartr
 
 ### How can I tell if a compatible cartridge will work?
 
-Check reviews for your exact printer model. Cartridges like [this cartridge](https://www.amazon.com/dp/B0CGW2TFSV?tag=inkledger-20) list compatible printers in the product description. Look for 'newly upgraded chip' in product titles, indicating recent compatibility updates.
+Check reviews for your exact printer model. Cartridges like this cartridge list compatible printers in the product description. Look for 'newly upgraded chip' in product titles, indicating recent compatibility updates.
 
 ### Why does my printer say 'non-genuine ink'?
 
@@ -249,9 +249,9 @@ Unopened ink lasts 2-3 years. Once opened, use within 6 months for best results.
 
 # Bottom Line
 
-Printer manufacturers employ the razor-and-blade model to lock users into overpriced ink. For most home users, compatible cartridges like the [InkTek 302XL](https://www.amazon.com/dp/B0GF25F12C?tag=inkledger-20) deliver 80% of OEM quality at 30% of the cost. High-volume printers should consider:
+Printer manufacturers employ the razor-and-blade model to lock users into overpriced ink. For most home users, compatible cartridges like the InkTek 302XL deliver 80% of OEM quality at 30% of the cost. High-volume printers should consider:
 
-1. **Epson EcoTank** with [this cartridge](https://www.amazon.com/dp/B0CB75LML9?tag=inkledger-20) ink for color printing
+1. **Epson EcoTank** with this cartridge ink for color printing
 2. **Brother HL-L2350DW** laser for monochrome documents
 
 For occasional use, disable automatic firmware updates and buy compatibles in multi-packs. Remember - that 'great deal' on a printer often means years of expensive ink purchases. The most shocking finding from our research? If printer ink followed the same pricing as crude oil (by volume), a gallon would cost just $0.12 instead of $4,600. That's a 38,333% markup - making printer ink perhaps the most overpriced consumer liquid on earth.
@@ -310,14 +310,14 @@ Price data for this article comes from Keepa, which logs every published price c
 
 ## Watchdog picks
 
-- [Aomya Compatible Ink Refill kit for HP 60 61 63 64 65 902 932 952 564 Refillable](/products/b077gllzbw-product/) · [Buy on Amazon](https://www.amazon.com/dp/B077GLLZBW?tag=inkledger-20)
-- [B00JTE518E](/products/b00jte518e-b00jte518e/) · [Buy on Amazon](https://www.amazon.com/dp/B00JTE518E?tag=inkledger-20)
-- [Utopia Bedding Bed Pillows for Sleeping Queen Size (Blue), Set of 6, Cooling Hot](/products/b07j2p2v7t-utopia-bedding-bed-pillows-for-sleeping-queen-size-blue-set-/) · [Buy on Amazon](https://www.amazon.com/dp/B07J2P2V7T?tag=inkledger-20)
-- [B0GYNH6H2L](/products/b0gynh6h2l-b0gynh6h2l/) · [Buy on Amazon](https://www.amazon.com/dp/B0GYNH6H2L?tag=inkledger-20)
-- [Remanufactured Replacement for Epson 702 Ink Cartridges for 702XL Ink cartridges](/products/b0ct2ltf55-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0CT2LTF55?tag=inkledger-20)
-- [B0G34F2S65](/products/b0g34f2s65-b0g34f2s65/) · [Buy on Amazon](https://www.amazon.com/dp/B0G34F2S65?tag=inkledger-20)
-- [B0D3XGJ6HW](/products/b0d3xgj6hw-b0d3xgj6hw/) · [Buy on Amazon](https://www.amazon.com/dp/B0D3XGJ6HW?tag=inkledger-20)
-- [B01N5Q9Q6J](/products/b01n5q9q6j-b01n5q9q6j/) · [Buy on Amazon](https://www.amazon.com/dp/B01N5Q9Q6J?tag=inkledger-20)
+- [Aomya Compatible Ink Refill kit for HP 60 61 63 64 65 902 932 952 564 Refillable](/products/b077gllzbw-product/) · Buy on Amazon
+- [B00JTE518E](/products/b00jte518e-b00jte518e/) · Buy on Amazon
+- [Utopia Bedding Bed Pillows for Sleeping Queen Size (Blue), Set of 6, Cooling Hot](/products/b07j2p2v7t-utopia-bedding-bed-pillows-for-sleeping-queen-size-blue-set-/) · Buy on Amazon
+- [B0GYNH6H2L](/products/b0gynh6h2l-b0gynh6h2l/) · Buy on Amazon
+- [Remanufactured Replacement for Epson 702 Ink Cartridges for 702XL Ink cartridges](/products/b0ct2ltf55-product/) · Buy on Amazon
+- [B0G34F2S65](/products/b0g34f2s65-b0g34f2s65/) · Buy on Amazon
+- [B0D3XGJ6HW](/products/b0d3xgj6hw-b0d3xgj6hw/) · Buy on Amazon
+- [B01N5Q9Q6J](/products/b01n5q9q6j-b01n5q9q6j/) · Buy on Amazon
 
 ## Products in this guide
 

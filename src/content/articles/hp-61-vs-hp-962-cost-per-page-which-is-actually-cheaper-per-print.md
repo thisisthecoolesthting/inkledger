@@ -40,29 +40,29 @@ Independent testing shows both cartridges deliver approximately **165 pages** at
 - **HP 61 cost per page**: $0.103
 - **HP 962 cost per page**: $0.303
 
-The 962's premium comes from being bundled with HP's higher-end [OfficeJet](https://www.amazon.com/dp/B0CFM82NS2?tag=inkledger-20) Pro printers, where manufacturers assume business users will pay more. Home users get identical print quality from the 61.
+The 962's premium comes from being bundled with HP's higher-end OfficeJet Pro printers, where manufacturers assume business users will pay more. Home users get identical print quality from the 61.
 
 ## When to Consider Alternatives
 
-1. **[Refill](https://www.amazon.com/dp/B01MQYKRRZ?tag=inkledger-20) Kits**: Third-party [refill](https://www.amazon.com/dp/B07C4HMJFS?tag=inkledger-20) kits for HP 61 average $12.99 for 5 refills ($0.016/page)
+1. **Refill Kits**: Third-party refill kits for HP 61 average $12.99 for 5 refills ($0.016/page)
 2. **High-Yield 61XL**: The 61XL variant prints 330 pages for $24.99 ($0.076/page)
-3. **[Compatible](https://www.amazon.com/dp/B0CQ4VHBMH?tag=inkledger-20) Cartridges**: Reliable third-party options like a reputable third-party option print 200 pages for $9.99 ($0.050/page)
+3. **Compatible Cartridges**: Reliable third-party options like a reputable third-party option print 200 pages for $9.99 ($0.050/page)
 
-*Pro Tip*: HP 962 cartridges use the same ink formulation as 61 series — the only difference is the chip that reports remaining ink levels to your [printer](https://www.amazon.com/dp/B077QVSKD5?tag=inkledger-20).
+*Pro Tip*: HP 962 cartridges use the same ink formulation as 61 series — the only difference is the chip that reports remaining ink levels to your printer.
 
 ## The Verdict
 
-Unless your [printer](https://www.amazon.com/dp/B0CCT8H4YK?tag=inkledger-20) specifically requires HP 962 cartridges, the HP 61 series delivers identical prints at 1/3 the cost per page. For maximum savings, consider vetted third-party alternatives that work in both [cartridge](https://www.amazon.com/dp/B0GLTX2PNR?tag=inkledger-20) types.
+Unless your printer specifically requires HP 962 cartridges, the HP 61 series delivers identical prints at 1/3 the cost per page. For maximum savings, consider vetted third-party alternatives that work in both cartridge types.
 ## Watchdog picks
 
-- [B0CWP64QMT](/products/b0cwp64qmt-b0cwp64qmt/) · [Buy on Amazon](https://www.amazon.com/dp/B0CWP64QMT?tag=inkledger-20)
-- [B01N7V39UO](/products/b01n7v39uo-b01n7v39uo/) · [Buy on Amazon](https://www.amazon.com/dp/B01N7V39UO?tag=inkledger-20)
-- [B08KDQZJQ5](/products/b08kdqzjq5-b08kdqzjq5/) · [Buy on Amazon](https://www.amazon.com/dp/B08KDQZJQ5?tag=inkledger-20)
-- [EPSON 502 EcoTank Ink Ultra-high Capacity Bottle Black Works with ET-2750, 2760,](/products/b074rfmst8-product/) · [Buy on Amazon](https://www.amazon.com/dp/B074RFMST8?tag=inkledger-20)
-- [B0DPYJWX2F](/products/b0dpyjwx2f-b0dpyjwx2f/) · [Buy on Amazon](https://www.amazon.com/dp/B0DPYJWX2F?tag=inkledger-20)
-- [BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face Mask, Po](/products/b0b2rm68g2-biodance-bio-collagen-real-deep-mask-hydrating-overnight-hyd/) · [Buy on Amazon](https://www.amazon.com/dp/B0B2RM68G2?tag=inkledger-20)
-- [B002BWQ6XK](/products/b002bwq6xk-b002bwq6xk/) · [Buy on Amazon](https://www.amazon.com/dp/B002BWQ6XK?tag=inkledger-20)
-- [B001EQ4G0O](/products/b001eq4g0o-b001eq4g0o/) · [Buy on Amazon](https://www.amazon.com/dp/B001EQ4G0O?tag=inkledger-20)
+- [B0CWP64QMT](/products/b0cwp64qmt-b0cwp64qmt/) · Buy on Amazon
+- [B01N7V39UO](/products/b01n7v39uo-b01n7v39uo/) · Buy on Amazon
+- [B08KDQZJQ5](/products/b08kdqzjq5-b08kdqzjq5/) · Buy on Amazon
+- [EPSON 502 EcoTank Ink Ultra-high Capacity Bottle Black Works with ET-2750, 2760,](/products/b074rfmst8-product/) · Buy on Amazon
+- [B0DPYJWX2F](/products/b0dpyjwx2f-b0dpyjwx2f/) · Buy on Amazon
+- [BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face Mask, Po](/products/b0b2rm68g2-biodance-bio-collagen-real-deep-mask-hydrating-overnight-hyd/) · Buy on Amazon
+- [B002BWQ6XK](/products/b002bwq6xk-b002bwq6xk/) · Buy on Amazon
+- [B001EQ4G0O](/products/b001eq4g0o-b001eq4g0o/) · Buy on Amazon
 
 ## Products in this guide
 

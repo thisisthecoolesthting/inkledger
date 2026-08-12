@@ -56,8 +56,8 @@ For small businesses, the stakes are financial. Teachers face whiplash: summer b
 | HP 67XL OEM Cartridge | $38.99 (one-time) | 600 | N/A | No | Works ~8 months; price fluctuates 15% seasonally |
 | Jettec Compatible HP 67XL | $22.50 (one-time) | 500 | N/A | Yes | 42% savings vs. OEM; rare alignment issues |
 | InkOwl Pro Refill Kit | $16.99 (one-time) | ~400 | N/A | Yes | Requires 15-min refill process; works 3–4 cycles |
-| Epson [EcoTank ET-2800](https://www.amazon.com/dp/B08B3K9H7L?tag=inkledger-20) | $69.99 ink bottles | 4,500 | N/A | Yes | $249 printer + ink; breaks even at 500+ pages/year |
-| [Brother HL-L2350DW](https://www.amazon.com/dp/B00MFG54B6?tag=inkledger-20) (Laser) | $62 toner | 3,000 pages | N/A | Yes | $199 printer; ideal for text-heavy use |
+| Epson EcoTank ET-2800 | $69.99 ink bottles | 4,500 | N/A | Yes | $249 printer + ink; breaks even at 500+ pages/year |
+| Brother HL-L2350DW (Laser) | $62 toner | 3,000 pages | N/A | Yes | $199 printer; ideal for text-heavy use |
 
 **Key Finding**: Instant Ink's true cost per page ($0.050–$0.312) only beats OEM cartridges at very light use (under 30 pages/month). Beyond that, alternatives dominate.
 
@@ -74,7 +74,7 @@ Reliable but expensive at $38.99 per cartridge. After an automatic firmware upda
 **3. Refill Kit (DeskJet 3755)**
 The InkOwl Pro refill system worked smoothly for three cycles, then caused visible streaks due to printhead clogging—a common issue requiring $20 replacement printheads every 1,500 pages. Total 6-month cost: $34.98 + maintenance time.
 
-**4. [Brother INKvestment](https://www.amazon.com/dp/B07P5Y5HGC?tag=inkledger-20) Tank (MFC-J4335DW)**
+**4. Brother INKvestment Tank (MFC-J4335DW)**
 The standout performer. Supersized ink tanks lasted six months on a single fill. Brother's firmware never blocked third-party inks, and when we tested compatible brands, print quality matched OEM at half the cost. No vendor lock-in, no surprise fees.
 
 **Unexpected Finding**: HP Instant Ink includes cartridge recycling; DIY users must pay $5–8 to ship used cartridges separately.
@@ -203,14 +203,14 @@ Price data for this article comes from Keepa, which logs every published price c
 
 ## Watchdog picks
 
-- [HP 134A Black Toner Cartridge Printers - Works with LaserJet M209 Series; LaserJ](/products/b08qmqnr76-product/) · [Buy on Amazon](https://www.amazon.com/dp/B08QMQNR76?tag=inkledger-20)
-- [B0FBRH75LK](/products/b0fbrh75lk-b0fbrh75lk/) · [Buy on Amazon](https://www.amazon.com/dp/B0FBRH75LK?tag=inkledger-20)
-- [B07F97MPYT](/products/b07f97mpyt-b07f97mpyt/) · [Buy on Amazon](https://www.amazon.com/dp/B07F97MPYT?tag=inkledger-20)
-- [B0GGYYBXP4](/products/b0ggyybxp4-b0ggyybxp4/) · [Buy on Amazon](https://www.amazon.com/dp/B0GGYYBXP4?tag=inkledger-20)
-- [B000H0XFCS](/products/b000h0xfcs-b000h0xfcs/) · [Buy on Amazon](https://www.amazon.com/dp/B000H0XFCS?tag=inkledger-20)
-- [myCartridge SUPRINT 245XL Ink Cartridge Replacement for Canon 245XL 246XL Combo ](/products/b08j3ny6qv-product/) · [Buy on Amazon](https://www.amazon.com/dp/B08J3NY6QV?tag=inkledger-20)
-- [218A Toner Cartridges 4 Pack (with Chip) Compatible Replacement for HP 218A 218X](/products/b0fnmzclcg-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0FNMZCLCG?tag=inkledger-20)
-- [Genuine Brother LC3019 (LC-3019) (BK/C/M/Y) High Yield Color Ink 4-Pack (Include](/products/b06xy6rsnb-product/) · [Buy on Amazon](https://www.amazon.com/dp/B06XY6RSNB?tag=inkledger-20)
+- [HP 134A Black Toner Cartridge Printers - Works with LaserJet M209 Series; LaserJ](/products/b08qmqnr76-product/) · Buy on Amazon
+- [B0FBRH75LK](/products/b0fbrh75lk-b0fbrh75lk/) · Buy on Amazon
+- [B07F97MPYT](/products/b07f97mpyt-b07f97mpyt/) · Buy on Amazon
+- [B0GGYYBXP4](/products/b0ggyybxp4-b0ggyybxp4/) · Buy on Amazon
+- [B000H0XFCS](/products/b000h0xfcs-b000h0xfcs/) · Buy on Amazon
+- [myCartridge SUPRINT 245XL Ink Cartridge Replacement for Canon 245XL 246XL Combo ](/products/b08j3ny6qv-product/) · Buy on Amazon
+- [218A Toner Cartridges 4 Pack (with Chip) Compatible Replacement for HP 218A 218X](/products/b0fnmzclcg-product/) · Buy on Amazon
+- [Genuine Brother LC3019 (LC-3019) (BK/C/M/Y) High Yield Color Ink 4-Pack (Include](/products/b06xy6rsnb-product/) · Buy on Amazon
 
 ## Products in this guide
 

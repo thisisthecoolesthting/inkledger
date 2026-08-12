@@ -24,24 +24,24 @@ tags:
 heroImage: ''
 ---
 
-When your [Brother](https://www.amazon.com/dp/B06XY6RSNB?tag=inkledger-20) [printer](https://www.amazon.com/dp/B077QVSKD5?tag=inkledger-20) flashes that 'low ink' warning, you'll likely find yourself staring at two nearly identical [cartridge](https://www.amazon.com/dp/B0GLTX2PNR?tag=inkledger-20) options: the LC3017 and [LC3019](https://www.amazon.com/dp/B0GFMH3D3X?tag=inkledger-20). At first glance, the only difference appears to be that the [LC3019](https://www.amazon.com/dp/B01LYFVG1V?tag=inkledger-20) is an 'XL' version. But is paying extra for the XL [cartridge](https://www.amazon.com/dp/B01BYKUI9C?tag=inkledger-20) actually worth it? Let's break down the numbers.
+When your Brother printer flashes that 'low ink' warning, you'll likely find yourself staring at two nearly identical cartridge options: the LC3017 and LC3019. At first glance, the only difference appears to be that the LC3019 is an 'XL' version. But is paying extra for the XL cartridge actually worth it? Let's break down the numbers.
 
 ## The Price Per Milliliter Scam
 
 Our analysis of current Amazon pricing shows:
 
-- **LC3017 (standard)**: $16.99 for 19ml ([black](https://www.amazon.com/dp/B081GRVJ5K?tag=inkledger-20))
-- **LC3019 (XL)**: $21.95 for 26ml ([black](https://www.amazon.com/dp/B07NPHDS24?tag=inkledger-20))
+- **LC3017 (standard)**: $16.99 for 19ml (black)
+- **LC3019 (XL)**: $21.95 for 26ml (black)
 
-At first glance, the XL seems like a better deal - you're getting 37% more ink for just 29% more money. But here's where [Brother](https://www.amazon.com/dp/B01N4K0ZFE?tag=inkledger-20) gets sneaky:
+At first glance, the XL seems like a better deal - you're getting 37% more ink for just 29% more money. But here's where Brother gets sneaky:
 
-1. The standard [cartridge](https://www.amazon.com/dp/B0FKBFH92Q?tag=inkledger-20) actually has a **better price per ml** ($0.89/ml vs $0.84/ml)
+1. The standard cartridge actually has a **better price per ml** ($0.89/ml vs $0.84/ml)
 2. The yield difference is negligible for most home users
 3. The XL cartridges are more prone to drying out before full use
 
 ## The Yield Reality
 
-[Brother](https://www.amazon.com/dp/B0DS4M632H?tag=inkledger-20) claims the LC3019 yields 33% more pages, but real-world testing shows:
+Brother claims the LC3019 yields 33% more pages, but real-world testing shows:
 
 - Standard: ~500 pages (actual)
 - XL: ~650 pages (actual)
@@ -56,17 +56,17 @@ For most home users:
 2. Consider third-party alternatives at half the price (like the ones we've linked)
 3. If you do heavy printing, calculate your actual monthly usage before assuming XL saves money
 
-Remember: [Printer](https://www.amazon.com/dp/B0CCT8H4YK?tag=inkledger-20) manufacturers make their profits on ink, not printers. That 'XL' label is often just a psychological trick to get you to spend more.
+Remember: Printer manufacturers make their profits on ink, not printers. That 'XL' label is often just a psychological trick to get you to spend more.
 ## Watchdog picks
 
-- [B00762AHTE](/products/b00762ahte-b00762ahte/) · [Buy on Amazon](https://www.amazon.com/dp/B00762AHTE?tag=inkledger-20)
-- [EPSON 702 DURABrite Ultra Ink Standard Capacity Black Cartridge (T702120-S) Work](/products/b06xgmwmdw-product/) · [Buy on Amazon](https://www.amazon.com/dp/B06XGMWMDW?tag=inkledger-20)
-- [B000NL0T1K](/products/b000nl0t1k-b000nl0t1k/) · [Buy on Amazon](https://www.amazon.com/dp/B000NL0T1K?tag=inkledger-20)
-- [B07ZHTFF44](/products/b07zhtff44-b07zhtff44/) · [Buy on Amazon](https://www.amazon.com/dp/B07ZHTFF44?tag=inkledger-20)
-- [B0FCS1B33K](/products/b0fcs1b33k-b0fcs1b33k/) · [Buy on Amazon](https://www.amazon.com/dp/B0FCS1B33K?tag=inkledger-20)
-- [B0GRGQR634](/products/b0grgqr634-b0grgqr634/) · [Buy on Amazon](https://www.amazon.com/dp/B0GRGQR634?tag=inkledger-20)
-- [AYMSous 5-Pack Universal Ink Refill Kit for All HP Canon Epsn Brother Printers C](/products/b0cct8h4yk-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0CCT8H4YK?tag=inkledger-20)
-- [B08R3R5KXJ](/products/b08r3r5kxj-b08r3r5kxj/) · [Buy on Amazon](https://www.amazon.com/dp/B08R3R5KXJ?tag=inkledger-20)
+- [B00762AHTE](/products/b00762ahte-b00762ahte/) · Buy on Amazon
+- [EPSON 702 DURABrite Ultra Ink Standard Capacity Black Cartridge (T702120-S) Work](/products/b06xgmwmdw-product/) · Buy on Amazon
+- [B000NL0T1K](/products/b000nl0t1k-b000nl0t1k/) · Buy on Amazon
+- [B07ZHTFF44](/products/b07zhtff44-b07zhtff44/) · Buy on Amazon
+- [B0FCS1B33K](/products/b0fcs1b33k-b0fcs1b33k/) · Buy on Amazon
+- [B0GRGQR634](/products/b0grgqr634-b0grgqr634/) · Buy on Amazon
+- [AYMSous 5-Pack Universal Ink Refill Kit for All HP Canon Epsn Brother Printers C](/products/b0cct8h4yk-product/) · Buy on Amazon
+- [B08R3R5KXJ](/products/b08r3r5kxj-b08r3r5kxj/) · Buy on Amazon
 
 ## Products in this guide
 

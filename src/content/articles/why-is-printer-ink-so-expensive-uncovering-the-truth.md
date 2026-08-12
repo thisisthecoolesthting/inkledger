@@ -34,37 +34,37 @@ If you've ever stood in an office supply aisle staring at a $40 ink cartridge wo
 
 Manufacturers like HP, Canon, and Epson use microchips in cartridges to block third-party alternatives, while designing printers that stop working when ink levels are "low" (typically with 20-40% ink remaining). Our analysis of 18 months of Amazon price data shows OEM cartridges have 300-800% markup compared to production costs, with prices fluctuating based on demand cycles rather than material costs.
 
-For example, the [HP 962XL black ink cartridge](https://www.amazon.com/dp/B004QM8SLG?tag=inkledger-20) contains approximately 1.5 ounces of ink costing HP roughly $1.20 to manufacture, yet retails for $42.99 - a 3,500% markup. This pricing strategy dates back to King Camp Gillette's 1904 patent for selling razors cheaply while locking customers into blade purchases, but has reached unprecedented levels in the printer industry.
+For example, the HP 962XL black ink cartridge contains approximately 1.5 ounces of ink costing HP roughly $1.20 to manufacture, yet retails for $42.99 - a 3,500% markup. This pricing strategy dates back to King Camp Gillette's 1904 patent for selling razors cheaply while locking customers into blade purchases, but has reached unprecedented levels in the printer industry.
 
 # Why This Matters
 
 The average household spends $200-$300 annually on ink - more than the cost of most basic printers. For small businesses, this can balloon to $1,000+ in hidden operational costs. Worse, manufacturers have been caught artificially reducing cartridge yields (pages per cartridge) through firmware updates, as confirmed by a 2022 class action settlement against HP where the company paid $1.35 million for secretly pushing updates that blocked third-party cartridges.
 
-Our testing revealed that after one such update, an [Epson 502XL cartridge](https://www.amazon.com/dp/B0GF25F12C?tag=inkledger-20) that previously yielded 1,200 pages suddenly stopped at 980 pages despite having visible ink remaining.
+Our testing revealed that after one such update, an Epson 502XL cartridge that previously yielded 1,200 pages suddenly stopped at 980 pages despite having visible ink remaining.
 
 Beyond the financial impact, this model creates environmental waste. Over 375 million cartridges are discarded annually in the U.S. alone, with less than 30% being recycled. Each cartridge takes approximately 450 years to decompose in landfills. Compatible cartridges and refill kits can reduce this waste by 80% while saving you money, but they come with tradeoffs we'll explore in later sections.
 
-For instance, the [InkTec Refill Kit](https://www.amazon.com/dp/B093TCYF9T?tag=inkledger-20) allows for 10+ refills from a single purchase, potentially keeping 9 cartridges out of landfills per printer over two years.
+For instance, the InkTec Refill Kit allows for 10+ refills from a single purchase, potentially keeping 9 cartridges out of landfills per printer over two years.
 
 # Head-to-Head Comparison
 
 | Model | Type | Page Yield | Current Price | Cost Per Page | Warranty Impact | Key Advantages |
 |-------|------|------------|---------------|---------------|-----------------|----------------|
-| [HP 962XL](https://www.amazon.com/dp/B004QM8SLG?tag=inkledger-20) | OEM | 600 | $42.99 | $0.072 | None | Guaranteed compatibility, best for photos |
-| [InkTec Refill Kit](https://www.amazon.com/dp/B093TCYF9T?tag=inkledger-20) | Refill | 1,200 | $18.95 | $0.016 | Voided | 80% cost reduction, eco-friendly |
-| [Epson 502XL](https://www.amazon.com/dp/B0GF25F12C?tag=inkledger-20) | OEM | 1,200 | $55.00 | $0.046 | None | High yield, chip resets automatically |
-| [LD Compatible](https://www.amazon.com/dp/B0F54TYKF9?tag=inkledger-20) | Third-party | 800 | $22.99 | $0.029 | Possible | Balance of cost and convenience |
-| [Brother TN-760](https://www.amazon.com/dp/B0CGW2TFSV?tag=inkledger-20) | Toner | 4,200 | $62.99 | $0.015 | None | Best for text documents |
+| HP 962XL | OEM | 600 | $42.99 | $0.072 | None | Guaranteed compatibility, best for photos |
+| InkTec Refill Kit | Refill | 1,200 | $18.95 | $0.016 | Voided | 80% cost reduction, eco-friendly |
+| Epson 502XL | OEM | 1,200 | $55.00 | $0.046 | None | High yield, chip resets automatically |
+| LD Compatible | Third-party | 800 | $22.99 | $0.029 | Possible | Balance of cost and convenience |
+| Brother TN-760 | Toner | 4,200 | $62.99 | $0.015 | None | Best for text documents |
 
 Key findings from our 6-month testing with 12 printer models:
 - OEM cartridges averaged 5-12% higher print quality in photo printing, particularly in color gradation tests using standardized IT8.7 targets
 - Third-party options had 3-5% failure rates (clogs, leaks), with most occurring in the first 50 pages
-- Refill kits required 15-20 minutes per cartridge but saved 75% long-term, though required periodic printhead cleaning with solutions like [this maintenance kit](https://www.amazon.com/dp/B00063RWXO?tag=inkledger-20)
-- Laser toner cartridges like the [Brother TN-760](https://www.amazon.com/dp/B07P3X73QD?tag=inkledger-20) showed the most consistent performance, with less than 1% variation between OEM and third-party yields
+- Refill kits required 15-20 minutes per cartridge but saved 75% long-term, though required periodic printhead cleaning with solutions like this maintenance kit
+- Laser toner cartridges like the Brother TN-760 showed the most consistent performance, with less than 1% variation between OEM and third-party yields
 
 # Real-World Performance
 
-During stress testing with the [Brother TN-760](https://www.amazon.com/dp/B0CGW2TFSV?tag=inkledger-20) toner cartridge across three identical printers, we found:
+During stress testing with the Brother TN-760 toner cartridge across three identical printers, we found:
 - OEM lasted 4,200 pages vs. 3,800 for third-party when printing text documents at 5% coverage
 - Compatible cartridges showed noticeable fading after 3,000 pages in high-resolution graphics tests
 - Refilled OEM cartridges lost 15% yield on second use due to residual ink mixing with new formulations
@@ -72,7 +72,7 @@ During stress testing with the [Brother TN-760](https://www.amazon.com/dp/B0CGW2
 
 Unexpected gotchas consumers should know:
 - HP printers with Dynamic Security (most models since 2016) will disable aftermarket cartridges mid-print via firmware updates
-- Epson Ecotank printers ([like this model](https://www.amazon.com/dp/B0CGW48C3G?tag=inkledger-20)) require monthly nozzle cleaning that consumes 3-5% of ink capacity regardless of usage
+- Epson Ecotank printers (like this model) require monthly nozzle cleaning that consumes 3-5% of ink capacity regardless of usage
 - Brother lasers accept third-party toner without warnings, but some Dell and Lexmark models use toner authentication chips
 - Printers with integrated printheads (most Canon models) become e-waste when the head fails, often just outside warranty periods
 
@@ -81,7 +81,7 @@ Unexpected gotchas consumers should know:
 Detailed breakdown for average home user (200 pages/month) over 5 years:
 
 **Option 1: OEM Cartridges**
-- Annual cost: $172.80 ([HP 962XL](https://www.amazon.com/dp/B07GRRXJXG?tag=inkledger-20) @ $0.072/page)
+- Annual cost: $172.80 (HP 962XL @ $0.072/page)
 - Printer replacement: $150 (average inkjet lifespan)
 - 5-year cost: $864 + $150 = $1,014
 
@@ -98,12 +98,12 @@ Detailed breakdown for average home user (200 pages/month) over 5 years:
 - 5-year cost: $479 (with overages)
 
 **Option 4: Laser Printer**
-- [Brother HL-L2350DW](https://www.amazon.com/dp/B00063RWT8?tag=inkledger-20) upfront: $199
+- Brother HL-L2350DW upfront: $199
 - Toner yield: 3,000 pages @ $62.99
 - Drum unit replacement: $79 every 12,000 pages
 - 5-year cost: $199 + $315 (toner) + $158 (drums) = $672
 
-Surprising finding: While laser printers have higher upfront costs, their total 5-year expense is 34% lower than even refill kits for comparable output. The [Brother TN-760](https://www.amazon.com/dp/B0CGW2TFSV?tag=inkledger-20) toner cartridge's $0.015/page cost beats all inkjet solutions for text documents.
+Surprising finding: While laser printers have higher upfront costs, their total 5-year expense is 34% lower than even refill kits for comparable output. The Brother TN-760 toner cartridge's $0.015/page cost beats all inkjet solutions for text documents.
 
 # Alternatives and Refills
 
@@ -115,12 +115,12 @@ Surprising finding: While laser printers have higher upfront costs, their total 
    - Canon's service requires OEM cartridges at full price
 
 2. **Bulk Ink Systems**
-   - Epson Ecotank ([like this model](https://www.amazon.com/dp/B00063RWXO?tag=inkledger-20)) costs $0.005/page
+   - Epson Ecotank (like this model) costs $0.005/page
    - $200 upfront cost pays off in 1 year for users printing 500+ pages/month
    - Requires weekly use to prevent clogging
 
 3. **Refill Kits**
-   - [This syringe kit](https://www.amazon.com/dp/B093TCYF9T?tag=inkledger-20) works for 10+ refills
+   - This syringe kit works for 10+ refills
    - Critical steps:
      1. Wear nitrile gloves (ink stains permanently)
      2. Use the provided air vent tool
@@ -150,7 +150,7 @@ OEM inks last 2-3 years sealed if stored properly (below 77°F, 40-60% humidity)
 
 ### Are ink subscriptions worth it?
 
-Only for very light users (<100 pages/month) or those who value convenience over cost. Heavy users pay more through overage fees than buying cartridges outright. For example, printing 300 pages/month on HP Instant Ink's "Unlimited" plan costs $35.99/month - more than buying six [HP 962XL cartridges](https://www.amazon.com/dp/B004QM8SLG?tag=inkledger-20) annually.
+Only for very light users (<100 pages/month) or those who value convenience over cost. Heavy users pay more through overage fees than buying cartridges outright. For example, printing 300 pages/month on HP Instant Ink's "Unlimited" plan costs $35.99/month - more than buying six HP 962XL cartridges annually.
 
 ### Why do printers claim cartridges are empty when they're not?
 
@@ -169,9 +169,9 @@ If you must switch brands, run 2-3 cleaning cycles and print test pages until co
 
 # Bottom Line
 
-For most home users, the [Brother HL-L2350DW](https://www.amazon.com/dp/B00063RWT8?tag=inkledger-20) laser printer offers the lowest cost per page ($0.021) without compatibility headaches. Its TN-760 toner cartridge yields 4,200 pages - equivalent to 7 inkjet cartridge changes. If you're wedded to inkjet, Epson's Ecotank system or refill kits for your existing printer can cut costs by 60-80%, though require more maintenance. Avoid HP's Instant Ink unless you print sporadically - our calculations show it's 20-40% more expensive than alternatives over 3+ years.
+For most home users, the Brother HL-L2350DW laser printer offers the lowest cost per page ($0.021) without compatibility headaches. Its TN-760 toner cartridge yields 4,200 pages - equivalent to 7 inkjet cartridge changes. If you're wedded to inkjet, Epson's Ecotank system or refill kits for your existing printer can cut costs by 60-80%, though require more maintenance. Avoid HP's Instant Ink unless you print sporadically - our calculations show it's 20-40% more expensive than alternatives over 3+ years.
 
-For those using compatible cartridges, we recommend [LD's multipacks](https://www.amazon.com/dp/B0F54TYKF9?tag=inkledger-20) which averaged 97% success rate in our testing. Always keep a spare OEM cartridge on hand for critical documents like:
+For those using compatible cartridges, we recommend LD's multipacks which averaged 97% success rate in our testing. Always keep a spare OEM cartridge on hand for critical documents like:
 - Job applications
 - Legal contracts
 - Photo prints for portfolios
@@ -234,14 +234,14 @@ Price data for this article comes from Keepa, which logs every published price c
 
 ## Watchdog picks
 
-- [B0H1M158VT](/products/b0h1m158vt-b0h1m158vt/) · [Buy on Amazon](https://www.amazon.com/dp/B0H1M158VT?tag=inkledger-20)
-- [B000NL0T1K](/products/b000nl0t1k-b000nl0t1k/) · [Buy on Amazon](https://www.amazon.com/dp/B000NL0T1K?tag=inkledger-20)
-- [HP 134A Black Toner Cartridge Printers - Works with LaserJet M209 Series; LaserJ](/products/b08qmqnr76-product/) · [Buy on Amazon](https://www.amazon.com/dp/B08QMQNR76?tag=inkledger-20)
-- [280XXL 281XXL Ink for Canon Ink 280 281 Replacement for Canon TR8620 Ink Cartrid](/products/b0bvybvhk5-280xxl-281xxl-ink-for-canon-ink-280-281-replacement-for-cano/) · [Buy on Amazon](https://www.amazon.com/dp/B0BVYBVHK5?tag=inkledger-20)
-- [65 65XL Black Ink Cartridges Replacement for HP 65XL Black Ink Cartridge Work fo](/products/b0gvm6yy7b-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0GVM6YY7B?tag=inkledger-20)
-- [B0CT2QHQVF](/products/b0ct2qhqvf-b0ct2qhqvf/) · [Buy on Amazon](https://www.amazon.com/dp/B0CT2QHQVF?tag=inkledger-20)
-- [B01N7V39UO](/products/b01n7v39uo-b01n7v39uo/) · [Buy on Amazon](https://www.amazon.com/dp/B01N7V39UO?tag=inkledger-20)
-- [B0GMKRR64P](/products/b0gmkrr64p-b0gmkrr64p/) · [Buy on Amazon](https://www.amazon.com/dp/B0GMKRR64P?tag=inkledger-20)
+- [B0H1M158VT](/products/b0h1m158vt-b0h1m158vt/) · Buy on Amazon
+- [B000NL0T1K](/products/b000nl0t1k-b000nl0t1k/) · Buy on Amazon
+- [HP 134A Black Toner Cartridge Printers - Works with LaserJet M209 Series; LaserJ](/products/b08qmqnr76-product/) · Buy on Amazon
+- [280XXL 281XXL Ink for Canon Ink 280 281 Replacement for Canon TR8620 Ink Cartrid](/products/b0bvybvhk5-280xxl-281xxl-ink-for-canon-ink-280-281-replacement-for-cano/) · Buy on Amazon
+- [65 65XL Black Ink Cartridges Replacement for HP 65XL Black Ink Cartridge Work fo](/products/b0gvm6yy7b-product/) · Buy on Amazon
+- [B0CT2QHQVF](/products/b0ct2qhqvf-b0ct2qhqvf/) · Buy on Amazon
+- [B01N7V39UO](/products/b01n7v39uo-b01n7v39uo/) · Buy on Amazon
+- [B0GMKRR64P](/products/b0gmkrr64p-b0gmkrr64p/) · Buy on Amazon
 
 ## Products in this guide
 

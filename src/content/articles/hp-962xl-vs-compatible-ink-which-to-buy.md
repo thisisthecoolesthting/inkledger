@@ -32,11 +32,11 @@ InkLedger tracks OEM and compatible supplies on real cost-per-page — not list-
 
 | Product | Price | Rating | Amazon | Our review |
 |---------|------:|-------:|--------|------------|
-| LxTek Compatible Toner Cartridge 6510 6515 106R0 | $45.99 | 4.6 | [Check price](https://www.amazon.com/dp/B08GX3K9YS?tag=inkledger-20) | [Review](/products/b08gx3k9ys-lxtek-compatible-toner-cartridge-6510-6515-106r03480-106r034/) |
-| Toner Kingdom Compatible Toner-Cartridge Replace | $63.26 | 3.8 | [Check price](https://www.amazon.com/dp/B083BFPGD8?tag=inkledger-20) | [Review](/products/b083bfpgd8-toner-kingdom-compatible-toner-cartridge-replacement-for-can/) |
-| 280XXL 281XXL Ink for Canon Ink 280 281 Replacem | $23.99 | 4.7 | [Check price](https://www.amazon.com/dp/B0BVYBVHK5?tag=inkledger-20) | [Review](/products/b0bvybvhk5-280xxl-281xxl-ink-for-canon-ink-280-281-replacement-for-cano/) |
-| ecodot 552 Pigment Ink Refill Ink Bottle Replace | $30.57 | 4.4 | [Check price](https://www.amazon.com/dp/B09W9MF63Y?tag=inkledger-20) | [Review](/products/b09w9mf63y-ecodot-552-pigment-ink-refill-ink-bottle-replacement-for-eps/) |
-| E-Z Ink Remanufactured Ink Cartridge Replacement | $25.99 | 4.2 | [Check price](https://www.amazon.com/dp/B082Y7X9H5?tag=inkledger-20) | [Review](/products/b082y7x9h5-e-z-ink-remanufactured-ink-cartridge-replacement-for-252xl-c/) |
+| LxTek Compatible Toner Cartridge 6510 6515 106R0 | $45.99 | 4.6 | Check price | [Review](/products/b08gx3k9ys-lxtek-compatible-toner-cartridge-6510-6515-106r03480-106r034/) |
+| Toner Kingdom Compatible Toner-Cartridge Replace | $63.26 | 3.8 | Check price | [Review](/products/b083bfpgd8-toner-kingdom-compatible-toner-cartridge-replacement-for-can/) |
+| 280XXL 281XXL Ink for Canon Ink 280 281 Replacem | $23.99 | 4.7 | Check price | [Review](/products/b0bvybvhk5-280xxl-281xxl-ink-for-canon-ink-280-281-replacement-for-cano/) |
+| ecodot 552 Pigment Ink Refill Ink Bottle Replace | $30.57 | 4.4 | Check price | [Review](/products/b09w9mf63y-ecodot-552-pigment-ink-refill-ink-bottle-replacement-for-eps/) |
+| E-Z Ink Remanufactured Ink Cartridge Replacement | $25.99 | 4.2 | Check price | [Review](/products/b082y7x9h5-e-z-ink-remanufactured-ink-cartridge-replacement-for-252xl-c/) |
 
 ## How we scored these
 
@@ -50,14 +50,14 @@ Buy OEM when your printer is under warranty and print volume is low. Switch to h
 
 ## Watchdog picks
 
-- [B07P5Y5QHG](/products/b07p5y5qhg-b07p5y5qhg/) · [Buy on Amazon](https://www.amazon.com/dp/B07P5Y5QHG?tag=inkledger-20)
-- [HP 962 Cyan, Magenta, Yellow Ink Cartridges - Works with OfficeJet 9010, 9020 - ](/products/b07mcydd62-product/) · [Buy on Amazon](https://www.amazon.com/dp/B07MCYDD62?tag=inkledger-20)
-- [Remanufactured Replacement for Epson 702 Ink Cartridges for 702XL Ink cartridges](/products/b0ct2ltf55-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0CT2LTF55?tag=inkledger-20)
-- [65XL 65 Ink Cartridges Black/Color Combo Pack Replacement for HP 65XL Ink Work f](/products/b0gzw7vxwt-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0GZW7VXWT?tag=inkledger-20)
-- [HP Original 67 Tri-Color / 67XL Black Ink Cartridges (2-Pack) - Works DeskJet 12](/products/b08swn848g-product/) · [Buy on Amazon](https://www.amazon.com/dp/B08SWN848G?tag=inkledger-20)
-- [B0BN57XFD8](/products/b0bn57xfd8-b0bn57xfd8/) · [Buy on Amazon](https://www.amazon.com/dp/B0BN57XFD8?tag=inkledger-20)
-- [B0FCS4HWPH](/products/b0fcs4hwph-b0fcs4hwph/) · [Buy on Amazon](https://www.amazon.com/dp/B0FCS4HWPH?tag=inkledger-20)
-- [B00T6RWJMU](/products/b00t6rwjmu-b00t6rwjmu/) · [Buy on Amazon](https://www.amazon.com/dp/B00T6RWJMU?tag=inkledger-20)
+- [B07P5Y5QHG](/products/b07p5y5qhg-b07p5y5qhg/) · Buy on Amazon
+- [HP 962 Cyan, Magenta, Yellow Ink Cartridges - Works with OfficeJet 9010, 9020 - ](/products/b07mcydd62-product/) · Buy on Amazon
+- [Remanufactured Replacement for Epson 702 Ink Cartridges for 702XL Ink cartridges](/products/b0ct2ltf55-product/) · Buy on Amazon
+- [65XL 65 Ink Cartridges Black/Color Combo Pack Replacement for HP 65XL Ink Work f](/products/b0gzw7vxwt-product/) · Buy on Amazon
+- [HP Original 67 Tri-Color / 67XL Black Ink Cartridges (2-Pack) - Works DeskJet 12](/products/b08swn848g-product/) · Buy on Amazon
+- [B0BN57XFD8](/products/b0bn57xfd8-b0bn57xfd8/) · Buy on Amazon
+- [B0FCS4HWPH](/products/b0fcs4hwph-b0fcs4hwph/) · Buy on Amazon
+- [B00T6RWJMU](/products/b00t6rwjmu-b00t6rwjmu/) · Buy on Amazon
 
 ## Products in this guide
 
