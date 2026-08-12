@@ -1,7 +1,5 @@
 import { defineConfig } from 'astro/config';
 import tailwind from '@astrojs/tailwind';
-import { rehypeFixAmazonInline } from './src/lib/rehype-fix-amazon-inline.mjs';
-import { rehypeInjectAmazonMidPicks } from './src/lib/rehype-inject-amazon-mid-picks.mjs';
 import { rehypeInjectPhonePromos } from './src/lib/rehype-inject-phone-promos.mjs';
 
 // Sitemap temporarily disabled — @astrojs/sitemap 3.x crashes with
@@ -79,9 +77,6 @@ export default defineConfig({
   },
   markdown: {
     rehypePlugins: [
-      rehypeFixAmazonInline,
-      rehypeAugmentProductLinks,
-      rehypeInjectAmazonMidPicks,
       rehypeInjectPhonePromos,
     ],
     shikiConfig: {
