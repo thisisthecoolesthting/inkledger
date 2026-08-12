@@ -42,7 +42,6 @@ Always buy XL with Brother cartridges. The yield difference (2.75×) far outweig
 
 MFC-J491DW, MFC-J497DW, MFC-J690DW, MFC-J895DW, MFC-J995DW, MFC-J1205W, MFC-J1215DW.
 
-<AffiliateCTA asin="B01MS0KDQF" label="Check current price on Amazon" />
 
 ## In our catalog
 

@@ -47,7 +47,6 @@ Remote-heavy households, anyone powering smoke detectors, kids' toys, or wireles
 
 This item spikes above $17 at least twice a year. Set a price alert at $14.99 — it dips there 4–6 times annually.
 
-<AffiliateCTA asin="B01N5IB20Q" label="Check current price on Amazon" />
 
 ## In our catalog
 

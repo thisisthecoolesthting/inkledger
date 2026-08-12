@@ -49,7 +49,6 @@ Best for text-heavy printing households. If you print photos regularly, stick to
 
 Run a print-head cleaning cycle immediately after refilling and again after 48 hours of non-use.
 
-<AffiliateCTA asin="B00MFG54B6" label="Check current price on Amazon" />
 
 ## In our catalog
 

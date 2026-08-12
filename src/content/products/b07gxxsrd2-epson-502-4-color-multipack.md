@@ -41,7 +41,6 @@ If you own a compatible Epson printer and print more than 30 pages/month, Epson'
 
 Emergency replacement when you need ink today and can't wait for shipping. For routine use, the 502XL multipack or a compatible brand is almost always cheaper per page.
 
-<AffiliateCTA asin="B07GXXSRD2" label="Check current price on Amazon" />
 
 ## In our catalog
 
