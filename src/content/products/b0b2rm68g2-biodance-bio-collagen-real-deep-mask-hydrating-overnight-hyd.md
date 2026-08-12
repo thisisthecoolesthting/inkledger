@@ -42,7 +42,7 @@ Skip it if you need white-glove support, pro-only features, or a guarantee that 
 ## What we like
 
 - **Fit for the niche** — title and category tags align with masks searches our readers actually run.
-- **Transparent commerce** — we link to Amazon with our associate tag; you pay the same price, we may earn a commission.
+- **Transparent commerce** — we link to our own catalog page for each product; no outbound retailer links.
 - **Comparable context** — see our [buyer's guides](/articles/) and [methodology](/methodology/) for how we score alternatives.
 
 ## Tradeoffs

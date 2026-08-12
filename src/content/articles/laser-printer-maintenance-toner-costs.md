@@ -29,7 +29,7 @@ author: marcus-webb
 ---
 
 
-*InkLedger is reader-supported. We may earn a commission when you buy through links on our site, at no extra cost to you. Our recommendations are based on years of tracking ink and toner prices and testing refill and compatible options.*
+*InkLedger is reader-supported. Our recommendations are based on years of tracking ink and toner prices and testing refill and compatible options.*
 ---
 ## Laser Printer Maintenance: How to Keep Your Toner Costs Low
 

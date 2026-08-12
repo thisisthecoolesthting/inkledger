@@ -38,7 +38,7 @@ Skip it if you need white-glove support, pro-only features, or a guarantee only 
 ## What we like
 
 - **Real, current data** — title, price, and category pulled directly from Amazon via Keepa on 2026-08-03.
-- **Transparent commerce** — we link to Amazon with our associate tag; you pay the same price, we may earn a commission.
+- **Transparent commerce** — we link to our own catalog page for each product; no outbound retailer links.
 - **Comparable context** — see our [buyer's guides](/articles/) and [methodology](/methodology/) for how we score alternatives.
 
 ## Tradeoffs
