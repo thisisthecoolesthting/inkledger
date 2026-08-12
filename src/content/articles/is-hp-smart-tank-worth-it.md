@@ -137,14 +137,14 @@ Carefully consider your printing habits, compare the costs of different printing
 
 ## Watchdog picks
 
-- [B09W73NQPW](/products/b09w73nqpw-b09w73nqpw/) · Buy on Amazon
-- [B08B3K9H7L](/products/b08b3k9h7l-b08b3k9h7l/) · Buy on Amazon
-- [B08VF3XRQ8](/products/b08vf3xrq8-b08vf3xrq8/) · Buy on Amazon
-- [Epson EcoTank Wireless Color All-in-One Cartridge-Free ET-3850 Supertank Inkjet ](/products/b0b1j5pycf-product/) · Buy on Amazon
-- [B0CT2R7199](/products/b0ct2r7199-b0ct2r7199/) · Buy on Amazon
-- [CEEBOO 522 High Capacity (5 Bottles) Refill Ink Replacement for Epson Compatible](/products/b0bqqlbmpv-product/) · Buy on Amazon
-- [Epson EcoTank ET-2980 Wireless All-in-One Color Supertank Printer with Refillabl](/products/b0f1f2xrw9-product/) · Buy on Amazon
-- [B07P5BNQJG](/products/b07p5bnqjg-b07p5bnqjg/) · Buy on Amazon
+- [B09W73NQPW](/products/b09w73nqpw-b09w73nqpw/)
+- [B08B3K9H7L](/products/b08b3k9h7l-b08b3k9h7l/)
+- [B08VF3XRQ8](/products/b08vf3xrq8-b08vf3xrq8/)
+- [Epson EcoTank Wireless Color All-in-One Cartridge-Free ET-3850 Supertank Inkjet ](/products/b0b1j5pycf-product/)
+- [B0CT2R7199](/products/b0ct2r7199-b0ct2r7199/)
+- [CEEBOO 522 High Capacity (5 Bottles) Refill Ink Replacement for Epson Compatible](/products/b0bqqlbmpv-product/)
+- [Epson EcoTank ET-2980 Wireless All-in-One Color Supertank Printer with Refillabl](/products/b0f1f2xrw9-product/)
+- [B07P5BNQJG](/products/b07p5bnqjg-b07p5bnqjg/)
 
 ## Products in this guide
 

@@ -141,14 +141,14 @@ Refill kits offer a proven and cost-effective way to reduce printing expenses si
 
 ## Watchdog picks
 
-- [JANMORE Universal Ink Refills Kit Dye Ink Refill Kit Compatible for HP Canon Bro](/products/b0drp3lwp5-product/) · Buy on Amazon
-- [B00JTE518E](/products/b00jte518e-b00jte518e/) · Buy on Amazon
-- [Aomya Ink Refill Kit 100ml for HP 67 61 65 60 62 63 910 920 901 902 932 933 934 ](/products/b077qvskd5-product/) · Buy on Amazon
-- [B0CT2QHQVF](/products/b0ct2qhqvf-b0ct2qhqvf/) · Buy on Amazon
-- [Hakko T18S3P Tip for Fx-888 Station, 5.2mm](/products/b00762ahte-hakko-t18s3p-tip-for-fx-888-station-5-2mm/) · Buy on Amazon
-- [HP 962XL Black High-Yield Ink Cartridge - Works with OfficeJet 9010, Pro 9010, 9](/products/b07mk5dg9v-product/) · Buy on Amazon
-- [B00SAYAKPK](/products/b00sayakpk-b00sayakpk/) · Buy on Amazon
-- [B0BJ194Z43](/products/b0bj194z43-b0bj194z43/) · Buy on Amazon
+- [JANMORE Universal Ink Refills Kit Dye Ink Refill Kit Compatible for HP Canon Bro](/products/b0drp3lwp5-product/)
+- [B00JTE518E](/products/b00jte518e-b00jte518e/)
+- [Aomya Ink Refill Kit 100ml for HP 67 61 65 60 62 63 910 920 901 902 932 933 934 ](/products/b077qvskd5-product/)
+- [B0CT2QHQVF](/products/b0ct2qhqvf-b0ct2qhqvf/)
+- [Hakko T18S3P Tip for Fx-888 Station, 5.2mm](/products/b00762ahte-hakko-t18s3p-tip-for-fx-888-station-5-2mm/)
+- [HP 962XL Black High-Yield Ink Cartridge - Works with OfficeJet 9010, Pro 9010, 9](/products/b07mk5dg9v-product/)
+- [B00SAYAKPK](/products/b00sayakpk-b00sayakpk/)
+- [B0BJ194Z43](/products/b0bj194z43-b0bj194z43/)
 
 ## Products in this guide
 

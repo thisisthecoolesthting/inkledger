@@ -145,14 +145,14 @@ By following these best practices you can safely install compatible toner cartri
 
 ## Watchdog picks
 
-- [Brother Genuine Standard Yield Toner Cartridge, TN730, Replacement Black Toner, ](/products/b075x7tfy5-product/) · Buy on Amazon
-- [E-Z Ink TN760 Toner for Brother Printer Compatible for Brother TN-760 TN730 TN-7](/products/b0ft39tgxn-product/) · Buy on Amazon
-- [HP 63XL/65XL Black High-Yield Ink Cartridge (Replaces and Works with Both 63XL &](/products/b0gltx2pnr-product/) · Buy on Amazon
-- [WEP 926LED V3 Soldering Station 130W MAX Soldering Iron Kit with Solder Wire, 5 ](/products/b0bx2n258s-wep-926led-v3-soldering-station-130w-max-soldering-iron-kit-/) · Buy on Amazon
-- [B0D96T79YF](/products/b0d96t79yf-b0d96t79yf/) · Buy on Amazon
-- [B00762AHTE](/products/b00762ahte-b00762ahte/) · Buy on Amazon
-- [Astra Platinum Double Edge Safety Razor Blades,100 Blades (20 x 5)](/products/b001qy8qxm-astra-platinum-double-edge-safety-razor-blades-100-blades-20/) · Buy on Amazon
-- [Aomya Ink Refill Kit 100ml for HP 67 61 65 60 62 63 910 920 901 902 932 933 934 ](/products/b077qvskd5-product/) · Buy on Amazon
+- [Brother Genuine Standard Yield Toner Cartridge, TN730, Replacement Black Toner, ](/products/b075x7tfy5-product/)
+- [E-Z Ink TN760 Toner for Brother Printer Compatible for Brother TN-760 TN730 TN-7](/products/b0ft39tgxn-product/)
+- [HP 63XL/65XL Black High-Yield Ink Cartridge (Replaces and Works with Both 63XL &](/products/b0gltx2pnr-product/)
+- [WEP 926LED V3 Soldering Station 130W MAX Soldering Iron Kit with Solder Wire, 5 ](/products/b0bx2n258s-wep-926led-v3-soldering-station-130w-max-soldering-iron-kit-/)
+- [B0D96T79YF](/products/b0d96t79yf-b0d96t79yf/)
+- [B00762AHTE](/products/b00762ahte-b00762ahte/)
+- [Astra Platinum Double Edge Safety Razor Blades,100 Blades (20 x 5)](/products/b001qy8qxm-astra-platinum-double-edge-safety-razor-blades-100-blades-20/)
+- [Aomya Ink Refill Kit 100ml for HP 67 61 65 60 62 63 910 920 901 902 932 933 934 ](/products/b077qvskd5-product/)
 
 ## Products in this guide
 

@@ -137,14 +137,14 @@ Continuous systems delivered strong results for small businesses printing 300+ p
 
 ## Watchdog picks
 
-- [B0CHJ8T7XS](/products/b0chj8t7xs-b0chj8t7xs/) · Buy on Amazon
-- [Epson EcoTank ET-2803 Wireless Color All-in-One Cartridge-Free Supertank Printer](/products/b0bhxnp6b1-product/) · Buy on Amazon
-- [B0H1M158VT](/products/b0h1m158vt-b0h1m158vt/) · Buy on Amazon
-- [B09XT22566](/products/b09xt22566-b09xt22566/) · Buy on Amazon
-- [B0GYNVJ62W](/products/b0gynvj62w-b0gynvj62w/) · Buy on Amazon
-- [B00WSAXBQ0](/products/b00wsaxbq0-b00wsaxbq0/) · Buy on Amazon
-- [GOTOBY Compatible Toner Cartridge Replacement for HP 48A CF248A for Pro M15w M15](/products/b0bx9hwn7w-product/) · Buy on Amazon
-- [218A Toner Cartridges 4 Pack (with Chip) Compatible Replacement for HP 218A 218X](/products/b0fnmzclcg-product/) · Buy on Amazon
+- [B0CHJ8T7XS](/products/b0chj8t7xs-b0chj8t7xs/)
+- [Epson EcoTank ET-2803 Wireless Color All-in-One Cartridge-Free Supertank Printer](/products/b0bhxnp6b1-product/)
+- [B0H1M158VT](/products/b0h1m158vt-b0h1m158vt/)
+- [B09XT22566](/products/b09xt22566-b09xt22566/)
+- [B0GYNVJ62W](/products/b0gynvj62w-b0gynvj62w/)
+- [B00WSAXBQ0](/products/b00wsaxbq0-b00wsaxbq0/)
+- [GOTOBY Compatible Toner Cartridge Replacement for HP 48A CF248A for Pro M15w M15](/products/b0bx9hwn7w-product/)
+- [218A Toner Cartridges 4 Pack (with Chip) Compatible Replacement for HP 218A 218X](/products/b0fnmzclcg-product/)
 
 ## Products in this guide
 

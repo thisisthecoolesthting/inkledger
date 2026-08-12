@@ -138,14 +138,14 @@ By understanding its cost per page math, yield, reliability nuances, and possibl
 
 ## Watchdog picks
 
-- [B09ZVMYHGF](/products/b09zvmyhgf-b09zvmyhgf/) · Buy on Amazon
-- [Miss Deer LC3019XXL Ink Cartridges, Comaptible Replacement for Brother LC3019 LC](/products/b0gfmh3d3x-product/) · Buy on Amazon
-- [inkgens 31 32XL Ink Bottle Set Refill for HP Smart Tank 7600 7602 7300 7301 7001](/products/b0dpkjjrbg-product/) · Buy on Amazon
-- [E-Z Ink TN760 Toner for Brother Printer Compatible for Brother TN-760 TN730 TN-7](/products/b0ft39tgxn-product/) · Buy on Amazon
-- [B002BWQ6XK](/products/b002bwq6xk-b002bwq6xk/) · Buy on Amazon
-- [218A Toner Cartridges 4 Pack (with Chip) Compatible Replacement for HP 218A 218X](/products/b0fnmzclcg-product/) · Buy on Amazon
-- [B00NQ1CLTI](/products/b00nq1clti-b00nq1clti/) · Buy on Amazon
-- [B07N1DF9VV](/products/b07n1df9vv-b07n1df9vv/) · Buy on Amazon
+- [B09ZVMYHGF](/products/b09zvmyhgf-b09zvmyhgf/)
+- [Miss Deer LC3019XXL Ink Cartridges, Comaptible Replacement for Brother LC3019 LC](/products/b0gfmh3d3x-product/)
+- [inkgens 31 32XL Ink Bottle Set Refill for HP Smart Tank 7600 7602 7300 7301 7001](/products/b0dpkjjrbg-product/)
+- [E-Z Ink TN760 Toner for Brother Printer Compatible for Brother TN-760 TN730 TN-7](/products/b0ft39tgxn-product/)
+- [B002BWQ6XK](/products/b002bwq6xk-b002bwq6xk/)
+- [218A Toner Cartridges 4 Pack (with Chip) Compatible Replacement for HP 218A 218X](/products/b0fnmzclcg-product/)
+- [B00NQ1CLTI](/products/b00nq1clti-b00nq1clti/)
+- [B07N1DF9VV](/products/b07n1df9vv-b07n1df9vv/)
 
 ## Products in this guide
 

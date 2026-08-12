@@ -188,14 +188,14 @@ Budget printers compatible with third-party ink cartridges provide real savings 
 
 ## Watchdog picks
 
-- [B0D8B24CTB](/products/b0d8b24ctb-b0d8b24ctb/) · Buy on Amazon
-- [65 65XL Black Ink Cartridges Replacement for HP 65XL Black Ink Cartridge Work fo](/products/b0gvm6yy7b-product/) · Buy on Amazon
-- [Brother LC3019BK Super High Yield Black Ink Cartridge](/products/b01lyfvg1v-product/) · Buy on Amazon
-- [B0854BN273](/products/b0854bn273-b0854bn273/) · Buy on Amazon
-- [E-Z Ink Remanufactured Ink Cartridge Replacement for 252XL Combo Pack for Epson ](/products/b082y7x9h5-e-z-ink-remanufactured-ink-cartridge-replacement-for-252xl-c/) · Buy on Amazon
-- [AZ Compatible Toner Cartridge Replacement for Dell 1250, 1250BK / 1250C / 1250Y ](/products/b00qj88sb0-product/) · Buy on Amazon
-- [B0FMB4JBJ8](/products/b0fmb4jbj8-b0fmb4jbj8/) · Buy on Amazon
-- [B01N7V39QJ](/products/b01n7v39qj-b01n7v39qj/) · Buy on Amazon
+- [B0D8B24CTB](/products/b0d8b24ctb-b0d8b24ctb/)
+- [65 65XL Black Ink Cartridges Replacement for HP 65XL Black Ink Cartridge Work fo](/products/b0gvm6yy7b-product/)
+- [Brother LC3019BK Super High Yield Black Ink Cartridge](/products/b01lyfvg1v-product/)
+- [B0854BN273](/products/b0854bn273-b0854bn273/)
+- [E-Z Ink Remanufactured Ink Cartridge Replacement for 252XL Combo Pack for Epson ](/products/b082y7x9h5-e-z-ink-remanufactured-ink-cartridge-replacement-for-252xl-c/)
+- [AZ Compatible Toner Cartridge Replacement for Dell 1250, 1250BK / 1250C / 1250Y ](/products/b00qj88sb0-product/)
+- [B0FMB4JBJ8](/products/b0fmb4jbj8-b0fmb4jbj8/)
+- [B01N7V39QJ](/products/b01n7v39qj-b01n7v39qj/)
 
 ## Products in this guide
 

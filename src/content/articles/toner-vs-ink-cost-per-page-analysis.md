@@ -247,14 +247,14 @@ Price data for this article comes from Keepa, which logs every published price c
 
 ## Watchdog picks
 
-- [B00T6RWJMU](/products/b00t6rwjmu-b00t6rwjmu/) · Buy on Amazon
-- [Dikarsum 5 in 1 Ink Refill Tools Compatible with Hp Inkjet Ink Cartridges (Ink C](/products/b0cq4vhbmh-product/) · Buy on Amazon
-- [MLT-D111S 111S Toner Cartridge High Yield Replacement for Samsung MLT-D111S MLTD](/products/b0btxxq5tc-product/) · Buy on Amazon
-- [B0GTL8RCGK](/products/b0gtl8rcgk-b0gtl8rcgk/) · Buy on Amazon
-- [WEP 926LED V3 Soldering Station 130W MAX Soldering Iron Kit with Solder Wire, 5 ](/products/b0bx2n258s-wep-926led-v3-soldering-station-130w-max-soldering-iron-kit-/) · Buy on Amazon
-- [AZ Compatible Toner Cartridge Replacement for Dell 1250, 1250BK / 1250C / 1250Y ](/products/b00qj88sb0-product/) · Buy on Amazon
-- [Soldering Iron Kit, 60W Adjustable Temperature, Digital Multimeter, 5pcs Solderi](/products/b09vxq221k-soldering-iron-kit-60w-adjustable-temperature-digital-multim/) · Buy on Amazon
-- [B0GMMHC3G4](/products/b0gmmhc3g4-b0gmmhc3g4/) · Buy on Amazon
+- [B00T6RWJMU](/products/b00t6rwjmu-b00t6rwjmu/)
+- [Dikarsum 5 in 1 Ink Refill Tools Compatible with Hp Inkjet Ink Cartridges (Ink C](/products/b0cq4vhbmh-product/)
+- [MLT-D111S 111S Toner Cartridge High Yield Replacement for Samsung MLT-D111S MLTD](/products/b0btxxq5tc-product/)
+- [B0GTL8RCGK](/products/b0gtl8rcgk-b0gtl8rcgk/)
+- [WEP 926LED V3 Soldering Station 130W MAX Soldering Iron Kit with Solder Wire, 5 ](/products/b0bx2n258s-wep-926led-v3-soldering-station-130w-max-soldering-iron-kit-/)
+- [AZ Compatible Toner Cartridge Replacement for Dell 1250, 1250BK / 1250C / 1250Y ](/products/b00qj88sb0-product/)
+- [Soldering Iron Kit, 60W Adjustable Temperature, Digital Multimeter, 5pcs Solderi](/products/b09vxq221k-soldering-iron-kit-60w-adjustable-temperature-digital-multim/)
+- [B0GMMHC3G4](/products/b0gmmhc3g4-b0gmmhc3g4/)
 
 ## Products in this guide
 

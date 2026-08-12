@@ -143,14 +143,14 @@ Choosing wisely helps you avoid wasted time, frustrated print jobs, and expensiv
 
 ## Watchdog picks
 
-- [B08QR6P8KV](/products/b08qr6p8kv-b08qr6p8kv/) · Buy on Amazon
-- [B07L2MZW6B](/products/b07l2mzw6b-b07l2mzw6b/) · Buy on Amazon
-- [JETSIR Dye Ink Refill Kit 100ML x5 Bottles for 950 951 952 902 901 60 61 62 63 2](/products/b01mqykrrz-product/) · Buy on Amazon
-- [B07G82D89G](/products/b07g82d89g-b07g82d89g/) · Buy on Amazon
-- [EPSON 552 EcoTank Ink Ultra-high Capacity Bottle Five Color Combo Pack (T552920-](/products/b08tb5yd6r-product/) · Buy on Amazon
-- [B089CGSV4N](/products/b089cgsv4n-b089cgsv4n/) · Buy on Amazon
-- [B0CZSFG7VX](/products/b0czsfg7vx-b0czsfg7vx/) · Buy on Amazon
-- [B00CAZAU62](/products/b00cazau62-b00cazau62/) · Buy on Amazon
+- [B08QR6P8KV](/products/b08qr6p8kv-b08qr6p8kv/)
+- [B07L2MZW6B](/products/b07l2mzw6b-b07l2mzw6b/)
+- [JETSIR Dye Ink Refill Kit 100ML x5 Bottles for 950 951 952 902 901 60 61 62 63 2](/products/b01mqykrrz-product/)
+- [B07G82D89G](/products/b07g82d89g-b07g82d89g/)
+- [EPSON 552 EcoTank Ink Ultra-high Capacity Bottle Five Color Combo Pack (T552920-](/products/b08tb5yd6r-product/)
+- [B089CGSV4N](/products/b089cgsv4n-b089cgsv4n/)
+- [B0CZSFG7VX](/products/b0czsfg7vx-b0czsfg7vx/)
+- [B00CAZAU62](/products/b00cazau62-b00cazau62/)
 
 ## Products in this guide
 

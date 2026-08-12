@@ -120,14 +120,14 @@ Ultimately, the best ink tank printer for you will depend on your specific needs
 
 ## Watchdog picks
 
-- [TEINO Remanufactured Ink Cartridge Replacement for HP 65 65XL 65 XL use with HP ](/products/b0836myjsd-product/) · Buy on Amazon
-- [Soldering Iron Kit, 80W 110V Fast Heat up in 10s LCD Digital Adjustable Temperat](/products/b08pzbpxlz-soldering-iron-kit-80w-110v-fast-heat-up-in-10s-lcd-digital-/) · Buy on Amazon
-- [B09DV14ZZL](/products/b09dv14zzl-b09dv14zzl/) · Buy on Amazon
-- [EaseFusion Replacement for Epson 502 Ink Refill Bottles Work with ET-2850 ET-385](/products/b0g33t139m-product/) · Buy on Amazon
-- [B01N4IWH2O](/products/b01n4iwh2o-b01n4iwh2o/) · Buy on Amazon
-- [B0BJ194Z43](/products/b0bj194z43-b0bj194z43/) · Buy on Amazon
-- [TN730 TN-730 Black Toner Cartridges 2 Pack Compatible TN730 Toner Cartridge Repl](/products/b0c3qxmbc7-product/) · Buy on Amazon
-- [B0F7KKY728](/products/b0f7kky728-b0f7kky728/) · Buy on Amazon
+- [TEINO Remanufactured Ink Cartridge Replacement for HP 65 65XL 65 XL use with HP ](/products/b0836myjsd-product/)
+- [Soldering Iron Kit, 80W 110V Fast Heat up in 10s LCD Digital Adjustable Temperat](/products/b08pzbpxlz-soldering-iron-kit-80w-110v-fast-heat-up-in-10s-lcd-digital-/)
+- [B09DV14ZZL](/products/b09dv14zzl-b09dv14zzl/)
+- [EaseFusion Replacement for Epson 502 Ink Refill Bottles Work with ET-2850 ET-385](/products/b0g33t139m-product/)
+- [B01N4IWH2O](/products/b01n4iwh2o-b01n4iwh2o/)
+- [B0BJ194Z43](/products/b0bj194z43-b0bj194z43/)
+- [TN730 TN-730 Black Toner Cartridges 2 Pack Compatible TN730 Toner Cartridge Repl](/products/b0c3qxmbc7-product/)
+- [B0F7KKY728](/products/b0f7kky728-b0f7kky728/)
 
 ## Products in this guide
 

@@ -218,14 +218,14 @@ Price data for this article comes from Keepa, which logs every published price c
 
 ## Watchdog picks
 
-- [B000NL0T1K](/products/b000nl0t1k-b000nl0t1k/) · Buy on Amazon
-- [ecodot 552 Pigment Ink Refill Ink Bottle Replacement for Epson 552 Ink Used for ](/products/b09w9mf63y-ecodot-552-pigment-ink-refill-ink-bottle-replacement-for-eps/) · Buy on Amazon
-- [B0FGC43YCL](/products/b0fgc43ycl-b0fgc43ycl/) · Buy on Amazon
-- [B0H1M158VT](/products/b0h1m158vt-b0h1m158vt/) · Buy on Amazon
-- [B00T6RWJMU](/products/b00t6rwjmu-b00t6rwjmu/) · Buy on Amazon
-- [Toner Kingdom Compatible Toner-Cartridge Replacement for Canon 054H 054 High Yie](/products/b083bfpgd8-toner-kingdom-compatible-toner-cartridge-replacement-for-can/) · Buy on Amazon
-- [EPSON 702 DURABrite Ultra Ink Standard Capacity Black Cartridge (T702120-S) Work](/products/b06xgmwmdw-product/) · Buy on Amazon
-- [B09PH83KK5](/products/b09ph83kk5-b09ph83kk5/) · Buy on Amazon
+- [B000NL0T1K](/products/b000nl0t1k-b000nl0t1k/)
+- [ecodot 552 Pigment Ink Refill Ink Bottle Replacement for Epson 552 Ink Used for ](/products/b09w9mf63y-ecodot-552-pigment-ink-refill-ink-bottle-replacement-for-eps/)
+- [B0FGC43YCL](/products/b0fgc43ycl-b0fgc43ycl/)
+- [B0H1M158VT](/products/b0h1m158vt-b0h1m158vt/)
+- [B00T6RWJMU](/products/b00t6rwjmu-b00t6rwjmu/)
+- [Toner Kingdom Compatible Toner-Cartridge Replacement for Canon 054H 054 High Yie](/products/b083bfpgd8-toner-kingdom-compatible-toner-cartridge-replacement-for-can/)
+- [EPSON 702 DURABrite Ultra Ink Standard Capacity Black Cartridge (T702120-S) Work](/products/b06xgmwmdw-product/)
+- [B09PH83KK5](/products/b09ph83kk5-b09ph83kk5/)
 
 ## Products in this guide
 

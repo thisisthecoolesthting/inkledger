@@ -50,14 +50,14 @@ Buy OEM when your printer is under warranty and print volume is low. Switch to h
 
 ## Watchdog picks
 
-- [B07ZHTFF44](/products/b07zhtff44-b07zhtff44/) · Buy on Amazon
-- [Fanttik T1 Max Soldering Iron Kit, Cordless Soldering Iron, 7 Seconds Fast Heati](/products/b0d41zmdpd-fanttik-t1-max-soldering-iron-kit-cordless-soldering-iron-7-/) · Buy on Amazon
-- [HP 65 Black Ink Cartridge - Works with AMP 100, DeskJet 2600, 3700; Envy 5000 - ](/products/b01bykui9c-product/) · Buy on Amazon
-- [AOLIBE MLT-D111S Toner Cartridge High Yield Compatible for Samsung 111S MLT111S ](/products/b0bpd45xg6-product/) · Buy on Amazon
-- [B0CYGN38RF](/products/b0cygn38rf-b0cygn38rf/) · Buy on Amazon
-- [Smart Ink Remanufactured Ink Cartridges Replacement for HP 962XL 962 XL Combo Pa](/products/b0dt1nnns3-product/) · Buy on Amazon
-- [EPSON 702 DURABrite Ultra Ink High Capacity Black & Standard Color Cartridge Com](/products/b071wb6bgn-product/) · Buy on Amazon
-- [Brother Genuine Standard Yield Toner Cartridge, TN730, Replacement Black Toner, ](/products/b075x7tfy5-product/) · Buy on Amazon
+- [B07ZHTFF44](/products/b07zhtff44-b07zhtff44/)
+- [Fanttik T1 Max Soldering Iron Kit, Cordless Soldering Iron, 7 Seconds Fast Heati](/products/b0d41zmdpd-fanttik-t1-max-soldering-iron-kit-cordless-soldering-iron-7-/)
+- [HP 65 Black Ink Cartridge - Works with AMP 100, DeskJet 2600, 3700; Envy 5000 - ](/products/b01bykui9c-product/)
+- [AOLIBE MLT-D111S Toner Cartridge High Yield Compatible for Samsung 111S MLT111S ](/products/b0bpd45xg6-product/)
+- [B0CYGN38RF](/products/b0cygn38rf-b0cygn38rf/)
+- [Smart Ink Remanufactured Ink Cartridges Replacement for HP 962XL 962 XL Combo Pa](/products/b0dt1nnns3-product/)
+- [EPSON 702 DURABrite Ultra Ink High Capacity Black & Standard Color Cartridge Com](/products/b071wb6bgn-product/)
+- [Brother Genuine Standard Yield Toner Cartridge, TN730, Replacement Black Toner, ](/products/b075x7tfy5-product/)
 
 ## Products in this guide
 

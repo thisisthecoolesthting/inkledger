@@ -156,14 +156,14 @@ Ink leaks from printer cartridges can be frustrating but are preventable with an
 
 ## Watchdog picks
 
-- [EPSON 502 EcoTank Ink Ultra-high Capacity Bottle Black Works with ET-2750, 2760,](/products/b074rfmst8-product/) · Buy on Amazon
-- [B00B5JOC5C](/products/b00b5joc5c-b00b5joc5c/) · Buy on Amazon
-- [B00762AHTE](/products/b00762ahte-b00762ahte/) · Buy on Amazon
-- [EaseFusion Replacement for Epson 502 Ink Refill Bottles Work with ET-2850 ET-385](/products/b0g33t139m-product/) · Buy on Amazon
-- [B0CYGN38RF](/products/b0cygn38rf-b0cygn38rf/) · Buy on Amazon
-- [HP OfficeJet Pro 9135 Wireless All-in-One Color Inkjet Printer, Print, Scan, Cop](/products/b0gpflm562-product/) · Buy on Amazon
-- [280XXL 281XXL Ink for Canon Ink 280 281 Replacement for Canon TR8620 Ink Cartrid](/products/b0bvybvhk5-280xxl-281xxl-ink-for-canon-ink-280-281-replacement-for-cano/) · Buy on Amazon
-- [B01N4IWH2O](/products/b01n4iwh2o-b01n4iwh2o/) · Buy on Amazon
+- [EPSON 502 EcoTank Ink Ultra-high Capacity Bottle Black Works with ET-2750, 2760,](/products/b074rfmst8-product/)
+- [B00B5JOC5C](/products/b00b5joc5c-b00b5joc5c/)
+- [B00762AHTE](/products/b00762ahte-b00762ahte/)
+- [EaseFusion Replacement for Epson 502 Ink Refill Bottles Work with ET-2850 ET-385](/products/b0g33t139m-product/)
+- [B0CYGN38RF](/products/b0cygn38rf-b0cygn38rf/)
+- [HP OfficeJet Pro 9135 Wireless All-in-One Color Inkjet Printer, Print, Scan, Cop](/products/b0gpflm562-product/)
+- [280XXL 281XXL Ink for Canon Ink 280 281 Replacement for Canon TR8620 Ink Cartrid](/products/b0bvybvhk5-280xxl-281xxl-ink-for-canon-ink-280-281-replacement-for-cano/)
+- [B01N4IWH2O](/products/b01n4iwh2o-b01n4iwh2o/)
 
 ## Products in this guide
 

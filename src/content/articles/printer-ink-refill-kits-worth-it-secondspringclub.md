@@ -201,14 +201,14 @@ Surprisingly, ink subscriptions make financial sense for users printing 50-150 p
 
 ## Watchdog picks
 
-- [Dr. Tobias Omega 3 Fish Oil 2000mg Triple Strength with 800mg EPA 600mg DHA Per ](/products/b00cazau62-dr-tobias-omega-3-fish-oil-2000mg-triple-strength-with-800mg/) · Buy on Amazon
-- [Epson EcoTank Wireless Color All-in-One Cartridge-Free ET-3850 Supertank Inkjet ](/products/b0b1j5pycf-product/) · Buy on Amazon
-- [B08QR6P8KV](/products/b08qr6p8kv-b08qr6p8kv/) · Buy on Amazon
-- [HP Original 67 Tri-Color / 67XL Black Ink Cartridges (2-Pack) - Works DeskJet 12](/products/b08swn848g-product/) · Buy on Amazon
-- [B0GYRCQLFV](/products/b0gyrcqlfv-b0gyrcqlfv/) · Buy on Amazon
-- [B00PB6F2V4](/products/b00pb6f2v4-b00pb6f2v4/) · Buy on Amazon
-- [B0CT2QHQVF](/products/b0ct2qhqvf-b0ct2qhqvf/) · Buy on Amazon
-- [B0G2LS7RMK](/products/b0g2ls7rmk-b0g2ls7rmk/) · Buy on Amazon
+- [Dr. Tobias Omega 3 Fish Oil 2000mg Triple Strength with 800mg EPA 600mg DHA Per ](/products/b00cazau62-dr-tobias-omega-3-fish-oil-2000mg-triple-strength-with-800mg/)
+- [Epson EcoTank Wireless Color All-in-One Cartridge-Free ET-3850 Supertank Inkjet ](/products/b0b1j5pycf-product/)
+- [B08QR6P8KV](/products/b08qr6p8kv-b08qr6p8kv/)
+- [HP Original 67 Tri-Color / 67XL Black Ink Cartridges (2-Pack) - Works DeskJet 12](/products/b08swn848g-product/)
+- [B0GYRCQLFV](/products/b0gyrcqlfv-b0gyrcqlfv/)
+- [B00PB6F2V4](/products/b00pb6f2v4-b00pb6f2v4/)
+- [B0CT2QHQVF](/products/b0ct2qhqvf-b0ct2qhqvf/)
+- [B0G2LS7RMK](/products/b0g2ls7rmk-b0g2ls7rmk/)
 
 ## Products in this guide
 

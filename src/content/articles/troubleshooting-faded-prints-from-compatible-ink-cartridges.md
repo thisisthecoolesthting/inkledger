@@ -162,14 +162,14 @@ By methodically addressing each factor and choosing high-quality compatible cart
 
 ## Watchdog picks
 
-- [B0G1N9SX2M](/products/b0g1n9sx2m-b0g1n9sx2m/) · Buy on Amazon
-- [B08VF3XRQ8](/products/b08vf3xrq8-b08vf3xrq8/) · Buy on Amazon
-- [B0F2478Q95](/products/b0f2478q95-b0f2478q95/) · Buy on Amazon
-- [AYMSous 5-Pack Universal Ink Refill Kit for All HP Canon Epsn Brother Printers C](/products/b0cct8h4yk-product/) · Buy on Amazon
-- [B0014D3N0Q](/products/b0014d3n0q-b0014d3n0q/) · Buy on Amazon
-- [YIHUA 939D+ Digital Soldering Station, 75W Equivalent with Precision Heat Contro](/products/b07rvmznyr-yihua-939d-digital-soldering-station-75w-equivalent-with-pre/) · Buy on Amazon
-- [Utopia Bedding Bed Pillows for Sleeping Queen Size (Blue), Set of 6, Cooling Hot](/products/b07j2p2v7t-utopia-bedding-bed-pillows-for-sleeping-queen-size-blue-set-/) · Buy on Amazon
-- [Soldering Iron Kit, 60W LED Display Digital Solder Pen, 5 Replaceable Tips, 21-i](/products/b0d92pvdqh-soldering-iron-kit-60w-led-display-digital-solder-pen-5-repl/) · Buy on Amazon
+- [B0G1N9SX2M](/products/b0g1n9sx2m-b0g1n9sx2m/)
+- [B08VF3XRQ8](/products/b08vf3xrq8-b08vf3xrq8/)
+- [B0F2478Q95](/products/b0f2478q95-b0f2478q95/)
+- [AYMSous 5-Pack Universal Ink Refill Kit for All HP Canon Epsn Brother Printers C](/products/b0cct8h4yk-product/)
+- [B0014D3N0Q](/products/b0014d3n0q-b0014d3n0q/)
+- [YIHUA 939D+ Digital Soldering Station, 75W Equivalent with Precision Heat Contro](/products/b07rvmznyr-yihua-939d-digital-soldering-station-75w-equivalent-with-pre/)
+- [Utopia Bedding Bed Pillows for Sleeping Queen Size (Blue), Set of 6, Cooling Hot](/products/b07j2p2v7t-utopia-bedding-bed-pillows-for-sleeping-queen-size-blue-set-/)
+- [Soldering Iron Kit, 60W LED Display Digital Solder Pen, 5 Replaceable Tips, 21-i](/products/b0d92pvdqh-soldering-iron-kit-60w-led-display-digital-solder-pen-5-repl/)
 
 ## Products in this guide
 

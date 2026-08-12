@@ -160,14 +160,14 @@ Printing from a phone without Instant Ink requires a bit more setup and knowledg
 
 ## Watchdog picks
 
-- [B0748ZCG45](/products/b0748zcg45-b0748zcg45/) · Buy on Amazon
-- [B07R3N9X3F](/products/b07r3n9x3f-b07r3n9x3f/) · Buy on Amazon
-- [65XL 65 Ink Cartridges Black/Color Combo Pack Replacement for HP 65XL Ink Work f](/products/b0gzw7vxwt-product/) · Buy on Amazon
-- [67XL 67 XL 6055e 2755e 2800e 2855e 6000 Ink Cartridges Black/Color Combo Pack Co](/products/b0fw9lh3q5-product/) · Buy on Amazon
-- [HP OfficeJet Pro 8125e Wireless All-in-One Color Inkjet Printer, Print, scan, Co](/products/b0ct8zj7zc-product/) · Buy on Amazon
-- [B09XT22566](/products/b09xt22566-b09xt22566/) · Buy on Amazon
-- [Epson EcoTank Wireless Color All-in-One Cartridge-Free ET-3850 Supertank Inkjet ](/products/b0b1j5pycf-product/) · Buy on Amazon
-- [myCartridge SUPRINT 245XL Ink Cartridge Replacement for Canon 245XL 246XL Combo ](/products/b08j3ny6qv-product/) · Buy on Amazon
+- [B0748ZCG45](/products/b0748zcg45-b0748zcg45/)
+- [B07R3N9X3F](/products/b07r3n9x3f-b07r3n9x3f/)
+- [65XL 65 Ink Cartridges Black/Color Combo Pack Replacement for HP 65XL Ink Work f](/products/b0gzw7vxwt-product/)
+- [67XL 67 XL 6055e 2755e 2800e 2855e 6000 Ink Cartridges Black/Color Combo Pack Co](/products/b0fw9lh3q5-product/)
+- [HP OfficeJet Pro 8125e Wireless All-in-One Color Inkjet Printer, Print, scan, Co](/products/b0ct8zj7zc-product/)
+- [B09XT22566](/products/b09xt22566-b09xt22566/)
+- [Epson EcoTank Wireless Color All-in-One Cartridge-Free ET-3850 Supertank Inkjet ](/products/b0b1j5pycf-product/)
+- [myCartridge SUPRINT 245XL Ink Cartridge Replacement for Canon 245XL 246XL Combo ](/products/b08j3ny6qv-product/)
 
 ## Products in this guide
 

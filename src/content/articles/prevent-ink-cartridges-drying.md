@@ -116,14 +116,14 @@ By implementing these strategies, you can significantly extend the life of your 
 
 ## Watchdog picks
 
-- [B012IWR5X2](/products/b012iwr5x2-b012iwr5x2/) · Buy on Amazon
-- [B07Q5J5YXV](/products/b07q5j5yxv-b07q5j5yxv/) · Buy on Amazon
-- [B073Q8P6CQ](/products/b073q8p6cq-b073q8p6cq/) · Buy on Amazon
-- [B07ZHTFF44](/products/b07zhtff44-b07zhtff44/) · Buy on Amazon
-- [B0C1ZF94GW](/products/b0c1zf94gw-b0c1zf94gw/) · Buy on Amazon
-- [B0BVD54HPS](/products/b0bvd54hps-b0bvd54hps/) · Buy on Amazon
-- [BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face Mask, Po](/products/b0b2rm68g2-biodance-bio-collagen-real-deep-mask-hydrating-overnight-hyd/) · Buy on Amazon
-- [B0DT1NNNS3](/products/b0dt1nnns3-b0dt1nnns3/) · Buy on Amazon
+- [B012IWR5X2](/products/b012iwr5x2-b012iwr5x2/)
+- [B07Q5J5YXV](/products/b07q5j5yxv-b07q5j5yxv/)
+- [B073Q8P6CQ](/products/b073q8p6cq-b073q8p6cq/)
+- [B07ZHTFF44](/products/b07zhtff44-b07zhtff44/)
+- [B0C1ZF94GW](/products/b0c1zf94gw-b0c1zf94gw/)
+- [B0BVD54HPS](/products/b0bvd54hps-b0bvd54hps/)
+- [BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face Mask, Po](/products/b0b2rm68g2-biodance-bio-collagen-real-deep-mask-hydrating-overnight-hyd/)
+- [B0DT1NNNS3](/products/b0dt1nnns3-b0dt1nnns3/)
 
 ## Products in this guide
 

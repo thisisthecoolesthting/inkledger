@@ -203,14 +203,14 @@ Price data for this article comes from Keepa, which logs every published price c
 
 ## Watchdog picks
 
-- [HP 134A Black Toner Cartridge Printers - Works with LaserJet M209 Series; LaserJ](/products/b08qmqnr76-product/) · Buy on Amazon
-- [B0FBRH75LK](/products/b0fbrh75lk-b0fbrh75lk/) · Buy on Amazon
-- [B07F97MPYT](/products/b07f97mpyt-b07f97mpyt/) · Buy on Amazon
-- [B0GGYYBXP4](/products/b0ggyybxp4-b0ggyybxp4/) · Buy on Amazon
-- [B000H0XFCS](/products/b000h0xfcs-b000h0xfcs/) · Buy on Amazon
-- [myCartridge SUPRINT 245XL Ink Cartridge Replacement for Canon 245XL 246XL Combo ](/products/b08j3ny6qv-product/) · Buy on Amazon
-- [218A Toner Cartridges 4 Pack (with Chip) Compatible Replacement for HP 218A 218X](/products/b0fnmzclcg-product/) · Buy on Amazon
-- [Genuine Brother LC3019 (LC-3019) (BK/C/M/Y) High Yield Color Ink 4-Pack (Include](/products/b06xy6rsnb-product/) · Buy on Amazon
+- [HP 134A Black Toner Cartridge Printers - Works with LaserJet M209 Series; LaserJ](/products/b08qmqnr76-product/)
+- [B0FBRH75LK](/products/b0fbrh75lk-b0fbrh75lk/)
+- [B07F97MPYT](/products/b07f97mpyt-b07f97mpyt/)
+- [B0GGYYBXP4](/products/b0ggyybxp4-b0ggyybxp4/)
+- [B000H0XFCS](/products/b000h0xfcs-b000h0xfcs/)
+- [myCartridge SUPRINT 245XL Ink Cartridge Replacement for Canon 245XL 246XL Combo ](/products/b08j3ny6qv-product/)
+- [218A Toner Cartridges 4 Pack (with Chip) Compatible Replacement for HP 218A 218X](/products/b0fnmzclcg-product/)
+- [Genuine Brother LC3019 (LC-3019) (BK/C/M/Y) High Yield Color Ink 4-Pack (Include](/products/b06xy6rsnb-product/)
 
 ## Products in this guide
 

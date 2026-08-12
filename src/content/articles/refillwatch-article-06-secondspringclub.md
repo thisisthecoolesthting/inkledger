@@ -155,14 +155,14 @@ After tracking prices across 37 ink models, we recommend the EZ Ink Refill Kit f
 
 ## Watchdog picks
 
-- [B07ZHTFF44](/products/b07zhtff44-b07zhtff44/) · Buy on Amazon
-- [B0F1FNZB62](/products/b0f1fnzb62-b0f1fnzb62/) · Buy on Amazon
-- [inkgens 31 32XL Ink Bottle Set Refill for HP Smart Tank 7600 7602 7300 7301 7001](/products/b0dpkjjrbg-product/) · Buy on Amazon
-- [HP OfficeJet Pro 9125 Wireless All-in-One Color Inkjet Printer, Print, Scan, Cop](/products/b0gpfkgny7-product/) · Buy on Amazon
-- [B0CT2QHQVF](/products/b0ct2qhqvf-b0ct2qhqvf/) · Buy on Amazon
-- [B08X4BQL7D](/products/b08x4bql7d-b08x4bql7d/) · Buy on Amazon
-- [B0C1ZF94GW](/products/b0c1zf94gw-b0c1zf94gw/) · Buy on Amazon
-- [B0GYNFD72N](/products/b0gynfd72n-b0gynfd72n/) · Buy on Amazon
+- [B07ZHTFF44](/products/b07zhtff44-b07zhtff44/)
+- [B0F1FNZB62](/products/b0f1fnzb62-b0f1fnzb62/)
+- [inkgens 31 32XL Ink Bottle Set Refill for HP Smart Tank 7600 7602 7300 7301 7001](/products/b0dpkjjrbg-product/)
+- [HP OfficeJet Pro 9125 Wireless All-in-One Color Inkjet Printer, Print, Scan, Cop](/products/b0gpfkgny7-product/)
+- [B0CT2QHQVF](/products/b0ct2qhqvf-b0ct2qhqvf/)
+- [B08X4BQL7D](/products/b08x4bql7d-b08x4bql7d/)
+- [B0C1ZF94GW](/products/b0c1zf94gw-b0c1zf94gw/)
+- [B0GYNFD72N](/products/b0gynfd72n-b0gynfd72n/)
 
 ## Products in this guide
 

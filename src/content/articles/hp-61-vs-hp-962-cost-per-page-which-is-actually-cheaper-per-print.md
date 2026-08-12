@@ -55,14 +55,14 @@ The 962's premium comes from being bundled with HP's higher-end OfficeJet Pro pr
 Unless your printer specifically requires HP 962 cartridges, the HP 61 series delivers identical prints at 1/3 the cost per page. For maximum savings, consider vetted third-party alternatives that work in both cartridge types.
 ## Watchdog picks
 
-- [B0CWP64QMT](/products/b0cwp64qmt-b0cwp64qmt/) · Buy on Amazon
-- [B01N7V39UO](/products/b01n7v39uo-b01n7v39uo/) · Buy on Amazon
-- [B08KDQZJQ5](/products/b08kdqzjq5-b08kdqzjq5/) · Buy on Amazon
-- [EPSON 502 EcoTank Ink Ultra-high Capacity Bottle Black Works with ET-2750, 2760,](/products/b074rfmst8-product/) · Buy on Amazon
-- [B0DPYJWX2F](/products/b0dpyjwx2f-b0dpyjwx2f/) · Buy on Amazon
-- [BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face Mask, Po](/products/b0b2rm68g2-biodance-bio-collagen-real-deep-mask-hydrating-overnight-hyd/) · Buy on Amazon
-- [B002BWQ6XK](/products/b002bwq6xk-b002bwq6xk/) · Buy on Amazon
-- [B001EQ4G0O](/products/b001eq4g0o-b001eq4g0o/) · Buy on Amazon
+- [B0CWP64QMT](/products/b0cwp64qmt-b0cwp64qmt/)
+- [B01N7V39UO](/products/b01n7v39uo-b01n7v39uo/)
+- [B08KDQZJQ5](/products/b08kdqzjq5-b08kdqzjq5/)
+- [EPSON 502 EcoTank Ink Ultra-high Capacity Bottle Black Works with ET-2750, 2760,](/products/b074rfmst8-product/)
+- [B0DPYJWX2F](/products/b0dpyjwx2f-b0dpyjwx2f/)
+- [BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face Mask, Po](/products/b0b2rm68g2-biodance-bio-collagen-real-deep-mask-hydrating-overnight-hyd/)
+- [B002BWQ6XK](/products/b002bwq6xk-b002bwq6xk/)
+- [B001EQ4G0O](/products/b001eq4g0o-b001eq4g0o/)
 
 ## Products in this guide
 

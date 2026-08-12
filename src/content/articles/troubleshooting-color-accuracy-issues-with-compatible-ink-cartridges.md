@@ -153,14 +153,14 @@ Navigating color accuracy with compatible cartridges is a balancing act between 
 
 ## Watchdog picks
 
-- [67XL 67 XL 6055e 2755e 2800e 2855e 6000 Ink Cartridges Black/Color Combo Pack Co](/products/b0fw9lh3q5-product/) · Buy on Amazon
-- [B0C1ZF94GW](/products/b0c1zf94gw-b0c1zf94gw/) · Buy on Amazon
-- [Canon PG-245 XL / CL-246 XL Genuine Ink Value Pack (2 Cartridges), Compatible wi](/products/b079y6fhkj-product/) · Buy on Amazon
-- [280XXL 281XXL Ink for Canon Ink 280 281 Replacement for Canon TR8620 Ink Cartrid](/products/b0bvybvhk5-280xxl-281xxl-ink-for-canon-ink-280-281-replacement-for-cano/) · Buy on Amazon
-- [B0CWP64QMT](/products/b0cwp64qmt-b0cwp64qmt/) · Buy on Amazon
-- [Ink Cartridge Printer Replacement Part Compatible with Expression Photo XP-15000](/products/b0gvgsv2kl-product/) · Buy on Amazon
-- [B0G6Z1834N](/products/b0g6z1834n-b0g6z1834n/) · Buy on Amazon
-- [B09J7946RJ](/products/b09j7946rj-b09j7946rj/) · Buy on Amazon
+- [67XL 67 XL 6055e 2755e 2800e 2855e 6000 Ink Cartridges Black/Color Combo Pack Co](/products/b0fw9lh3q5-product/)
+- [B0C1ZF94GW](/products/b0c1zf94gw-b0c1zf94gw/)
+- [Canon PG-245 XL / CL-246 XL Genuine Ink Value Pack (2 Cartridges), Compatible wi](/products/b079y6fhkj-product/)
+- [280XXL 281XXL Ink for Canon Ink 280 281 Replacement for Canon TR8620 Ink Cartrid](/products/b0bvybvhk5-280xxl-281xxl-ink-for-canon-ink-280-281-replacement-for-cano/)
+- [B0CWP64QMT](/products/b0cwp64qmt-b0cwp64qmt/)
+- [Ink Cartridge Printer Replacement Part Compatible with Expression Photo XP-15000](/products/b0gvgsv2kl-product/)
+- [B0G6Z1834N](/products/b0g6z1834n-b0g6z1834n/)
+- [B09J7946RJ](/products/b09j7946rj-b09j7946rj/)
 
 ## Products in this guide
 

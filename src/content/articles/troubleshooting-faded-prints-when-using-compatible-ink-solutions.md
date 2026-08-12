@@ -142,14 +142,14 @@ Faded prints after installing compatible ink solutions are often a function of i
 
 ## Watchdog picks
 
-- [B09XT22566](/products/b09xt22566-b09xt22566/) · Buy on Amazon
-- [B0BN57XFD8](/products/b0bn57xfd8-b0bn57xfd8/) · Buy on Amazon
-- [B0FVFGX7Y5](/products/b0fvfgx7y5-b0fvfgx7y5/) · Buy on Amazon
-- [962XL Ink Cartridges for HP 962XL Ink Cartridges Combo Pack Work for HP Officeje](/products/b0d3xgj6hw-product/) · Buy on Amazon
-- [EPSON 702 DURABrite Ultra Ink High Capacity Black & Standard Color Cartridge Com](/products/b071wb6bgn-product/) · Buy on Amazon
-- [AZ Compatible Toner Cartridge Replacement for Dell 1250 (1250BK) use in Color La](/products/b00qj88odw-product/) · Buy on Amazon
-- [B0CPB11F85](/products/b0cpb11f85-b0cpb11f85/) · Buy on Amazon
-- [E-Z Ink Remanufactured Ink Cartridge Replacement for 252XL Combo Pack for Epson ](/products/b082y7x9h5-e-z-ink-remanufactured-ink-cartridge-replacement-for-252xl-c/) · Buy on Amazon
+- [B09XT22566](/products/b09xt22566-b09xt22566/)
+- [B0BN57XFD8](/products/b0bn57xfd8-b0bn57xfd8/)
+- [B0FVFGX7Y5](/products/b0fvfgx7y5-b0fvfgx7y5/)
+- [962XL Ink Cartridges for HP 962XL Ink Cartridges Combo Pack Work for HP Officeje](/products/b0d3xgj6hw-product/)
+- [EPSON 702 DURABrite Ultra Ink High Capacity Black & Standard Color Cartridge Com](/products/b071wb6bgn-product/)
+- [AZ Compatible Toner Cartridge Replacement for Dell 1250 (1250BK) use in Color La](/products/b00qj88odw-product/)
+- [B0CPB11F85](/products/b0cpb11f85-b0cpb11f85/)
+- [E-Z Ink Remanufactured Ink Cartridge Replacement for 252XL Combo Pack for Epson ](/products/b082y7x9h5-e-z-ink-remanufactured-ink-cartridge-replacement-for-252xl-c/)
 
 ## Products in this guide
 

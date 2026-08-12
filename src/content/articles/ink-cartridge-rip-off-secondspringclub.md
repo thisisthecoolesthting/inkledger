@@ -96,14 +96,14 @@ Printer ink is one of the most expensive liquids by volume—retailers knowingly
 
 ## Watchdog picks
 
-- [Extra Deep Queen Sheet Set - 6 Piece Breathable and Cooling Sheets - Hotel Luxur](/products/b07f97mpyt-extra-deep-queen-sheet-set-6-piece-breathable-and-cooling-sh/) · Buy on Amazon
-- [Brother HL-L2300D Monochrome Laser Printer with Duplex Printing](/products/b00nq1clti-brother-hl-l2300d-monochrome-laser-printer-with-duplex-print/) · Buy on Amazon
-- [B000VKGRF0](/products/b000vkgrf0-b000vkgrf0/) · Buy on Amazon
-- [B001E10B9I](/products/b001e10b9i-b001e10b9i/) · Buy on Amazon
-- [65XL Ink Cartridges Black/Color Combo Pack High-Yield Replacement for HP Ink 65 ](/products/b0f1cj93jj-product/) · Buy on Amazon
-- [B09WDBHXB3](/products/b09wdbhxb3-b09wdbhxb3/) · Buy on Amazon
-- [B08VF3XRQ8](/products/b08vf3xrq8-b08vf3xrq8/) · Buy on Amazon
-- [B0C1ZF94GW](/products/b0c1zf94gw-b0c1zf94gw/) · Buy on Amazon
+- [Extra Deep Queen Sheet Set - 6 Piece Breathable and Cooling Sheets - Hotel Luxur](/products/b07f97mpyt-extra-deep-queen-sheet-set-6-piece-breathable-and-cooling-sh/)
+- [Brother HL-L2300D Monochrome Laser Printer with Duplex Printing](/products/b00nq1clti-brother-hl-l2300d-monochrome-laser-printer-with-duplex-print/)
+- [B000VKGRF0](/products/b000vkgrf0-b000vkgrf0/)
+- [B001E10B9I](/products/b001e10b9i-b001e10b9i/)
+- [65XL Ink Cartridges Black/Color Combo Pack High-Yield Replacement for HP Ink 65 ](/products/b0f1cj93jj-product/)
+- [B09WDBHXB3](/products/b09wdbhxb3-b09wdbhxb3/)
+- [B08VF3XRQ8](/products/b08vf3xrq8-b08vf3xrq8/)
+- [B0C1ZF94GW](/products/b0c1zf94gw-b0c1zf94gw/)
 
 ## Products in this guide
 

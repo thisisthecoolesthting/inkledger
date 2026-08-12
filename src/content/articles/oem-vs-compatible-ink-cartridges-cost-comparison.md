@@ -296,14 +296,14 @@ Price data for this article comes from Keepa, which logs every published price c
 
 ## Watchdog picks
 
-- [Remanufactured Replacement for Epson 702 Ink Cartridges for 702XL Ink cartridges](/products/b0ct2ltf55-product/) · Buy on Amazon
-- [B0FGC43YCL](/products/b0fgc43ycl-b0fgc43ycl/) · Buy on Amazon
-- [B0FLXG5Z7Q](/products/b0flxg5z7q-b0flxg5z7q/) · Buy on Amazon
-- [InkOwl Compatible Ink Cartridge Replacement for Roland ECO-SOL MAX Printers ESL3](/products/b07c11yw88-inkowl-compatible-ink-cartridge-replacement-for-roland-eco-s/) · Buy on Amazon
-- [B09MSPNYQ2](/products/b09mspnyq2-b09mspnyq2/) · Buy on Amazon
-- [B07ZHTFF44](/products/b07zhtff44-b07zhtff44/) · Buy on Amazon
-- [B09PH83KK5](/products/b09ph83kk5-b09ph83kk5/) · Buy on Amazon
-- [B0G1NBKD38](/products/b0g1nbkd38-b0g1nbkd38/) · Buy on Amazon
+- [Remanufactured Replacement for Epson 702 Ink Cartridges for 702XL Ink cartridges](/products/b0ct2ltf55-product/)
+- [B0FGC43YCL](/products/b0fgc43ycl-b0fgc43ycl/)
+- [B0FLXG5Z7Q](/products/b0flxg5z7q-b0flxg5z7q/)
+- [InkOwl Compatible Ink Cartridge Replacement for Roland ECO-SOL MAX Printers ESL3](/products/b07c11yw88-inkowl-compatible-ink-cartridge-replacement-for-roland-eco-s/)
+- [B09MSPNYQ2](/products/b09mspnyq2-b09mspnyq2/)
+- [B07ZHTFF44](/products/b07zhtff44-b07zhtff44/)
+- [B09PH83KK5](/products/b09ph83kk5-b09ph83kk5/)
+- [B0G1NBKD38](/products/b0g1nbkd38-b0g1nbkd38/)
 
 ## Products in this guide
 

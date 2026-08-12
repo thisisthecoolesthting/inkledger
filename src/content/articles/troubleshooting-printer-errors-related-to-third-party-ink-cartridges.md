@@ -164,14 +164,14 @@ Printer errors related to third-party ink cartridges stem from technical and bus
 
 ## Watchdog picks
 
-- [Brother Genuine TN760 High Yield Black Toner Cartridge, (for use with MFC-L2710D](/products/b075x6c5zw-product/) · Buy on Amazon
-- [TN730 TN-730 Toner Cartridges Black Replacement for Brother TN730 TN-730 MFC-L27](/products/b0dfybsvb8-product/) · Buy on Amazon
-- [B07P5BNQJG](/products/b07p5bnqjg-b07p5bnqjg/) · Buy on Amazon
-- [EPSON 702 DURABrite Ultra Ink High Capacity Black & Standard Color Cartridge Com](/products/b071wb6bgn-product/) · Buy on Amazon
-- [Dikarsum 5 in 1 Ink Refill Tools Compatible with Hp Inkjet Ink Cartridges (Ink C](/products/b0cq4vhbmh-product/) · Buy on Amazon
-- [EPSON 522 EcoTank Ink Ultra-high Capacity Bottle Black (T522120-S) Works with ET](/products/b07pn7g526-product/) · Buy on Amazon
-- [B07C11YW88](/products/b07c11yw88-b07c11yw88/) · Buy on Amazon
-- [B0FHDJXJNZ](/products/b0fhdjxjnz-b0fhdjxjnz/) · Buy on Amazon
+- [Brother Genuine TN760 High Yield Black Toner Cartridge, (for use with MFC-L2710D](/products/b075x6c5zw-product/)
+- [TN730 TN-730 Toner Cartridges Black Replacement for Brother TN730 TN-730 MFC-L27](/products/b0dfybsvb8-product/)
+- [B07P5BNQJG](/products/b07p5bnqjg-b07p5bnqjg/)
+- [EPSON 702 DURABrite Ultra Ink High Capacity Black & Standard Color Cartridge Com](/products/b071wb6bgn-product/)
+- [Dikarsum 5 in 1 Ink Refill Tools Compatible with Hp Inkjet Ink Cartridges (Ink C](/products/b0cq4vhbmh-product/)
+- [EPSON 522 EcoTank Ink Ultra-high Capacity Bottle Black (T522120-S) Works with ET](/products/b07pn7g526-product/)
+- [B07C11YW88](/products/b07c11yw88-b07c11yw88/)
+- [B0FHDJXJNZ](/products/b0fhdjxjnz-b0fhdjxjnz/)
 
 ## Products in this guide
 

@@ -208,14 +208,14 @@ If you insist on subscriptions:
 
 ## Watchdog picks
 
-- [65XL Black Ink Cartridge Replacement for HP Ink 65 Black HP65XL Black Ink Cartri](/products/b07nphds24-product/) · Buy on Amazon
-- [B0G1NBKD38](/products/b0g1nbkd38-b0g1nbkd38/) · Buy on Amazon
-- [WEAREC Compatible Toner Cartridge Replacement for Brother TN760 TN-760 TN730 wit](/products/b0dj79lqp5-product/) · Buy on Amazon
-- [B0GRGQR634](/products/b0grgqr634-b0grgqr634/) · Buy on Amazon
-- [B07N1DF9VV](/products/b07n1df9vv-b07n1df9vv/) · Buy on Amazon
-- [B07L2MZW6B](/products/b07l2mzw6b-b07l2mzw6b/) · Buy on Amazon
-- [B0CPB11F85](/products/b0cpb11f85-b0cpb11f85/) · Buy on Amazon
-- [B08FY8XQ3W](/products/b08fy8xq3w-b08fy8xq3w/) · Buy on Amazon
+- [65XL Black Ink Cartridge Replacement for HP Ink 65 Black HP65XL Black Ink Cartri](/products/b07nphds24-product/)
+- [B0G1NBKD38](/products/b0g1nbkd38-b0g1nbkd38/)
+- [WEAREC Compatible Toner Cartridge Replacement for Brother TN760 TN-760 TN730 wit](/products/b0dj79lqp5-product/)
+- [B0GRGQR634](/products/b0grgqr634-b0grgqr634/)
+- [B07N1DF9VV](/products/b07n1df9vv-b07n1df9vv/)
+- [B07L2MZW6B](/products/b07l2mzw6b-b07l2mzw6b/)
+- [B0CPB11F85](/products/b0cpb11f85-b0cpb11f85/)
+- [B08FY8XQ3W](/products/b08fy8xq3w-b08fy8xq3w/)
 
 ## Products in this guide
 

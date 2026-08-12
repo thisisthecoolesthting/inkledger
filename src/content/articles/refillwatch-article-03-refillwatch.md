@@ -146,14 +146,14 @@ A: Absolutely. Refillables reduce plastic waste by up to 80% compared to disposa
 
 ## Watchdog picks
 
-- [B0BJ194Z43](/products/b0bj194z43-b0bj194z43/) · Buy on Amazon
-- [B0GYNH6H2L](/products/b0gynh6h2l-b0gynh6h2l/) · Buy on Amazon
-- [B0FVFGX7Y5](/products/b0fvfgx7y5-b0fvfgx7y5/) · Buy on Amazon
-- [B07D5DN269](/products/b07d5dn269-b07d5dn269/) · Buy on Amazon
-- [Brother Genuine TN730 3-Pack Standard Yield Black Toner Cartridge with Approxima](/products/b07q8bd3mk-product/) · Buy on Amazon
-- [B0H1M158VT](/products/b0h1m158vt-b0h1m158vt/) · Buy on Amazon
-- [AYMSous Ink Refill Kit for HP 60 61 63 64 65 902 932 952 950 951 564 Refillable ](/products/b09qcg2pm6-product/) · Buy on Amazon
-- [TEINO Remanufactured 65XL Ink Cartridge Replacement for HP Envy 5055 5052 DeskJe](/products/b081grvj5k-product/) · Buy on Amazon
+- [B0BJ194Z43](/products/b0bj194z43-b0bj194z43/)
+- [B0GYNH6H2L](/products/b0gynh6h2l-b0gynh6h2l/)
+- [B0FVFGX7Y5](/products/b0fvfgx7y5-b0fvfgx7y5/)
+- [B07D5DN269](/products/b07d5dn269-b07d5dn269/)
+- [Brother Genuine TN730 3-Pack Standard Yield Black Toner Cartridge with Approxima](/products/b07q8bd3mk-product/)
+- [B0H1M158VT](/products/b0h1m158vt-b0h1m158vt/)
+- [AYMSous Ink Refill Kit for HP 60 61 63 64 65 902 932 952 950 951 564 Refillable ](/products/b09qcg2pm6-product/)
+- [TEINO Remanufactured 65XL Ink Cartridge Replacement for HP Envy 5055 5052 DeskJe](/products/b081grvj5k-product/)
 
 ## Products in this guide
 

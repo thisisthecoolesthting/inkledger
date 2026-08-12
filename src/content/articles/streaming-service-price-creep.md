@@ -100,14 +100,14 @@ Streaming services rely on subscriber inertia—the fact that you won't notice a
 
 ## Watchdog picks
 
-- [B08JHWZ15B](/products/b08jhwz15b-b08jhwz15b/) · Buy on Amazon
-- [HP 65 Black Ink Cartridge - Works with AMP 100, DeskJet 2600, 3700; Envy 5000 - ](/products/b01bykui9c-product/) · Buy on Amazon
-- [Epson EcoTank ET-3850 Wireless Color All-in-One Cartridge-Free Supertank with Sc](/products/b096n7txr1-product/) · Buy on Amazon
-- [B08PDT1Y3H](/products/b08pdt1y3h-b08pdt1y3h/) · Buy on Amazon
-- [Brother Genuine TN730 3-Pack Standard Yield Black Toner Cartridge with Approxima](/products/b07q8bd3mk-product/) · Buy on Amazon
-- [B00WSAXBQ0](/products/b00wsaxbq0-b00wsaxbq0/) · Buy on Amazon
-- [B0963X6B5V](/products/b0963x6b5v-b0963x6b5v/) · Buy on Amazon
-- [B0BN57XFD8](/products/b0bn57xfd8-b0bn57xfd8/) · Buy on Amazon
+- [B08JHWZ15B](/products/b08jhwz15b-b08jhwz15b/)
+- [HP 65 Black Ink Cartridge - Works with AMP 100, DeskJet 2600, 3700; Envy 5000 - ](/products/b01bykui9c-product/)
+- [Epson EcoTank ET-3850 Wireless Color All-in-One Cartridge-Free Supertank with Sc](/products/b096n7txr1-product/)
+- [B08PDT1Y3H](/products/b08pdt1y3h-b08pdt1y3h/)
+- [Brother Genuine TN730 3-Pack Standard Yield Black Toner Cartridge with Approxima](/products/b07q8bd3mk-product/)
+- [B00WSAXBQ0](/products/b00wsaxbq0-b00wsaxbq0/)
+- [B0963X6B5V](/products/b0963x6b5v-b0963x6b5v/)
+- [B0BN57XFD8](/products/b0bn57xfd8-b0bn57xfd8/)
 
 ## Products in this guide
 

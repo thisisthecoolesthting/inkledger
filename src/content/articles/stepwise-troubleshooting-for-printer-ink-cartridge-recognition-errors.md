@@ -157,14 +157,14 @@ Being thorough and patient during troubleshooting prevents unnecessary spending 
 
 ## Watchdog picks
 
-- [B0FDL1LS3B](/products/b0fdl1ls3b-b0fdl1ls3b/) · Buy on Amazon
-- [B07ZPSFVX5](/products/b07zpsfvx5-b07zpsfvx5/) · Buy on Amazon
-- [B01N5Q9Q6J](/products/b01n5q9q6j-b01n5q9q6j/) · Buy on Amazon
-- [Astra Platinum Double Edge Safety Razor Blades,100 Blades (20 x 5)](/products/b001qy8qxm-astra-platinum-double-edge-safety-razor-blades-100-blades-20/) · Buy on Amazon
-- [B0F7K193ZR](/products/b0f7k193zr-b0f7k193zr/) · Buy on Amazon
-- [HP 141A Black Toner Cartridge - Works with LaserJet M110, LaserJet MFP M139, M14](/products/b09n4z8dnl-product/) · Buy on Amazon
-- [Skydo LC3019XXL Ink Cartridges Replacement for LC3019 XXL LC 3019-XXL LC3019 Wor](/products/b0ds4m632h-product/) · Buy on Amazon
-- [B000N3BBW0](/products/b000n3bbw0-b000n3bbw0/) · Buy on Amazon
+- [B0FDL1LS3B](/products/b0fdl1ls3b-b0fdl1ls3b/)
+- [B07ZPSFVX5](/products/b07zpsfvx5-b07zpsfvx5/)
+- [B01N5Q9Q6J](/products/b01n5q9q6j-b01n5q9q6j/)
+- [Astra Platinum Double Edge Safety Razor Blades,100 Blades (20 x 5)](/products/b001qy8qxm-astra-platinum-double-edge-safety-razor-blades-100-blades-20/)
+- [B0F7K193ZR](/products/b0f7k193zr-b0f7k193zr/)
+- [HP 141A Black Toner Cartridge - Works with LaserJet M110, LaserJet MFP M139, M14](/products/b09n4z8dnl-product/)
+- [Skydo LC3019XXL Ink Cartridges Replacement for LC3019 XXL LC 3019-XXL LC3019 Wor](/products/b0ds4m632h-product/)
+- [B000N3BBW0](/products/b000n3bbw0-b000n3bbw0/)
 
 ## Products in this guide
 

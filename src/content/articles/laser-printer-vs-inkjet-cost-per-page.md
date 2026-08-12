@@ -273,14 +273,14 @@ Price data for this article comes from Keepa, which logs every published price c
 
 ## Watchdog picks
 
-- [B0CCNKGY6J](/products/b0ccnkgy6j-b0ccnkgy6j/) · Buy on Amazon
-- [B000NL0T1K](/products/b000nl0t1k-b000nl0t1k/) · Buy on Amazon
-- [B0FMB4JBJ8](/products/b0fmb4jbj8-b0fmb4jbj8/) · Buy on Amazon
-- [EPSON 552 EcoTank Ink Ultra-high Capacity Bottle Five Color Combo Pack (T552920-](/products/b08tb5yd6r-product/) · Buy on Amazon
-- [B0BVD54HPS](/products/b0bvd54hps-b0bvd54hps/) · Buy on Amazon
-- [Epson EcoTank ET-2800 Wireless Color All-in-One Cartridge-Free Ink Supertank Pri](/products/b096n8cnbz-product/) · Buy on Amazon
-- [Utopia Bedding Bed Pillows for Sleeping Queen Size (Blue), Set of 6, Cooling Hot](/products/b07j2p2v7t-utopia-bedding-bed-pillows-for-sleeping-queen-size-blue-set-/) · Buy on Amazon
-- [B000VKGRF0](/products/b000vkgrf0-b000vkgrf0/) · Buy on Amazon
+- [B0CCNKGY6J](/products/b0ccnkgy6j-b0ccnkgy6j/)
+- [B000NL0T1K](/products/b000nl0t1k-b000nl0t1k/)
+- [B0FMB4JBJ8](/products/b0fmb4jbj8-b0fmb4jbj8/)
+- [EPSON 552 EcoTank Ink Ultra-high Capacity Bottle Five Color Combo Pack (T552920-](/products/b08tb5yd6r-product/)
+- [B0BVD54HPS](/products/b0bvd54hps-b0bvd54hps/)
+- [Epson EcoTank ET-2800 Wireless Color All-in-One Cartridge-Free Ink Supertank Pri](/products/b096n8cnbz-product/)
+- [Utopia Bedding Bed Pillows for Sleeping Queen Size (Blue), Set of 6, Cooling Hot](/products/b07j2p2v7t-utopia-bedding-bed-pillows-for-sleeping-queen-size-blue-set-/)
+- [B000VKGRF0](/products/b000vkgrf0-b000vkgrf0/)
 
 ## Products in this guide
 

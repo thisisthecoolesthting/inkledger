@@ -150,14 +150,14 @@ Understanding toner yield is crucial: don鈥檛 just buy based on sticker price 鈥
 
 ## Watchdog picks
 
-- [B09WDBHXB3](/products/b09wdbhxb3-b09wdbhxb3/) 路 Buy on Amazon
-- [Epson EcoTank ET-2980 Wireless All-in-One Color Supertank Printer with Refillabl](/products/b0f1fbqrvb-product/) 路 Buy on Amazon
-- [B0GRGQR634](/products/b0grgqr634-b0grgqr634/) 路 Buy on Amazon
-- [B0G1NBKD38](/products/b0g1nbkd38-b0g1nbkd38/) 路 Buy on Amazon
-- [myCartridge SUPRINT Remanufactured Replacement for Epson 702 Ink Cartridges 702X](/products/b0fb96px2m-product/) 路 Buy on Amazon
-- [JANMORE Universal Ink Refills Kit Dye Ink Refill Kit Compatible for HP Canon Bro](/products/b0drp3lwp5-product/) 路 Buy on Amazon
-- [B0CYGN38RF](/products/b0cygn38rf-b0cygn38rf/) 路 Buy on Amazon
-- [B09ZVMYHGF](/products/b09zvmyhgf-b09zvmyhgf/) 路 Buy on Amazon
+- [B09WDBHXB3](/products/b09wdbhxb3-b09wdbhxb3/)
+- [Epson EcoTank ET-2980 Wireless All-in-One Color Supertank Printer with Refillabl](/products/b0f1fbqrvb-product/)
+- [B0GRGQR634](/products/b0grgqr634-b0grgqr634/)
+- [B0G1NBKD38](/products/b0g1nbkd38-b0g1nbkd38/)
+- [myCartridge SUPRINT Remanufactured Replacement for Epson 702 Ink Cartridges 702X](/products/b0fb96px2m-product/)
+- [JANMORE Universal Ink Refills Kit Dye Ink Refill Kit Compatible for HP Canon Bro](/products/b0drp3lwp5-product/)
+- [B0CYGN38RF](/products/b0cygn38rf-b0cygn38rf/)
+- [B09ZVMYHGF](/products/b09zvmyhgf-b09zvmyhgf/)
 
 ## Products in this guide
 

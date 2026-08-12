@@ -129,14 +129,14 @@ Refilling empty ink cartridges requires some initial effort, but the long-term s
 
 ## Watchdog picks
 
-- [B0FCS4HWPH](/products/b0fcs4hwph-b0fcs4hwph/) · Buy on Amazon
-- [B00T6RWJMU](/products/b00t6rwjmu-b00t6rwjmu/) · Buy on Amazon
-- [HP DeskJet 2855e Wireless All-in-One Color Inkjet Printer, Scanner, Copier, Best](/products/b0ct2r7199-product/) · Buy on Amazon
-- [Dikarsum 5 in 1 Ink Refill Tools Compatible with Hp Inkjet Ink Cartridges (Ink C](/products/b0cq4vhbmh-product/) · Buy on Amazon
-- [B073Q8P6CQ](/products/b073q8p6cq-b073q8p6cq/) · Buy on Amazon
-- [B0GTL8RCGK](/products/b0gtl8rcgk-b0gtl8rcgk/) · Buy on Amazon
-- [Dr. Tobias Omega 3 Fish Oil 2000mg Triple Strength with 800mg EPA 600mg DHA Per ](/products/b00cazau62-dr-tobias-omega-3-fish-oil-2000mg-triple-strength-with-800mg/) · Buy on Amazon
-- [Epson EcoTank ET-2980 Wireless All-in-One Color Supertank Printer with Refillabl](/products/b0f1fbqrvb-product/) · Buy on Amazon
+- [B0FCS4HWPH](/products/b0fcs4hwph-b0fcs4hwph/)
+- [B00T6RWJMU](/products/b00t6rwjmu-b00t6rwjmu/)
+- [HP DeskJet 2855e Wireless All-in-One Color Inkjet Printer, Scanner, Copier, Best](/products/b0ct2r7199-product/)
+- [Dikarsum 5 in 1 Ink Refill Tools Compatible with Hp Inkjet Ink Cartridges (Ink C](/products/b0cq4vhbmh-product/)
+- [B073Q8P6CQ](/products/b073q8p6cq-b073q8p6cq/)
+- [B0GTL8RCGK](/products/b0gtl8rcgk-b0gtl8rcgk/)
+- [Dr. Tobias Omega 3 Fish Oil 2000mg Triple Strength with 800mg EPA 600mg DHA Per ](/products/b00cazau62-dr-tobias-omega-3-fish-oil-2000mg-triple-strength-with-800mg/)
+- [Epson EcoTank ET-2980 Wireless All-in-One Color Supertank Printer with Refillabl](/products/b0f1fbqrvb-product/)
 
 ## Products in this guide
 

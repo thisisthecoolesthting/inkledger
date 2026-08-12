@@ -210,14 +210,14 @@ Price data for this article comes from Keepa, which logs every published price c
 
 ## Watchdog picks
 
-- [HP Samsung MLT-D116L (SU832A) MLT-D116L Toner Cartridge](/products/b00c18tycy-product/) · Buy on Amazon
-- [HP 134A Black Toner Cartridge Printers - Works with LaserJet M209 Series; LaserJ](/products/b08qmqnr76-product/) · Buy on Amazon
-- [B09ZVMYHGF](/products/b09zvmyhgf-b09zvmyhgf/) · Buy on Amazon
-- [B08X4BQL7D](/products/b08x4bql7d-b08x4bql7d/) · Buy on Amazon
-- [B07Q5J5XJL](/products/b07q5j5xjl-b07q5j5xjl/) · Buy on Amazon
-- [MLT-D111S 111S Toner Cartridge High Yield Replacement for Samsung MLT-D111S MLTD](/products/b0btxxq5tc-product/) · Buy on Amazon
-- [inkgens 31 32XL Ink Bottle Set Refill for HP Smart Tank 7600 7602 7300 7301 7001](/products/b0dpkjjrbg-product/) · Buy on Amazon
-- [B07Q5J5YXV](/products/b07q5j5yxv-b07q5j5yxv/) · Buy on Amazon
+- [HP Samsung MLT-D116L (SU832A) MLT-D116L Toner Cartridge](/products/b00c18tycy-product/)
+- [HP 134A Black Toner Cartridge Printers - Works with LaserJet M209 Series; LaserJ](/products/b08qmqnr76-product/)
+- [B09ZVMYHGF](/products/b09zvmyhgf-b09zvmyhgf/)
+- [B08X4BQL7D](/products/b08x4bql7d-b08x4bql7d/)
+- [B07Q5J5XJL](/products/b07q5j5xjl-b07q5j5xjl/)
+- [MLT-D111S 111S Toner Cartridge High Yield Replacement for Samsung MLT-D111S MLTD](/products/b0btxxq5tc-product/)
+- [inkgens 31 32XL Ink Bottle Set Refill for HP Smart Tank 7600 7602 7300 7301 7001](/products/b0dpkjjrbg-product/)
+- [B07Q5J5YXV](/products/b07q5j5yxv-b07q5j5yxv/)
 
 ## Products in this guide
 

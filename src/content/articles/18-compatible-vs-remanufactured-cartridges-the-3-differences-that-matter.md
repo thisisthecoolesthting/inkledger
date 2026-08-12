@@ -132,14 +132,14 @@ By understanding these key differences, you can choose the cartridge type that b
 
 ## Watchdog picks
 
-- [Compatible for EPT502 Ink Refill Bottles ET-2850 ET-3850 ET-4850 ET-15000 Ink Re](/products/b0gbvmmj3v-product/) · Buy on Amazon
-- [Utopia Bedding Bed Pillows for Sleeping Queen Size (Blue), Set of 6, Cooling Hot](/products/b07j2p2v7t-utopia-bedding-bed-pillows-for-sleeping-queen-size-blue-set-/) · Buy on Amazon
-- [B09PH83KK5](/products/b09ph83kk5-b09ph83kk5/) · Buy on Amazon
-- [B00PB6F2V4](/products/b00pb6f2v4-b00pb6f2v4/) · Buy on Amazon
-- [B0C1ZF94GW](/products/b0c1zf94gw-b0c1zf94gw/) · Buy on Amazon
-- [Eva-Dry Wireless Mini Dehumidifier, White (E-333)](/products/b000h0xfcs-eva-dry-wireless-mini-dehumidifier-white-e-333/) · Buy on Amazon
-- [B08VF3XRQ8](/products/b08vf3xrq8-b08vf3xrq8/) · Buy on Amazon
-- [B0963X6B5V](/products/b0963x6b5v-b0963x6b5v/) · Buy on Amazon
+- [Compatible for EPT502 Ink Refill Bottles ET-2850 ET-3850 ET-4850 ET-15000 Ink Re](/products/b0gbvmmj3v-product/)
+- [Utopia Bedding Bed Pillows for Sleeping Queen Size (Blue), Set of 6, Cooling Hot](/products/b07j2p2v7t-utopia-bedding-bed-pillows-for-sleeping-queen-size-blue-set-/)
+- [B09PH83KK5](/products/b09ph83kk5-b09ph83kk5/)
+- [B00PB6F2V4](/products/b00pb6f2v4-b00pb6f2v4/)
+- [B0C1ZF94GW](/products/b0c1zf94gw-b0c1zf94gw/)
+- [Eva-Dry Wireless Mini Dehumidifier, White (E-333)](/products/b000h0xfcs-eva-dry-wireless-mini-dehumidifier-white-e-333/)
+- [B08VF3XRQ8](/products/b08vf3xrq8-b08vf3xrq8/)
+- [B0963X6B5V](/products/b0963x6b5v-b0963x6b5v/)
 
 ## Products in this guide
 

@@ -112,14 +112,14 @@ Choosing between Canon Ink Cartridge XL vs Standard requires a careful considera
 
 ## Watchdog picks
 
-- [B000NL0T1K](/products/b000nl0t1k-b000nl0t1k/) · Buy on Amazon
-- [B0CWP64QMT](/products/b0cwp64qmt-b0cwp64qmt/) · Buy on Amazon
-- [HP 141A Black Toner Cartridge - Works with LaserJet M110, LaserJet MFP M139, M14](/products/b09n4z8dnl-product/) · Buy on Amazon
-- [HP Samsung MLT-D116L (SU832A) MLT-D116L Toner Cartridge](/products/b00c18tycy-product/) · Buy on Amazon
-- [B000N3BBW0](/products/b000n3bbw0-b000n3bbw0/) · Buy on Amazon
-- [B0FCS4HWPH](/products/b0fcs4hwph-b0fcs4hwph/) · Buy on Amazon
-- [B0F1FNZB62](/products/b0f1fnzb62-b0f1fnzb62/) · Buy on Amazon
-- [B07ZHTFF44](/products/b07zhtff44-b07zhtff44/) · Buy on Amazon
+- [B000NL0T1K](/products/b000nl0t1k-b000nl0t1k/)
+- [B0CWP64QMT](/products/b0cwp64qmt-b0cwp64qmt/)
+- [HP 141A Black Toner Cartridge - Works with LaserJet M110, LaserJet MFP M139, M14](/products/b09n4z8dnl-product/)
+- [HP Samsung MLT-D116L (SU832A) MLT-D116L Toner Cartridge](/products/b00c18tycy-product/)
+- [B000N3BBW0](/products/b000n3bbw0-b000n3bbw0/)
+- [B0FCS4HWPH](/products/b0fcs4hwph-b0fcs4hwph/)
+- [B0F1FNZB62](/products/b0f1fnzb62-b0f1fnzb62/)
+- [B07ZHTFF44](/products/b07zhtff44-b07zhtff44/)
 
 ## Products in this guide
 

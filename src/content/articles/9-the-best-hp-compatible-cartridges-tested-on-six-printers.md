@@ -136,14 +136,14 @@ After testing across six popular HP printers, Brand A compatible cartridges stan
 
 ## Watchdog picks
 
-- [B08KDQZJQ5](/products/b08kdqzjq5-b08kdqzjq5/) · Buy on Amazon
-- [B0G6Z1834N](/products/b0g6z1834n-b0g6z1834n/) · Buy on Amazon
-- [Skydo LC3019XXL Ink Cartridges Replacement for LC3019 XXL LC 3019-XXL LC3019 Wor](/products/b0ds4m632h-product/) · Buy on Amazon
-- [HP Samsung MLT-D116L (SU832A) MLT-D116L Toner Cartridge](/products/b00c18tycy-product/) · Buy on Amazon
-- [Dikarsum 5 in 1 Ink Refill Tools Compatible with Hp Inkjet Ink Cartridges (Ink C](/products/b0cq4vhbmh-product/) · Buy on Amazon
-- [B0BTSZ81C7](/products/b0btsz81c7-b0btsz81c7/) · Buy on Amazon
-- [65XL Ink Cartridges Black/Color Combo Pack High-Yield Replacement for HP Ink 65 ](/products/b0f1cj93jj-product/) · Buy on Amazon
-- [BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face Mask, Po](/products/b0b2rm68g2-biodance-bio-collagen-real-deep-mask-hydrating-overnight-hyd/) · Buy on Amazon
+- [B08KDQZJQ5](/products/b08kdqzjq5-b08kdqzjq5/)
+- [B0G6Z1834N](/products/b0g6z1834n-b0g6z1834n/)
+- [Skydo LC3019XXL Ink Cartridges Replacement for LC3019 XXL LC 3019-XXL LC3019 Wor](/products/b0ds4m632h-product/)
+- [HP Samsung MLT-D116L (SU832A) MLT-D116L Toner Cartridge](/products/b00c18tycy-product/)
+- [Dikarsum 5 in 1 Ink Refill Tools Compatible with Hp Inkjet Ink Cartridges (Ink C](/products/b0cq4vhbmh-product/)
+- [B0BTSZ81C7](/products/b0btsz81c7-b0btsz81c7/)
+- [65XL Ink Cartridges Black/Color Combo Pack High-Yield Replacement for HP Ink 65 ](/products/b0f1cj93jj-product/)
+- [BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face Mask, Po](/products/b0b2rm68g2-biodance-bio-collagen-real-deep-mask-hydrating-overnight-hyd/)
 
 ## Products in this guide
 

@@ -140,14 +140,14 @@ For graphic designers, the Canon PGI-280XL system costs $0.28/page for photo pri
 
 ## Watchdog picks
 
-- [B01N4NLZJN](/products/b01n4nlzjn-b01n4nlzjn/) · Buy on Amazon
-- [Niagara Sleep Solution Ultra Soft Queen Size Mattress Topper - Rayon Derived fro](/products/b07d5dn269-niagara-sleep-solution-ultra-soft-queen-size-mattress-topper/) · Buy on Amazon
-- [HP 63XL/65XL Black High-Yield Ink Cartridge (Replaces and Works with Both 63XL &](/products/b0gltx2pnr-product/) · Buy on Amazon
-- [B0F7K193ZR](/products/b0f7k193zr-b0f7k193zr/) · Buy on Amazon
-- [B0F2478Q95](/products/b0f2478q95-b0f2478q95/) · Buy on Amazon
-- [B0CCNKGY6J](/products/b0ccnkgy6j-b0ccnkgy6j/) · Buy on Amazon
-- [B0FDL1LS3B](/products/b0fdl1ls3b-b0fdl1ls3b/) · Buy on Amazon
-- [B0G6YZ5YFV](/products/b0g6yz5yfv-b0g6yz5yfv/) · Buy on Amazon
+- [B01N4NLZJN](/products/b01n4nlzjn-b01n4nlzjn/)
+- [Niagara Sleep Solution Ultra Soft Queen Size Mattress Topper - Rayon Derived fro](/products/b07d5dn269-niagara-sleep-solution-ultra-soft-queen-size-mattress-topper/)
+- [HP 63XL/65XL Black High-Yield Ink Cartridge (Replaces and Works with Both 63XL &](/products/b0gltx2pnr-product/)
+- [B0F7K193ZR](/products/b0f7k193zr-b0f7k193zr/)
+- [B0F2478Q95](/products/b0f2478q95-b0f2478q95/)
+- [B0CCNKGY6J](/products/b0ccnkgy6j-b0ccnkgy6j/)
+- [B0FDL1LS3B](/products/b0fdl1ls3b-b0fdl1ls3b/)
+- [B0G6YZ5YFV](/products/b0g6yz5yfv-b0g6yz5yfv/)
 
 ## Products in this guide
 

@@ -96,14 +96,14 @@ The razor-and-blade model only works on customers who don't price the consumable
 
 ## Watchdog picks
 
-- [Epson EcoTank ET-2988 Wireless All-in-One Color Supertank Printer with up to 3 Y](/products/b0h476662h-product/) · Buy on Amazon
-- [HP Original 67 Tri-Color / 67XL Black Ink Cartridges (2-Pack) - Works DeskJet 12](/products/b08swn848g-product/) · Buy on Amazon
-- [B08R3R5KXJ](/products/b08r3r5kxj-b08r3r5kxj/) · Buy on Amazon
-- [B0D96T79YF](/products/b0d96t79yf-b0d96t79yf/) · Buy on Amazon
-- [B0FCS1B33K](/products/b0fcs1b33k-b0fcs1b33k/) · Buy on Amazon
-- [67XL Ink Cartridge Replacement for HP 67 XL Remanufactured for HP Ink 67 67XL fo](/products/b0f6c98q8m-product/) · Buy on Amazon
-- [WEP 926LED V3 Soldering Station 130W MAX Soldering Iron Kit with Solder Wire, 5 ](/products/b0bx2n258s-wep-926led-v3-soldering-station-130w-max-soldering-iron-kit-/) · Buy on Amazon
-- [B0GYRCQLFV](/products/b0gyrcqlfv-b0gyrcqlfv/) · Buy on Amazon
+- [Epson EcoTank ET-2988 Wireless All-in-One Color Supertank Printer with up to 3 Y](/products/b0h476662h-product/)
+- [HP Original 67 Tri-Color / 67XL Black Ink Cartridges (2-Pack) - Works DeskJet 12](/products/b08swn848g-product/)
+- [B08R3R5KXJ](/products/b08r3r5kxj-b08r3r5kxj/)
+- [B0D96T79YF](/products/b0d96t79yf-b0d96t79yf/)
+- [B0FCS1B33K](/products/b0fcs1b33k-b0fcs1b33k/)
+- [67XL Ink Cartridge Replacement for HP 67 XL Remanufactured for HP Ink 67 67XL fo](/products/b0f6c98q8m-product/)
+- [WEP 926LED V3 Soldering Station 130W MAX Soldering Iron Kit with Solder Wire, 5 ](/products/b0bx2n258s-wep-926led-v3-soldering-station-130w-max-soldering-iron-kit-/)
+- [B0GYRCQLFV](/products/b0gyrcqlfv-b0gyrcqlfv/)
 
 ## Products in this guide
 

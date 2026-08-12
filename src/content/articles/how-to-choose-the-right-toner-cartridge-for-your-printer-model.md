@@ -159,14 +159,14 @@ Choosing the right toner cartridge requires balancing initial cost, reliability,
 
 ## Watchdog picks
 
-- [Dikarsum 5 in 1 Ink Refill Tools Compatible with Hp Inkjet Ink Cartridges (Ink C](/products/b0cq4vhbmh-product/) · Buy on Amazon
-- [Miss Deer LC3019XXL Ink Cartridges, Comaptible Replacement for Brother LC3019 LC](/products/b0gfmh3d3x-product/) · Buy on Amazon
-- [B0CT2QHQVF](/products/b0ct2qhqvf-b0ct2qhqvf/) · Buy on Amazon
-- [B001EQ4G0O](/products/b001eq4g0o-b001eq4g0o/) · Buy on Amazon
-- [HP DeskJet 2955 Wireless All-in-One Color Inkjet Printer, Scanner, Copier, Best-](/products/b0gkjz864r-product/) · Buy on Amazon
-- [HP 134A Black Toner Cartridge Printers - Works with LaserJet M209 Series; LaserJ](/products/b08qmqnr76-product/) · Buy on Amazon
-- [B0H1M158VT](/products/b0h1m158vt-b0h1m158vt/) · Buy on Amazon
-- [B0CT8ZJ7ZC](/products/b0ct8zj7zc-b0ct8zj7zc/) · Buy on Amazon
+- [Dikarsum 5 in 1 Ink Refill Tools Compatible with Hp Inkjet Ink Cartridges (Ink C](/products/b0cq4vhbmh-product/)
+- [Miss Deer LC3019XXL Ink Cartridges, Comaptible Replacement for Brother LC3019 LC](/products/b0gfmh3d3x-product/)
+- [B0CT2QHQVF](/products/b0ct2qhqvf-b0ct2qhqvf/)
+- [B001EQ4G0O](/products/b001eq4g0o-b001eq4g0o/)
+- [HP DeskJet 2955 Wireless All-in-One Color Inkjet Printer, Scanner, Copier, Best-](/products/b0gkjz864r-product/)
+- [HP 134A Black Toner Cartridge Printers - Works with LaserJet M209 Series; LaserJ](/products/b08qmqnr76-product/)
+- [B0H1M158VT](/products/b0h1m158vt-b0h1m158vt/)
+- [B0CT8ZJ7ZC](/products/b0ct8zj7zc-b0ct8zj7zc/)
 
 ## Products in this guide
 

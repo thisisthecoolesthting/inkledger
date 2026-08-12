@@ -99,14 +99,14 @@ In the meantime, consumers must remain vigilant and informed about the risks of 
 
 ## Watchdog picks
 
-- [B07YPR2DGH](/products/b07ypr2dgh-b07ypr2dgh/) · Buy on Amazon
-- [67XL 67 XL 6055e 2755e 2800e 2855e 6000 Ink Cartridges Black/Color Combo Pack Co](/products/b0fw9lh3q5-product/) · Buy on Amazon
-- [B0C1ZF94GW](/products/b0c1zf94gw-b0c1zf94gw/) · Buy on Amazon
-- [B0DMS3D2JT](/products/b0dms3d2jt-b0dms3d2jt/) · Buy on Amazon
-- [B0GYNFD72N](/products/b0gynfd72n-b0gynfd72n/) · Buy on Amazon
-- [B000N3BBW0](/products/b000n3bbw0-b000n3bbw0/) · Buy on Amazon
-- [Epson EcoTank ET-2980 Wireless All-in-One Color Supertank Printer with Refillabl](/products/b0f1f2xrw9-product/) · Buy on Amazon
-- [B01N7V39QJ](/products/b01n7v39qj-b01n7v39qj/) · Buy on Amazon
+- [B07YPR2DGH](/products/b07ypr2dgh-b07ypr2dgh/)
+- [67XL 67 XL 6055e 2755e 2800e 2855e 6000 Ink Cartridges Black/Color Combo Pack Co](/products/b0fw9lh3q5-product/)
+- [B0C1ZF94GW](/products/b0c1zf94gw-b0c1zf94gw/)
+- [B0DMS3D2JT](/products/b0dms3d2jt-b0dms3d2jt/)
+- [B0GYNFD72N](/products/b0gynfd72n-b0gynfd72n/)
+- [B000N3BBW0](/products/b000n3bbw0-b000n3bbw0/)
+- [Epson EcoTank ET-2980 Wireless All-in-One Color Supertank Printer with Refillabl](/products/b0f1f2xrw9-product/)
+- [B01N7V39QJ](/products/b01n7v39qj-b01n7v39qj/)
 
 ## Products in this guide
 

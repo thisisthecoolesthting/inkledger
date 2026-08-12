@@ -201,14 +201,14 @@ Surprisingly, ink subscriptions make financial sense for users printing 50-150 p
 
 ## Watchdog picks
 
-- [B0BJ194Z43](/products/b0bj194z43-b0bj194z43/) · Buy on Amazon
-- [67XL Ink Cartridge Replacement for HP 67 XL Remanufactured for HP Ink 67 67XL fo](/products/b0f6c98q8m-product/) · Buy on Amazon
-- [HP Original 63/65XL Black High‑Yield + 63/65 Tri-Color- Works DeskJet 1110, 2100](/products/b0gvgg7qlt-product/) · Buy on Amazon
-- [B0GYRCQLFV](/products/b0gyrcqlfv-b0gyrcqlfv/) · Buy on Amazon
-- [Canon PG-245 / CL-246 Genuine Ink Value Pack (2 Cartridges), Compatible with iP2](/products/b00trdoylw-product/) · Buy on Amazon
-- [B07L2MZW6B](/products/b07l2mzw6b-b07l2mzw6b/) · Buy on Amazon
-- [Brother HL-L2300D Monochrome Laser Printer with Duplex Printing](/products/b00nq1clti-brother-hl-l2300d-monochrome-laser-printer-with-duplex-print/) · Buy on Amazon
-- [B08KDQZJQ5](/products/b08kdqzjq5-b08kdqzjq5/) · Buy on Amazon
+- [B0BJ194Z43](/products/b0bj194z43-b0bj194z43/)
+- [67XL Ink Cartridge Replacement for HP 67 XL Remanufactured for HP Ink 67 67XL fo](/products/b0f6c98q8m-product/)
+- [HP Original 63/65XL Black High‑Yield + 63/65 Tri-Color- Works DeskJet 1110, 2100](/products/b0gvgg7qlt-product/)
+- [B0GYRCQLFV](/products/b0gyrcqlfv-b0gyrcqlfv/)
+- [Canon PG-245 / CL-246 Genuine Ink Value Pack (2 Cartridges), Compatible with iP2](/products/b00trdoylw-product/)
+- [B07L2MZW6B](/products/b07l2mzw6b-b07l2mzw6b/)
+- [Brother HL-L2300D Monochrome Laser Printer with Duplex Printing](/products/b00nq1clti-brother-hl-l2300d-monochrome-laser-printer-with-duplex-print/)
+- [B08KDQZJQ5](/products/b08kdqzjq5-b08kdqzjq5/)
 
 ## Products in this guide
 

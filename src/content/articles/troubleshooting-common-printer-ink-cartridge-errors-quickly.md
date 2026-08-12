@@ -161,14 +161,14 @@ Getting your printer back to working without error messages is usually a matter 
 
 ## Watchdog picks
 
-- [218A Toner Cartridges 4 Pack (with Chip) Compatible Replacement for HP 218A 218X](/products/b0fnmzclcg-product/) · Buy on Amazon
-- [B0FMBGXC2C](/products/b0fmbgxc2c-b0fmbgxc2c/) · Buy on Amazon
-- [Brother Genuine Standard Yield Toner Cartridge, TN730, Replacement Black Toner, ](/products/b075x7tfy5-product/) · Buy on Amazon
-- [B0GTL8RCGK](/products/b0gtl8rcgk-b0gtl8rcgk/) · Buy on Amazon
-- [B01N7V39UO](/products/b01n7v39uo-b01n7v39uo/) · Buy on Amazon
-- [B001ET73J2](/products/b001et73j2-b001et73j2/) · Buy on Amazon
-- [EaseFusion Replacement for Epson 502 Ink Refill Bottles Work with ET-2850 ET-385](/products/b0g33t139m-product/) · Buy on Amazon
-- [HP 962XL Black High-Yield Ink Cartridge - Works with OfficeJet 9010, Pro 9010, 9](/products/b07mk5dg9v-product/) · Buy on Amazon
+- [218A Toner Cartridges 4 Pack (with Chip) Compatible Replacement for HP 218A 218X](/products/b0fnmzclcg-product/)
+- [B0FMBGXC2C](/products/b0fmbgxc2c-b0fmbgxc2c/)
+- [Brother Genuine Standard Yield Toner Cartridge, TN730, Replacement Black Toner, ](/products/b075x7tfy5-product/)
+- [B0GTL8RCGK](/products/b0gtl8rcgk-b0gtl8rcgk/)
+- [B01N7V39UO](/products/b01n7v39uo-b01n7v39uo/)
+- [B001ET73J2](/products/b001et73j2-b001et73j2/)
+- [EaseFusion Replacement for Epson 502 Ink Refill Bottles Work with ET-2850 ET-385](/products/b0g33t139m-product/)
+- [HP 962XL Black High-Yield Ink Cartridge - Works with OfficeJet 9010, Pro 9010, 9](/products/b07mk5dg9v-product/)
 
 ## Products in this guide
 

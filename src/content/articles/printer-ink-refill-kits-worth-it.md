@@ -202,14 +202,14 @@ Surprisingly, ink subscriptions make financial sense for users printing 50-150 p
 
 ## Watchdog picks
 
-- [B0D3XGJ6HW](/products/b0d3xgj6hw-b0d3xgj6hw/) · Buy on Amazon
-- [HP Original 962 Cyan, Magenta, Yellow / 962XL Black Ink Cartridges (4-Pack) - Wo](/products/b07t2s3d6j-product/) · Buy on Amazon
-- [STAROVER Compatible Toner Cartridge Replacement for Samsung MLT-D111S D111S 111S](/products/b075m8yx5n-product/) · Buy on Amazon
-- [B0GYRCQLFV](/products/b0gyrcqlfv-b0gyrcqlfv/) · Buy on Amazon
-- [B09W73NQPW](/products/b09w73nqpw-b09w73nqpw/) · Buy on Amazon
-- [E-Z Ink TN760 Toner for Brother Printer Compatible for Brother TN-760 TN730 TN-7](/products/b0ft39tgxn-product/) · Buy on Amazon
-- [Compatible for EPT502 Ink Refill Bottles Eco Tank ET-2850 ET-3850 ET-4850 ET-150](/products/b0gczvz3sz-product/) · Buy on Amazon
-- [Extra Deep Queen Sheet Set - 6 Piece Breathable and Cooling Sheets - Hotel Luxur](/products/b07f97mpyt-extra-deep-queen-sheet-set-6-piece-breathable-and-cooling-sh/) · Buy on Amazon
+- [B0D3XGJ6HW](/products/b0d3xgj6hw-b0d3xgj6hw/)
+- [HP Original 962 Cyan, Magenta, Yellow / 962XL Black Ink Cartridges (4-Pack) - Wo](/products/b07t2s3d6j-product/)
+- [STAROVER Compatible Toner Cartridge Replacement for Samsung MLT-D111S D111S 111S](/products/b075m8yx5n-product/)
+- [B0GYRCQLFV](/products/b0gyrcqlfv-b0gyrcqlfv/)
+- [B09W73NQPW](/products/b09w73nqpw-b09w73nqpw/)
+- [E-Z Ink TN760 Toner for Brother Printer Compatible for Brother TN-760 TN730 TN-7](/products/b0ft39tgxn-product/)
+- [Compatible for EPT502 Ink Refill Bottles Eco Tank ET-2850 ET-3850 ET-4850 ET-150](/products/b0gczvz3sz-product/)
+- [Extra Deep Queen Sheet Set - 6 Piece Breathable and Cooling Sheets - Hotel Luxur](/products/b07f97mpyt-extra-deep-queen-sheet-set-6-piece-breathable-and-cooling-sh/)
 
 ## Products in this guide
 

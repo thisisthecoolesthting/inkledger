@@ -164,14 +164,14 @@ By following these pragmatic calibration practices, you optimize your inkjet pri
 
 ## Watchdog picks
 
-- [CEEBOO 522 High Capacity (5 Bottles) Refill Ink Replacement for Epson Compatible](/products/b0bqqlbmpv-product/) · Buy on Amazon
-- [HP 63XL/65XL Black High-Yield Ink Cartridge (Replaces and Works with Both 63XL &](/products/b0gltx2pnr-product/) · Buy on Amazon
-- [65XL Ink Cartridge for HP 65 Black Ink Cartridge High-Yield Replacement for HP I](/products/b0fkbfh92q-product/) · Buy on Amazon
-- [HP 134A Black Toner Cartridge Printers - Works with LaserJet M209 Series; LaserJ](/products/b08qmqnr76-product/) · Buy on Amazon
-- [B00PB6F2V4](/products/b00pb6f2v4-b00pb6f2v4/) · Buy on Amazon
-- [Epson EcoTank Wireless Color All-in-One Cartridge-Free ET-3850 Supertank Inkjet ](/products/b0b1j5pycf-product/) · Buy on Amazon
-- [Brother Genuine TN730 3-Pack Standard Yield Black Toner Cartridge with Approxima](/products/b07q8bd3mk-product/) · Buy on Amazon
-- [HP DeskJet 2755 All-in-One Wireless Printer Scanner Copier Instant Ink Ready Mob](/products/b08byz5n7q-product/) · Buy on Amazon
+- [CEEBOO 522 High Capacity (5 Bottles) Refill Ink Replacement for Epson Compatible](/products/b0bqqlbmpv-product/)
+- [HP 63XL/65XL Black High-Yield Ink Cartridge (Replaces and Works with Both 63XL &](/products/b0gltx2pnr-product/)
+- [65XL Ink Cartridge for HP 65 Black Ink Cartridge High-Yield Replacement for HP I](/products/b0fkbfh92q-product/)
+- [HP 134A Black Toner Cartridge Printers - Works with LaserJet M209 Series; LaserJ](/products/b08qmqnr76-product/)
+- [B00PB6F2V4](/products/b00pb6f2v4-b00pb6f2v4/)
+- [Epson EcoTank Wireless Color All-in-One Cartridge-Free ET-3850 Supertank Inkjet ](/products/b0b1j5pycf-product/)
+- [Brother Genuine TN730 3-Pack Standard Yield Black Toner Cartridge with Approxima](/products/b07q8bd3mk-product/)
+- [HP DeskJet 2755 All-in-One Wireless Printer Scanner Copier Instant Ink Ready Mob](/products/b08byz5n7q-product/)
 
 ## Products in this guide
 

@@ -285,14 +285,14 @@ Price data for this article comes from Keepa, which logs every published price c
 
 ## Watchdog picks
 
-- [B0G1NBKD38](/products/b0g1nbkd38-b0g1nbkd38/) · Buy on Amazon
-- [B0FVFGX7Y5](/products/b0fvfgx7y5-b0fvfgx7y5/) · Buy on Amazon
-- [Utopia Bedding Bed Pillows for Sleeping Queen Size (Blue), Set of 6, Cooling Hot](/products/b07j2p2v7t-utopia-bedding-bed-pillows-for-sleeping-queen-size-blue-set-/) · Buy on Amazon
-- [B07C11YW88](/products/b07c11yw88-b07c11yw88/) · Buy on Amazon
-- [EPSON 552 EcoTank Ink Ultra-high Capacity Bottle Five Color Combo Pack (T552920-](/products/b08tb5yd6r-product/) · Buy on Amazon
-- [ecodot 552 Pigment Ink Refill Ink Bottle Replacement for Epson 552 Ink Used for ](/products/b09w9mf63y-ecodot-552-pigment-ink-refill-ink-bottle-replacement-for-eps/) · Buy on Amazon
-- [B00NQ1CLTI](/products/b00nq1clti-b00nq1clti/) · Buy on Amazon
-- [B0CYGN38RF](/products/b0cygn38rf-b0cygn38rf/) · Buy on Amazon
+- [B0G1NBKD38](/products/b0g1nbkd38-b0g1nbkd38/)
+- [B0FVFGX7Y5](/products/b0fvfgx7y5-b0fvfgx7y5/)
+- [Utopia Bedding Bed Pillows for Sleeping Queen Size (Blue), Set of 6, Cooling Hot](/products/b07j2p2v7t-utopia-bedding-bed-pillows-for-sleeping-queen-size-blue-set-/)
+- [B07C11YW88](/products/b07c11yw88-b07c11yw88/)
+- [EPSON 552 EcoTank Ink Ultra-high Capacity Bottle Five Color Combo Pack (T552920-](/products/b08tb5yd6r-product/)
+- [ecodot 552 Pigment Ink Refill Ink Bottle Replacement for Epson 552 Ink Used for ](/products/b09w9mf63y-ecodot-552-pigment-ink-refill-ink-bottle-replacement-for-eps/)
+- [B00NQ1CLTI](/products/b00nq1clti-b00nq1clti/)
+- [B0CYGN38RF](/products/b0cygn38rf-b0cygn38rf/)
 
 ## Products in this guide
 

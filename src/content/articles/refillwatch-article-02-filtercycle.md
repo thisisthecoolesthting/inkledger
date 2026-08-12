@@ -195,14 +195,14 @@ The $0.99/month plan seems cheap but:
 
 ## Watchdog picks
 
-- [B0C1ZF94GW](/products/b0c1zf94gw-b0c1zf94gw/) · Buy on Amazon
-- [B01N4IWH2O](/products/b01n4iwh2o-b01n4iwh2o/) · Buy on Amazon
-- [Smart Ink Remanufactured Ink Cartridges Replacement for HP 962XL 962 XL Combo Pa](/products/b0dt1nnns3-product/) · Buy on Amazon
-- [B0F7JTLB86](/products/b0f7jtlb86-b0f7jtlb86/) · Buy on Amazon
-- [B07D5DN269](/products/b07d5dn269-b07d5dn269/) · Buy on Amazon
-- [HP 63XL/65XL Black High-Yield Ink Cartridge (Replaces and Works with Both 63XL &](/products/b0gltx2pnr-product/) · Buy on Amazon
-- [B08KDQZJQ5](/products/b08kdqzjq5-b08kdqzjq5/) · Buy on Amazon
-- [Soldering Kit, 60W Soldering Iron, 110V Welding Kit with Ceramic Heater, Portabl](/products/b098jd8hd3-soldering-kit-60w-soldering-iron-110v-welding-kit-with-ceram/) · Buy on Amazon
+- [B0C1ZF94GW](/products/b0c1zf94gw-b0c1zf94gw/)
+- [B01N4IWH2O](/products/b01n4iwh2o-b01n4iwh2o/)
+- [Smart Ink Remanufactured Ink Cartridges Replacement for HP 962XL 962 XL Combo Pa](/products/b0dt1nnns3-product/)
+- [B0F7JTLB86](/products/b0f7jtlb86-b0f7jtlb86/)
+- [B07D5DN269](/products/b07d5dn269-b07d5dn269/)
+- [HP 63XL/65XL Black High-Yield Ink Cartridge (Replaces and Works with Both 63XL &](/products/b0gltx2pnr-product/)
+- [B08KDQZJQ5](/products/b08kdqzjq5-b08kdqzjq5/)
+- [Soldering Kit, 60W Soldering Iron, 110V Welding Kit with Ceramic Heater, Portabl](/products/b098jd8hd3-soldering-kit-60w-soldering-iron-110v-welding-kit-with-ceram/)
 
 ## Products in this guide
 

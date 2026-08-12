@@ -144,14 +144,14 @@ Understanding the type of chip involved, choosing the right reset method, and be
 
 ## Watchdog picks
 
-- [Toner Kingdom Compatible Toner-Cartridge Replacement for Canon 054H 054 High Yie](/products/b083bfpgd8-toner-kingdom-compatible-toner-cartridge-replacement-for-can/) · Buy on Amazon
-- [inkgens 31 32XL Ink Bottle Set Refill for HP Smart Tank 7600 7602 7300 7301 7001](/products/b0dpkjjrbg-product/) · Buy on Amazon
-- [Skyink Compatible Ink Cartridge Replacement for Canon 245XL 246XL 245 246 XL (Bl](/products/b0dkjdrltz-product/) · Buy on Amazon
-- [B07Q5J5XJL](/products/b07q5j5xjl-b07q5j5xjl/) · Buy on Amazon
-- [B07RYXHN2M](/products/b07ryxhn2m-b07ryxhn2m/) · Buy on Amazon
-- [B07Q5J5YXV](/products/b07q5j5yxv-b07q5j5yxv/) · Buy on Amazon
-- [280XXL 281XXL Ink for Canon Ink 280 281 Replacement for Canon TR8620 Ink Cartrid](/products/b0bvybvhk5-280xxl-281xxl-ink-for-canon-ink-280-281-replacement-for-cano/) · Buy on Amazon
-- [TN730 TN-730 Toner Cartridges Black Replacement for Brother TN730 TN-730 MFC-L27](/products/b0dfybsvb8-product/) · Buy on Amazon
+- [Toner Kingdom Compatible Toner-Cartridge Replacement for Canon 054H 054 High Yie](/products/b083bfpgd8-toner-kingdom-compatible-toner-cartridge-replacement-for-can/)
+- [inkgens 31 32XL Ink Bottle Set Refill for HP Smart Tank 7600 7602 7300 7301 7001](/products/b0dpkjjrbg-product/)
+- [Skyink Compatible Ink Cartridge Replacement for Canon 245XL 246XL 245 246 XL (Bl](/products/b0dkjdrltz-product/)
+- [B07Q5J5XJL](/products/b07q5j5xjl-b07q5j5xjl/)
+- [B07RYXHN2M](/products/b07ryxhn2m-b07ryxhn2m/)
+- [B07Q5J5YXV](/products/b07q5j5yxv-b07q5j5yxv/)
+- [280XXL 281XXL Ink for Canon Ink 280 281 Replacement for Canon TR8620 Ink Cartrid](/products/b0bvybvhk5-280xxl-281xxl-ink-for-canon-ink-280-281-replacement-for-cano/)
+- [TN730 TN-730 Toner Cartridges Black Replacement for Brother TN730 TN-730 MFC-L27](/products/b0dfybsvb8-product/)
 
 ## Products in this guide
 

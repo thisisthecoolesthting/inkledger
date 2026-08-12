@@ -213,14 +213,14 @@ Price data for this article comes from Keepa, which logs every published price c
 
 ## Watchdog picks
 
-- [218A Toner Cartridges 4 Pack (with Chip) Compatible Replacement for HP 218A 218X](/products/b0fnmzclcg-product/) · Buy on Amazon
-- [HP 134A Black Toner Cartridge Printers - Works with LaserJet M209 Series; LaserJ](/products/b08qmqnr76-product/) · Buy on Amazon
-- [B09W73NQPW](/products/b09w73nqpw-b09w73nqpw/) · Buy on Amazon
-- [B09ZVMYHGF](/products/b09zvmyhgf-b09zvmyhgf/) · Buy on Amazon
-- [B0G6Z1834N](/products/b0g6z1834n-b0g6z1834n/) · Buy on Amazon
-- [Smart Ink Remanufactured Ink Cartridges Replacement for HP 962XL 962 XL Combo Pa](/products/b0dt1nnns3-product/) · Buy on Amazon
-- [HP Original 67 Tri-Color / 67XL Black Ink Cartridges (2-Pack) - Works DeskJet 12](/products/b08swn848g-product/) · Buy on Amazon
-- [STAROVER Compatible Toner Cartridge Replacement for Samsung MLT-D111S D111S 111S](/products/b075m8yx5n-product/) · Buy on Amazon
+- [218A Toner Cartridges 4 Pack (with Chip) Compatible Replacement for HP 218A 218X](/products/b0fnmzclcg-product/)
+- [HP 134A Black Toner Cartridge Printers - Works with LaserJet M209 Series; LaserJ](/products/b08qmqnr76-product/)
+- [B09W73NQPW](/products/b09w73nqpw-b09w73nqpw/)
+- [B09ZVMYHGF](/products/b09zvmyhgf-b09zvmyhgf/)
+- [B0G6Z1834N](/products/b0g6z1834n-b0g6z1834n/)
+- [Smart Ink Remanufactured Ink Cartridges Replacement for HP 962XL 962 XL Combo Pa](/products/b0dt1nnns3-product/)
+- [HP Original 67 Tri-Color / 67XL Black Ink Cartridges (2-Pack) - Works DeskJet 12](/products/b08swn848g-product/)
+- [STAROVER Compatible Toner Cartridge Replacement for Samsung MLT-D111S D111S 111S](/products/b075m8yx5n-product/)
 
 ## Products in this guide
 

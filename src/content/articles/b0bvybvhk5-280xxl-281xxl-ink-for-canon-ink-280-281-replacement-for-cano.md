@@ -76,14 +76,14 @@ Our desk scores **value**, **spec clarity**, and **review credibility** for inkj
 
 ## Watchdog picks
 
-- [HP Original 962 Cyan, Magenta, Yellow / 962XL Black Ink Cartridges (4-Pack) - Wo](/products/b07t2s3d6j-product/) · Buy on Amazon
-- [TEINO Remanufactured 65XL Ink Cartridge Replacement for HP Envy 5055 5052 DeskJe](/products/b081grvj5k-product/) · Buy on Amazon
-- [B07G82D89G](/products/b07g82d89g-b07g82d89g/) · Buy on Amazon
-- [TN730 TN-730 Toner Cartridges Black Replacement for Brother TN730 TN-730 MFC-L27](/products/b0dfybsvb8-product/) · Buy on Amazon
-- [B0CT8ZJ7ZC](/products/b0ct8zj7zc-b0ct8zj7zc/) · Buy on Amazon
-- [B0FMBGXC2C](/products/b0fmbgxc2c-b0fmbgxc2c/) · Buy on Amazon
-- [Printer Ink 67 Compatible for HP 67 Ink Cartridges Black/Color Combo Pack for HP](/products/b0flxghlhs-product/) · Buy on Amazon
-- [EPSON 502 EcoTank Ink Ultra-high Capacity Bottle Black Works with ET-2750, 2760,](/products/b074rfmst8-product/) · Buy on Amazon
+- [HP Original 962 Cyan, Magenta, Yellow / 962XL Black Ink Cartridges (4-Pack) - Wo](/products/b07t2s3d6j-product/)
+- [TEINO Remanufactured 65XL Ink Cartridge Replacement for HP Envy 5055 5052 DeskJe](/products/b081grvj5k-product/)
+- [B07G82D89G](/products/b07g82d89g-b07g82d89g/)
+- [TN730 TN-730 Toner Cartridges Black Replacement for Brother TN730 TN-730 MFC-L27](/products/b0dfybsvb8-product/)
+- [B0CT8ZJ7ZC](/products/b0ct8zj7zc-b0ct8zj7zc/)
+- [B0FMBGXC2C](/products/b0fmbgxc2c-b0fmbgxc2c/)
+- [Printer Ink 67 Compatible for HP 67 Ink Cartridges Black/Color Combo Pack for HP](/products/b0flxghlhs-product/)
+- [EPSON 502 EcoTank Ink Ultra-high Capacity Bottle Black Works with ET-2750, 2760,](/products/b074rfmst8-product/)
 
 ## Products in this guide
 

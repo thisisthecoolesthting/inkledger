@@ -156,14 +156,14 @@ By understanding the root causes of color accuracy problems with compatible tone
 
 ## Watchdog picks
 
-- [Stuart Weitzman Women's Metro Slingback Sandal,Palomino Llama Calf,8 M US](/products/b001eq4g0o-stuart-weitzman-women-s-metro-slingback-sandal-palomino-llam/) · Buy on Amazon
-- [B00SAYAKPK](/products/b00sayakpk-b00sayakpk/) · Buy on Amazon
-- [HP OfficeJet Pro 9135 Wireless All-in-One Color Inkjet Printer, Print, Scan, Cop](/products/b0gpflm562-product/) · Buy on Amazon
-- [B07L2MZW6B](/products/b07l2mzw6b-b07l2mzw6b/) · Buy on Amazon
-- [B08R3R5KXJ](/products/b08r3r5kxj-b08r3r5kxj/) · Buy on Amazon
-- [TN730 TN-730 Black Toner Cartridges 2 Pack Compatible TN730 Toner Cartridge Repl](/products/b0c3qxmbc7-product/) · Buy on Amazon
-- [B07Q5J5YXV](/products/b07q5j5yxv-b07q5j5yxv/) · Buy on Amazon
-- [HP OfficeJet Pro 8125e Wireless All-in-One Color Inkjet Printer, Print, scan, Co](/products/b0ct8zj7zc-product/) · Buy on Amazon
+- [Stuart Weitzman Women's Metro Slingback Sandal,Palomino Llama Calf,8 M US](/products/b001eq4g0o-stuart-weitzman-women-s-metro-slingback-sandal-palomino-llam/)
+- [B00SAYAKPK](/products/b00sayakpk-b00sayakpk/)
+- [HP OfficeJet Pro 9135 Wireless All-in-One Color Inkjet Printer, Print, Scan, Cop](/products/b0gpflm562-product/)
+- [B07L2MZW6B](/products/b07l2mzw6b-b07l2mzw6b/)
+- [B08R3R5KXJ](/products/b08r3r5kxj-b08r3r5kxj/)
+- [TN730 TN-730 Black Toner Cartridges 2 Pack Compatible TN730 Toner Cartridge Repl](/products/b0c3qxmbc7-product/)
+- [B07Q5J5YXV](/products/b07q5j5yxv-b07q5j5yxv/)
+- [HP OfficeJet Pro 8125e Wireless All-in-One Color Inkjet Printer, Print, scan, Co](/products/b0ct8zj7zc-product/)
 
 ## Products in this guide
 

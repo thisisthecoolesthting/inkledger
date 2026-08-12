@@ -112,14 +112,14 @@ Ultimately, the decision to use OEM or third-party toner depends on your individ
 
 ## Watchdog picks
 
-- [HP Samsung MLT-D116L (SU832A) MLT-D116L Toner Cartridge](/products/b00c18tycy-product/) · Buy on Amazon
-- [B00WSAXBQ0](/products/b00wsaxbq0-b00wsaxbq0/) · Buy on Amazon
-- [Aomya Compatible Ink Refill kit for HP 60 61 63 64 65 902 932 952 564 Refillable](/products/b077gllzbw-product/) · Buy on Amazon
-- [B0D8B24CTB](/products/b0d8b24ctb-b0d8b24ctb/) · Buy on Amazon
-- [STAROVER Compatible Toner Cartridge Replacement for Samsung MLT-D111S D111S 111S](/products/b075m8yx5n-product/) · Buy on Amazon
-- [Brother Genuine Standard Yield Toner Cartridge, TN730, Replacement Black Toner, ](/products/b075x7tfy5-product/) · Buy on Amazon
-- [B01N4NLZJN](/products/b01n4nlzjn-b01n4nlzjn/) · Buy on Amazon
-- [HQ Replacement Soldering Iron For Hakko FX-8801 FX-888D Station](/products/b00wsaxbq0-hq-replacement-soldering-iron-for-hakko-fx-8801-fx-888d-stat/) · Buy on Amazon
+- [HP Samsung MLT-D116L (SU832A) MLT-D116L Toner Cartridge](/products/b00c18tycy-product/)
+- [B00WSAXBQ0](/products/b00wsaxbq0-b00wsaxbq0/)
+- [Aomya Compatible Ink Refill kit for HP 60 61 63 64 65 902 932 952 564 Refillable](/products/b077gllzbw-product/)
+- [B0D8B24CTB](/products/b0d8b24ctb-b0d8b24ctb/)
+- [STAROVER Compatible Toner Cartridge Replacement for Samsung MLT-D111S D111S 111S](/products/b075m8yx5n-product/)
+- [Brother Genuine Standard Yield Toner Cartridge, TN730, Replacement Black Toner, ](/products/b075x7tfy5-product/)
+- [B01N4NLZJN](/products/b01n4nlzjn-b01n4nlzjn/)
+- [HQ Replacement Soldering Iron For Hakko FX-8801 FX-888D Station](/products/b00wsaxbq0-hq-replacement-soldering-iron-for-hakko-fx-8801-fx-888d-stat/)
 
 ## Products in this guide
 

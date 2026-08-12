@@ -213,14 +213,14 @@ Price data for this article comes from Keepa, which logs every published price c
 
 ## Watchdog picks
 
-- [B00CAZAU62](/products/b00cazau62-b00cazau62/) · Buy on Amazon
-- [Genuine Brother LC3019 (LC-3019) (BK/C/M/Y) High Yield Color Ink 4-Pack (Include](/products/b06xy6rsnb-product/) · Buy on Amazon
-- [Hakko T18S3P Tip for Fx-888 Station, 5.2mm](/products/b00762ahte-hakko-t18s3p-tip-for-fx-888-station-5-2mm/) · Buy on Amazon
-- [InkOwl Compatible Ink Cartridge Replacement for Roland ECO-SOL MAX 2 Printers ES](/products/b0cyjv9x52-inkowl-compatible-ink-cartridge-replacement-for-roland-eco-s/) · Buy on Amazon
-- [B07ZHTFF44](/products/b07zhtff44-b07zhtff44/) · Buy on Amazon
-- [Under Armour Women's UA Charged Assert 8 Running Shoes 12 Black](/products/b07g82d89g-under-armour-women-s-ua-charged-assert-8-running-shoes-12-bl/) · Buy on Amazon
-- [B01N4QAK9O](/products/b01n4qak9o-b01n4qak9o/) · Buy on Amazon
-- [B000VKGRF0](/products/b000vkgrf0-b000vkgrf0/) · Buy on Amazon
+- [B00CAZAU62](/products/b00cazau62-b00cazau62/)
+- [Genuine Brother LC3019 (LC-3019) (BK/C/M/Y) High Yield Color Ink 4-Pack (Include](/products/b06xy6rsnb-product/)
+- [Hakko T18S3P Tip for Fx-888 Station, 5.2mm](/products/b00762ahte-hakko-t18s3p-tip-for-fx-888-station-5-2mm/)
+- [InkOwl Compatible Ink Cartridge Replacement for Roland ECO-SOL MAX 2 Printers ES](/products/b0cyjv9x52-inkowl-compatible-ink-cartridge-replacement-for-roland-eco-s/)
+- [B07ZHTFF44](/products/b07zhtff44-b07zhtff44/)
+- [Under Armour Women's UA Charged Assert 8 Running Shoes 12 Black](/products/b07g82d89g-under-armour-women-s-ua-charged-assert-8-running-shoes-12-bl/)
+- [B01N4QAK9O](/products/b01n4qak9o-b01n4qak9o/)
+- [B000VKGRF0](/products/b000vkgrf0-b000vkgrf0/)
 
 ## Products in this guide
 

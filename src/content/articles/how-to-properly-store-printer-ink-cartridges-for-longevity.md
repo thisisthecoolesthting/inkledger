@@ -143,14 +143,14 @@ Properly storing your printer ink cartridges is one of the best steps you can ta
 
 ## Watchdog picks
 
-- [B0BN57XFD8](/products/b0bn57xfd8-b0bn57xfd8/) · Buy on Amazon
-- [Soldering Kit, 60W Soldering Iron, 110V Welding Kit with Ceramic Heater, Portabl](/products/b098jd8hd3-soldering-kit-60w-soldering-iron-110v-welding-kit-with-ceram/) · Buy on Amazon
-- [B0FHDJXJNZ](/products/b0fhdjxjnz-b0fhdjxjnz/) · Buy on Amazon
-- [EPSON 702 DURABrite Ultra Ink Standard Capacity Black & Color Cartridge Combo Pa](/products/b06xg5zjn3-product/) · Buy on Amazon
-- [B0GYNVJ62W](/products/b0gynvj62w-b0gynvj62w/) · Buy on Amazon
-- [Epson EcoTank ET-3850 Wireless Color All-in-One Cartridge-Free Supertank with Sc](/products/b096n7txr1-product/) · Buy on Amazon
-- [B0CHJ8T7XS](/products/b0chj8t7xs-b0chj8t7xs/) · Buy on Amazon
-- [B08PDT1Y3H](/products/b08pdt1y3h-b08pdt1y3h/) · Buy on Amazon
+- [B0BN57XFD8](/products/b0bn57xfd8-b0bn57xfd8/)
+- [Soldering Kit, 60W Soldering Iron, 110V Welding Kit with Ceramic Heater, Portabl](/products/b098jd8hd3-soldering-kit-60w-soldering-iron-110v-welding-kit-with-ceram/)
+- [B0FHDJXJNZ](/products/b0fhdjxjnz-b0fhdjxjnz/)
+- [EPSON 702 DURABrite Ultra Ink Standard Capacity Black & Color Cartridge Combo Pa](/products/b06xg5zjn3-product/)
+- [B0GYNVJ62W](/products/b0gynvj62w-b0gynvj62w/)
+- [Epson EcoTank ET-3850 Wireless Color All-in-One Cartridge-Free Supertank with Sc](/products/b096n7txr1-product/)
+- [B0CHJ8T7XS](/products/b0chj8t7xs-b0chj8t7xs/)
+- [B08PDT1Y3H](/products/b08pdt1y3h-b08pdt1y3h/)
 
 ## Products in this guide
 

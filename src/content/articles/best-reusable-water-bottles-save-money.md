@@ -194,14 +194,14 @@ Total daily cost: $0.25 vs $3.48 for equivalent bottled water
 
 ## Watchdog picks
 
-- [B08QR6P8KV](/products/b08qr6p8kv-b08qr6p8kv/) · Buy on Amazon
-- [HP Samsung MLT-D116L (SU832A) MLT-D116L Toner Cartridge](/products/b00c18tycy-product/) · Buy on Amazon
-- [B07C11YW88](/products/b07c11yw88-b07c11yw88/) · Buy on Amazon
-- [B0BTSZ81C7](/products/b0btsz81c7-b0btsz81c7/) · Buy on Amazon
-- [Ink Cartridge Printer Replacement Part Compatible with Expression Photo XP-15000](/products/b0gvgsv2kl-product/) · Buy on Amazon
-- [ecodot 552 Pigment Ink Refill Ink Bottle Replacement for Epson 552 Ink Used for ](/products/b09w9mf63y-ecodot-552-pigment-ink-refill-ink-bottle-replacement-for-eps/) · Buy on Amazon
-- [CEEBOO 522 High Capacity (5 Bottles) Refill Ink Replacement for Epson Compatible](/products/b0bqqlbmpv-product/) · Buy on Amazon
-- [B0CZSFG7VX](/products/b0czsfg7vx-b0czsfg7vx/) · Buy on Amazon
+- [B08QR6P8KV](/products/b08qr6p8kv-b08qr6p8kv/)
+- [HP Samsung MLT-D116L (SU832A) MLT-D116L Toner Cartridge](/products/b00c18tycy-product/)
+- [B07C11YW88](/products/b07c11yw88-b07c11yw88/)
+- [B0BTSZ81C7](/products/b0btsz81c7-b0btsz81c7/)
+- [Ink Cartridge Printer Replacement Part Compatible with Expression Photo XP-15000](/products/b0gvgsv2kl-product/)
+- [ecodot 552 Pigment Ink Refill Ink Bottle Replacement for Epson 552 Ink Used for ](/products/b09w9mf63y-ecodot-552-pigment-ink-refill-ink-bottle-replacement-for-eps/)
+- [CEEBOO 522 High Capacity (5 Bottles) Refill Ink Replacement for Epson Compatible](/products/b0bqqlbmpv-product/)
+- [B0CZSFG7VX](/products/b0czsfg7vx-b0czsfg7vx/)
 
 ## Products in this guide
 

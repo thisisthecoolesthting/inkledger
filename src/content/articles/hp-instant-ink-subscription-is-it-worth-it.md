@@ -184,14 +184,14 @@ Price data for this article comes from Keepa, which logs every published price c
 
 ## Watchdog picks
 
-- [B00063RWT8](/products/b00063rwt8-b00063rwt8/) · Buy on Amazon
-- [B09MSPNYQ2](/products/b09mspnyq2-b09mspnyq2/) · Buy on Amazon
-- [Miss Deer LC3019XXL Ink Cartridges, Comaptible Replacement for Brother LC3019 LC](/products/b0gfmh3d3x-product/) · Buy on Amazon
-- [B07J2P2V7T](/products/b07j2p2v7t-b07j2p2v7t/) · Buy on Amazon
-- [Valuetoner 245XL Ink Cartridge Replacement for Canon 245XL 246XL Combo Pack PG-2](/products/b07tj87ykb-product/) · Buy on Amazon
-- [B0D3XGJ6HW](/products/b0d3xgj6hw-b0d3xgj6hw/) · Buy on Amazon
-- [EPSON 702 DURABrite Ultra Ink High Capacity Black & Standard Color Cartridge Com](/products/b071wb6bgn-product/) · Buy on Amazon
-- [B0FDL1LS3B](/products/b0fdl1ls3b-b0fdl1ls3b/) · Buy on Amazon
+- [B00063RWT8](/products/b00063rwt8-b00063rwt8/)
+- [B09MSPNYQ2](/products/b09mspnyq2-b09mspnyq2/)
+- [Miss Deer LC3019XXL Ink Cartridges, Comaptible Replacement for Brother LC3019 LC](/products/b0gfmh3d3x-product/)
+- [B07J2P2V7T](/products/b07j2p2v7t-b07j2p2v7t/)
+- [Valuetoner 245XL Ink Cartridge Replacement for Canon 245XL 246XL Combo Pack PG-2](/products/b07tj87ykb-product/)
+- [B0D3XGJ6HW](/products/b0d3xgj6hw-b0d3xgj6hw/)
+- [EPSON 702 DURABrite Ultra Ink High Capacity Black & Standard Color Cartridge Com](/products/b071wb6bgn-product/)
+- [B0FDL1LS3B](/products/b0fdl1ls3b-b0fdl1ls3b/)
 
 ## Products in this guide
 

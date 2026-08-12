@@ -164,14 +164,14 @@ To make a meaningful difference, choose refilling methods that substantially red
 
 ## Watchdog picks
 
-- [HQ Replacement Soldering Iron For Hakko FX-8801 FX-888D Station](/products/b00wsaxbq0-hq-replacement-soldering-iron-for-hakko-fx-8801-fx-888d-stat/) · Buy on Amazon
-- [HP 63XL/65XL Black High-Yield Ink Cartridge (Replaces and Works with Both 63XL &](/products/b0gltx2pnr-product/) · Buy on Amazon
-- [65XL 65 Ink Cartridges Black/Color Combo Pack Replacement for HP 65XL Ink Work f](/products/b0gzw7vxwt-product/) · Buy on Amazon
-- [B0FMBTJLX6](/products/b0fmbtjlx6-b0fmbtjlx6/) · Buy on Amazon
-- [B0C1ZF94GW](/products/b0c1zf94gw-b0c1zf94gw/) · Buy on Amazon
-- [E-Z Ink Remanufactured Ink Cartridge Replacement for 252XL Combo Pack for Epson ](/products/b082y7x9h5-e-z-ink-remanufactured-ink-cartridge-replacement-for-252xl-c/) · Buy on Amazon
-- [HP (Refurbished) OfficeJet Pro 9015e All-in-One Wireless Color Printer for Home ](/products/b092t3gbwk-product/) · Buy on Amazon
-- [Utopia Bedding Bed Pillows for Sleeping Queen Size (Blue), Set of 6, Cooling Hot](/products/b07j2p2v7t-utopia-bedding-bed-pillows-for-sleeping-queen-size-blue-set-/) · Buy on Amazon
+- [HQ Replacement Soldering Iron For Hakko FX-8801 FX-888D Station](/products/b00wsaxbq0-hq-replacement-soldering-iron-for-hakko-fx-8801-fx-888d-stat/)
+- [HP 63XL/65XL Black High-Yield Ink Cartridge (Replaces and Works with Both 63XL &](/products/b0gltx2pnr-product/)
+- [65XL 65 Ink Cartridges Black/Color Combo Pack Replacement for HP 65XL Ink Work f](/products/b0gzw7vxwt-product/)
+- [B0FMBTJLX6](/products/b0fmbtjlx6-b0fmbtjlx6/)
+- [B0C1ZF94GW](/products/b0c1zf94gw-b0c1zf94gw/)
+- [E-Z Ink Remanufactured Ink Cartridge Replacement for 252XL Combo Pack for Epson ](/products/b082y7x9h5-e-z-ink-remanufactured-ink-cartridge-replacement-for-252xl-c/)
+- [HP (Refurbished) OfficeJet Pro 9015e All-in-One Wireless Color Printer for Home ](/products/b092t3gbwk-product/)
+- [Utopia Bedding Bed Pillows for Sleeping Queen Size (Blue), Set of 6, Cooling Hot](/products/b07j2p2v7t-utopia-bedding-bed-pillows-for-sleeping-queen-size-blue-set-/)
 
 ## Products in this guide
 

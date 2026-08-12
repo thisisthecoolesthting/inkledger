@@ -169,14 +169,14 @@ Understanding the real differences between OEM and compatible ink cartridges hel
 
 ## Watchdog picks
 
-- [B00NQ1CLTI](/products/b00nq1clti-b00nq1clti/) · Buy on Amazon
-- [B0C1ZF94GW](/products/b0c1zf94gw-b0c1zf94gw/) · Buy on Amazon
-- [B0FBRH75LK](/products/b0fbrh75lk-b0fbrh75lk/) · Buy on Amazon
-- [B0FLXG5Z7Q](/products/b0flxg5z7q-b0flxg5z7q/) · Buy on Amazon
-- [Soldering Iron Kit, 80W 110V Fast Heat up in 10s LCD Digital Adjustable Temperat](/products/b08pzbpxlz-soldering-iron-kit-80w-110v-fast-heat-up-in-10s-lcd-digital-/) · Buy on Amazon
-- [B09W73NQPW](/products/b09w73nqpw-b09w73nqpw/) · Buy on Amazon
-- [EPSON 702 DURABrite Ultra Ink Standard Capacity Black Cartridge (T702120-S) Work](/products/b06xgmwmdw-product/) · Buy on Amazon
-- [HP 65 Black Ink Cartridge - Works with AMP 100, DeskJet 2600, 3700; Envy 5000 - ](/products/b01bykui9c-product/) · Buy on Amazon
+- [B00NQ1CLTI](/products/b00nq1clti-b00nq1clti/)
+- [B0C1ZF94GW](/products/b0c1zf94gw-b0c1zf94gw/)
+- [B0FBRH75LK](/products/b0fbrh75lk-b0fbrh75lk/)
+- [B0FLXG5Z7Q](/products/b0flxg5z7q-b0flxg5z7q/)
+- [Soldering Iron Kit, 80W 110V Fast Heat up in 10s LCD Digital Adjustable Temperat](/products/b08pzbpxlz-soldering-iron-kit-80w-110v-fast-heat-up-in-10s-lcd-digital-/)
+- [B09W73NQPW](/products/b09w73nqpw-b09w73nqpw/)
+- [EPSON 702 DURABrite Ultra Ink Standard Capacity Black Cartridge (T702120-S) Work](/products/b06xgmwmdw-product/)
+- [HP 65 Black Ink Cartridge - Works with AMP 100, DeskJet 2600, 3700; Envy 5000 - ](/products/b01bykui9c-product/)
 
 ## Products in this guide
 

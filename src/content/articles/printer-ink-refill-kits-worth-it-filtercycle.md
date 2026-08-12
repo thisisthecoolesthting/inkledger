@@ -200,14 +200,14 @@ Surprisingly, ink subscriptions make financial sense for users printing 50-150 p
 
 ## Watchdog picks
 
-- [B08PDHVZ4N](/products/b08pdhvz4n-b08pdhvz4n/) · Buy on Amazon
-- [B0854BN273](/products/b0854bn273-b0854bn273/) · Buy on Amazon
-- [B09XT22566](/products/b09xt22566-b09xt22566/) · Buy on Amazon
-- [Soldering Iron Kit, 60W Adjustable Temperature, Digital Multimeter, 5pcs Solderi](/products/b09vxq221k-soldering-iron-kit-60w-adjustable-temperature-digital-multim/) · Buy on Amazon
-- [Brother Genuine TN760 High Yield Black Toner Cartridge, (for use with MFC-L2710D](/products/b075x6c5zw-product/) · Buy on Amazon
-- [HP 63XL/65XL Black High-Yield Ink Cartridge (Replaces and Works with Both 63XL &](/products/b0gltx2pnr-product/) · Buy on Amazon
-- [B01NBB1J9U](/products/b01nbb1j9u-b01nbb1j9u/) · Buy on Amazon
-- [B07YPR2DGH](/products/b07ypr2dgh-b07ypr2dgh/) · Buy on Amazon
+- [B08PDHVZ4N](/products/b08pdhvz4n-b08pdhvz4n/)
+- [B0854BN273](/products/b0854bn273-b0854bn273/)
+- [B09XT22566](/products/b09xt22566-b09xt22566/)
+- [Soldering Iron Kit, 60W Adjustable Temperature, Digital Multimeter, 5pcs Solderi](/products/b09vxq221k-soldering-iron-kit-60w-adjustable-temperature-digital-multim/)
+- [Brother Genuine TN760 High Yield Black Toner Cartridge, (for use with MFC-L2710D](/products/b075x6c5zw-product/)
+- [HP 63XL/65XL Black High-Yield Ink Cartridge (Replaces and Works with Both 63XL &](/products/b0gltx2pnr-product/)
+- [B01NBB1J9U](/products/b01nbb1j9u-b01nbb1j9u/)
+- [B07YPR2DGH](/products/b07ypr2dgh-b07ypr2dgh/)
 
 ## Products in this guide
 

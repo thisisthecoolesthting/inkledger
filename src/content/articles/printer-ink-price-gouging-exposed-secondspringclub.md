@@ -280,14 +280,14 @@ Epson EcoTank 2850
 
 ## Watchdog picks
 
-- [B09TG52XT4](/products/b09tg52xt4-b09tg52xt4/) · Buy on Amazon
-- [EPSON 702 DURABrite Ultra Ink Standard Capacity Black Cartridge (T702120-S) Work](/products/b06xgmwmdw-product/) · Buy on Amazon
-- [Skydo LC3019XXL Ink Cartridges Replacement for LC3019 XXL LC 3019-XXL LC3019 Wor](/products/b0ds4m632h-product/) · Buy on Amazon
-- [B07Q5J5YXV](/products/b07q5j5yxv-b07q5j5yxv/) · Buy on Amazon
-- [Fanttik T1 Max Soldering Iron Kit, Cordless Soldering Iron, 7 Seconds Fast Heati](/products/b0d41zmdpd-fanttik-t1-max-soldering-iron-kit-cordless-soldering-iron-7-/) · Buy on Amazon
-- [60W Adjustable Temperature Soldering Iron Kit - 9-in-1 With 5 Tips, Solder Wire ](/products/b09dy7ccw5-60w-adjustable-temperature-soldering-iron-kit-9-in-1-with-5-/) · Buy on Amazon
-- [B0G34F2S65](/products/b0g34f2s65-b0g34f2s65/) · Buy on Amazon
-- [280XXL 281XXL Ink for Canon Ink 280 281 Replacement for Canon TR8620 Ink Cartrid](/products/b0bvybvhk5-280xxl-281xxl-ink-for-canon-ink-280-281-replacement-for-cano/) · Buy on Amazon
+- [B09TG52XT4](/products/b09tg52xt4-b09tg52xt4/)
+- [EPSON 702 DURABrite Ultra Ink Standard Capacity Black Cartridge (T702120-S) Work](/products/b06xgmwmdw-product/)
+- [Skydo LC3019XXL Ink Cartridges Replacement for LC3019 XXL LC 3019-XXL LC3019 Wor](/products/b0ds4m632h-product/)
+- [B07Q5J5YXV](/products/b07q5j5yxv-b07q5j5yxv/)
+- [Fanttik T1 Max Soldering Iron Kit, Cordless Soldering Iron, 7 Seconds Fast Heati](/products/b0d41zmdpd-fanttik-t1-max-soldering-iron-kit-cordless-soldering-iron-7-/)
+- [60W Adjustable Temperature Soldering Iron Kit - 9-in-1 With 5 Tips, Solder Wire ](/products/b09dy7ccw5-60w-adjustable-temperature-soldering-iron-kit-9-in-1-with-5-/)
+- [B0G34F2S65](/products/b0g34f2s65-b0g34f2s65/)
+- [280XXL 281XXL Ink for Canon Ink 280 281 Replacement for Canon TR8620 Ink Cartrid](/products/b0bvybvhk5-280xxl-281xxl-ink-for-canon-ink-280-281-replacement-for-cano/)
 
 ## Products in this guide
 

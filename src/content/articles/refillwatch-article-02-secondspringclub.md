@@ -197,14 +197,14 @@ The $0.99/month plan seems cheap but:
 
 ## Watchdog picks
 
-- [B0GRGQR634](/products/b0grgqr634-b0grgqr634/) · Buy on Amazon
-- [B089CGSV4N](/products/b089cgsv4n-b089cgsv4n/) · Buy on Amazon
-- [B00CAZAU62](/products/b00cazau62-b00cazau62/) · Buy on Amazon
-- [B0G6YZ5YFV](/products/b0g6yz5yfv-b0g6yz5yfv/) · Buy on Amazon
-- [B00762AHTE](/products/b00762ahte-b00762ahte/) · Buy on Amazon
-- [Skydo 141A Toner Cartridge 2 Black Replacement for HP 141A W1410A 141X W1410X To](/products/b0gf3bx4p4-product/) · Buy on Amazon
-- [65XL Ink Cartridges Black/Color Combo Pack High-Yield Replacement for HP Ink 65 ](/products/b0f1cj93jj-product/) · Buy on Amazon
-- [B0CPB11F85](/products/b0cpb11f85-b0cpb11f85/) · Buy on Amazon
+- [B0GRGQR634](/products/b0grgqr634-b0grgqr634/)
+- [B089CGSV4N](/products/b089cgsv4n-b089cgsv4n/)
+- [B00CAZAU62](/products/b00cazau62-b00cazau62/)
+- [B0G6YZ5YFV](/products/b0g6yz5yfv-b0g6yz5yfv/)
+- [B00762AHTE](/products/b00762ahte-b00762ahte/)
+- [Skydo 141A Toner Cartridge 2 Black Replacement for HP 141A W1410A 141X W1410X To](/products/b0gf3bx4p4-product/)
+- [65XL Ink Cartridges Black/Color Combo Pack High-Yield Replacement for HP Ink 65 ](/products/b0f1cj93jj-product/)
+- [B0CPB11F85](/products/b0cpb11f85-b0cpb11f85/)
 
 ## Products in this guide
 

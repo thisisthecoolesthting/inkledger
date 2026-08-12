@@ -160,14 +160,14 @@ Buying only two Epson 202 color cartridges often costs more than acquiring the w
 
 ## Watchdog picks
 
-- [TN730 TN-730 Toner Cartridges Black Replacement for Brother TN730 TN-730 MFC-L27](/products/b0dfybsvb8-product/) · Buy on Amazon
-- [EPSON 702 DURABrite Ultra Ink Standard Capacity Black Cartridge (T702120-S) Work](/products/b06xgmwmdw-product/) · Buy on Amazon
-- [Aomya Ink Refill kit 5x100ml for Canon 250 251 270 271 280 281 1200 2200 PG240 C](/products/b07c4hmjfs-product/) · Buy on Amazon
-- [HP 67 Black/Tri-Color Ink Cartridges (2-Pack) - Works with DeskJet 1255, 2700, 4](/products/b08412hxk9-product/) · Buy on Amazon
-- [B08K3J4WX6](/products/b08k3j4wx6-b08k3j4wx6/) · Buy on Amazon
-- [218A Toner Cartridges 4 Pack (with Chip) Compatible Replacement for HP 218A 218X](/products/b0fnmzclcg-product/) · Buy on Amazon
-- [HP OfficeJet Pro 9125e Wireless All-in-One Color Inkjet Printer, Print, scan, co](/products/b0cfm82ns2-product/) · Buy on Amazon
-- [HP 962 Cyan, Magenta, Yellow Ink Cartridges - Works with OfficeJet 9010, 9020 - ](/products/b07mcydd62-product/) · Buy on Amazon
+- [TN730 TN-730 Toner Cartridges Black Replacement for Brother TN730 TN-730 MFC-L27](/products/b0dfybsvb8-product/)
+- [EPSON 702 DURABrite Ultra Ink Standard Capacity Black Cartridge (T702120-S) Work](/products/b06xgmwmdw-product/)
+- [Aomya Ink Refill kit 5x100ml for Canon 250 251 270 271 280 281 1200 2200 PG240 C](/products/b07c4hmjfs-product/)
+- [HP 67 Black/Tri-Color Ink Cartridges (2-Pack) - Works with DeskJet 1255, 2700, 4](/products/b08412hxk9-product/)
+- [B08K3J4WX6](/products/b08k3j4wx6-b08k3j4wx6/)
+- [218A Toner Cartridges 4 Pack (with Chip) Compatible Replacement for HP 218A 218X](/products/b0fnmzclcg-product/)
+- [HP OfficeJet Pro 9125e Wireless All-in-One Color Inkjet Printer, Print, scan, co](/products/b0cfm82ns2-product/)
+- [HP 962 Cyan, Magenta, Yellow Ink Cartridges - Works with OfficeJet 9010, 9020 - ](/products/b07mcydd62-product/)
 
 ## Products in this guide
 

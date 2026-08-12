@@ -234,14 +234,14 @@ Price data for this article comes from Keepa, which logs every published price c
 
 ## Watchdog picks
 
-- [B0H1M158VT](/products/b0h1m158vt-b0h1m158vt/) · Buy on Amazon
-- [B000NL0T1K](/products/b000nl0t1k-b000nl0t1k/) · Buy on Amazon
-- [HP 134A Black Toner Cartridge Printers - Works with LaserJet M209 Series; LaserJ](/products/b08qmqnr76-product/) · Buy on Amazon
-- [280XXL 281XXL Ink for Canon Ink 280 281 Replacement for Canon TR8620 Ink Cartrid](/products/b0bvybvhk5-280xxl-281xxl-ink-for-canon-ink-280-281-replacement-for-cano/) · Buy on Amazon
-- [65 65XL Black Ink Cartridges Replacement for HP 65XL Black Ink Cartridge Work fo](/products/b0gvm6yy7b-product/) · Buy on Amazon
-- [B0CT2QHQVF](/products/b0ct2qhqvf-b0ct2qhqvf/) · Buy on Amazon
-- [B01N7V39UO](/products/b01n7v39uo-b01n7v39uo/) · Buy on Amazon
-- [B0GMKRR64P](/products/b0gmkrr64p-b0gmkrr64p/) · Buy on Amazon
+- [B0H1M158VT](/products/b0h1m158vt-b0h1m158vt/)
+- [B000NL0T1K](/products/b000nl0t1k-b000nl0t1k/)
+- [HP 134A Black Toner Cartridge Printers - Works with LaserJet M209 Series; LaserJ](/products/b08qmqnr76-product/)
+- [280XXL 281XXL Ink for Canon Ink 280 281 Replacement for Canon TR8620 Ink Cartrid](/products/b0bvybvhk5-280xxl-281xxl-ink-for-canon-ink-280-281-replacement-for-cano/)
+- [65 65XL Black Ink Cartridges Replacement for HP 65XL Black Ink Cartridge Work fo](/products/b0gvm6yy7b-product/)
+- [B0CT2QHQVF](/products/b0ct2qhqvf-b0ct2qhqvf/)
+- [B01N7V39UO](/products/b01n7v39uo-b01n7v39uo/)
+- [B0GMKRR64P](/products/b0gmkrr64p-b0gmkrr64p/)
 
 ## Products in this guide
 

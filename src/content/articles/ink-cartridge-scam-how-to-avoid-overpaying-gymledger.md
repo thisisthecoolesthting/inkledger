@@ -134,14 +134,14 @@ Tradeoffs:
 
 ## Watchdog picks
 
-- [B0FGC43YCL](/products/b0fgc43ycl-b0fgc43ycl/) · Buy on Amazon
-- [HP OfficeJet Pro 9135 Wireless All-in-One Color Inkjet Printer, Print, Scan, Cop](/products/b0gpflm562-product/) · Buy on Amazon
-- [B08VF3XRQ8](/products/b08vf3xrq8-b08vf3xrq8/) · Buy on Amazon
-- [B000VKGRF0](/products/b000vkgrf0-b000vkgrf0/) · Buy on Amazon
-- [BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face Mask, Po](/products/b0b2rm68g2-biodance-bio-collagen-real-deep-mask-hydrating-overnight-hyd/) · Buy on Amazon
-- [Compatible for EPT502 Ink Refill Bottles ET-2850 ET-3850 ET-4850 ET-15000 Ink Re](/products/b0gbvmmj3v-product/) · Buy on Amazon
-- [HQ Replacement Soldering Iron For Hakko FX-8801 FX-888D Station](/products/b00wsaxbq0-hq-replacement-soldering-iron-for-hakko-fx-8801-fx-888d-stat/) · Buy on Amazon
-- [B0BVD54HPS](/products/b0bvd54hps-b0bvd54hps/) · Buy on Amazon
+- [B0FGC43YCL](/products/b0fgc43ycl-b0fgc43ycl/)
+- [HP OfficeJet Pro 9135 Wireless All-in-One Color Inkjet Printer, Print, Scan, Cop](/products/b0gpflm562-product/)
+- [B08VF3XRQ8](/products/b08vf3xrq8-b08vf3xrq8/)
+- [B000VKGRF0](/products/b000vkgrf0-b000vkgrf0/)
+- [BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face Mask, Po](/products/b0b2rm68g2-biodance-bio-collagen-real-deep-mask-hydrating-overnight-hyd/)
+- [Compatible for EPT502 Ink Refill Bottles ET-2850 ET-3850 ET-4850 ET-15000 Ink Re](/products/b0gbvmmj3v-product/)
+- [HQ Replacement Soldering Iron For Hakko FX-8801 FX-888D Station](/products/b00wsaxbq0-hq-replacement-soldering-iron-for-hakko-fx-8801-fx-888d-stat/)
+- [B0BVD54HPS](/products/b0bvd54hps-b0bvd54hps/)
 
 ## Products in this guide
 

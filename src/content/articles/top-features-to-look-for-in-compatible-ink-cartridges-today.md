@@ -143,14 +143,14 @@ Choosing the right compatible ink cartridge isn’t just about upfront savings; 
 
 ## Watchdog picks
 
-- [Epson EcoTank ET-2400 Wireless Color All-in-One Cartridge-Free Supertank Printer](/products/b0bm9bflmx-product/) · Buy on Amazon
-- [Soldering Iron Kit, 60W Adjustable Temperature, Digital Multimeter, 5pcs Solderi](/products/b09vxq221k-soldering-iron-kit-60w-adjustable-temperature-digital-multim/) · Buy on Amazon
-- [B0G1N9SX2M](/products/b0g1n9sx2m-b0g1n9sx2m/) · Buy on Amazon
-- [B0D3XGJ6HW](/products/b0d3xgj6hw-b0d3xgj6hw/) · Buy on Amazon
-- [Brother Genuine TN730 3-Pack Standard Yield Black Toner Cartridge with Approxima](/products/b07q8bd3mk-product/) · Buy on Amazon
-- [HP 962 Cyan, Magenta, Yellow Ink Cartridges - Works with OfficeJet 9010, 9020 - ](/products/b07mcydd62-product/) · Buy on Amazon
-- [Downy Fabric Softener Dryer Sheets, April Fresh, 120 Count](/products/b0014d3n0q-downy-fabric-softener-dryer-sheets-april-fresh-120-count/) · Buy on Amazon
-- [AYMSous 5-Pack Universal Ink Refill Kit for All HP Canon Epsn Brother Printers C](/products/b0cct8h4yk-product/) · Buy on Amazon
+- [Epson EcoTank ET-2400 Wireless Color All-in-One Cartridge-Free Supertank Printer](/products/b0bm9bflmx-product/)
+- [Soldering Iron Kit, 60W Adjustable Temperature, Digital Multimeter, 5pcs Solderi](/products/b09vxq221k-soldering-iron-kit-60w-adjustable-temperature-digital-multim/)
+- [B0G1N9SX2M](/products/b0g1n9sx2m-b0g1n9sx2m/)
+- [B0D3XGJ6HW](/products/b0d3xgj6hw-b0d3xgj6hw/)
+- [Brother Genuine TN730 3-Pack Standard Yield Black Toner Cartridge with Approxima](/products/b07q8bd3mk-product/)
+- [HP 962 Cyan, Magenta, Yellow Ink Cartridges - Works with OfficeJet 9010, 9020 - ](/products/b07mcydd62-product/)
+- [Downy Fabric Softener Dryer Sheets, April Fresh, 120 Count](/products/b0014d3n0q-downy-fabric-softener-dryer-sheets-april-fresh-120-count/)
+- [AYMSous 5-Pack Universal Ink Refill Kit for All HP Canon Epsn Brother Printers C](/products/b0cct8h4yk-product/)
 
 ## Products in this guide
 

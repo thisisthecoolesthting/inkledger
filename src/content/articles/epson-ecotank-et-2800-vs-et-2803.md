@@ -127,14 +127,14 @@ Ultimately, the choice is yours. But by understanding the differences (or lack t
 
 ## Watchdog picks
 
-- [B07D5DN269](/products/b07d5dn269-b07d5dn269/) · Buy on Amazon
-- [B07N1DF9VV](/products/b07n1df9vv-b07n1df9vv/) · Buy on Amazon
-- [HP OfficeJet Pro 8125e Wireless All-in-One Color Inkjet Printer, Print, scan, Co](/products/b0ct8zj7zc-product/) · Buy on Amazon
-- [Epson EcoTank ET-2988 Wireless All-in-One Color Supertank Printer with up to 3 Y](/products/b0h476662h-product/) · Buy on Amazon
-- [B00CAZAU62](/products/b00cazau62-b00cazau62/) · Buy on Amazon
-- [Brother Genuine Standard Yield Toner Cartridge, TN730, Replacement Black Toner, ](/products/b075x7tfy5-product/) · Buy on Amazon
-- [LEVOIT Air Purifier for Home Allergies Pet Hair in Bedroom, Covers Up to 1073 ft](/products/b07vvk39f7-levoit-air-purifier-for-home-allergies-pet-hair-in-bedroom-c/) · Buy on Amazon
-- [Epson EcoTank ET-2800 Wireless Color All-in-One Cartridge-Free Ink Supertank Pri](/products/b096n8cnbz-product/) · Buy on Amazon
+- [B07D5DN269](/products/b07d5dn269-b07d5dn269/)
+- [B07N1DF9VV](/products/b07n1df9vv-b07n1df9vv/)
+- [HP OfficeJet Pro 8125e Wireless All-in-One Color Inkjet Printer, Print, scan, Co](/products/b0ct8zj7zc-product/)
+- [Epson EcoTank ET-2988 Wireless All-in-One Color Supertank Printer with up to 3 Y](/products/b0h476662h-product/)
+- [B00CAZAU62](/products/b00cazau62-b00cazau62/)
+- [Brother Genuine Standard Yield Toner Cartridge, TN730, Replacement Black Toner, ](/products/b075x7tfy5-product/)
+- [LEVOIT Air Purifier for Home Allergies Pet Hair in Bedroom, Covers Up to 1073 ft](/products/b07vvk39f7-levoit-air-purifier-for-home-allergies-pet-hair-in-bedroom-c/)
+- [Epson EcoTank ET-2800 Wireless Color All-in-One Cartridge-Free Ink Supertank Pri](/products/b096n8cnbz-product/)
 
 ## Products in this guide
 

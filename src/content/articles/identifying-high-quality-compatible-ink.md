@@ -140,14 +140,14 @@ Choosing compatible ink doesn't have to be a shot in the dark. By understanding 
 
 ## Watchdog picks
 
-- [Epson EcoTank ET-2988 Wireless All-in-One Color Supertank Printer with up to 3 Y](/products/b0h476662h-product/) · Buy on Amazon
-- [myCartridge SUPRINT Remanufactured Replacement for Epson 702 Ink Cartridges 702X](/products/b0fb96px2m-product/) · Buy on Amazon
-- [Epson EcoTank ET-2980 Wireless All-in-One Color Supertank Printer with Refillabl](/products/b0f1fbqrvb-product/) · Buy on Amazon
-- [Soldering Iron Kit, 80W 110V Fast Heat up in 10s LCD Digital Adjustable Temperat](/products/b08pzbpxlz-soldering-iron-kit-80w-110v-fast-heat-up-in-10s-lcd-digital-/) · Buy on Amazon
-- [B0G6Z1834N](/products/b0g6z1834n-b0g6z1834n/) · Buy on Amazon
-- [AZ Compatible Toner Cartridge Replacement for Dell 1250, 1250BK / 1250C / 1250Y ](/products/b00qj88sb0-product/) · Buy on Amazon
-- [TEINO Remanufactured Ink Cartridge Replacement for HP 65 65XL 65 XL use with HP ](/products/b0836myjsd-product/) · Buy on Amazon
-- [B0GTL8RCGK](/products/b0gtl8rcgk-b0gtl8rcgk/) · Buy on Amazon
+- [Epson EcoTank ET-2988 Wireless All-in-One Color Supertank Printer with up to 3 Y](/products/b0h476662h-product/)
+- [myCartridge SUPRINT Remanufactured Replacement for Epson 702 Ink Cartridges 702X](/products/b0fb96px2m-product/)
+- [Epson EcoTank ET-2980 Wireless All-in-One Color Supertank Printer with Refillabl](/products/b0f1fbqrvb-product/)
+- [Soldering Iron Kit, 80W 110V Fast Heat up in 10s LCD Digital Adjustable Temperat](/products/b08pzbpxlz-soldering-iron-kit-80w-110v-fast-heat-up-in-10s-lcd-digital-/)
+- [B0G6Z1834N](/products/b0g6z1834n-b0g6z1834n/)
+- [AZ Compatible Toner Cartridge Replacement for Dell 1250, 1250BK / 1250C / 1250Y ](/products/b00qj88sb0-product/)
+- [TEINO Remanufactured Ink Cartridge Replacement for HP 65 65XL 65 XL use with HP ](/products/b0836myjsd-product/)
+- [B0GTL8RCGK](/products/b0gtl8rcgk-b0gtl8rcgk/)
 
 ## Products in this guide
 

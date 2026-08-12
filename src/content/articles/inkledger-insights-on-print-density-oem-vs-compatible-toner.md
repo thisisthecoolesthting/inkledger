@@ -189,14 +189,14 @@ By understanding how toner chemistry, cartridge design, and printer software aff
 
 ## Watchdog picks
 
-- [Hakko T18S3P Tip for Fx-888 Station, 5.2mm](/products/b00762ahte-hakko-t18s3p-tip-for-fx-888-station-5-2mm/) · Buy on Amazon
-- [Soldering Kit, 60W Soldering Iron, 110V Welding Kit with Ceramic Heater, Portabl](/products/b098jd8hd3-soldering-kit-60w-soldering-iron-110v-welding-kit-with-ceram/) · Buy on Amazon
-- [B08JHWZ15B](/products/b08jhwz15b-b08jhwz15b/) · Buy on Amazon
-- [Epson EcoTank ET-3950 Wireless All-in-One Color Supertank Printer with up to 3 Y](/products/b0fc5xfvh7-product/) · Buy on Amazon
-- [TN730 TN-730 Toner Cartridges Black Replacement for Brother TN730 TN-730 MFC-L27](/products/b0dfybsvb8-product/) · Buy on Amazon
-- [B07J2P2V7T](/products/b07j2p2v7t-b07j2p2v7t/) · Buy on Amazon
-- [B0GYRCQLFV](/products/b0gyrcqlfv-b0gyrcqlfv/) · Buy on Amazon
-- [EPSON 502 EcoTank Ink Ultra-high Capacity Bottle Color Combo Pack Works with ET-](/products/b074rg6pn1-product/) · Buy on Amazon
+- [Hakko T18S3P Tip for Fx-888 Station, 5.2mm](/products/b00762ahte-hakko-t18s3p-tip-for-fx-888-station-5-2mm/)
+- [Soldering Kit, 60W Soldering Iron, 110V Welding Kit with Ceramic Heater, Portabl](/products/b098jd8hd3-soldering-kit-60w-soldering-iron-110v-welding-kit-with-ceram/)
+- [B08JHWZ15B](/products/b08jhwz15b-b08jhwz15b/)
+- [Epson EcoTank ET-3950 Wireless All-in-One Color Supertank Printer with up to 3 Y](/products/b0fc5xfvh7-product/)
+- [TN730 TN-730 Toner Cartridges Black Replacement for Brother TN730 TN-730 MFC-L27](/products/b0dfybsvb8-product/)
+- [B07J2P2V7T](/products/b07j2p2v7t-b07j2p2v7t/)
+- [B0GYRCQLFV](/products/b0gyrcqlfv-b0gyrcqlfv/)
+- [EPSON 502 EcoTank Ink Ultra-high Capacity Bottle Color Combo Pack Works with ET-](/products/b074rg6pn1-product/)
 
 ## Products in this guide
 

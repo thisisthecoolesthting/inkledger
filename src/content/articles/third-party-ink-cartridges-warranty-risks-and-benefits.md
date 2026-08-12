@@ -262,14 +262,14 @@ Price data for this article comes from Keepa, which logs every published price c
 
 ## Watchdog picks
 
-- [B08QR6P8KV](/products/b08qr6p8kv-b08qr6p8kv/) · Buy on Amazon
-- [EPSON 502 EcoTank Ink Ultra-high Capacity Bottle Color Combo Pack Works with ET-](/products/b074rg6pn1-product/) · Buy on Amazon
-- [B01N5Q9Q6J](/products/b01n5q9q6j-b01n5q9q6j/) · Buy on Amazon
-- [B000N3BBW0](/products/b000n3bbw0-b000n3bbw0/) · Buy on Amazon
-- [Epson EcoTank ET-2400 Wireless Color All-in-One Cartridge-Free Supertank Printer](/products/b0bm9bflmx-product/) · Buy on Amazon
-- [LxTek Compatible Toner Cartridge 6510 6515 106R03480 106R03477 106R03478 106R034](/products/b08gx3k9ys-lxtek-compatible-toner-cartridge-6510-6515-106r03480-106r034/) · Buy on Amazon
-- [B08R3R5KXJ](/products/b08r3r5kxj-b08r3r5kxj/) · Buy on Amazon
-- [ecodot 552 Pigment Ink Refill Ink Bottle Replacement for Epson 552 Ink Used for ](/products/b09w9mf63y-ecodot-552-pigment-ink-refill-ink-bottle-replacement-for-eps/) · Buy on Amazon
+- [B08QR6P8KV](/products/b08qr6p8kv-b08qr6p8kv/)
+- [EPSON 502 EcoTank Ink Ultra-high Capacity Bottle Color Combo Pack Works with ET-](/products/b074rg6pn1-product/)
+- [B01N5Q9Q6J](/products/b01n5q9q6j-b01n5q9q6j/)
+- [B000N3BBW0](/products/b000n3bbw0-b000n3bbw0/)
+- [Epson EcoTank ET-2400 Wireless Color All-in-One Cartridge-Free Supertank Printer](/products/b0bm9bflmx-product/)
+- [LxTek Compatible Toner Cartridge 6510 6515 106R03480 106R03477 106R03478 106R034](/products/b08gx3k9ys-lxtek-compatible-toner-cartridge-6510-6515-106r03480-106r034/)
+- [B08R3R5KXJ](/products/b08r3r5kxj-b08r3r5kxj/)
+- [ecodot 552 Pigment Ink Refill Ink Bottle Replacement for Epson 552 Ink Used for ](/products/b09w9mf63y-ecodot-552-pigment-ink-refill-ink-bottle-replacement-for-eps/)
 
 ## Products in this guide
 

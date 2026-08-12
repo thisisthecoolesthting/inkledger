@@ -150,14 +150,14 @@ Compatible toner cartridges represent a practical and cost-effective alternative
 
 ## Watchdog picks
 
-- [962XL Ink Cartridges for HP 962XL Ink Cartridges Combo Pack Work for HP Officeje](/products/b0d3xgj6hw-product/) · Buy on Amazon
-- [Soldering Iron Kit, 60W LED Display Digital Solder Pen, 5 Replaceable Tips, 21-i](/products/b0d92pvdqh-soldering-iron-kit-60w-led-display-digital-solder-pen-5-repl/) · Buy on Amazon
-- [B002R5AF1I](/products/b002r5af1i-b002r5af1i/) · Buy on Amazon
-- [B00CAZAU62](/products/b00cazau62-b00cazau62/) · Buy on Amazon
-- [B00762AHTE](/products/b00762ahte-b00762ahte/) · Buy on Amazon
-- [AYMSous Ink Refill Kit for HP 60 61 63 64 65 902 932 952 950 951 564 Refillable ](/products/b09qcg2pm6-product/) · Buy on Amazon
-- [B07YPR2DGH](/products/b07ypr2dgh-b07ypr2dgh/) · Buy on Amazon
-- [B0014D3N0Q](/products/b0014d3n0q-b0014d3n0q/) · Buy on Amazon
+- [962XL Ink Cartridges for HP 962XL Ink Cartridges Combo Pack Work for HP Officeje](/products/b0d3xgj6hw-product/)
+- [Soldering Iron Kit, 60W LED Display Digital Solder Pen, 5 Replaceable Tips, 21-i](/products/b0d92pvdqh-soldering-iron-kit-60w-led-display-digital-solder-pen-5-repl/)
+- [B002R5AF1I](/products/b002r5af1i-b002r5af1i/)
+- [B00CAZAU62](/products/b00cazau62-b00cazau62/)
+- [B00762AHTE](/products/b00762ahte-b00762ahte/)
+- [AYMSous Ink Refill Kit for HP 60 61 63 64 65 902 932 952 950 951 564 Refillable ](/products/b09qcg2pm6-product/)
+- [B07YPR2DGH](/products/b07ypr2dgh-b07ypr2dgh/)
+- [B0014D3N0Q](/products/b0014d3n0q-b0014d3n0q/)
 
 ## Products in this guide
 

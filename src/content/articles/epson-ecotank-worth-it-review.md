@@ -207,14 +207,14 @@ Price data for this article comes from Keepa, which logs every published price c
 
 ## Watchdog picks
 
-- [B004QM8SLG](/products/b004qm8slg-b004qm8slg/) · Buy on Amazon
-- [B0D8B24CTB](/products/b0d8b24ctb-b0d8b24ctb/) · Buy on Amazon
-- [B000VKGRF0](/products/b000vkgrf0-b000vkgrf0/) · Buy on Amazon
-- [WEP 926LED V3 Soldering Station 130W MAX Soldering Iron Kit with Solder Wire, 5 ](/products/b0bx2n258s-wep-926led-v3-soldering-station-130w-max-soldering-iron-kit-/) · Buy on Amazon
-- [B0DT1NNNS3](/products/b0dt1nnns3-b0dt1nnns3/) · Buy on Amazon
-- [Soldering Kit, 60W Soldering Iron, 110V Welding Kit with Ceramic Heater, Portabl](/products/b098jd8hd3-soldering-kit-60w-soldering-iron-110v-welding-kit-with-ceram/) · Buy on Amazon
-- [B0H1M158VT](/products/b0h1m158vt-b0h1m158vt/) · Buy on Amazon
-- [B074ND5RDT](/products/b074nd5rdt-b074nd5rdt/) · Buy on Amazon
+- [B004QM8SLG](/products/b004qm8slg-b004qm8slg/)
+- [B0D8B24CTB](/products/b0d8b24ctb-b0d8b24ctb/)
+- [B000VKGRF0](/products/b000vkgrf0-b000vkgrf0/)
+- [WEP 926LED V3 Soldering Station 130W MAX Soldering Iron Kit with Solder Wire, 5 ](/products/b0bx2n258s-wep-926led-v3-soldering-station-130w-max-soldering-iron-kit-/)
+- [B0DT1NNNS3](/products/b0dt1nnns3-b0dt1nnns3/)
+- [Soldering Kit, 60W Soldering Iron, 110V Welding Kit with Ceramic Heater, Portabl](/products/b098jd8hd3-soldering-kit-60w-soldering-iron-110v-welding-kit-with-ceram/)
+- [B0H1M158VT](/products/b0h1m158vt-b0h1m158vt/)
+- [B074ND5RDT](/products/b074nd5rdt-b074nd5rdt/)
 
 ## Products in this guide
 

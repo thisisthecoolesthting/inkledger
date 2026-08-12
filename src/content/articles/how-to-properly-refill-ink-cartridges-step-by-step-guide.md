@@ -218,14 +218,14 @@ Price data for this article comes from Keepa, which logs every published price c
 
 ## Watchdog picks
 
-- [EaseFusion Replacement for Epson 502 Ink Refill Bottles Work with ET-2850 ET-385](/products/b0g33t139m-product/) · Buy on Amazon
-- [HP DeskJet 2755 Wireless All-in-One Printer, Mobile Print, Scan & Copy, Instant ](/products/b083zy6xfq-product/) · Buy on Amazon
-- [B0963X6B5V](/products/b0963x6b5v-b0963x6b5v/) · Buy on Amazon
-- [Ink Cartridge Printer Replacement Part Compatible with Expression Photo XP-15000](/products/b0gvgsv2kl-product/) · Buy on Amazon
-- [Fanttik T1 Max Soldering Iron Kit, Cordless Soldering Iron, 7 Seconds Fast Heati](/products/b0d41zmdpd-fanttik-t1-max-soldering-iron-kit-cordless-soldering-iron-7-/) · Buy on Amazon
-- [Epson EcoTank ET-2988 Wireless All-in-One Color Supertank Printer with up to 3 Y](/products/b0h476662h-product/) · Buy on Amazon
-- [B0CWP64QMT](/products/b0cwp64qmt-b0cwp64qmt/) · Buy on Amazon
-- [65XL 65 Ink Cartridges Black/Color Combo Pack Replacement for HP 65XL Ink Work f](/products/b0gzw7vxwt-product/) · Buy on Amazon
+- [EaseFusion Replacement for Epson 502 Ink Refill Bottles Work with ET-2850 ET-385](/products/b0g33t139m-product/)
+- [HP DeskJet 2755 Wireless All-in-One Printer, Mobile Print, Scan & Copy, Instant ](/products/b083zy6xfq-product/)
+- [B0963X6B5V](/products/b0963x6b5v-b0963x6b5v/)
+- [Ink Cartridge Printer Replacement Part Compatible with Expression Photo XP-15000](/products/b0gvgsv2kl-product/)
+- [Fanttik T1 Max Soldering Iron Kit, Cordless Soldering Iron, 7 Seconds Fast Heati](/products/b0d41zmdpd-fanttik-t1-max-soldering-iron-kit-cordless-soldering-iron-7-/)
+- [Epson EcoTank ET-2988 Wireless All-in-One Color Supertank Printer with up to 3 Y](/products/b0h476662h-product/)
+- [B0CWP64QMT](/products/b0cwp64qmt-b0cwp64qmt/)
+- [65XL 65 Ink Cartridges Black/Color Combo Pack Replacement for HP 65XL Ink Work f](/products/b0gzw7vxwt-product/)
 
 ## Products in this guide
 

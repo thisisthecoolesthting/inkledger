@@ -158,14 +158,14 @@ If your printing needs are light and infrequent, your workspace is tight, and yo
 
 ## Watchdog picks
 
-- [B08QR6P8KV](/products/b08qr6p8kv-b08qr6p8kv/) · Buy on Amazon
-- [B07ZHTFF44](/products/b07zhtff44-b07zhtff44/) · Buy on Amazon
-- [Brother Genuine Standard Yield Toner Cartridge, TN730, Replacement Black Toner, ](/products/b075x7tfy5-product/) · Buy on Amazon
-- [B0G6Z1834N](/products/b0g6z1834n-b0g6z1834n/) · Buy on Amazon
-- [65XL Black Ink Cartridge Replacement for HP Ink 65 Black HP65XL Black Ink Cartri](/products/b07nphds24-product/) · Buy on Amazon
-- [B0FHDJXJNZ](/products/b0fhdjxjnz-b0fhdjxjnz/) · Buy on Amazon
-- [B0GGYYBXP4](/products/b0ggyybxp4-b0ggyybxp4/) · Buy on Amazon
-- [B08CDK75M8](/products/b08cdk75m8-b08cdk75m8/) · Buy on Amazon
+- [B08QR6P8KV](/products/b08qr6p8kv-b08qr6p8kv/)
+- [B07ZHTFF44](/products/b07zhtff44-b07zhtff44/)
+- [Brother Genuine Standard Yield Toner Cartridge, TN730, Replacement Black Toner, ](/products/b075x7tfy5-product/)
+- [B0G6Z1834N](/products/b0g6z1834n-b0g6z1834n/)
+- [65XL Black Ink Cartridge Replacement for HP Ink 65 Black HP65XL Black Ink Cartri](/products/b07nphds24-product/)
+- [B0FHDJXJNZ](/products/b0fhdjxjnz-b0fhdjxjnz/)
+- [B0GGYYBXP4](/products/b0ggyybxp4-b0ggyybxp4/)
+- [B08CDK75M8](/products/b08cdk75m8-b08cdk75m8/)
 
 ## Products in this guide
 

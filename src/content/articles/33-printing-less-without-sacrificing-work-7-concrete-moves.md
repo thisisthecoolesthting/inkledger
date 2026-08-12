@@ -199,14 +199,14 @@ By putting these seven practical moves into play, you can significantly reduce y
 
 ## Watchdog picks
 
-- [B07Q5J5XJL](/products/b07q5j5xjl-b07q5j5xjl/) · Buy on Amazon
-- [B0CWP64QMT](/products/b0cwp64qmt-b0cwp64qmt/) · Buy on Amazon
-- [HP OfficeJet Pro 9135 Wireless All-in-One Color Inkjet Printer, Print, Scan, Cop](/products/b0gpflm562-product/) · Buy on Amazon
-- [TN760 Toner for Brother Printer TN730: Compatible for Brother TN-730/TN-760 TN 7](/products/b0flxjhgr7-product/) · Buy on Amazon
-- [B0FMB4JBJ8](/products/b0fmb4jbj8-b0fmb4jbj8/) · Buy on Amazon
-- [B08PDHVZ4N](/products/b08pdhvz4n-b08pdhvz4n/) · Buy on Amazon
-- [myCartridge SUPRINT Remanufactured Replacement for Epson 702 Ink Cartridges 702X](/products/b0fb96px2m-product/) · Buy on Amazon
-- [B09MSPNYQ2](/products/b09mspnyq2-b09mspnyq2/) · Buy on Amazon
+- [B07Q5J5XJL](/products/b07q5j5xjl-b07q5j5xjl/)
+- [B0CWP64QMT](/products/b0cwp64qmt-b0cwp64qmt/)
+- [HP OfficeJet Pro 9135 Wireless All-in-One Color Inkjet Printer, Print, Scan, Cop](/products/b0gpflm562-product/)
+- [TN760 Toner for Brother Printer TN730: Compatible for Brother TN-730/TN-760 TN 7](/products/b0flxjhgr7-product/)
+- [B0FMB4JBJ8](/products/b0fmb4jbj8-b0fmb4jbj8/)
+- [B08PDHVZ4N](/products/b08pdhvz4n-b08pdhvz4n/)
+- [myCartridge SUPRINT Remanufactured Replacement for Epson 702 Ink Cartridges 702X](/products/b0fb96px2m-product/)
+- [B09MSPNYQ2](/products/b09mspnyq2-b09mspnyq2/)
 
 ## Products in this guide
 

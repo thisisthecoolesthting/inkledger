@@ -124,14 +124,14 @@ Canon’s “low yield” starter cartridges are a classic example of inkjet man
 
 ## Watchdog picks
 
-- [B0BL466Y41](/products/b0bl466y41-b0bl466y41/) · Buy on Amazon
-- [HP (Refurbished) OfficeJet Pro 9015e All-in-One Wireless Color Printer for Home ](/products/b092t3gbwk-product/) · Buy on Amazon
-- [HQ Replacement Soldering Iron For Hakko FX-8801 FX-888D Station](/products/b00wsaxbq0-hq-replacement-soldering-iron-for-hakko-fx-8801-fx-888d-stat/) · Buy on Amazon
-- [B0041RRMQS](/products/b0041rrmqs-b0041rrmqs/) · Buy on Amazon
-- [B08JHWZ15B](/products/b08jhwz15b-b08jhwz15b/) · Buy on Amazon
-- [B08CDK75M8](/products/b08cdk75m8-b08cdk75m8/) · Buy on Amazon
-- [B0GGYYBXP4](/products/b0ggyybxp4-b0ggyybxp4/) · Buy on Amazon
-- [Soldering Iron Kit, 60W Adjustable Temperature, Digital Multimeter, 5pcs Solderi](/products/b09vxq221k-soldering-iron-kit-60w-adjustable-temperature-digital-multim/) · Buy on Amazon
+- [B0BL466Y41](/products/b0bl466y41-b0bl466y41/)
+- [HP (Refurbished) OfficeJet Pro 9015e All-in-One Wireless Color Printer for Home ](/products/b092t3gbwk-product/)
+- [HQ Replacement Soldering Iron For Hakko FX-8801 FX-888D Station](/products/b00wsaxbq0-hq-replacement-soldering-iron-for-hakko-fx-8801-fx-888d-stat/)
+- [B0041RRMQS](/products/b0041rrmqs-b0041rrmqs/)
+- [B08JHWZ15B](/products/b08jhwz15b-b08jhwz15b/)
+- [B08CDK75M8](/products/b08cdk75m8-b08cdk75m8/)
+- [B0GGYYBXP4](/products/b0ggyybxp4-b0ggyybxp4/)
+- [Soldering Iron Kit, 60W Adjustable Temperature, Digital Multimeter, 5pcs Solderi](/products/b09vxq221k-soldering-iron-kit-60w-adjustable-temperature-digital-multim/)
 
 ## Products in this guide
 

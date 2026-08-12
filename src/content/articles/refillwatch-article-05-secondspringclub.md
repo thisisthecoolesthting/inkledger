@@ -141,14 +141,14 @@ For graphic designers, the Canon PGI-280XL system costs $0.28/page for photo pri
 
 ## Watchdog picks
 
-- [Miss Deer LC3019XXL Ink Cartridges, Comaptible Replacement for Brother LC3019 LC](/products/b0gfmh3d3x-product/) · Buy on Amazon
-- [B07R3N9X3F](/products/b07r3n9x3f-b07r3n9x3f/) · Buy on Amazon
-- [B00NQ1CLTI](/products/b00nq1clti-b00nq1clti/) · Buy on Amazon
-- [B0CWP64QMT](/products/b0cwp64qmt-b0cwp64qmt/) · Buy on Amazon
-- [Skydo 141A Toner Cartridge 2 Black Replacement for HP 141A W1410A 141X W1410X To](/products/b0gf3bx4p4-product/) · Buy on Amazon
-- [EPSON 502 EcoTank Ink Ultra-high Capacity Bottle Color Combo Pack Works with ET-](/products/b074rg6pn1-product/) · Buy on Amazon
-- [Eva-Dry Wireless Mini Dehumidifier, White (E-333)](/products/b000h0xfcs-eva-dry-wireless-mini-dehumidifier-white-e-333/) · Buy on Amazon
-- [HP 63XL/65XL Black High-Yield Ink Cartridge (Replaces and Works with Both 63XL &](/products/b0gltx2pnr-product/) · Buy on Amazon
+- [Miss Deer LC3019XXL Ink Cartridges, Comaptible Replacement for Brother LC3019 LC](/products/b0gfmh3d3x-product/)
+- [B07R3N9X3F](/products/b07r3n9x3f-b07r3n9x3f/)
+- [B00NQ1CLTI](/products/b00nq1clti-b00nq1clti/)
+- [B0CWP64QMT](/products/b0cwp64qmt-b0cwp64qmt/)
+- [Skydo 141A Toner Cartridge 2 Black Replacement for HP 141A W1410A 141X W1410X To](/products/b0gf3bx4p4-product/)
+- [EPSON 502 EcoTank Ink Ultra-high Capacity Bottle Color Combo Pack Works with ET-](/products/b074rg6pn1-product/)
+- [Eva-Dry Wireless Mini Dehumidifier, White (E-333)](/products/b000h0xfcs-eva-dry-wireless-mini-dehumidifier-white-e-333/)
+- [HP 63XL/65XL Black High-Yield Ink Cartridge (Replaces and Works with Both 63XL &](/products/b0gltx2pnr-product/)
 
 ## Products in this guide
 

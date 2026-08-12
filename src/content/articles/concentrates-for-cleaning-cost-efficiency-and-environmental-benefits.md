@@ -127,14 +127,14 @@ Here’s a comparison of cleaning concentrates against traditional pre-diluted l
 
 ## Watchdog picks
 
-- [B0GMKRR64P](/products/b0gmkrr64p-b0gmkrr64p/) · Buy on Amazon
-- [Skydo 141A Toner Cartridge 2 Black Replacement for HP 141A W1410A 141X W1410X To](/products/b0gf3bx4p4-product/) · Buy on Amazon
-- [B001ET76H8](/products/b001et76h8-b001et76h8/) · Buy on Amazon
-- [B0014D3N0Q](/products/b0014d3n0q-b0014d3n0q/) · Buy on Amazon
-- [B0G34F2S65](/products/b0g34f2s65-b0g34f2s65/) · Buy on Amazon
-- [Printer Ink 67 Compatible for HP 67 Ink Cartridges Black/Color Combo Pack for HP](/products/b0flxghlhs-product/) · Buy on Amazon
-- [B00SAYAKPK](/products/b00sayakpk-b00sayakpk/) · Buy on Amazon
-- [B07N1DF9VV](/products/b07n1df9vv-b07n1df9vv/) · Buy on Amazon
+- [B0GMKRR64P](/products/b0gmkrr64p-b0gmkrr64p/)
+- [Skydo 141A Toner Cartridge 2 Black Replacement for HP 141A W1410A 141X W1410X To](/products/b0gf3bx4p4-product/)
+- [B001ET76H8](/products/b001et76h8-b001et76h8/)
+- [B0014D3N0Q](/products/b0014d3n0q-b0014d3n0q/)
+- [B0G34F2S65](/products/b0g34f2s65-b0g34f2s65/)
+- [Printer Ink 67 Compatible for HP 67 Ink Cartridges Black/Color Combo Pack for HP](/products/b0flxghlhs-product/)
+- [B00SAYAKPK](/products/b00sayakpk-b00sayakpk/)
+- [B07N1DF9VV](/products/b07n1df9vv-b07n1df9vv/)
 
 ## Products in this guide
 

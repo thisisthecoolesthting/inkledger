@@ -180,14 +180,14 @@ Starts at $0.99/month but:
 
 ## Watchdog picks
 
-- [B0DMS3D2JT](/products/b0dms3d2jt-b0dms3d2jt/) · Buy on Amazon
-- [JANMORE Universal Ink Refills Kit Dye Ink Refill Kit Compatible for HP Canon Bro](/products/b0drp3lwp5-product/) · Buy on Amazon
-- [B09XT22566](/products/b09xt22566-b09xt22566/) · Buy on Amazon
-- [Soldering Iron Kit, 60W LED Display Digital Solder Pen, 5 Replaceable Tips, 21-i](/products/b0d92pvdqh-soldering-iron-kit-60w-led-display-digital-solder-pen-5-repl/) · Buy on Amazon
-- [B0BL466Y41](/products/b0bl466y41-b0bl466y41/) · Buy on Amazon
-- [EPSON 502 EcoTank Ink Ultra-high Capacity Bottle Black Works with ET-2750, 2760,](/products/b074rfmst8-product/) · Buy on Amazon
-- [B0CPB11F85](/products/b0cpb11f85-b0cpb11f85/) · Buy on Amazon
-- [Epson EcoTank ET-2980 Wireless All-in-One Color Supertank Printer with Refillabl](/products/b0f1fbqrvb-product/) · Buy on Amazon
+- [B0DMS3D2JT](/products/b0dms3d2jt-b0dms3d2jt/)
+- [JANMORE Universal Ink Refills Kit Dye Ink Refill Kit Compatible for HP Canon Bro](/products/b0drp3lwp5-product/)
+- [B09XT22566](/products/b09xt22566-b09xt22566/)
+- [Soldering Iron Kit, 60W LED Display Digital Solder Pen, 5 Replaceable Tips, 21-i](/products/b0d92pvdqh-soldering-iron-kit-60w-led-display-digital-solder-pen-5-repl/)
+- [B0BL466Y41](/products/b0bl466y41-b0bl466y41/)
+- [EPSON 502 EcoTank Ink Ultra-high Capacity Bottle Black Works with ET-2750, 2760,](/products/b074rfmst8-product/)
+- [B0CPB11F85](/products/b0cpb11f85-b0cpb11f85/)
+- [Epson EcoTank ET-2980 Wireless All-in-One Color Supertank Printer with Refillabl](/products/b0f1fbqrvb-product/)
 
 ## Products in this guide
 

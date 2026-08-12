@@ -288,14 +288,14 @@ Price data for this article comes from Keepa, which logs every published price c
 
 ## Watchdog picks
 
-- [B0CYGN38RF](/products/b0cygn38rf-b0cygn38rf/) · Buy on Amazon
-- [B0B7MKRR58](/products/b0b7mkrr58-b0b7mkrr58/) · Buy on Amazon
-- [TN760 Toner for Brother Printer TN730: Compatible for Brother TN-730/TN-760 TN 7](/products/b0flxjhgr7-product/) · Buy on Amazon
-- [B0CPB11F85](/products/b0cpb11f85-b0cpb11f85/) · Buy on Amazon
-- [HP DeskJet 2923 Wireless All-in-One Color Inkjet Printer, Scanner, Copier, 6 Mon](/products/b0gmw9xt9x-product/) · Buy on Amazon
-- [TEINO Remanufactured Ink Cartridge Replacement for HP 65 65XL 65 XL use with HP ](/products/b0836myjsd-product/) · Buy on Amazon
-- [B07P5BNQJG](/products/b07p5bnqjg-b07p5bnqjg/) · Buy on Amazon
-- [B0FVFGX7Y5](/products/b0fvfgx7y5-b0fvfgx7y5/) · Buy on Amazon
+- [B0CYGN38RF](/products/b0cygn38rf-b0cygn38rf/)
+- [B0B7MKRR58](/products/b0b7mkrr58-b0b7mkrr58/)
+- [TN760 Toner for Brother Printer TN730: Compatible for Brother TN-730/TN-760 TN 7](/products/b0flxjhgr7-product/)
+- [B0CPB11F85](/products/b0cpb11f85-b0cpb11f85/)
+- [HP DeskJet 2923 Wireless All-in-One Color Inkjet Printer, Scanner, Copier, 6 Mon](/products/b0gmw9xt9x-product/)
+- [TEINO Remanufactured Ink Cartridge Replacement for HP 65 65XL 65 XL use with HP ](/products/b0836myjsd-product/)
+- [B07P5BNQJG](/products/b07p5bnqjg-b07p5bnqjg/)
+- [B0FVFGX7Y5](/products/b0fvfgx7y5-b0fvfgx7y5/)
 
 ## Products in this guide
 

@@ -145,14 +145,14 @@ The Nvidia Shield TV Pro transforms local media into a Netflix-like experience w
 
 ## Watchdog picks
 
-- [B0D96T79YF](/products/b0d96t79yf-b0d96t79yf/) · Buy on Amazon
-- [Miss Deer LC3019XXL Ink Cartridges, Comaptible Replacement for Brother LC3019 LC](/products/b0gfmh3d3x-product/) · Buy on Amazon
-- [AZ Compatible Toner Cartridge Replacement for Dell 1250, 1250BK / 1250C / 1250Y ](/products/b00qj88sb0-product/) · Buy on Amazon
-- [B07J2P2V7T](/products/b07j2p2v7t-b07j2p2v7t/) · Buy on Amazon
-- [HP OfficeJet Pro 9135 Wireless All-in-One Color Inkjet Printer, Print, Scan, Cop](/products/b0gpflm562-product/) · Buy on Amazon
-- [B0FMBGXC2C](/products/b0fmbgxc2c-b0fmbgxc2c/) · Buy on Amazon
-- [LxTek Compatible Toner Cartridge 6510 6515 106R03480 106R03477 106R03478 106R034](/products/b08gx3k9ys-lxtek-compatible-toner-cartridge-6510-6515-106r03480-106r034/) · Buy on Amazon
-- [B01N7V39UO](/products/b01n7v39uo-b01n7v39uo/) · Buy on Amazon
+- [B0D96T79YF](/products/b0d96t79yf-b0d96t79yf/)
+- [Miss Deer LC3019XXL Ink Cartridges, Comaptible Replacement for Brother LC3019 LC](/products/b0gfmh3d3x-product/)
+- [AZ Compatible Toner Cartridge Replacement for Dell 1250, 1250BK / 1250C / 1250Y ](/products/b00qj88sb0-product/)
+- [B07J2P2V7T](/products/b07j2p2v7t-b07j2p2v7t/)
+- [HP OfficeJet Pro 9135 Wireless All-in-One Color Inkjet Printer, Print, Scan, Cop](/products/b0gpflm562-product/)
+- [B0FMBGXC2C](/products/b0fmbgxc2c-b0fmbgxc2c/)
+- [LxTek Compatible Toner Cartridge 6510 6515 106R03480 106R03477 106R03478 106R034](/products/b08gx3k9ys-lxtek-compatible-toner-cartridge-6510-6515-106r03480-106r034/)
+- [B01N7V39UO](/products/b01n7v39uo-b01n7v39uo/)
 
 ## Products in this guide
 

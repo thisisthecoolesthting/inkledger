@@ -279,14 +279,14 @@ Epson EcoTank 2850
 
 ## Watchdog picks
 
-- [Brother Genuine TN760 High Yield Black Toner Cartridge, (for use with MFC-L2710D](/products/b075x6c5zw-product/) · Buy on Amazon
-- [Epson 522 EcoTank Ink Ultra-high Capacity Bottle Black & Color Combo Pack (T5221](/products/b0b4vp5cq4-product/) · Buy on Amazon
-- [Canon PG-245 / CL-246 Genuine Ink Value Pack (2 Cartridges), Compatible with iP2](/products/b00trdoylw-product/) · Buy on Amazon
-- [B08FY8XQ3W](/products/b08fy8xq3w-b08fy8xq3w/) · Buy on Amazon
-- [Printer Ink 67 Compatible for HP 67 Ink Cartridges Black/Color Combo Pack for HP](/products/b0flxghlhs-product/) · Buy on Amazon
-- [B0GRGQR634](/products/b0grgqr634-b0grgqr634/) · Buy on Amazon
-- [65XL Ink Cartridge for HP 65 Black Ink Cartridge High-Yield Replacement for HP I](/products/b0fkbfh92q-product/) · Buy on Amazon
-- [B08PDHVZ4N](/products/b08pdhvz4n-b08pdhvz4n/) · Buy on Amazon
+- [Brother Genuine TN760 High Yield Black Toner Cartridge, (for use with MFC-L2710D](/products/b075x6c5zw-product/)
+- [Epson 522 EcoTank Ink Ultra-high Capacity Bottle Black & Color Combo Pack (T5221](/products/b0b4vp5cq4-product/)
+- [Canon PG-245 / CL-246 Genuine Ink Value Pack (2 Cartridges), Compatible with iP2](/products/b00trdoylw-product/)
+- [B08FY8XQ3W](/products/b08fy8xq3w-b08fy8xq3w/)
+- [Printer Ink 67 Compatible for HP 67 Ink Cartridges Black/Color Combo Pack for HP](/products/b0flxghlhs-product/)
+- [B0GRGQR634](/products/b0grgqr634-b0grgqr634/)
+- [65XL Ink Cartridge for HP 65 Black Ink Cartridge High-Yield Replacement for HP I](/products/b0fkbfh92q-product/)
+- [B08PDHVZ4N](/products/b08pdhvz4n-b08pdhvz4n/)
 
 ## Products in this guide
 

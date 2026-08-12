@@ -287,14 +287,14 @@ Price data for this article comes from Keepa, which logs every published price c
 
 ## Watchdog picks
 
-- [HP 962XL Black High-Yield Ink Cartridge - Works with OfficeJet 9010, Pro 9010, 9](/products/b07mk5dg9v-product/) · Buy on Amazon
-- [B01N4QAK9O](/products/b01n4qak9o-b01n4qak9o/) · Buy on Amazon
-- [B0CZSFG7VX](/products/b0czsfg7vx-b0czsfg7vx/) · Buy on Amazon
-- [B0CHJ8T7XS](/products/b0chj8t7xs-b0chj8t7xs/) · Buy on Amazon
-- [Brother Genuine TN760 High Yield Black Toner Cartridge, (for use with MFC-L2710D](/products/b075x6c5zw-product/) · Buy on Amazon
-- [Eva-Dry Wireless Mini Dehumidifier, White (E-333)](/products/b000h0xfcs-eva-dry-wireless-mini-dehumidifier-white-e-333/) · Buy on Amazon
-- [B0G34F2S65](/products/b0g34f2s65-b0g34f2s65/) · Buy on Amazon
-- [B0GMMHC3G4](/products/b0gmmhc3g4-b0gmmhc3g4/) · Buy on Amazon
+- [HP 962XL Black High-Yield Ink Cartridge - Works with OfficeJet 9010, Pro 9010, 9](/products/b07mk5dg9v-product/)
+- [B01N4QAK9O](/products/b01n4qak9o-b01n4qak9o/)
+- [B0CZSFG7VX](/products/b0czsfg7vx-b0czsfg7vx/)
+- [B0CHJ8T7XS](/products/b0chj8t7xs-b0chj8t7xs/)
+- [Brother Genuine TN760 High Yield Black Toner Cartridge, (for use with MFC-L2710D](/products/b075x6c5zw-product/)
+- [Eva-Dry Wireless Mini Dehumidifier, White (E-333)](/products/b000h0xfcs-eva-dry-wireless-mini-dehumidifier-white-e-333/)
+- [B0G34F2S65](/products/b0g34f2s65-b0g34f2s65/)
+- [B0GMMHC3G4](/products/b0gmmhc3g4-b0gmmhc3g4/)
 
 ## Products in this guide
 

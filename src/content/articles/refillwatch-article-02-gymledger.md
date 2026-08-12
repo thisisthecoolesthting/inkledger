@@ -196,14 +196,14 @@ The $0.99/month plan seems cheap but:
 
 ## Watchdog picks
 
-- [B07YPR2DGH](/products/b07ypr2dgh-b07ypr2dgh/) · Buy on Amazon
-- [B09W73NQPW](/products/b09w73nqpw-b09w73nqpw/) · Buy on Amazon
-- [B0GRGQR634](/products/b0grgqr634-b0grgqr634/) · Buy on Amazon
-- [HP DeskJet 2955 Wireless All-in-One Color Inkjet Printer, Scanner, Copier, Best-](/products/b0gkjz864r-product/) · Buy on Amazon
-- [B0BTSZ81C7](/products/b0btsz81c7-b0btsz81c7/) · Buy on Amazon
-- [B0FLXG5Z7Q](/products/b0flxg5z7q-b0flxg5z7q/) · Buy on Amazon
-- [Soldering Kit, 60W Soldering Iron, 110V Welding Kit with Ceramic Heater, Portabl](/products/b098jd8hd3-soldering-kit-60w-soldering-iron-110v-welding-kit-with-ceram/) · Buy on Amazon
-- [B07Q5J5XJL](/products/b07q5j5xjl-b07q5j5xjl/) · Buy on Amazon
+- [B07YPR2DGH](/products/b07ypr2dgh-b07ypr2dgh/)
+- [B09W73NQPW](/products/b09w73nqpw-b09w73nqpw/)
+- [B0GRGQR634](/products/b0grgqr634-b0grgqr634/)
+- [HP DeskJet 2955 Wireless All-in-One Color Inkjet Printer, Scanner, Copier, Best-](/products/b0gkjz864r-product/)
+- [B0BTSZ81C7](/products/b0btsz81c7-b0btsz81c7/)
+- [B0FLXG5Z7Q](/products/b0flxg5z7q-b0flxg5z7q/)
+- [Soldering Kit, 60W Soldering Iron, 110V Welding Kit with Ceramic Heater, Portabl](/products/b098jd8hd3-soldering-kit-60w-soldering-iron-110v-welding-kit-with-ceram/)
+- [B07Q5J5XJL](/products/b07q5j5xjl-b07q5j5xjl/)
 
 ## Products in this guide
 

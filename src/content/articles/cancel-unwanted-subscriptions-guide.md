@@ -291,14 +291,14 @@ Remember: The average household recovers $647 in the first year after a thorough
 
 ## Watchdog picks
 
-- [Aomya Ink Refill kit 5x100ml for Canon 250 251 270 271 280 281 1200 2200 PG240 C](/products/b07c4hmjfs-product/) · Buy on Amazon
-- [Brother Printer LC30193PK Super High Yield XXL 3 Pack Ink Cartridges- 1 Ea: Cyan](/products/b01n4k0zfe-product/) · Buy on Amazon
-- [Astra Platinum Double Edge Safety Razor Blades,100 Blades (20 x 5)](/products/b001qy8qxm-astra-platinum-double-edge-safety-razor-blades-100-blades-20/) · Buy on Amazon
-- [B0FMBTJLX6](/products/b0fmbtjlx6-b0fmbtjlx6/) · Buy on Amazon
-- [HP DeskJet 2855e Wireless All-in-One Color Inkjet Printer, Scanner, Copier, Best](/products/b0ct2r7199-product/) · Buy on Amazon
-- [Niagara Sleep Solution Ultra Soft Queen Size Mattress Topper - Rayon Derived fro](/products/b07d5dn269-niagara-sleep-solution-ultra-soft-queen-size-mattress-topper/) · Buy on Amazon
-- [Epson EcoTank ET-2400 Wireless Color All-in-One Cartridge-Free Supertank Printer](/products/b0bm9bflmx-product/) · Buy on Amazon
-- [EPSON 702 DURABrite Ultra Ink Standard Capacity Black & Color Cartridge Combo Pa](/products/b06xg5zjn3-product/) · Buy on Amazon
+- [Aomya Ink Refill kit 5x100ml for Canon 250 251 270 271 280 281 1200 2200 PG240 C](/products/b07c4hmjfs-product/)
+- [Brother Printer LC30193PK Super High Yield XXL 3 Pack Ink Cartridges- 1 Ea: Cyan](/products/b01n4k0zfe-product/)
+- [Astra Platinum Double Edge Safety Razor Blades,100 Blades (20 x 5)](/products/b001qy8qxm-astra-platinum-double-edge-safety-razor-blades-100-blades-20/)
+- [B0FMBTJLX6](/products/b0fmbtjlx6-b0fmbtjlx6/)
+- [HP DeskJet 2855e Wireless All-in-One Color Inkjet Printer, Scanner, Copier, Best](/products/b0ct2r7199-product/)
+- [Niagara Sleep Solution Ultra Soft Queen Size Mattress Topper - Rayon Derived fro](/products/b07d5dn269-niagara-sleep-solution-ultra-soft-queen-size-mattress-topper/)
+- [Epson EcoTank ET-2400 Wireless Color All-in-One Cartridge-Free Supertank Printer](/products/b0bm9bflmx-product/)
+- [EPSON 702 DURABrite Ultra Ink Standard Capacity Black & Color Cartridge Combo Pa](/products/b06xg5zjn3-product/)
 
 ## Products in this guide
 

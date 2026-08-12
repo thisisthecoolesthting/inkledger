@@ -236,14 +236,14 @@ Price data for this article comes from Keepa, which logs every published price c
 
 ## Watchdog picks
 
-- [B0DMS3D2JT](/products/b0dms3d2jt-b0dms3d2jt/) · Buy on Amazon
-- [HQ Replacement Soldering Iron For Hakko FX-8801 FX-888D Station](/products/b00wsaxbq0-hq-replacement-soldering-iron-for-hakko-fx-8801-fx-888d-stat/) · Buy on Amazon
-- [HP OfficeJet Pro 8125e Wireless All-in-One Color Inkjet Printer, Print, scan, Co](/products/b0ct8zj7zc-product/) · Buy on Amazon
-- [B0FLXG5Z7Q](/products/b0flxg5z7q-b0flxg5z7q/) · Buy on Amazon
-- [B0CHJ8T7XS](/products/b0chj8t7xs-b0chj8t7xs/) · Buy on Amazon
-- [B0BTSZ81C7](/products/b0btsz81c7-b0btsz81c7/) · Buy on Amazon
-- [TEINO Remanufactured Ink Cartridge Replacement for HP 65 65XL 65 XL use with HP ](/products/b0836myjsd-product/) · Buy on Amazon
-- [myCartridge SUPRINT 245XL Ink Cartridge Replacement for Canon 245XL 246XL Combo ](/products/b08j3ny6qv-product/) · Buy on Amazon
+- [B0DMS3D2JT](/products/b0dms3d2jt-b0dms3d2jt/)
+- [HQ Replacement Soldering Iron For Hakko FX-8801 FX-888D Station](/products/b00wsaxbq0-hq-replacement-soldering-iron-for-hakko-fx-8801-fx-888d-stat/)
+- [HP OfficeJet Pro 8125e Wireless All-in-One Color Inkjet Printer, Print, scan, Co](/products/b0ct8zj7zc-product/)
+- [B0FLXG5Z7Q](/products/b0flxg5z7q-b0flxg5z7q/)
+- [B0CHJ8T7XS](/products/b0chj8t7xs-b0chj8t7xs/)
+- [B0BTSZ81C7](/products/b0btsz81c7-b0btsz81c7/)
+- [TEINO Remanufactured Ink Cartridge Replacement for HP 65 65XL 65 XL use with HP ](/products/b0836myjsd-product/)
+- [myCartridge SUPRINT 245XL Ink Cartridge Replacement for Canon 245XL 246XL Combo ](/products/b08j3ny6qv-product/)
 
 ## Products in this guide
 

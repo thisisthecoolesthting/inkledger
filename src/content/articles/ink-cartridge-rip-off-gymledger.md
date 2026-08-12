@@ -101,14 +101,14 @@ Printer ink is one of the most expensive liquids by volume—retailers knowingly
 
 ## Watchdog picks
 
-- [Utopia Bedding Bed Pillows for Sleeping Queen Size (Blue), Set of 6, Cooling Hot](/products/b07j2p2v7t-utopia-bedding-bed-pillows-for-sleeping-queen-size-blue-set-/) · Buy on Amazon
-- [Soldering Iron Kit, 60W Adjustable Temperature, Digital Multimeter, 5pcs Solderi](/products/b09vxq221k-soldering-iron-kit-60w-adjustable-temperature-digital-multim/) · Buy on Amazon
-- [myCartridge SUPRINT 245XL Ink Cartridge Replacement for Canon 245XL 246XL Combo ](/products/b08j3ny6qv-product/) · Buy on Amazon
-- [HP OfficeJet Pro 9125 Wireless All-in-One Color Inkjet Printer, Print, Scan, Cop](/products/b0gpfkgny7-product/) · Buy on Amazon
-- [Printer Ink 67 Compatible for HP 67 Ink Cartridges Black/Color Combo Pack for HP](/products/b0flxghlhs-product/) · Buy on Amazon
-- [Brother Genuine High-Yield Black Toner Cartridge Twin Pack TN760 2Pk, TN7602PK,2](/products/b07ygl9xth-product/) · Buy on Amazon
-- [B0CWP64QMT](/products/b0cwp64qmt-b0cwp64qmt/) · Buy on Amazon
-- [B00NQ1CLTI](/products/b00nq1clti-b00nq1clti/) · Buy on Amazon
+- [Utopia Bedding Bed Pillows for Sleeping Queen Size (Blue), Set of 6, Cooling Hot](/products/b07j2p2v7t-utopia-bedding-bed-pillows-for-sleeping-queen-size-blue-set-/)
+- [Soldering Iron Kit, 60W Adjustable Temperature, Digital Multimeter, 5pcs Solderi](/products/b09vxq221k-soldering-iron-kit-60w-adjustable-temperature-digital-multim/)
+- [myCartridge SUPRINT 245XL Ink Cartridge Replacement for Canon 245XL 246XL Combo ](/products/b08j3ny6qv-product/)
+- [HP OfficeJet Pro 9125 Wireless All-in-One Color Inkjet Printer, Print, Scan, Cop](/products/b0gpfkgny7-product/)
+- [Printer Ink 67 Compatible for HP 67 Ink Cartridges Black/Color Combo Pack for HP](/products/b0flxghlhs-product/)
+- [Brother Genuine High-Yield Black Toner Cartridge Twin Pack TN760 2Pk, TN7602PK,2](/products/b07ygl9xth-product/)
+- [B0CWP64QMT](/products/b0cwp64qmt-b0cwp64qmt/)
+- [B00NQ1CLTI](/products/b00nq1clti-b00nq1clti/)
 
 ## Products in this guide
 

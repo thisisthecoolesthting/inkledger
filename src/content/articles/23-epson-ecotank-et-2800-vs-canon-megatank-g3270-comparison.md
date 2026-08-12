@@ -136,14 +136,14 @@ Choosing between the Epson EcoTank ET-2800 and the Canon MegaTank G3270 comes do
 
 ## Watchdog picks
 
-- [B08FY8XQ3W](/products/b08fy8xq3w-b08fy8xq3w/) · Buy on Amazon
-- [AZ Compatible Toner Cartridge Replacement for Dell 1250 (1250BK) use in Color La](/products/b00qj88odw-product/) · Buy on Amazon
-- [Aomya Ink Refill Kit 100ml for HP 67 61 65 60 62 63 910 920 901 902 932 933 934 ](/products/b077qvskd5-product/) · Buy on Amazon
-- [B07F97MPYT](/products/b07f97mpyt-b07f97mpyt/) · Buy on Amazon
-- [JANMORE Universal Ink Refills Kit Dye Ink Refill Kit Compatible for HP Canon Bro](/products/b0drp3lwp5-product/) · Buy on Amazon
-- [HP 141A Black Toner Cartridge - Works with LaserJet M110, LaserJet MFP M139, M14](/products/b09n4z8dnl-product/) · Buy on Amazon
-- [B001ET76H8](/products/b001et76h8-b001et76h8/) · Buy on Amazon
-- [HP Original 63/65XL Black High‑Yield + 63/65 Tri-Color- Works DeskJet 1110, 2100](/products/b0gvgg7qlt-product/) · Buy on Amazon
+- [B08FY8XQ3W](/products/b08fy8xq3w-b08fy8xq3w/)
+- [AZ Compatible Toner Cartridge Replacement for Dell 1250 (1250BK) use in Color La](/products/b00qj88odw-product/)
+- [Aomya Ink Refill Kit 100ml for HP 67 61 65 60 62 63 910 920 901 902 932 933 934 ](/products/b077qvskd5-product/)
+- [B07F97MPYT](/products/b07f97mpyt-b07f97mpyt/)
+- [JANMORE Universal Ink Refills Kit Dye Ink Refill Kit Compatible for HP Canon Bro](/products/b0drp3lwp5-product/)
+- [HP 141A Black Toner Cartridge - Works with LaserJet M110, LaserJet MFP M139, M14](/products/b09n4z8dnl-product/)
+- [B001ET76H8](/products/b001et76h8-b001et76h8/)
+- [HP Original 63/65XL Black High‑Yield + 63/65 Tri-Color- Works DeskJet 1110, 2100](/products/b0gvgg7qlt-product/)
 
 ## Products in this guide
 

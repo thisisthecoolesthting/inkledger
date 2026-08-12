@@ -147,14 +147,14 @@ Refilling ink cartridges is a practical method to cut printing costs if done car
 
 ## Watchdog picks
 
-- [Printer Ink 67 Compatible for HP 67 Ink Cartridges Black/Color Combo Pack for HP](/products/b0flxghlhs-product/) · Buy on Amazon
-- [B089CGSV4N](/products/b089cgsv4n-b089cgsv4n/) · Buy on Amazon
-- [HP DeskJet 2923 Wireless All-in-One Color Inkjet Printer, Scanner, Copier, 6 Mon](/products/b0gmw9xt9x-product/) · Buy on Amazon
-- [Fanttik T1 Max Soldering Iron Kit, Cordless Soldering Iron, 7 Seconds Fast Heati](/products/b0d41zmdpd-fanttik-t1-max-soldering-iron-kit-cordless-soldering-iron-7-/) · Buy on Amazon
-- [B0CWP64QMT](/products/b0cwp64qmt-b0cwp64qmt/) · Buy on Amazon
-- [B0BJ194Z43](/products/b0bj194z43-b0bj194z43/) · Buy on Amazon
-- [B0FMBTJLX6](/products/b0fmbtjlx6-b0fmbtjlx6/) · Buy on Amazon
-- [B0GYNH6H2L](/products/b0gynh6h2l-b0gynh6h2l/) · Buy on Amazon
+- [Printer Ink 67 Compatible for HP 67 Ink Cartridges Black/Color Combo Pack for HP](/products/b0flxghlhs-product/)
+- [B089CGSV4N](/products/b089cgsv4n-b089cgsv4n/)
+- [HP DeskJet 2923 Wireless All-in-One Color Inkjet Printer, Scanner, Copier, 6 Mon](/products/b0gmw9xt9x-product/)
+- [Fanttik T1 Max Soldering Iron Kit, Cordless Soldering Iron, 7 Seconds Fast Heati](/products/b0d41zmdpd-fanttik-t1-max-soldering-iron-kit-cordless-soldering-iron-7-/)
+- [B0CWP64QMT](/products/b0cwp64qmt-b0cwp64qmt/)
+- [B0BJ194Z43](/products/b0bj194z43-b0bj194z43/)
+- [B0FMBTJLX6](/products/b0fmbtjlx6-b0fmbtjlx6/)
+- [B0GYNH6H2L](/products/b0gynh6h2l-b0gynh6h2l/)
 
 ## Products in this guide
 

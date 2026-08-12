@@ -130,14 +130,14 @@ Before making a decision, consider your typical printing volume, the types of do
 
 ## Watchdog picks
 
-- [B0GGYYBXP4](/products/b0ggyybxp4-b0ggyybxp4/) · Buy on Amazon
-- [65XL Ink Cartridges Black/Color Combo Pack High-Yield Replacement for HP Ink 65 ](/products/b0f1cj93jj-product/) · Buy on Amazon
-- [HP DeskJet 2855e Wireless All-in-One Color Inkjet Printer, Scanner, Copier, Best](/products/b0ct2r7199-product/) · Buy on Amazon
-- [B07L2MZW6B](/products/b07l2mzw6b-b07l2mzw6b/) · Buy on Amazon
-- [B004QM8SLG](/products/b004qm8slg-b004qm8slg/) · Buy on Amazon
-- [B089CGSV4N](/products/b089cgsv4n-b089cgsv4n/) · Buy on Amazon
-- [Epson 522 EcoTank Ink Ultra-high Capacity Bottle Black & Color Combo Pack (T5221](/products/b0b4vp5cq4-product/) · Buy on Amazon
-- [60W Adjustable Temperature Soldering Iron Kit - 9-in-1 With 5 Tips, Solder Wire ](/products/b09dy7ccw5-60w-adjustable-temperature-soldering-iron-kit-9-in-1-with-5-/) · Buy on Amazon
+- [B0GGYYBXP4](/products/b0ggyybxp4-b0ggyybxp4/)
+- [65XL Ink Cartridges Black/Color Combo Pack High-Yield Replacement for HP Ink 65 ](/products/b0f1cj93jj-product/)
+- [HP DeskJet 2855e Wireless All-in-One Color Inkjet Printer, Scanner, Copier, Best](/products/b0ct2r7199-product/)
+- [B07L2MZW6B](/products/b07l2mzw6b-b07l2mzw6b/)
+- [B004QM8SLG](/products/b004qm8slg-b004qm8slg/)
+- [B089CGSV4N](/products/b089cgsv4n-b089cgsv4n/)
+- [Epson 522 EcoTank Ink Ultra-high Capacity Bottle Black & Color Combo Pack (T5221](/products/b0b4vp5cq4-product/)
+- [60W Adjustable Temperature Soldering Iron Kit - 9-in-1 With 5 Tips, Solder Wire ](/products/b09dy7ccw5-60w-adjustable-temperature-soldering-iron-kit-9-in-1-with-5-/)
 
 ## Products in this guide
 

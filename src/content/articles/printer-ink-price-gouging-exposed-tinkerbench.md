@@ -280,14 +280,14 @@ Epson EcoTank 2850
 
 ## Watchdog picks
 
-- [B07L2MZW6B](/products/b07l2mzw6b-b07l2mzw6b/) · Buy on Amazon
-- [B0DMS3D2JT](/products/b0dms3d2jt-b0dms3d2jt/) · Buy on Amazon
-- [B0GRGQR634](/products/b0grgqr634-b0grgqr634/) · Buy on Amazon
-- [B0C1ZF94GW](/products/b0c1zf94gw-b0c1zf94gw/) · Buy on Amazon
-- [B00NQ1CLTI](/products/b00nq1clti-b00nq1clti/) · Buy on Amazon
-- [B00SAYAKPK](/products/b00sayakpk-b00sayakpk/) · Buy on Amazon
-- [B0F7JTLB86](/products/b0f7jtlb86-b0f7jtlb86/) · Buy on Amazon
-- [B0FCS1B33K](/products/b0fcs1b33k-b0fcs1b33k/) · Buy on Amazon
+- [B07L2MZW6B](/products/b07l2mzw6b-b07l2mzw6b/)
+- [B0DMS3D2JT](/products/b0dms3d2jt-b0dms3d2jt/)
+- [B0GRGQR634](/products/b0grgqr634-b0grgqr634/)
+- [B0C1ZF94GW](/products/b0c1zf94gw-b0c1zf94gw/)
+- [B00NQ1CLTI](/products/b00nq1clti-b00nq1clti/)
+- [B00SAYAKPK](/products/b00sayakpk-b00sayakpk/)
+- [B0F7JTLB86](/products/b0f7jtlb86-b0f7jtlb86/)
+- [B0FCS1B33K](/products/b0fcs1b33k-b0fcs1b33k/)
 
 ## Products in this guide
 

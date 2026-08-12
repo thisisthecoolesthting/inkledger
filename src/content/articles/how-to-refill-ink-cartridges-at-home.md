@@ -240,14 +240,14 @@ Price data for this article comes from Keepa, which logs every published price c
 
 ## Watchdog picks
 
-- [B07D5DN269](/products/b07d5dn269-b07d5dn269/) · Buy on Amazon
-- [B0G2LS7RMK](/products/b0g2ls7rmk-b0g2ls7rmk/) · Buy on Amazon
-- [B0C1ZF94GW](/products/b0c1zf94gw-b0c1zf94gw/) · Buy on Amazon
-- [B00B5JOC5C](/products/b00b5joc5c-b00b5joc5c/) · Buy on Amazon
-- [Soldering Iron Kit, 80W 110V Fast Heat up in 10s LCD Digital Adjustable Temperat](/products/b08pzbpxlz-soldering-iron-kit-80w-110v-fast-heat-up-in-10s-lcd-digital-/) · Buy on Amazon
-- [HP OfficeJet Pro 9125 Wireless All-in-One Color Inkjet Printer, Print, Scan, Cop](/products/b0gpfkgny7-product/) · Buy on Amazon
-- [Epson EcoTank ET-2800 Wireless Color All-in-One Cartridge-Free Ink Supertank Pri](/products/b096n8dn2h-product/) · Buy on Amazon
-- [B0CT2QHQVF](/products/b0ct2qhqvf-b0ct2qhqvf/) · Buy on Amazon
+- [B07D5DN269](/products/b07d5dn269-b07d5dn269/)
+- [B0G2LS7RMK](/products/b0g2ls7rmk-b0g2ls7rmk/)
+- [B0C1ZF94GW](/products/b0c1zf94gw-b0c1zf94gw/)
+- [B00B5JOC5C](/products/b00b5joc5c-b00b5joc5c/)
+- [Soldering Iron Kit, 80W 110V Fast Heat up in 10s LCD Digital Adjustable Temperat](/products/b08pzbpxlz-soldering-iron-kit-80w-110v-fast-heat-up-in-10s-lcd-digital-/)
+- [HP OfficeJet Pro 9125 Wireless All-in-One Color Inkjet Printer, Print, Scan, Cop](/products/b0gpfkgny7-product/)
+- [Epson EcoTank ET-2800 Wireless Color All-in-One Cartridge-Free Ink Supertank Pri](/products/b096n8dn2h-product/)
+- [B0CT2QHQVF](/products/b0ct2qhqvf-b0ct2qhqvf/)
 
 ## Products in this guide
 

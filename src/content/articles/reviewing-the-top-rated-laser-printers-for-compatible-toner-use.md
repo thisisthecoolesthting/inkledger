@@ -125,14 +125,14 @@ Selecting a laser printer optimized for compatible toner use can significantly r
 
 ## Watchdog picks
 
-- [E-Z Ink TN760 Toner for Brother Printer Compatible for Brother TN-760 TN730 TN-7](/products/b0ft39tgxn-product/) · Buy on Amazon
-- [MLT-D111S 111S Toner Cartridge High Yield Replacement for Samsung MLT-D111S MLTD](/products/b0btxxq5tc-product/) · Buy on Amazon
-- [Brother Genuine TN760 High Yield Black Toner Cartridge, (for use with MFC-L2710D](/products/b075x6c5zw-product/) · Buy on Amazon
-- [Compatible for EPT502 Ink Refill Bottles Eco Tank ET-2850 ET-3850 ET-4850 ET-150](/products/b0gczvz3sz-product/) · Buy on Amazon
-- [EPSON 702 DURABrite Ultra Ink High Capacity Black & Standard Color Cartridge Com](/products/b071wb6bgn-product/) · Buy on Amazon
-- [B07F97MPYT](/products/b07f97mpyt-b07f97mpyt/) · Buy on Amazon
-- [InkOwl Compatible Ink Cartridge Replacement for Roland ECO-SOL MAX Printers ESL3](/products/b07c11yw88-inkowl-compatible-ink-cartridge-replacement-for-roland-eco-s/) · Buy on Amazon
-- [B00B5JOC5C](/products/b00b5joc5c-b00b5joc5c/) · Buy on Amazon
+- [E-Z Ink TN760 Toner for Brother Printer Compatible for Brother TN-760 TN730 TN-7](/products/b0ft39tgxn-product/)
+- [MLT-D111S 111S Toner Cartridge High Yield Replacement for Samsung MLT-D111S MLTD](/products/b0btxxq5tc-product/)
+- [Brother Genuine TN760 High Yield Black Toner Cartridge, (for use with MFC-L2710D](/products/b075x6c5zw-product/)
+- [Compatible for EPT502 Ink Refill Bottles Eco Tank ET-2850 ET-3850 ET-4850 ET-150](/products/b0gczvz3sz-product/)
+- [EPSON 702 DURABrite Ultra Ink High Capacity Black & Standard Color Cartridge Com](/products/b071wb6bgn-product/)
+- [B07F97MPYT](/products/b07f97mpyt-b07f97mpyt/)
+- [InkOwl Compatible Ink Cartridge Replacement for Roland ECO-SOL MAX Printers ESL3](/products/b07c11yw88-inkowl-compatible-ink-cartridge-replacement-for-roland-eco-s/)
+- [B00B5JOC5C](/products/b00b5joc5c-b00b5joc5c/)
 
 ## Products in this guide
 

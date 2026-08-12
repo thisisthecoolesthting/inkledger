@@ -214,14 +214,14 @@ Price data for this article comes from Keepa, which logs every published price c
 
 ## Watchdog picks
 
-- [Dr. Tobias Omega 3 Fish Oil 2000mg Triple Strength with 800mg EPA 600mg DHA Per ](/products/b00cazau62-dr-tobias-omega-3-fish-oil-2000mg-triple-strength-with-800mg/) · Buy on Amazon
-- [Epson 522 EcoTank Ink Ultra-high Capacity Bottle Black & Color Combo Pack (T5221](/products/b0b4vp5cq4-product/) · Buy on Amazon
-- [Brother Genuine High-Yield Black Toner Cartridge Twin Pack TN760 2Pk, TN7602PK,2](/products/b07ygl9xth-product/) · Buy on Amazon
-- [HP 962XL Black High-Yield Ink Cartridge - Works with OfficeJet 9010, Pro 9010, 9](/products/b07mk5dg9v-product/) · Buy on Amazon
-- [B0DPYJWX2F](/products/b0dpyjwx2f-b0dpyjwx2f/) · Buy on Amazon
-- [myCartridge SUPRINT Remanufactured Replacement for Epson 702 Ink Cartridges 702X](/products/b0fb96px2m-product/) · Buy on Amazon
-- [B0FVFGX7Y5](/products/b0fvfgx7y5-b0fvfgx7y5/) · Buy on Amazon
-- [B0CHJ8T7XS](/products/b0chj8t7xs-b0chj8t7xs/) · Buy on Amazon
+- [Dr. Tobias Omega 3 Fish Oil 2000mg Triple Strength with 800mg EPA 600mg DHA Per ](/products/b00cazau62-dr-tobias-omega-3-fish-oil-2000mg-triple-strength-with-800mg/)
+- [Epson 522 EcoTank Ink Ultra-high Capacity Bottle Black & Color Combo Pack (T5221](/products/b0b4vp5cq4-product/)
+- [Brother Genuine High-Yield Black Toner Cartridge Twin Pack TN760 2Pk, TN7602PK,2](/products/b07ygl9xth-product/)
+- [HP 962XL Black High-Yield Ink Cartridge - Works with OfficeJet 9010, Pro 9010, 9](/products/b07mk5dg9v-product/)
+- [B0DPYJWX2F](/products/b0dpyjwx2f-b0dpyjwx2f/)
+- [myCartridge SUPRINT Remanufactured Replacement for Epson 702 Ink Cartridges 702X](/products/b0fb96px2m-product/)
+- [B0FVFGX7Y5](/products/b0fvfgx7y5-b0fvfgx7y5/)
+- [B0CHJ8T7XS](/products/b0chj8t7xs-b0chj8t7xs/)
 
 ## Products in this guide
 

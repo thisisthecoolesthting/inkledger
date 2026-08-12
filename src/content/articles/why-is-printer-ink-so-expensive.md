@@ -262,14 +262,14 @@ Price data for this article comes from Keepa, which logs every published price c
 
 ## Watchdog picks
 
-- [Under Armour Women's UA Charged Assert 8 Running Shoes 12 Black](/products/b07g82d89g-under-armour-women-s-ua-charged-assert-8-running-shoes-12-bl/) · Buy on Amazon
-- [HQ Replacement Soldering Iron For Hakko FX-8801 FX-888D Station](/products/b00wsaxbq0-hq-replacement-soldering-iron-for-hakko-fx-8801-fx-888d-stat/) · Buy on Amazon
-- [B0DPYJWX2F](/products/b0dpyjwx2f-b0dpyjwx2f/) · Buy on Amazon
-- [B0FDL1LS3B](/products/b0fdl1ls3b-b0fdl1ls3b/) · Buy on Amazon
-- [B07D5DN269](/products/b07d5dn269-b07d5dn269/) · Buy on Amazon
-- [Soldering Iron Kit, 60W Adjustable Temperature, Digital Multimeter, 5pcs Solderi](/products/b09vxq221k-soldering-iron-kit-60w-adjustable-temperature-digital-multim/) · Buy on Amazon
-- [B00PB6F2V4](/products/b00pb6f2v4-b00pb6f2v4/) · Buy on Amazon
-- [E-Z Ink TN760 Toner for Brother Printer Compatible for Brother TN-760 TN730 TN-7](/products/b0ft39tgxn-product/) · Buy on Amazon
+- [Under Armour Women's UA Charged Assert 8 Running Shoes 12 Black](/products/b07g82d89g-under-armour-women-s-ua-charged-assert-8-running-shoes-12-bl/)
+- [HQ Replacement Soldering Iron For Hakko FX-8801 FX-888D Station](/products/b00wsaxbq0-hq-replacement-soldering-iron-for-hakko-fx-8801-fx-888d-stat/)
+- [B0DPYJWX2F](/products/b0dpyjwx2f-b0dpyjwx2f/)
+- [B0FDL1LS3B](/products/b0fdl1ls3b-b0fdl1ls3b/)
+- [B07D5DN269](/products/b07d5dn269-b07d5dn269/)
+- [Soldering Iron Kit, 60W Adjustable Temperature, Digital Multimeter, 5pcs Solderi](/products/b09vxq221k-soldering-iron-kit-60w-adjustable-temperature-digital-multim/)
+- [B00PB6F2V4](/products/b00pb6f2v4-b00pb6f2v4/)
+- [E-Z Ink TN760 Toner for Brother Printer Compatible for Brother TN-760 TN730 TN-7](/products/b0ft39tgxn-product/)
 
 ## Products in this guide
 

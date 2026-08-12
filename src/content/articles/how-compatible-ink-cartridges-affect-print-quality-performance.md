@@ -164,14 +164,14 @@ Compatible ink cartridges can offer significant upfront savings, but they come w
 
 ## Watchdog picks
 
-- [B07N1DF9VV](/products/b07n1df9vv-b07n1df9vv/) · Buy on Amazon
-- [EaseFusion Replacement for Epson 502 Ink Refill Bottles Work with ET-2850 ET-385](/products/b0g33t139m-product/) · Buy on Amazon
-- [Skydo 141A Toner Cartridge 2 Black Replacement for HP 141A W1410A 141X W1410X To](/products/b0gf3bx4p4-product/) · Buy on Amazon
-- [Epson EcoTank ET-2980 Wireless All-in-One Color Supertank Printer with Refillabl](/products/b0f1f2xrw9-product/) · Buy on Amazon
-- [Remanufactured Replacement for Epson 702 Ink Cartridges for 702XL Ink cartridges](/products/b0ct2ltf55-product/) · Buy on Amazon
-- [B0G2LS7RMK](/products/b0g2ls7rmk-b0g2ls7rmk/) · Buy on Amazon
-- [B0F7JTLB86](/products/b0f7jtlb86-b0f7jtlb86/) · Buy on Amazon
-- [B0FHDJXJNZ](/products/b0fhdjxjnz-b0fhdjxjnz/) · Buy on Amazon
+- [B07N1DF9VV](/products/b07n1df9vv-b07n1df9vv/)
+- [EaseFusion Replacement for Epson 502 Ink Refill Bottles Work with ET-2850 ET-385](/products/b0g33t139m-product/)
+- [Skydo 141A Toner Cartridge 2 Black Replacement for HP 141A W1410A 141X W1410X To](/products/b0gf3bx4p4-product/)
+- [Epson EcoTank ET-2980 Wireless All-in-One Color Supertank Printer with Refillabl](/products/b0f1f2xrw9-product/)
+- [Remanufactured Replacement for Epson 702 Ink Cartridges for 702XL Ink cartridges](/products/b0ct2ltf55-product/)
+- [B0G2LS7RMK](/products/b0g2ls7rmk-b0g2ls7rmk/)
+- [B0F7JTLB86](/products/b0f7jtlb86-b0f7jtlb86/)
+- [B0FHDJXJNZ](/products/b0fhdjxjnz-b0fhdjxjnz/)
 
 ## Products in this guide
 

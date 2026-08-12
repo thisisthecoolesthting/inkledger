@@ -50,14 +50,14 @@ Pro Tip: Reset your printer's ink level monitor after installing third-party car
 While OEM ink prices fluctuate, our testing shows these alternatives deliver comparable print quality. For occasional users, consider buying single cartridges during Amazon lightning deals (we've seen the CLI-281 pack drop to $36.99 during promotions). High-volume printers should explore bulk ink systems for maximum savings.
 ## Watchdog picks
 
-- [B0FMBGXC2C](/products/b0fmbgxc2c-b0fmbgxc2c/) · Buy on Amazon
-- [Utopia Bedding Bed Pillows for Sleeping Queen Size (Blue), Set of 6, Cooling Hot](/products/b07j2p2v7t-utopia-bedding-bed-pillows-for-sleeping-queen-size-blue-set-/) · Buy on Amazon
-- [60W Adjustable Temperature Soldering Iron Kit - 9-in-1 With 5 Tips, Solder Wire ](/products/b09dy7ccw5-60w-adjustable-temperature-soldering-iron-kit-9-in-1-with-5-/) · Buy on Amazon
-- [B0FBRH75LK](/products/b0fbrh75lk-b0fbrh75lk/) · Buy on Amazon
-- [B01N5Q9Q6J](/products/b01n5q9q6j-b01n5q9q6j/) · Buy on Amazon
-- [HP 962XL Black High-Yield Ink Cartridge - Works with OfficeJet 9010, Pro 9010, 9](/products/b07mk5dg9v-product/) · Buy on Amazon
-- [HP 67 Black/Tri-Color Ink Cartridges (2-Pack) - Works with DeskJet 1255, 2700, 4](/products/b08412hxk9-product/) · Buy on Amazon
-- [Epson EcoTank Wireless Color All-in-One Cartridge-Free ET-3850 Supertank Inkjet ](/products/b0b1j5pycf-product/) · Buy on Amazon
+- [B0FMBGXC2C](/products/b0fmbgxc2c-b0fmbgxc2c/)
+- [Utopia Bedding Bed Pillows for Sleeping Queen Size (Blue), Set of 6, Cooling Hot](/products/b07j2p2v7t-utopia-bedding-bed-pillows-for-sleeping-queen-size-blue-set-/)
+- [60W Adjustable Temperature Soldering Iron Kit - 9-in-1 With 5 Tips, Solder Wire ](/products/b09dy7ccw5-60w-adjustable-temperature-soldering-iron-kit-9-in-1-with-5-/)
+- [B0FBRH75LK](/products/b0fbrh75lk-b0fbrh75lk/)
+- [B01N5Q9Q6J](/products/b01n5q9q6j-b01n5q9q6j/)
+- [HP 962XL Black High-Yield Ink Cartridge - Works with OfficeJet 9010, Pro 9010, 9](/products/b07mk5dg9v-product/)
+- [HP 67 Black/Tri-Color Ink Cartridges (2-Pack) - Works with DeskJet 1255, 2700, 4](/products/b08412hxk9-product/)
+- [Epson EcoTank Wireless Color All-in-One Cartridge-Free ET-3850 Supertank Inkjet ](/products/b0b1j5pycf-product/)
 
 ## Products in this guide
 

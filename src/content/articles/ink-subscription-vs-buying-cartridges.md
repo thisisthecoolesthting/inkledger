@@ -50,14 +50,14 @@ Buy OEM when your printer is under warranty and print volume is low. Switch to h
 
 ## Watchdog picks
 
-- [B07L2MZW6B](/products/b07l2mzw6b-b07l2mzw6b/) · Buy on Amazon
-- [B08B3K9H7L](/products/b08b3k9h7l-b08b3k9h7l/) · Buy on Amazon
-- [B09J7946RJ](/products/b09j7946rj-b09j7946rj/) · Buy on Amazon
-- [Epson EcoTank ET-2400 Wireless Color All-in-One Cartridge-Free Supertank Printer](/products/b0bm9bflmx-product/) · Buy on Amazon
-- [myCartridge SUPRINT Remanufactured Replacement for Epson 702 Ink Cartridges 702X](/products/b0fb96px2m-product/) · Buy on Amazon
-- [B07D5DN269](/products/b07d5dn269-b07d5dn269/) · Buy on Amazon
-- [B0BTSZ81C7](/products/b0btsz81c7-b0btsz81c7/) · Buy on Amazon
-- [Remanufactured Replacement for Epson 702 Ink Cartridges for 702XL Ink cartridges](/products/b0ct2ltf55-product/) · Buy on Amazon
+- [B07L2MZW6B](/products/b07l2mzw6b-b07l2mzw6b/)
+- [B08B3K9H7L](/products/b08b3k9h7l-b08b3k9h7l/)
+- [B09J7946RJ](/products/b09j7946rj-b09j7946rj/)
+- [Epson EcoTank ET-2400 Wireless Color All-in-One Cartridge-Free Supertank Printer](/products/b0bm9bflmx-product/)
+- [myCartridge SUPRINT Remanufactured Replacement for Epson 702 Ink Cartridges 702X](/products/b0fb96px2m-product/)
+- [B07D5DN269](/products/b07d5dn269-b07d5dn269/)
+- [B0BTSZ81C7](/products/b0btsz81c7-b0btsz81c7/)
+- [Remanufactured Replacement for Epson 702 Ink Cartridges for 702XL Ink cartridges](/products/b0ct2ltf55-product/)
 
 ## Products in this guide
 

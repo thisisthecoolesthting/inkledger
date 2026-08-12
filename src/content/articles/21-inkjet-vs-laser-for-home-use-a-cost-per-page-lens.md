@@ -129,14 +129,14 @@ Ultimately, your decision depends on print volume, your tolerance for upfront co
 
 ## Watchdog picks
 
-- [B0G2LS7RMK](/products/b0g2ls7rmk-b0g2ls7rmk/) · Buy on Amazon
-- [B00SAYAKPK](/products/b00sayakpk-b00sayakpk/) · Buy on Amazon
-- [Epson EcoTank Wireless Color All-in-One Cartridge-Free ET-3850 Supertank Inkjet ](/products/b0b1j5pycf-product/) · Buy on Amazon
-- [Eva-Dry Wireless Mini Dehumidifier, White (E-333)](/products/b000h0xfcs-eva-dry-wireless-mini-dehumidifier-white-e-333/) · Buy on Amazon
-- [InkOwl Compatible Ink Cartridge Replacement for Roland ECO-SOL MAX Printers ESL3](/products/b07c11yw88-inkowl-compatible-ink-cartridge-replacement-for-roland-eco-s/) · Buy on Amazon
-- [B08CDK75M8](/products/b08cdk75m8-b08cdk75m8/) · Buy on Amazon
-- [B07N1DF9VV](/products/b07n1df9vv-b07n1df9vv/) · Buy on Amazon
-- [B0F7KKY728](/products/b0f7kky728-b0f7kky728/) · Buy on Amazon
+- [B0G2LS7RMK](/products/b0g2ls7rmk-b0g2ls7rmk/)
+- [B00SAYAKPK](/products/b00sayakpk-b00sayakpk/)
+- [Epson EcoTank Wireless Color All-in-One Cartridge-Free ET-3850 Supertank Inkjet ](/products/b0b1j5pycf-product/)
+- [Eva-Dry Wireless Mini Dehumidifier, White (E-333)](/products/b000h0xfcs-eva-dry-wireless-mini-dehumidifier-white-e-333/)
+- [InkOwl Compatible Ink Cartridge Replacement for Roland ECO-SOL MAX Printers ESL3](/products/b07c11yw88-inkowl-compatible-ink-cartridge-replacement-for-roland-eco-s/)
+- [B08CDK75M8](/products/b08cdk75m8-b08cdk75m8/)
+- [B07N1DF9VV](/products/b07n1df9vv-b07n1df9vv/)
+- [B0F7KKY728](/products/b0f7kky728-b0f7kky728/)
 
 ## Products in this guide
 

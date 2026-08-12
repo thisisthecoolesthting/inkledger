@@ -137,14 +137,14 @@ A: Refills reduce plastic waste—over 375 million cartridges are dumped yearly�
 
 ## Watchdog picks
 
-- [B09WDBHXB3](/products/b09wdbhxb3-b09wdbhxb3/) · Buy on Amazon
-- [B004QM8SLG](/products/b004qm8slg-b004qm8slg/) · Buy on Amazon
-- [B09W73NQPW](/products/b09w73nqpw-b09w73nqpw/) · Buy on Amazon
-- [B0FHDJXJNZ](/products/b0fhdjxjnz-b0fhdjxjnz/) · Buy on Amazon
-- [B000H0XFCS](/products/b000h0xfcs-b000h0xfcs/) · Buy on Amazon
-- [B0BL466Y41](/products/b0bl466y41-b0bl466y41/) · Buy on Amazon
-- [B00CAZAU62](/products/b00cazau62-b00cazau62/) · Buy on Amazon
-- [Epson EcoTank ET-2803 Wireless Color All-in-One Cartridge-Free Supertank Printer](/products/b0bhxnp6b1-product/) · Buy on Amazon
+- [B09WDBHXB3](/products/b09wdbhxb3-b09wdbhxb3/)
+- [B004QM8SLG](/products/b004qm8slg-b004qm8slg/)
+- [B09W73NQPW](/products/b09w73nqpw-b09w73nqpw/)
+- [B0FHDJXJNZ](/products/b0fhdjxjnz-b0fhdjxjnz/)
+- [B000H0XFCS](/products/b000h0xfcs-b000h0xfcs/)
+- [B0BL466Y41](/products/b0bl466y41-b0bl466y41/)
+- [B00CAZAU62](/products/b00cazau62-b00cazau62/)
+- [Epson EcoTank ET-2803 Wireless Color All-in-One Cartridge-Free Supertank Printer](/products/b0bhxnp6b1-product/)
 
 ## Products in this guide
 

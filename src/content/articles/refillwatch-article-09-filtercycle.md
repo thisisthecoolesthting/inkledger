@@ -180,14 +180,14 @@ Starts at $0.99/month but:
 
 ## Watchdog picks
 
-- [B08CDK75M8](/products/b08cdk75m8-b08cdk75m8/) · Buy on Amazon
-- [TN730 TN-730 Black Toner Cartridges 2 Pack Compatible TN730 Toner Cartridge Repl](/products/b0c3qxmbc7-product/) · Buy on Amazon
-- [Brother HL-L2300D Monochrome Laser Printer with Duplex Printing](/products/b00nq1clti-brother-hl-l2300d-monochrome-laser-printer-with-duplex-print/) · Buy on Amazon
-- [HP OfficeJet Pro 9125 Wireless All-in-One Color Inkjet Printer, Print, Scan, Cop](/products/b0gpfkgny7-product/) · Buy on Amazon
-- [B0G34F2S65](/products/b0g34f2s65-b0g34f2s65/) · Buy on Amazon
-- [B0F7K193ZR](/products/b0f7k193zr-b0f7k193zr/) · Buy on Amazon
-- [B07G82D89G](/products/b07g82d89g-b07g82d89g/) · Buy on Amazon
-- [Brother Genuine TN730 3-Pack Standard Yield Black Toner Cartridge with Approxima](/products/b07q8bd3mk-product/) · Buy on Amazon
+- [B08CDK75M8](/products/b08cdk75m8-b08cdk75m8/)
+- [TN730 TN-730 Black Toner Cartridges 2 Pack Compatible TN730 Toner Cartridge Repl](/products/b0c3qxmbc7-product/)
+- [Brother HL-L2300D Monochrome Laser Printer with Duplex Printing](/products/b00nq1clti-brother-hl-l2300d-monochrome-laser-printer-with-duplex-print/)
+- [HP OfficeJet Pro 9125 Wireless All-in-One Color Inkjet Printer, Print, Scan, Cop](/products/b0gpfkgny7-product/)
+- [B0G34F2S65](/products/b0g34f2s65-b0g34f2s65/)
+- [B0F7K193ZR](/products/b0f7k193zr-b0f7k193zr/)
+- [B07G82D89G](/products/b07g82d89g-b07g82d89g/)
+- [Brother Genuine TN730 3-Pack Standard Yield Black Toner Cartridge with Approxima](/products/b07q8bd3mk-product/)
 
 ## Products in this guide
 

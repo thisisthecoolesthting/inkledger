@@ -208,14 +208,14 @@ Price data for this article comes from Keepa, which logs every published price c
 
 ## Watchdog picks
 
-- [B001E10B9I](/products/b001e10b9i-b001e10b9i/) · Buy on Amazon
-- [HP Original 962 Cyan, Magenta, Yellow / 962XL Black Ink Cartridges (4-Pack) - Wo](/products/b07t2s3d6j-product/) · Buy on Amazon
-- [B0GMKRR64P](/products/b0gmkrr64p-b0gmkrr64p/) · Buy on Amazon
-- [LEVOIT Air Purifier for Home Allergies Pet Hair in Bedroom, Covers Up to 1073 ft](/products/b07vvk39f7-levoit-air-purifier-for-home-allergies-pet-hair-in-bedroom-c/) · Buy on Amazon
-- [JANMORE Universal Ink Refills Kit Dye Ink Refill Kit Compatible for HP Canon Bro](/products/b0drp3lwp5-product/) · Buy on Amazon
-- [inkgens 31 32XL Ink Bottle Set Refill for HP Smart Tank 7600 7602 7300 7301 7001](/products/b0dpkjjrbg-product/) · Buy on Amazon
-- [HP 962 Cyan, Magenta, Yellow Ink Cartridges - Works with OfficeJet 9010, 9020 - ](/products/b07mcydd62-product/) · Buy on Amazon
-- [65 65XL Black Ink Cartridges Replacement for HP 65XL Black Ink Cartridge Work fo](/products/b0gvm6yy7b-product/) · Buy on Amazon
+- [B001E10B9I](/products/b001e10b9i-b001e10b9i/)
+- [HP Original 962 Cyan, Magenta, Yellow / 962XL Black Ink Cartridges (4-Pack) - Wo](/products/b07t2s3d6j-product/)
+- [B0GMKRR64P](/products/b0gmkrr64p-b0gmkrr64p/)
+- [LEVOIT Air Purifier for Home Allergies Pet Hair in Bedroom, Covers Up to 1073 ft](/products/b07vvk39f7-levoit-air-purifier-for-home-allergies-pet-hair-in-bedroom-c/)
+- [JANMORE Universal Ink Refills Kit Dye Ink Refill Kit Compatible for HP Canon Bro](/products/b0drp3lwp5-product/)
+- [inkgens 31 32XL Ink Bottle Set Refill for HP Smart Tank 7600 7602 7300 7301 7001](/products/b0dpkjjrbg-product/)
+- [HP 962 Cyan, Magenta, Yellow Ink Cartridges - Works with OfficeJet 9010, 9020 - ](/products/b07mcydd62-product/)
+- [65 65XL Black Ink Cartridges Replacement for HP 65XL Black Ink Cartridge Work fo](/products/b0gvm6yy7b-product/)
 
 ## Products in this guide
 

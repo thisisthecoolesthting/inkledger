@@ -157,14 +157,14 @@ One major source of ink not recognized errors is the cartridge type. Here is a d
 
 ## Watchdog picks
 
-- [E-Z Ink Remanufactured Ink Cartridge Replacement for 252XL Combo Pack for Epson ](/products/b082y7x9h5-e-z-ink-remanufactured-ink-cartridge-replacement-for-252xl-c/) · Buy on Amazon
-- [B01NBB1J9U](/products/b01nbb1j9u-b01nbb1j9u/) · Buy on Amazon
-- [HP DeskJet 2755 Wireless All-in-One Printer, Mobile Print, Scan & Copy, Instant ](/products/b083zy6xfq-product/) · Buy on Amazon
-- [B0FLXG5Z7Q](/products/b0flxg5z7q-b0flxg5z7q/) · Buy on Amazon
-- [B0C1ZF94GW](/products/b0c1zf94gw-b0c1zf94gw/) · Buy on Amazon
-- [Epson EcoTank ET-2980 Wireless All-in-One Color Supertank Printer with Refillabl](/products/b0f1fbqrvb-product/) · Buy on Amazon
-- [YIHUA 939D+ Digital Soldering Station, 75W Equivalent with Precision Heat Contro](/products/b07rvmznyr-yihua-939d-digital-soldering-station-75w-equivalent-with-pre/) · Buy on Amazon
-- [B07P5Y5QHG](/products/b07p5y5qhg-b07p5y5qhg/) · Buy on Amazon
+- [E-Z Ink Remanufactured Ink Cartridge Replacement for 252XL Combo Pack for Epson ](/products/b082y7x9h5-e-z-ink-remanufactured-ink-cartridge-replacement-for-252xl-c/)
+- [B01NBB1J9U](/products/b01nbb1j9u-b01nbb1j9u/)
+- [HP DeskJet 2755 Wireless All-in-One Printer, Mobile Print, Scan & Copy, Instant ](/products/b083zy6xfq-product/)
+- [B0FLXG5Z7Q](/products/b0flxg5z7q-b0flxg5z7q/)
+- [B0C1ZF94GW](/products/b0c1zf94gw-b0c1zf94gw/)
+- [Epson EcoTank ET-2980 Wireless All-in-One Color Supertank Printer with Refillabl](/products/b0f1fbqrvb-product/)
+- [YIHUA 939D+ Digital Soldering Station, 75W Equivalent with Precision Heat Contro](/products/b07rvmznyr-yihua-939d-digital-soldering-station-75w-equivalent-with-pre/)
+- [B07P5Y5QHG](/products/b07p5y5qhg-b07p5y5qhg/)
 
 ## Products in this guide
 

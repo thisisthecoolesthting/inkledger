@@ -76,14 +76,14 @@ Our desk scores **value**, **spec clarity**, and **review credibility** for inkj
 
 ## Watchdog picks
 
-- [B002BWQ6XK](/products/b002bwq6xk-b002bwq6xk/) · Buy on Amazon
-- [B0G6YZ5YFV](/products/b0g6yz5yfv-b0g6yz5yfv/) · Buy on Amazon
-- [TN730 TN-730 Toner Cartridge 2-Pack Replacement for Brother TN730 Toner Cartridg](/products/b0cqqv1wsr-product/) · Buy on Amazon
-- [962XL Ink Cartridges for HP 962XL Ink Cartridges Combo Pack Work for HP Officeje](/products/b0d3xgj6hw-product/) · Buy on Amazon
-- [B0CCNKGY6J](/products/b0ccnkgy6j-b0ccnkgy6j/) · Buy on Amazon
-- [Astra Platinum Double Edge Safety Razor Blades,100 Blades (20 x 5)](/products/b001qy8qxm-astra-platinum-double-edge-safety-razor-blades-100-blades-20/) · Buy on Amazon
-- [65XL Ink Cartridge for HP 65 Black Ink Cartridge High-Yield Replacement for HP I](/products/b0fkbfh92q-product/) · Buy on Amazon
-- [Epson EcoTank ET-2800 Wireless Color All-in-One Cartridge-Free Ink Supertank Pri](/products/b096n8dn2h-product/) · Buy on Amazon
+- [B002BWQ6XK](/products/b002bwq6xk-b002bwq6xk/)
+- [B0G6YZ5YFV](/products/b0g6yz5yfv-b0g6yz5yfv/)
+- [TN730 TN-730 Toner Cartridge 2-Pack Replacement for Brother TN730 Toner Cartridg](/products/b0cqqv1wsr-product/)
+- [962XL Ink Cartridges for HP 962XL Ink Cartridges Combo Pack Work for HP Officeje](/products/b0d3xgj6hw-product/)
+- [B0CCNKGY6J](/products/b0ccnkgy6j-b0ccnkgy6j/)
+- [Astra Platinum Double Edge Safety Razor Blades,100 Blades (20 x 5)](/products/b001qy8qxm-astra-platinum-double-edge-safety-razor-blades-100-blades-20/)
+- [65XL Ink Cartridge for HP 65 Black Ink Cartridge High-Yield Replacement for HP I](/products/b0fkbfh92q-product/)
+- [Epson EcoTank ET-2800 Wireless Color All-in-One Cartridge-Free Ink Supertank Pri](/products/b096n8dn2h-product/)
 
 ## Products in this guide
 

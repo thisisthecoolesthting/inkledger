@@ -180,14 +180,14 @@ By understanding what drives cartridge consumption and proactively managing prin
 
 ## Watchdog picks
 
-- [67XL 67 XL 6055e 2755e 2800e 2855e 6000 Ink Cartridges Black/Color Combo Pack Co](/products/b0fw9lh3q5-product/) · Buy on Amazon
-- [B002BWQ6XK](/products/b002bwq6xk-b002bwq6xk/) · Buy on Amazon
-- [B08R3R5KXJ](/products/b08r3r5kxj-b08r3r5kxj/) · Buy on Amazon
-- [B0CZSFG7VX](/products/b0czsfg7vx-b0czsfg7vx/) · Buy on Amazon
-- [B073Q8P6CQ](/products/b073q8p6cq-b073q8p6cq/) · Buy on Amazon
-- [TN730 TN-730 Toner Cartridge 2-Pack Replacement for Brother TN730 Toner Cartridg](/products/b0cqqv1wsr-product/) · Buy on Amazon
-- [AZ Compatible Toner Cartridge Replacement for Dell 1250, 1250BK / 1250C / 1250Y ](/products/b00qj88sb0-product/) · Buy on Amazon
-- [Brother Genuine TN760 High Yield Black Toner Cartridge, (for use with MFC-L2710D](/products/b075x6c5zw-product/) · Buy on Amazon
+- [67XL 67 XL 6055e 2755e 2800e 2855e 6000 Ink Cartridges Black/Color Combo Pack Co](/products/b0fw9lh3q5-product/)
+- [B002BWQ6XK](/products/b002bwq6xk-b002bwq6xk/)
+- [B08R3R5KXJ](/products/b08r3r5kxj-b08r3r5kxj/)
+- [B0CZSFG7VX](/products/b0czsfg7vx-b0czsfg7vx/)
+- [B073Q8P6CQ](/products/b073q8p6cq-b073q8p6cq/)
+- [TN730 TN-730 Toner Cartridge 2-Pack Replacement for Brother TN730 Toner Cartridg](/products/b0cqqv1wsr-product/)
+- [AZ Compatible Toner Cartridge Replacement for Dell 1250, 1250BK / 1250C / 1250Y ](/products/b00qj88sb0-product/)
+- [Brother Genuine TN760 High Yield Black Toner Cartridge, (for use with MFC-L2710D](/products/b075x6c5zw-product/)
 
 ## Products in this guide
 

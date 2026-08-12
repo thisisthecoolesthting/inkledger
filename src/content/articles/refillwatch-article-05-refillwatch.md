@@ -139,14 +139,14 @@ A: High-quality refillable cartridges with proper ink can match OEM print qualit
 
 ## Watchdog picks
 
-- [B09XT22566](/products/b09xt22566-b09xt22566/) · Buy on Amazon
-- [B00063RWT8](/products/b00063rwt8-b00063rwt8/) · Buy on Amazon
-- [B08JHWZ15B](/products/b08jhwz15b-b08jhwz15b/) · Buy on Amazon
-- [E-Z Ink Remanufactured Ink Cartridge Replacement for 252XL Combo Pack for Epson ](/products/b082y7x9h5-e-z-ink-remanufactured-ink-cartridge-replacement-for-252xl-c/) · Buy on Amazon
-- [Epson EcoTank ET-2980 Wireless All-in-One Color Supertank Printer with Refillabl](/products/b0f1fbqrvb-product/) · Buy on Amazon
-- [B002R5AF1I](/products/b002r5af1i-b002r5af1i/) · Buy on Amazon
-- [CEEBOO 522 High Capacity (5 Bottles) Refill Ink Replacement for Epson Compatible](/products/b0bqqlbmpv-product/) · Buy on Amazon
-- [B0CT8ZJ7ZC](/products/b0ct8zj7zc-b0ct8zj7zc/) · Buy on Amazon
+- [B09XT22566](/products/b09xt22566-b09xt22566/)
+- [B00063RWT8](/products/b00063rwt8-b00063rwt8/)
+- [B08JHWZ15B](/products/b08jhwz15b-b08jhwz15b/)
+- [E-Z Ink Remanufactured Ink Cartridge Replacement for 252XL Combo Pack for Epson ](/products/b082y7x9h5-e-z-ink-remanufactured-ink-cartridge-replacement-for-252xl-c/)
+- [Epson EcoTank ET-2980 Wireless All-in-One Color Supertank Printer with Refillabl](/products/b0f1fbqrvb-product/)
+- [B002R5AF1I](/products/b002r5af1i-b002r5af1i/)
+- [CEEBOO 522 High Capacity (5 Bottles) Refill Ink Replacement for Epson Compatible](/products/b0bqqlbmpv-product/)
+- [B0CT8ZJ7ZC](/products/b0ct8zj7zc-b0ct8zj7zc/)
 
 ## Products in this guide
 

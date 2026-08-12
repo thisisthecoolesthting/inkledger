@@ -51,14 +51,14 @@ Buy OEM when your printer is under warranty and print volume is low. Switch to h
 
 ## Watchdog picks
 
-- [Brother Genuine TN760 High Yield Black Toner Cartridge, (for use with MFC-L2710D](/products/b075x6c5zw-product/) · Buy on Amazon
-- [HQ Replacement Soldering Iron For Hakko FX-8801 FX-888D Station](/products/b00wsaxbq0-hq-replacement-soldering-iron-for-hakko-fx-8801-fx-888d-stat/) · Buy on Amazon
-- [Brother LC3019BK Super High Yield Black Ink Cartridge](/products/b01lyfvg1v-product/) · Buy on Amazon
-- [B0F2478Q95](/products/b0f2478q95-b0f2478q95/) · Buy on Amazon
-- [B0FDL1LS3B](/products/b0fdl1ls3b-b0fdl1ls3b/) · Buy on Amazon
-- [EPSON 702 DURABrite Ultra Ink High Capacity Black & Standard Color Cartridge Com](/products/b071wb6bgn-product/) · Buy on Amazon
-- [B0CWP64QMT](/products/b0cwp64qmt-b0cwp64qmt/) · Buy on Amazon
-- [B09J7946RJ](/products/b09j7946rj-b09j7946rj/) · Buy on Amazon
+- [Brother Genuine TN760 High Yield Black Toner Cartridge, (for use with MFC-L2710D](/products/b075x6c5zw-product/)
+- [HQ Replacement Soldering Iron For Hakko FX-8801 FX-888D Station](/products/b00wsaxbq0-hq-replacement-soldering-iron-for-hakko-fx-8801-fx-888d-stat/)
+- [Brother LC3019BK Super High Yield Black Ink Cartridge](/products/b01lyfvg1v-product/)
+- [B0F2478Q95](/products/b0f2478q95-b0f2478q95/)
+- [B0FDL1LS3B](/products/b0fdl1ls3b-b0fdl1ls3b/)
+- [EPSON 702 DURABrite Ultra Ink High Capacity Black & Standard Color Cartridge Com](/products/b071wb6bgn-product/)
+- [B0CWP64QMT](/products/b0cwp64qmt-b0cwp64qmt/)
+- [B09J7946RJ](/products/b09j7946rj-b09j7946rj/)
 
 ## Products in this guide
 

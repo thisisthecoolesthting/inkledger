@@ -177,14 +177,14 @@ Starts at $0.99/month but:
 
 ## Watchdog picks
 
-- [B0BVD54HPS](/products/b0bvd54hps-b0bvd54hps/) · Buy on Amazon
-- [B0D3XGJ6HW](/products/b0d3xgj6hw-b0d3xgj6hw/) · Buy on Amazon
-- [B00SAYAKPK](/products/b00sayakpk-b00sayakpk/) · Buy on Amazon
-- [B0FCS4HWPH](/products/b0fcs4hwph-b0fcs4hwph/) · Buy on Amazon
-- [B00PB6F2V4](/products/b00pb6f2v4-b00pb6f2v4/) · Buy on Amazon
-- [Valuetoner 245XL Ink Cartridge Replacement for Canon 245XL 246XL Combo Pack PG-2](/products/b07tj87ykb-product/) · Buy on Amazon
-- [B0B7MKRR58](/products/b0b7mkrr58-b0b7mkrr58/) · Buy on Amazon
-- [BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face Mask, Po](/products/b0b2rm68g2-biodance-bio-collagen-real-deep-mask-hydrating-overnight-hyd/) · Buy on Amazon
+- [B0BVD54HPS](/products/b0bvd54hps-b0bvd54hps/)
+- [B0D3XGJ6HW](/products/b0d3xgj6hw-b0d3xgj6hw/)
+- [B00SAYAKPK](/products/b00sayakpk-b00sayakpk/)
+- [B0FCS4HWPH](/products/b0fcs4hwph-b0fcs4hwph/)
+- [B00PB6F2V4](/products/b00pb6f2v4-b00pb6f2v4/)
+- [Valuetoner 245XL Ink Cartridge Replacement for Canon 245XL 246XL Combo Pack PG-2](/products/b07tj87ykb-product/)
+- [B0B7MKRR58](/products/b0b7mkrr58-b0b7mkrr58/)
+- [BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face Mask, Po](/products/b0b2rm68g2-biodance-bio-collagen-real-deep-mask-hydrating-overnight-hyd/)
 
 ## Products in this guide
 

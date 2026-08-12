@@ -147,14 +147,14 @@ Choosing a printer that welcomes compatible ink cartridges isn’t just about st
 
 ## Watchdog picks
 
-- [B00FFJ0R1Q](/products/b00ffj0r1q-b00ffj0r1q/) · Buy on Amazon
-- [Fanttik T1 Max Soldering Iron Kit, Cordless Soldering Iron, 7 Seconds Fast Heati](/products/b0d41zmdpd-fanttik-t1-max-soldering-iron-kit-cordless-soldering-iron-7-/) · Buy on Amazon
-- [B001E10B9I](/products/b001e10b9i-b001e10b9i/) · Buy on Amazon
-- [B0BL466Y41](/products/b0bl466y41-b0bl466y41/) · Buy on Amazon
-- [B0FGC43YCL](/products/b0fgc43ycl-b0fgc43ycl/) · Buy on Amazon
-- [B0963X6B5V](/products/b0963x6b5v-b0963x6b5v/) · Buy on Amazon
-- [EPSON 502 EcoTank Ink Ultra-high Capacity Bottle Black Works with ET-2750, 2760,](/products/b074rfmst8-product/) · Buy on Amazon
-- [B0GMKRR64P](/products/b0gmkrr64p-b0gmkrr64p/) · Buy on Amazon
+- [B00FFJ0R1Q](/products/b00ffj0r1q-b00ffj0r1q/)
+- [Fanttik T1 Max Soldering Iron Kit, Cordless Soldering Iron, 7 Seconds Fast Heati](/products/b0d41zmdpd-fanttik-t1-max-soldering-iron-kit-cordless-soldering-iron-7-/)
+- [B001E10B9I](/products/b001e10b9i-b001e10b9i/)
+- [B0BL466Y41](/products/b0bl466y41-b0bl466y41/)
+- [B0FGC43YCL](/products/b0fgc43ycl-b0fgc43ycl/)
+- [B0963X6B5V](/products/b0963x6b5v-b0963x6b5v/)
+- [EPSON 502 EcoTank Ink Ultra-high Capacity Bottle Black Works with ET-2750, 2760,](/products/b074rfmst8-product/)
+- [B0GMKRR64P](/products/b0gmkrr64p-b0gmkrr64p/)
 
 ## Products in this guide
 

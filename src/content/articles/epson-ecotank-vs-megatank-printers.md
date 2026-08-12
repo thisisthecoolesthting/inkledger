@@ -274,14 +274,14 @@ Price data for this article comes from Keepa, which logs every published price c
 
 ## Watchdog picks
 
-- [HP (Refurbished) OfficeJet Pro 9015e All-in-One Wireless Color Printer for Home ](/products/b092t3gbwk-product/) · Buy on Amazon
-- [67XL 67 XL 6055e 2755e 2800e 2855e 6000 Ink Cartridges Black/Color Combo Pack Co](/products/b0fw9lh3q5-product/) · Buy on Amazon
-- [B00WSAXBQ0](/products/b00wsaxbq0-b00wsaxbq0/) · Buy on Amazon
-- [B07Q5J5XJL](/products/b07q5j5xjl-b07q5j5xjl/) · Buy on Amazon
-- [Soldering Iron Kit, 80W 110V Fast Heat up in 10s LCD Digital Adjustable Temperat](/products/b08pzbpxlz-soldering-iron-kit-80w-110v-fast-heat-up-in-10s-lcd-digital-/) · Buy on Amazon
-- [B0B7MKRR58](/products/b0b7mkrr58-b0b7mkrr58/) · Buy on Amazon
-- [AZ Compatible Toner Cartridge Replacement for Dell 1250 (1250BK) use in Color La](/products/b00qj88odw-product/) · Buy on Amazon
-- [B0G2LS7RMK](/products/b0g2ls7rmk-b0g2ls7rmk/) · Buy on Amazon
+- [HP (Refurbished) OfficeJet Pro 9015e All-in-One Wireless Color Printer for Home ](/products/b092t3gbwk-product/)
+- [67XL 67 XL 6055e 2755e 2800e 2855e 6000 Ink Cartridges Black/Color Combo Pack Co](/products/b0fw9lh3q5-product/)
+- [B00WSAXBQ0](/products/b00wsaxbq0-b00wsaxbq0/)
+- [B07Q5J5XJL](/products/b07q5j5xjl-b07q5j5xjl/)
+- [Soldering Iron Kit, 80W 110V Fast Heat up in 10s LCD Digital Adjustable Temperat](/products/b08pzbpxlz-soldering-iron-kit-80w-110v-fast-heat-up-in-10s-lcd-digital-/)
+- [B0B7MKRR58](/products/b0b7mkrr58-b0b7mkrr58/)
+- [AZ Compatible Toner Cartridge Replacement for Dell 1250 (1250BK) use in Color La](/products/b00qj88odw-product/)
+- [B0G2LS7RMK](/products/b0g2ls7rmk-b0g2ls7rmk/)
 
 ## Products in this guide
 

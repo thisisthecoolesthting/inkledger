@@ -148,14 +148,14 @@ However, if print quality and maximum printer uptime are critical, OEM cartridge
 
 ## Watchdog picks
 
-- [B07P5BNQJG](/products/b07p5bnqjg-b07p5bnqjg/) · Buy on Amazon
-- [AZ Compatible Toner Cartridge Replacement for Dell 1250 (1250BK) use in Color La](/products/b00qj88odw-product/) · Buy on Amazon
-- [CEEBOO 522 High Capacity (5 Bottles) Refill Ink Replacement for Epson Compatible](/products/b0bqqlbmpv-product/) · Buy on Amazon
-- [B01N4IWH2O](/products/b01n4iwh2o-b01n4iwh2o/) · Buy on Amazon
-- [B0FMBTJLX6](/products/b0fmbtjlx6-b0fmbtjlx6/) · Buy on Amazon
-- [B0FHDJXJNZ](/products/b0fhdjxjnz-b0fhdjxjnz/) · Buy on Amazon
-- [Brother Genuine TN730 3-Pack Standard Yield Black Toner Cartridge with Approxima](/products/b07q8bd3mk-product/) · Buy on Amazon
-- [TEINO Remanufactured 65XL Ink Cartridge Replacement for HP Envy 5055 5052 DeskJe](/products/b081grvj5k-product/) · Buy on Amazon
+- [B07P5BNQJG](/products/b07p5bnqjg-b07p5bnqjg/)
+- [AZ Compatible Toner Cartridge Replacement for Dell 1250 (1250BK) use in Color La](/products/b00qj88odw-product/)
+- [CEEBOO 522 High Capacity (5 Bottles) Refill Ink Replacement for Epson Compatible](/products/b0bqqlbmpv-product/)
+- [B01N4IWH2O](/products/b01n4iwh2o-b01n4iwh2o/)
+- [B0FMBTJLX6](/products/b0fmbtjlx6-b0fmbtjlx6/)
+- [B0FHDJXJNZ](/products/b0fhdjxjnz-b0fhdjxjnz/)
+- [Brother Genuine TN730 3-Pack Standard Yield Black Toner Cartridge with Approxima](/products/b07q8bd3mk-product/)
+- [TEINO Remanufactured 65XL Ink Cartridge Replacement for HP Envy 5055 5052 DeskJe](/products/b081grvj5k-product/)
 
 ## Products in this guide
 

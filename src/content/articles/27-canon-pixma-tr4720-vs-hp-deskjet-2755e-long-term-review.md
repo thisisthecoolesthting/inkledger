@@ -134,14 +134,14 @@ From this, Canon offers slightly better cost efficiency on ink against yield for
 
 ## Watchdog picks
 
-- [TN760 Toner for Brother Printer TN730: Compatible for Brother TN-730/TN-760 TN 7](/products/b0flxjhgr7-product/) · Buy on Amazon
-- [Canon PG-245 / CL-246 Genuine Ink Value Pack (2 Cartridges), Compatible with iP2](/products/b00trdoylw-product/) · Buy on Amazon
-- [B0FLXG5Z7Q](/products/b0flxg5z7q-b0flxg5z7q/) · Buy on Amazon
-- [B0FBRH75LK](/products/b0fbrh75lk-b0fbrh75lk/) · Buy on Amazon
-- [B0748ZCG45](/products/b0748zcg45-b0748zcg45/) · Buy on Amazon
-- [Downy Fabric Softener Dryer Sheets, April Fresh, 120 Count](/products/b0014d3n0q-downy-fabric-softener-dryer-sheets-april-fresh-120-count/) · Buy on Amazon
-- [B00B5JOC5C](/products/b00b5joc5c-b00b5joc5c/) · Buy on Amazon
-- [B0H1M158VT](/products/b0h1m158vt-b0h1m158vt/) · Buy on Amazon
+- [TN760 Toner for Brother Printer TN730: Compatible for Brother TN-730/TN-760 TN 7](/products/b0flxjhgr7-product/)
+- [Canon PG-245 / CL-246 Genuine Ink Value Pack (2 Cartridges), Compatible with iP2](/products/b00trdoylw-product/)
+- [B0FLXG5Z7Q](/products/b0flxg5z7q-b0flxg5z7q/)
+- [B0FBRH75LK](/products/b0fbrh75lk-b0fbrh75lk/)
+- [B0748ZCG45](/products/b0748zcg45-b0748zcg45/)
+- [Downy Fabric Softener Dryer Sheets, April Fresh, 120 Count](/products/b0014d3n0q-downy-fabric-softener-dryer-sheets-april-fresh-120-count/)
+- [B00B5JOC5C](/products/b00b5joc5c-b00b5joc5c/)
+- [B0H1M158VT](/products/b0h1m158vt-b0h1m158vt/)
 
 ## Products in this guide
 

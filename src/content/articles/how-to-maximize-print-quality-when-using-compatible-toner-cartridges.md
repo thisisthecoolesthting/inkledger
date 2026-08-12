@@ -140,14 +140,14 @@ By applying these steps, printer owners can enjoy the best value from compatible
 
 ## Watchdog picks
 
-- [B0G34F2S65](/products/b0g34f2s65-b0g34f2s65/) · Buy on Amazon
-- [B07G82D89G](/products/b07g82d89g-b07g82d89g/) · Buy on Amazon
-- [B0CWP64QMT](/products/b0cwp64qmt-b0cwp64qmt/) · Buy on Amazon
-- [Canon PG-245 XL / CL-246 XL Genuine Ink Value Pack (2 Cartridges), Compatible wi](/products/b079y6fhkj-product/) · Buy on Amazon
-- [STAROVER Compatible Toner Cartridge Replacement for Samsung MLT-D111S D111S 111S](/products/b075m8yx5n-product/) · Buy on Amazon
-- [Ink Cartridge Printer Replacement Part Compatible with Expression Photo XP-15000](/products/b0gvgsv2kl-product/) · Buy on Amazon
-- [B001ET76H8](/products/b001et76h8-b001et76h8/) · Buy on Amazon
-- [BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face Mask, Po](/products/b0b2rm68g2-biodance-bio-collagen-real-deep-mask-hydrating-overnight-hyd/) · Buy on Amazon
+- [B0G34F2S65](/products/b0g34f2s65-b0g34f2s65/)
+- [B07G82D89G](/products/b07g82d89g-b07g82d89g/)
+- [B0CWP64QMT](/products/b0cwp64qmt-b0cwp64qmt/)
+- [Canon PG-245 XL / CL-246 XL Genuine Ink Value Pack (2 Cartridges), Compatible wi](/products/b079y6fhkj-product/)
+- [STAROVER Compatible Toner Cartridge Replacement for Samsung MLT-D111S D111S 111S](/products/b075m8yx5n-product/)
+- [Ink Cartridge Printer Replacement Part Compatible with Expression Photo XP-15000](/products/b0gvgsv2kl-product/)
+- [B001ET76H8](/products/b001et76h8-b001et76h8/)
+- [BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face Mask, Po](/products/b0b2rm68g2-biodance-bio-collagen-real-deep-mask-hydrating-overnight-hyd/)
 
 ## Products in this guide
 

@@ -175,14 +175,14 @@ Choosing the best budget laser printer for households printing under 50 pages pe
 
 ## Watchdog picks
 
-- [B01NBB1J9U](/products/b01nbb1j9u-b01nbb1j9u/) · Buy on Amazon
-- [B0B7MKRR58](/products/b0b7mkrr58-b0b7mkrr58/) · Buy on Amazon
-- [B0FVFGX7Y5](/products/b0fvfgx7y5-b0fvfgx7y5/) · Buy on Amazon
-- [65XL Black Ink Cartridge Replacement for HP Ink 65 Black HP65XL Black Ink Cartri](/products/b07nphds24-product/) · Buy on Amazon
-- [B0DPYJWX2F](/products/b0dpyjwx2f-b0dpyjwx2f/) · Buy on Amazon
-- [B09WDBHXB3](/products/b09wdbhxb3-b09wdbhxb3/) · Buy on Amazon
-- [B0DMS3D2JT](/products/b0dms3d2jt-b0dms3d2jt/) · Buy on Amazon
-- [B07D5DN269](/products/b07d5dn269-b07d5dn269/) · Buy on Amazon
+- [B01NBB1J9U](/products/b01nbb1j9u-b01nbb1j9u/)
+- [B0B7MKRR58](/products/b0b7mkrr58-b0b7mkrr58/)
+- [B0FVFGX7Y5](/products/b0fvfgx7y5-b0fvfgx7y5/)
+- [65XL Black Ink Cartridge Replacement for HP Ink 65 Black HP65XL Black Ink Cartri](/products/b07nphds24-product/)
+- [B0DPYJWX2F](/products/b0dpyjwx2f-b0dpyjwx2f/)
+- [B09WDBHXB3](/products/b09wdbhxb3-b09wdbhxb3/)
+- [B0DMS3D2JT](/products/b0dms3d2jt-b0dms3d2jt/)
+- [B07D5DN269](/products/b07d5dn269-b07d5dn269/)
 
 ## Products in this guide
 

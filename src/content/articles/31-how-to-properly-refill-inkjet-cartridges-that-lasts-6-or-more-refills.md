@@ -145,14 +145,14 @@ Refilling inkjet cartridges is an effective way to cut down per-page printing co
 
 ## Watchdog picks
 
-- [B07J2P2V7T](/products/b07j2p2v7t-b07j2p2v7t/) · Buy on Amazon
-- [Epson EcoTank ET-2800 Wireless Color All-in-One Cartridge-Free Ink Supertank Pri](/products/b096n8cnbz-product/) · Buy on Amazon
-- [WEAREC Compatible Toner Cartridge Replacement for Brother TN760 TN-760 TN730 wit](/products/b0dj79lqp5-product/) · Buy on Amazon
-- [B09PH83KK5](/products/b09ph83kk5-b09ph83kk5/) · Buy on Amazon
-- [B0748ZCG45](/products/b0748zcg45-b0748zcg45/) · Buy on Amazon
-- [B00SAYAKPK](/products/b00sayakpk-b00sayakpk/) · Buy on Amazon
-- [B00NQ1CLTI](/products/b00nq1clti-b00nq1clti/) · Buy on Amazon
-- [HP OfficeJet Pro 8125e Wireless All-in-One Color Inkjet Printer, Print, scan, Co](/products/b0ct8zj7zc-product/) · Buy on Amazon
+- [B07J2P2V7T](/products/b07j2p2v7t-b07j2p2v7t/)
+- [Epson EcoTank ET-2800 Wireless Color All-in-One Cartridge-Free Ink Supertank Pri](/products/b096n8cnbz-product/)
+- [WEAREC Compatible Toner Cartridge Replacement for Brother TN760 TN-760 TN730 wit](/products/b0dj79lqp5-product/)
+- [B09PH83KK5](/products/b09ph83kk5-b09ph83kk5/)
+- [B0748ZCG45](/products/b0748zcg45-b0748zcg45/)
+- [B00SAYAKPK](/products/b00sayakpk-b00sayakpk/)
+- [B00NQ1CLTI](/products/b00nq1clti-b00nq1clti/)
+- [HP OfficeJet Pro 8125e Wireless All-in-One Color Inkjet Printer, Print, scan, Co](/products/b0ct8zj7zc-product/)
 
 ## Products in this guide
 

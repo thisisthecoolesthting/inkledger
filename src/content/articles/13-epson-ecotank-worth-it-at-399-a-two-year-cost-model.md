@@ -122,14 +122,14 @@ The Epson EcoTank priced at $399 can be a cost-effective choice for higher-volum
 
 ## Watchdog picks
 
-- [Compatible for EPT502 Ink Refill Bottles Eco Tank ET-2850 ET-3850 ET-4850 ET-150](/products/b0gczvz3sz-product/) · Buy on Amazon
-- [Brother Genuine Standard Yield Toner Cartridge, TN730, Replacement Black Toner, ](/products/b075x7tfy5-product/) · Buy on Amazon
-- [MLT-D111S 111S Toner Cartridge High Yield Replacement for Samsung MLT-D111S MLTD](/products/b0btxxq5tc-product/) · Buy on Amazon
-- [Aomya Ink Refill kit 5x100ml for Canon 250 251 270 271 280 281 1200 2200 PG240 C](/products/b07c4hmjfs-product/) · Buy on Amazon
-- [B0G6YZ5YFV](/products/b0g6yz5yfv-b0g6yz5yfv/) · Buy on Amazon
-- [Brother HL-L2300D Monochrome Laser Printer with Duplex Printing](/products/b00nq1clti-brother-hl-l2300d-monochrome-laser-printer-with-duplex-print/) · Buy on Amazon
-- [B09ZVMYHGF](/products/b09zvmyhgf-b09zvmyhgf/) · Buy on Amazon
-- [B07YPR2DGH](/products/b07ypr2dgh-b07ypr2dgh/) · Buy on Amazon
+- [Compatible for EPT502 Ink Refill Bottles Eco Tank ET-2850 ET-3850 ET-4850 ET-150](/products/b0gczvz3sz-product/)
+- [Brother Genuine Standard Yield Toner Cartridge, TN730, Replacement Black Toner, ](/products/b075x7tfy5-product/)
+- [MLT-D111S 111S Toner Cartridge High Yield Replacement for Samsung MLT-D111S MLTD](/products/b0btxxq5tc-product/)
+- [Aomya Ink Refill kit 5x100ml for Canon 250 251 270 271 280 281 1200 2200 PG240 C](/products/b07c4hmjfs-product/)
+- [B0G6YZ5YFV](/products/b0g6yz5yfv-b0g6yz5yfv/)
+- [Brother HL-L2300D Monochrome Laser Printer with Duplex Printing](/products/b00nq1clti-brother-hl-l2300d-monochrome-laser-printer-with-duplex-print/)
+- [B09ZVMYHGF](/products/b09zvmyhgf-b09zvmyhgf/)
+- [B07YPR2DGH](/products/b07ypr2dgh-b07ypr2dgh/)
 
 ## Products in this guide
 

@@ -174,14 +174,14 @@ A: Eco-conscious consumers can opt for refillable ink systems, remanufactured ca
 
 ## Watchdog picks
 
-- [B0CYGN38RF](/products/b0cygn38rf-b0cygn38rf/) · Buy on Amazon
-- [B0FBRH75LK](/products/b0fbrh75lk-b0fbrh75lk/) · Buy on Amazon
-- [B0GYNFD72N](/products/b0gynfd72n-b0gynfd72n/) · Buy on Amazon
-- [Genuine Brother LC3019 (LC-3019) (BK/C/M/Y) High Yield Color Ink 4-Pack (Include](/products/b06xy6rsnb-product/) · Buy on Amazon
-- [B0BJ194Z43](/products/b0bj194z43-b0bj194z43/) · Buy on Amazon
-- [Canon PG-245 / CL-246 Genuine Ink Value Pack (2 Cartridges), Compatible with iP2](/products/b00trdoylw-product/) · Buy on Amazon
-- [Extra Deep Queen Sheet Set - 6 Piece Breathable and Cooling Sheets - Hotel Luxur](/products/b07f97mpyt-extra-deep-queen-sheet-set-6-piece-breathable-and-cooling-sh/) · Buy on Amazon
-- [Brother Genuine TN730 3-Pack Standard Yield Black Toner Cartridge with Approxima](/products/b07q8bd3mk-product/) · Buy on Amazon
+- [B0CYGN38RF](/products/b0cygn38rf-b0cygn38rf/)
+- [B0FBRH75LK](/products/b0fbrh75lk-b0fbrh75lk/)
+- [B0GYNFD72N](/products/b0gynfd72n-b0gynfd72n/)
+- [Genuine Brother LC3019 (LC-3019) (BK/C/M/Y) High Yield Color Ink 4-Pack (Include](/products/b06xy6rsnb-product/)
+- [B0BJ194Z43](/products/b0bj194z43-b0bj194z43/)
+- [Canon PG-245 / CL-246 Genuine Ink Value Pack (2 Cartridges), Compatible with iP2](/products/b00trdoylw-product/)
+- [Extra Deep Queen Sheet Set - 6 Piece Breathable and Cooling Sheets - Hotel Luxur](/products/b07f97mpyt-extra-deep-queen-sheet-set-6-piece-breathable-and-cooling-sh/)
+- [Brother Genuine TN730 3-Pack Standard Yield Black Toner Cartridge with Approxima](/products/b07q8bd3mk-product/)
 
 ## Products in this guide
 

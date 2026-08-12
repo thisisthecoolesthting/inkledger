@@ -147,14 +147,14 @@ Vacuum-sealing unused printer cartridges is an often overlooked but effective me
 
 ## Watchdog picks
 
-- [AOLIBE MLT-D111S Toner Cartridge High Yield Compatible for Samsung 111S MLT111S ](/products/b0bpd45xg6-product/) · Buy on Amazon
-- [B08CDK75M8](/products/b08cdk75m8-b08cdk75m8/) · Buy on Amazon
-- [B001E10B9I](/products/b001e10b9i-b001e10b9i/) · Buy on Amazon
-- [EPSON 702 DURABrite Ultra Ink Standard Capacity Black Cartridge (T702120-S) Work](/products/b06xgmwmdw-product/) · Buy on Amazon
-- [Skyink Compatible Ink Cartridge Replacement for Canon 245XL 246XL 245 246 XL (Bl](/products/b0dkjdrltz-product/) · Buy on Amazon
-- [B0F7JTLB86](/products/b0f7jtlb86-b0f7jtlb86/) · Buy on Amazon
-- [HP 65 Black Ink Cartridge - Works with AMP 100, DeskJet 2600, 3700; Envy 5000 - ](/products/b01bykui9c-product/) · Buy on Amazon
-- [MLT-D111S 111S Toner Cartridge High Yield Replacement for Samsung MLT-D111S MLTD](/products/b0btxxq5tc-product/) · Buy on Amazon
+- [AOLIBE MLT-D111S Toner Cartridge High Yield Compatible for Samsung 111S MLT111S ](/products/b0bpd45xg6-product/)
+- [B08CDK75M8](/products/b08cdk75m8-b08cdk75m8/)
+- [B001E10B9I](/products/b001e10b9i-b001e10b9i/)
+- [EPSON 702 DURABrite Ultra Ink Standard Capacity Black Cartridge (T702120-S) Work](/products/b06xgmwmdw-product/)
+- [Skyink Compatible Ink Cartridge Replacement for Canon 245XL 246XL 245 246 XL (Bl](/products/b0dkjdrltz-product/)
+- [B0F7JTLB86](/products/b0f7jtlb86-b0f7jtlb86/)
+- [HP 65 Black Ink Cartridge - Works with AMP 100, DeskJet 2600, 3700; Envy 5000 - ](/products/b01bykui9c-product/)
+- [MLT-D111S 111S Toner Cartridge High Yield Replacement for Samsung MLT-D111S MLTD](/products/b0btxxq5tc-product/)
 
 ## Products in this guide
 

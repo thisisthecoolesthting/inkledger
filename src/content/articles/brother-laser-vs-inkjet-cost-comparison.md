@@ -226,14 +226,14 @@ Price data for this article comes from Keepa, which logs every published price c
 
 ## Watchdog picks
 
-- [B0GMMHC3G4](/products/b0gmmhc3g4-b0gmmhc3g4/) · Buy on Amazon
-- [B0G6YZ5YFV](/products/b0g6yz5yfv-b0g6yz5yfv/) · Buy on Amazon
-- [AYMSous 5-Pack Universal Ink Refill Kit for All HP Canon Epsn Brother Printers C](/products/b0cct8h4yk-product/) · Buy on Amazon
-- [TN730 TN-730 Toner Cartridge 2-Pack Replacement for Brother TN730 Toner Cartridg](/products/b0cqqv1wsr-product/) · Buy on Amazon
-- [B0FGC43YCL](/products/b0fgc43ycl-b0fgc43ycl/) · Buy on Amazon
-- [B0F7KKY728](/products/b0f7kky728-b0f7kky728/) · Buy on Amazon
-- [B074ND5RDT](/products/b074nd5rdt-b074nd5rdt/) · Buy on Amazon
-- [AOLIBE MLT-D111S Toner Cartridge High Yield Compatible for Samsung 111S MLT111S ](/products/b0bpd45xg6-product/) · Buy on Amazon
+- [B0GMMHC3G4](/products/b0gmmhc3g4-b0gmmhc3g4/)
+- [B0G6YZ5YFV](/products/b0g6yz5yfv-b0g6yz5yfv/)
+- [AYMSous 5-Pack Universal Ink Refill Kit for All HP Canon Epsn Brother Printers C](/products/b0cct8h4yk-product/)
+- [TN730 TN-730 Toner Cartridge 2-Pack Replacement for Brother TN730 Toner Cartridg](/products/b0cqqv1wsr-product/)
+- [B0FGC43YCL](/products/b0fgc43ycl-b0fgc43ycl/)
+- [B0F7KKY728](/products/b0f7kky728-b0f7kky728/)
+- [B074ND5RDT](/products/b074nd5rdt-b074nd5rdt/)
+- [AOLIBE MLT-D111S Toner Cartridge High Yield Compatible for Samsung 111S MLT111S ](/products/b0bpd45xg6-product/)
 
 ## Products in this guide
 

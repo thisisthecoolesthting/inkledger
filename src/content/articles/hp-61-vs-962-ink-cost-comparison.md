@@ -246,14 +246,14 @@ Price data for this article comes from Keepa, which logs every published price c
 
 ## Watchdog picks
 
-- [B07Q5J5YXV](/products/b07q5j5yxv-b07q5j5yxv/) · Buy on Amazon
-- [B0FGC43YCL](/products/b0fgc43ycl-b0fgc43ycl/) · Buy on Amazon
-- [ecodot 552 Pigment Ink Refill Ink Bottle Replacement for Epson 552 Ink Used for ](/products/b09w9mf63y-ecodot-552-pigment-ink-refill-ink-bottle-replacement-for-eps/) · Buy on Amazon
-- [B07D5DN269](/products/b07d5dn269-b07d5dn269/) · Buy on Amazon
-- [B0GTL8RCGK](/products/b0gtl8rcgk-b0gtl8rcgk/) · Buy on Amazon
-- [HP 65 Black Ink Cartridge - Works with AMP 100, DeskJet 2600, 3700; Envy 5000 - ](/products/b01bykui9c-product/) · Buy on Amazon
-- [Soldering Iron Kit, 60W LED Display Digital Solder Pen, 5 Replaceable Tips, 21-i](/products/b0d92pvdqh-soldering-iron-kit-60w-led-display-digital-solder-pen-5-repl/) · Buy on Amazon
-- [65XL Ink Cartridge for HP 65 Black Ink Cartridge High-Yield Replacement for HP I](/products/b0fkbfh92q-product/) · Buy on Amazon
+- [B07Q5J5YXV](/products/b07q5j5yxv-b07q5j5yxv/)
+- [B0FGC43YCL](/products/b0fgc43ycl-b0fgc43ycl/)
+- [ecodot 552 Pigment Ink Refill Ink Bottle Replacement for Epson 552 Ink Used for ](/products/b09w9mf63y-ecodot-552-pigment-ink-refill-ink-bottle-replacement-for-eps/)
+- [B07D5DN269](/products/b07d5dn269-b07d5dn269/)
+- [B0GTL8RCGK](/products/b0gtl8rcgk-b0gtl8rcgk/)
+- [HP 65 Black Ink Cartridge - Works with AMP 100, DeskJet 2600, 3700; Envy 5000 - ](/products/b01bykui9c-product/)
+- [Soldering Iron Kit, 60W LED Display Digital Solder Pen, 5 Replaceable Tips, 21-i](/products/b0d92pvdqh-soldering-iron-kit-60w-led-display-digital-solder-pen-5-repl/)
+- [65XL Ink Cartridge for HP 65 Black Ink Cartridge High-Yield Replacement for HP I](/products/b0fkbfh92q-product/)
 
 ## Products in this guide
 

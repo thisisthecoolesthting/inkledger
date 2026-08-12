@@ -168,14 +168,14 @@ Our testing of alternative solutions revealed:
 
 ## Watchdog picks
 
-- [B08PDHVZ4N](/products/b08pdhvz4n-b08pdhvz4n/) · Buy on Amazon
-- [B0041RRMQS](/products/b0041rrmqs-b0041rrmqs/) · Buy on Amazon
-- [B08PDT1Y3H](/products/b08pdt1y3h-b08pdt1y3h/) · Buy on Amazon
-- [B00JTE518E](/products/b00jte518e-b00jte518e/) · Buy on Amazon
-- [Brother Genuine Standard Yield Toner Cartridge, TN730, Replacement Black Toner, ](/products/b075x7tfy5-product/) · Buy on Amazon
-- [B00T6RWJMU](/products/b00t6rwjmu-b00t6rwjmu/) · Buy on Amazon
-- [B0D96T79YF](/products/b0d96t79yf-b0d96t79yf/) · Buy on Amazon
-- [HP (Refurbished) OfficeJet Pro 9015e All-in-One Wireless Color Printer for Home ](/products/b092t3gbwk-product/) · Buy on Amazon
+- [B08PDHVZ4N](/products/b08pdhvz4n-b08pdhvz4n/)
+- [B0041RRMQS](/products/b0041rrmqs-b0041rrmqs/)
+- [B08PDT1Y3H](/products/b08pdt1y3h-b08pdt1y3h/)
+- [B00JTE518E](/products/b00jte518e-b00jte518e/)
+- [Brother Genuine Standard Yield Toner Cartridge, TN730, Replacement Black Toner, ](/products/b075x7tfy5-product/)
+- [B00T6RWJMU](/products/b00t6rwjmu-b00t6rwjmu/)
+- [B0D96T79YF](/products/b0d96t79yf-b0d96t79yf/)
+- [HP (Refurbished) OfficeJet Pro 9015e All-in-One Wireless Color Printer for Home ](/products/b092t3gbwk-product/)
 
 ## Products in this guide
 

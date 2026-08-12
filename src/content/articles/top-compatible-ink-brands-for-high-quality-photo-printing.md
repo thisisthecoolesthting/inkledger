@@ -148,14 +148,14 @@ Compatible inks are attractive choices for photo printing when cost savings are 
 
 ## Watchdog picks
 
-- [TEINO Remanufactured 65XL Ink Cartridge Replacement for HP Envy 5055 5052 DeskJe](/products/b081grvj5k-product/) · Buy on Amazon
-- [WEP 927-IV Soldering Station Kit High-Power 110W with 3 Preset Channels, Sleep M](/products/b09txp1kdv-wep-927-iv-soldering-station-kit-high-power-110w-with-3-pres/) · Buy on Amazon
-- [B0CPB11F85](/products/b0cpb11f85-b0cpb11f85/) · Buy on Amazon
-- [InkOwl Compatible Ink Cartridge Replacement for Roland ECO-SOL MAX Printers ESL3](/products/b07c11yw88-inkowl-compatible-ink-cartridge-replacement-for-roland-eco-s/) · Buy on Amazon
-- [Soldering Iron Kit, 60W Adjustable Temperature, Digital Multimeter, 5pcs Solderi](/products/b09vxq221k-soldering-iron-kit-60w-adjustable-temperature-digital-multim/) · Buy on Amazon
-- [B07P5BNQJG](/products/b07p5bnqjg-b07p5bnqjg/) · Buy on Amazon
-- [B08K3J4WX6](/products/b08k3j4wx6-b08k3j4wx6/) · Buy on Amazon
-- [B0G2LS7RMK](/products/b0g2ls7rmk-b0g2ls7rmk/) · Buy on Amazon
+- [TEINO Remanufactured 65XL Ink Cartridge Replacement for HP Envy 5055 5052 DeskJe](/products/b081grvj5k-product/)
+- [WEP 927-IV Soldering Station Kit High-Power 110W with 3 Preset Channels, Sleep M](/products/b09txp1kdv-wep-927-iv-soldering-station-kit-high-power-110w-with-3-pres/)
+- [B0CPB11F85](/products/b0cpb11f85-b0cpb11f85/)
+- [InkOwl Compatible Ink Cartridge Replacement for Roland ECO-SOL MAX Printers ESL3](/products/b07c11yw88-inkowl-compatible-ink-cartridge-replacement-for-roland-eco-s/)
+- [Soldering Iron Kit, 60W Adjustable Temperature, Digital Multimeter, 5pcs Solderi](/products/b09vxq221k-soldering-iron-kit-60w-adjustable-temperature-digital-multim/)
+- [B07P5BNQJG](/products/b07p5bnqjg-b07p5bnqjg/)
+- [B08K3J4WX6](/products/b08k3j4wx6-b08k3j4wx6/)
+- [B0G2LS7RMK](/products/b0g2ls7rmk-b0g2ls7rmk/)
 
 ## Products in this guide
 

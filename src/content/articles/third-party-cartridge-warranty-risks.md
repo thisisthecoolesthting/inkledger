@@ -203,14 +203,14 @@ Price data for this article comes from Keepa, which logs every published price c
 
 ## Watchdog picks
 
-- [Epson EcoTank Wireless Color All-in-One Cartridge-Free ET-3850 Supertank Inkjet ](/products/b0b1j5pycf-product/) · Buy on Amazon
-- [TN730 TN-730 Black Toner Cartridges 2 Pack Compatible TN730 Toner Cartridge Repl](/products/b0c3qxmbc7-product/) · Buy on Amazon
-- [HP Original 67 Tri-Color / 67XL Black Ink Cartridges (2-Pack) - Works DeskJet 12](/products/b08swn848g-product/) · Buy on Amazon
-- [Brother Genuine High-Yield Black Toner Cartridge Twin Pack TN760 2Pk, TN7602PK,2](/products/b07ygl9xth-product/) · Buy on Amazon
-- [HP (Refurbished) OfficeJet Pro 9015e All-in-One Wireless Color Printer for Home ](/products/b092t3gbwk-product/) · Buy on Amazon
-- [B0BVD54HPS](/products/b0bvd54hps-b0bvd54hps/) · Buy on Amazon
-- [B00CAZAU62](/products/b00cazau62-b00cazau62/) · Buy on Amazon
-- [Printer Ink 67 Compatible for HP 67 Ink Cartridges Black/Color Combo Pack for HP](/products/b0flxghlhs-product/) · Buy on Amazon
+- [Epson EcoTank Wireless Color All-in-One Cartridge-Free ET-3850 Supertank Inkjet ](/products/b0b1j5pycf-product/)
+- [TN730 TN-730 Black Toner Cartridges 2 Pack Compatible TN730 Toner Cartridge Repl](/products/b0c3qxmbc7-product/)
+- [HP Original 67 Tri-Color / 67XL Black Ink Cartridges (2-Pack) - Works DeskJet 12](/products/b08swn848g-product/)
+- [Brother Genuine High-Yield Black Toner Cartridge Twin Pack TN760 2Pk, TN7602PK,2](/products/b07ygl9xth-product/)
+- [HP (Refurbished) OfficeJet Pro 9015e All-in-One Wireless Color Printer for Home ](/products/b092t3gbwk-product/)
+- [B0BVD54HPS](/products/b0bvd54hps-b0bvd54hps/)
+- [B00CAZAU62](/products/b00cazau62-b00cazau62/)
+- [Printer Ink 67 Compatible for HP 67 Ink Cartridges Black/Color Combo Pack for HP](/products/b0flxghlhs-product/)
 
 ## Products in this guide
 

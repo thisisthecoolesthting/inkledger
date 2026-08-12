@@ -207,14 +207,14 @@ If you insist on subscriptions:
 
 ## Watchdog picks
 
-- [HQ Replacement Soldering Iron For Hakko FX-8801 FX-888D Station](/products/b00wsaxbq0-hq-replacement-soldering-iron-for-hakko-fx-8801-fx-888d-stat/) · Buy on Amazon
-- [Brother Genuine High-Yield Black Toner Cartridge Twin Pack TN760 2Pk, TN7602PK,2](/products/b07ygl9xth-product/) · Buy on Amazon
-- [B00762AHTE](/products/b00762ahte-b00762ahte/) · Buy on Amazon
-- [WEP 926LED V3 Soldering Station 130W MAX Soldering Iron Kit with Solder Wire, 5 ](/products/b0bx2n258s-wep-926led-v3-soldering-station-130w-max-soldering-iron-kit-/) · Buy on Amazon
-- [Epson EcoTank Wireless Color All-in-One Cartridge-Free ET-3850 Supertank Inkjet ](/products/b0b1j5pycf-product/) · Buy on Amazon
-- [B08R3R5KXJ](/products/b08r3r5kxj-b08r3r5kxj/) · Buy on Amazon
-- [Epson EcoTank ET-2800 Wireless Color All-in-One Cartridge-Free Ink Supertank Pri](/products/b096n8cnbz-product/) · Buy on Amazon
-- [B08X4BQL7D](/products/b08x4bql7d-b08x4bql7d/) · Buy on Amazon
+- [HQ Replacement Soldering Iron For Hakko FX-8801 FX-888D Station](/products/b00wsaxbq0-hq-replacement-soldering-iron-for-hakko-fx-8801-fx-888d-stat/)
+- [Brother Genuine High-Yield Black Toner Cartridge Twin Pack TN760 2Pk, TN7602PK,2](/products/b07ygl9xth-product/)
+- [B00762AHTE](/products/b00762ahte-b00762ahte/)
+- [WEP 926LED V3 Soldering Station 130W MAX Soldering Iron Kit with Solder Wire, 5 ](/products/b0bx2n258s-wep-926led-v3-soldering-station-130w-max-soldering-iron-kit-/)
+- [Epson EcoTank Wireless Color All-in-One Cartridge-Free ET-3850 Supertank Inkjet ](/products/b0b1j5pycf-product/)
+- [B08R3R5KXJ](/products/b08r3r5kxj-b08r3r5kxj/)
+- [Epson EcoTank ET-2800 Wireless Color All-in-One Cartridge-Free Ink Supertank Pri](/products/b096n8cnbz-product/)
+- [B08X4BQL7D](/products/b08x4bql7d-b08x4bql7d/)
 
 ## Products in this guide
 

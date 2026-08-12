@@ -119,14 +119,14 @@ Printer ink drying out isn't a mystery or inevitable expense — it’s largely 
 
 ## Watchdog picks
 
-- [B09PH83KK5](/products/b09ph83kk5-b09ph83kk5/) · Buy on Amazon
-- [B07J2P2V7T](/products/b07j2p2v7t-b07j2p2v7t/) · Buy on Amazon
-- [Aomya Compatible Ink Refill kit for HP 60 61 63 64 65 902 932 952 564 Refillable](/products/b077gllzbw-product/) · Buy on Amazon
-- [HP OfficeJet Pro 9135 Wireless All-in-One Color Inkjet Printer, Print, Scan, Cop](/products/b0gpflm562-product/) · Buy on Amazon
-- [Brother Genuine High-Yield Black Toner Cartridge Twin Pack TN760 2Pk, TN7602PK,2](/products/b07ygl9xth-product/) · Buy on Amazon
-- [B0F7KKY728](/products/b0f7kky728-b0f7kky728/) · Buy on Amazon
-- [Ink Cartridge Printer Replacement Part Compatible with Expression Photo XP-15000](/products/b0gvgsv2kl-product/) · Buy on Amazon
-- [HP DeskJet 2755 All-in-One Wireless Printer Scanner Copier Instant Ink Ready Mob](/products/b08byz5n7q-product/) · Buy on Amazon
+- [B09PH83KK5](/products/b09ph83kk5-b09ph83kk5/)
+- [B07J2P2V7T](/products/b07j2p2v7t-b07j2p2v7t/)
+- [Aomya Compatible Ink Refill kit for HP 60 61 63 64 65 902 932 952 564 Refillable](/products/b077gllzbw-product/)
+- [HP OfficeJet Pro 9135 Wireless All-in-One Color Inkjet Printer, Print, Scan, Cop](/products/b0gpflm562-product/)
+- [Brother Genuine High-Yield Black Toner Cartridge Twin Pack TN760 2Pk, TN7602PK,2](/products/b07ygl9xth-product/)
+- [B0F7KKY728](/products/b0f7kky728-b0f7kky728/)
+- [Ink Cartridge Printer Replacement Part Compatible with Expression Photo XP-15000](/products/b0gvgsv2kl-product/)
+- [HP DeskJet 2755 All-in-One Wireless Printer Scanner Copier Instant Ink Ready Mob](/products/b08byz5n7q-product/)
 
 ## Products in this guide
 

@@ -141,14 +141,14 @@ Understanding these distinctions and carefully matching your home office printin
 
 ## Watchdog picks
 
-- [EPSON 502 EcoTank Ink Ultra-high Capacity Bottle Black Works with ET-2750, 2760,](/products/b074rfmst8-product/) · Buy on Amazon
-- [B001ET73J2](/products/b001et73j2-b001et73j2/) · Buy on Amazon
-- [B08X4BQL7D](/products/b08x4bql7d-b08x4bql7d/) · Buy on Amazon
-- [B0CT8ZJ7ZC](/products/b0ct8zj7zc-b0ct8zj7zc/) · Buy on Amazon
-- [B00063RWT8](/products/b00063rwt8-b00063rwt8/) · Buy on Amazon
-- [HP 962 Cyan, Magenta, Yellow Ink Cartridges - Works with OfficeJet 9010, 9020 - ](/products/b07mcydd62-product/) · Buy on Amazon
-- [B07G82D89G](/products/b07g82d89g-b07g82d89g/) · Buy on Amazon
-- [Epson EcoTank ET-2800 Wireless Color All-in-One Cartridge-Free Ink Supertank Pri](/products/b096n8cnbz-product/) · Buy on Amazon
+- [EPSON 502 EcoTank Ink Ultra-high Capacity Bottle Black Works with ET-2750, 2760,](/products/b074rfmst8-product/)
+- [B001ET73J2](/products/b001et73j2-b001et73j2/)
+- [B08X4BQL7D](/products/b08x4bql7d-b08x4bql7d/)
+- [B0CT8ZJ7ZC](/products/b0ct8zj7zc-b0ct8zj7zc/)
+- [B00063RWT8](/products/b00063rwt8-b00063rwt8/)
+- [HP 962 Cyan, Magenta, Yellow Ink Cartridges - Works with OfficeJet 9010, 9020 - ](/products/b07mcydd62-product/)
+- [B07G82D89G](/products/b07g82d89g-b07g82d89g/)
+- [Epson EcoTank ET-2800 Wireless Color All-in-One Cartridge-Free Ink Supertank Pri](/products/b096n8cnbz-product/)
 
 ## Products in this guide
 

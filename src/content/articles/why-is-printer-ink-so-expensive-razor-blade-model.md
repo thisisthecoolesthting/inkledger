@@ -310,14 +310,14 @@ Price data for this article comes from Keepa, which logs every published price c
 
 ## Watchdog picks
 
-- [Aomya Compatible Ink Refill kit for HP 60 61 63 64 65 902 932 952 564 Refillable](/products/b077gllzbw-product/) · Buy on Amazon
-- [B00JTE518E](/products/b00jte518e-b00jte518e/) · Buy on Amazon
-- [Utopia Bedding Bed Pillows for Sleeping Queen Size (Blue), Set of 6, Cooling Hot](/products/b07j2p2v7t-utopia-bedding-bed-pillows-for-sleeping-queen-size-blue-set-/) · Buy on Amazon
-- [B0GYNH6H2L](/products/b0gynh6h2l-b0gynh6h2l/) · Buy on Amazon
-- [Remanufactured Replacement for Epson 702 Ink Cartridges for 702XL Ink cartridges](/products/b0ct2ltf55-product/) · Buy on Amazon
-- [B0G34F2S65](/products/b0g34f2s65-b0g34f2s65/) · Buy on Amazon
-- [B0D3XGJ6HW](/products/b0d3xgj6hw-b0d3xgj6hw/) · Buy on Amazon
-- [B01N5Q9Q6J](/products/b01n5q9q6j-b01n5q9q6j/) · Buy on Amazon
+- [Aomya Compatible Ink Refill kit for HP 60 61 63 64 65 902 932 952 564 Refillable](/products/b077gllzbw-product/)
+- [B00JTE518E](/products/b00jte518e-b00jte518e/)
+- [Utopia Bedding Bed Pillows for Sleeping Queen Size (Blue), Set of 6, Cooling Hot](/products/b07j2p2v7t-utopia-bedding-bed-pillows-for-sleeping-queen-size-blue-set-/)
+- [B0GYNH6H2L](/products/b0gynh6h2l-b0gynh6h2l/)
+- [Remanufactured Replacement for Epson 702 Ink Cartridges for 702XL Ink cartridges](/products/b0ct2ltf55-product/)
+- [B0G34F2S65](/products/b0g34f2s65-b0g34f2s65/)
+- [B0D3XGJ6HW](/products/b0d3xgj6hw-b0d3xgj6hw/)
+- [B01N5Q9Q6J](/products/b01n5q9q6j-b01n5q9q6j/)
 
 ## Products in this guide
 

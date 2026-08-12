@@ -52,14 +52,14 @@ Buying just cyan and magenta? That’ll run you $37.98 — $12.01 more than gett
 Always check yield ratings (page counts) when comparing prices. Some third-party cartridges like the AIVITON 202 series (B0DVT2JTRN) offer 30% more pages per cartridge at half the OEM price.
 ## Watchdog picks
 
-- [B0CT2R7199](/products/b0ct2r7199-b0ct2r7199/) · Buy on Amazon
-- [Dikarsum 5 in 1 Ink Refill Tools Compatible with Hp Inkjet Ink Cartridges (Ink C](/products/b0cq4vhbmh-product/) · Buy on Amazon
-- [myCartridge SUPRINT 245XL Ink Cartridge Replacement for Canon 245XL 246XL Combo ](/products/b08j3ny6qv-product/) · Buy on Amazon
-- [B0854BN273](/products/b0854bn273-b0854bn273/) · Buy on Amazon
-- [B00762AHTE](/products/b00762ahte-b00762ahte/) · Buy on Amazon
-- [Epson EcoTank Wireless Color All-in-One Cartridge-Free ET-3850 Supertank Inkjet ](/products/b0b1j5pycf-product/) · Buy on Amazon
-- [Brother Genuine High-Yield Black Toner Cartridge Twin Pack TN760 2Pk, TN7602PK,2](/products/b07ygl9xth-product/) · Buy on Amazon
-- [Printer Ink 67 Compatible for HP 67 Ink Cartridges Black/Color Combo Pack for HP](/products/b0flxghlhs-product/) · Buy on Amazon
+- [B0CT2R7199](/products/b0ct2r7199-b0ct2r7199/)
+- [Dikarsum 5 in 1 Ink Refill Tools Compatible with Hp Inkjet Ink Cartridges (Ink C](/products/b0cq4vhbmh-product/)
+- [myCartridge SUPRINT 245XL Ink Cartridge Replacement for Canon 245XL 246XL Combo ](/products/b08j3ny6qv-product/)
+- [B0854BN273](/products/b0854bn273-b0854bn273/)
+- [B00762AHTE](/products/b00762ahte-b00762ahte/)
+- [Epson EcoTank Wireless Color All-in-One Cartridge-Free ET-3850 Supertank Inkjet ](/products/b0b1j5pycf-product/)
+- [Brother Genuine High-Yield Black Toner Cartridge Twin Pack TN760 2Pk, TN7602PK,2](/products/b07ygl9xth-product/)
+- [Printer Ink 67 Compatible for HP 67 Ink Cartridges Black/Color Combo Pack for HP](/products/b0flxghlhs-product/)
 
 ## Products in this guide
 

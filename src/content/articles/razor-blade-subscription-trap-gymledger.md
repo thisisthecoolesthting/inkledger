@@ -207,14 +207,14 @@ If you insist on subscriptions:
 
 ## Watchdog picks
 
-- [B07ZHTFF44](/products/b07zhtff44-b07zhtff44/) · Buy on Amazon
-- [WEAREC Compatible Toner Cartridge Replacement for Brother TN760 TN-760 TN730 wit](/products/b0dj79lqp5-product/) · Buy on Amazon
-- [TN730 TN-730 Black Toner Cartridges 2 Pack Compatible TN730 Toner Cartridge Repl](/products/b0c3qxmbc7-product/) · Buy on Amazon
-- [B07ZPSFVX5](/products/b07zpsfvx5-b07zpsfvx5/) · Buy on Amazon
-- [Epson EcoTank ET-3850 Wireless Color All-in-One Cartridge-Free Supertank with Sc](/products/b096n7txr1-product/) · Buy on Amazon
-- [B08FY8XQ3W](/products/b08fy8xq3w-b08fy8xq3w/) · Buy on Amazon
-- [Remanufactured Replacement for Epson 702 Ink Cartridges for 702XL Ink cartridges](/products/b0ct2ltf55-product/) · Buy on Amazon
-- [B07D5DN269](/products/b07d5dn269-b07d5dn269/) · Buy on Amazon
+- [B07ZHTFF44](/products/b07zhtff44-b07zhtff44/)
+- [WEAREC Compatible Toner Cartridge Replacement for Brother TN760 TN-760 TN730 wit](/products/b0dj79lqp5-product/)
+- [TN730 TN-730 Black Toner Cartridges 2 Pack Compatible TN730 Toner Cartridge Repl](/products/b0c3qxmbc7-product/)
+- [B07ZPSFVX5](/products/b07zpsfvx5-b07zpsfvx5/)
+- [Epson EcoTank ET-3850 Wireless Color All-in-One Cartridge-Free Supertank with Sc](/products/b096n7txr1-product/)
+- [B08FY8XQ3W](/products/b08fy8xq3w-b08fy8xq3w/)
+- [Remanufactured Replacement for Epson 702 Ink Cartridges for 702XL Ink cartridges](/products/b0ct2ltf55-product/)
+- [B07D5DN269](/products/b07d5dn269-b07d5dn269/)
 
 ## Products in this guide
 

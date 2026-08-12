@@ -184,14 +184,14 @@ The Epson 502 triggered "non-genuine ink" warnings on newer Expression models, e
 
 ## Watchdog picks
 
-- [B00FFJ0R1Q](/products/b00ffj0r1q-b00ffj0r1q/) · Buy on Amazon
-- [B0FMB4JBJ8](/products/b0fmb4jbj8-b0fmb4jbj8/) · Buy on Amazon
-- [B00063RWT8](/products/b00063rwt8-b00063rwt8/) · Buy on Amazon
-- [WEP 927-IV Soldering Station Kit High-Power 110W with 3 Preset Channels, Sleep M](/products/b09txp1kdv-wep-927-iv-soldering-station-kit-high-power-110w-with-3-pres/) · Buy on Amazon
-- [BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face Mask, Po](/products/b0b2rm68g2-biodance-bio-collagen-real-deep-mask-hydrating-overnight-hyd/) · Buy on Amazon
-- [AYMSous Ink Refill Kit for HP 60 61 63 64 65 902 932 952 950 951 564 Refillable ](/products/b09qcg2pm6-product/) · Buy on Amazon
-- [B00B5JOC5C](/products/b00b5joc5c-b00b5joc5c/) · Buy on Amazon
-- [B00762AHTE](/products/b00762ahte-b00762ahte/) · Buy on Amazon
+- [B00FFJ0R1Q](/products/b00ffj0r1q-b00ffj0r1q/)
+- [B0FMB4JBJ8](/products/b0fmb4jbj8-b0fmb4jbj8/)
+- [B00063RWT8](/products/b00063rwt8-b00063rwt8/)
+- [WEP 927-IV Soldering Station Kit High-Power 110W with 3 Preset Channels, Sleep M](/products/b09txp1kdv-wep-927-iv-soldering-station-kit-high-power-110w-with-3-pres/)
+- [BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face Mask, Po](/products/b0b2rm68g2-biodance-bio-collagen-real-deep-mask-hydrating-overnight-hyd/)
+- [AYMSous Ink Refill Kit for HP 60 61 63 64 65 902 932 952 950 951 564 Refillable ](/products/b09qcg2pm6-product/)
+- [B00B5JOC5C](/products/b00b5joc5c-b00b5joc5c/)
+- [B00762AHTE](/products/b00762ahte-b00762ahte/)
 
 ## Products in this guide
 

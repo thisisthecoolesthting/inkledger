@@ -272,14 +272,14 @@ Price data for this article comes from Keepa, which logs every published price c
 
 ## Watchdog picks
 
-- [HP (Refurbished) OfficeJet Pro 9015e All-in-One Wireless Color Printer for Home ](/products/b092t3gbwk-product/) · Buy on Amazon
-- [AYMSous Ink Refill Kit for HP 60 61 63 64 65 902 932 952 950 951 564 Refillable ](/products/b09qcg2pm6-product/) · Buy on Amazon
-- [B0014D3N0Q](/products/b0014d3n0q-b0014d3n0q/) · Buy on Amazon
-- [inkgens 31 32XL Ink Bottle Set Refill for HP Smart Tank 7600 7602 7300 7301 7001](/products/b0dpkjjrbg-product/) · Buy on Amazon
-- [Toner Kingdom Compatible Toner-Cartridge Replacement for Canon 054H 054 High Yie](/products/b083bfpgd8-toner-kingdom-compatible-toner-cartridge-replacement-for-can/) · Buy on Amazon
-- [B08JHWZ15B](/products/b08jhwz15b-b08jhwz15b/) · Buy on Amazon
-- [B004QM8SLG](/products/b004qm8slg-b004qm8slg/) · Buy on Amazon
-- [Brother HL-L2300D Monochrome Laser Printer with Duplex Printing](/products/b00nq1clti-brother-hl-l2300d-monochrome-laser-printer-with-duplex-print/) · Buy on Amazon
+- [HP (Refurbished) OfficeJet Pro 9015e All-in-One Wireless Color Printer for Home ](/products/b092t3gbwk-product/)
+- [AYMSous Ink Refill Kit for HP 60 61 63 64 65 902 932 952 950 951 564 Refillable ](/products/b09qcg2pm6-product/)
+- [B0014D3N0Q](/products/b0014d3n0q-b0014d3n0q/)
+- [inkgens 31 32XL Ink Bottle Set Refill for HP Smart Tank 7600 7602 7300 7301 7001](/products/b0dpkjjrbg-product/)
+- [Toner Kingdom Compatible Toner-Cartridge Replacement for Canon 054H 054 High Yie](/products/b083bfpgd8-toner-kingdom-compatible-toner-cartridge-replacement-for-can/)
+- [B08JHWZ15B](/products/b08jhwz15b-b08jhwz15b/)
+- [B004QM8SLG](/products/b004qm8slg-b004qm8slg/)
+- [Brother HL-L2300D Monochrome Laser Printer with Duplex Printing](/products/b00nq1clti-brother-hl-l2300d-monochrome-laser-printer-with-duplex-print/)
 
 ## Products in this guide
 

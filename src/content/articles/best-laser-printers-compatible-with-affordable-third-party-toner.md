@@ -143,14 +143,14 @@ If you own a laser printer and are weary of exorbitant OEM toner costs, selectin
 
 ## Watchdog picks
 
-- [B07ZPSFVX5](/products/b07zpsfvx5-b07zpsfvx5/) · Buy on Amazon
-- [HP Samsung MLT-D116L (SU832A) MLT-D116L Toner Cartridge](/products/b00c18tycy-product/) · Buy on Amazon
-- [Epson EcoTank ET-3950 Wireless All-in-One Color Supertank Printer with up to 3 Y](/products/b0fc5xfvh7-product/) · Buy on Amazon
-- [B0D8B24CTB](/products/b0d8b24ctb-b0d8b24ctb/) · Buy on Amazon
-- [Canon PG-245 / CL-246 Genuine Ink Value Pack (2 Cartridges), Compatible with iP2](/products/b00trdoylw-product/) · Buy on Amazon
-- [Miss Deer LC3019XXL Ink Cartridges, Comaptible Replacement for Brother LC3019 LC](/products/b0gfmh3d3x-product/) · Buy on Amazon
-- [B07R3N9X3F](/products/b07r3n9x3f-b07r3n9x3f/) · Buy on Amazon
-- [B08CDK75M8](/products/b08cdk75m8-b08cdk75m8/) · Buy on Amazon
+- [B07ZPSFVX5](/products/b07zpsfvx5-b07zpsfvx5/)
+- [HP Samsung MLT-D116L (SU832A) MLT-D116L Toner Cartridge](/products/b00c18tycy-product/)
+- [Epson EcoTank ET-3950 Wireless All-in-One Color Supertank Printer with up to 3 Y](/products/b0fc5xfvh7-product/)
+- [B0D8B24CTB](/products/b0d8b24ctb-b0d8b24ctb/)
+- [Canon PG-245 / CL-246 Genuine Ink Value Pack (2 Cartridges), Compatible with iP2](/products/b00trdoylw-product/)
+- [Miss Deer LC3019XXL Ink Cartridges, Comaptible Replacement for Brother LC3019 LC](/products/b0gfmh3d3x-product/)
+- [B07R3N9X3F](/products/b07r3n9x3f-b07r3n9x3f/)
+- [B08CDK75M8](/products/b08cdk75m8-b08cdk75m8/)
 
 ## Products in this guide
 

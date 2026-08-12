@@ -163,14 +163,14 @@ Understanding the balance between upfront cost, consumables yield, and per-page 
 
 ## Watchdog picks
 
-- [B09PH83KK5](/products/b09ph83kk5-b09ph83kk5/) · Buy on Amazon
-- [B07YPR2DGH](/products/b07ypr2dgh-b07ypr2dgh/) · Buy on Amazon
-- [B0BL466Y41](/products/b0bl466y41-b0bl466y41/) · Buy on Amazon
-- [B01NBB1J9U](/products/b01nbb1j9u-b01nbb1j9u/) · Buy on Amazon
-- [LEVOIT Air Purifier for Home Allergies Pet Hair in Bedroom, Covers Up to 1073 ft](/products/b07vvk39f7-levoit-air-purifier-for-home-allergies-pet-hair-in-bedroom-c/) · Buy on Amazon
-- [B08X4BQL7D](/products/b08x4bql7d-b08x4bql7d/) · Buy on Amazon
-- [Brother Genuine Standard Yield Toner Cartridge, TN730, Replacement Black Toner, ](/products/b075x7tfy5-product/) · Buy on Amazon
-- [B0FGC43YCL](/products/b0fgc43ycl-b0fgc43ycl/) · Buy on Amazon
+- [B09PH83KK5](/products/b09ph83kk5-b09ph83kk5/)
+- [B07YPR2DGH](/products/b07ypr2dgh-b07ypr2dgh/)
+- [B0BL466Y41](/products/b0bl466y41-b0bl466y41/)
+- [B01NBB1J9U](/products/b01nbb1j9u-b01nbb1j9u/)
+- [LEVOIT Air Purifier for Home Allergies Pet Hair in Bedroom, Covers Up to 1073 ft](/products/b07vvk39f7-levoit-air-purifier-for-home-allergies-pet-hair-in-bedroom-c/)
+- [B08X4BQL7D](/products/b08x4bql7d-b08x4bql7d/)
+- [Brother Genuine Standard Yield Toner Cartridge, TN730, Replacement Black Toner, ](/products/b075x7tfy5-product/)
+- [B0FGC43YCL](/products/b0fgc43ycl-b0fgc43ycl/)
 
 ## Products in this guide
 

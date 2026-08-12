@@ -138,14 +138,14 @@ By combining these practical, low-risk steps, you can extend the life of your pr
 
 ## Watchdog picks
 
-- [B0FLXG5Z7Q](/products/b0flxg5z7q-b0flxg5z7q/) · Buy on Amazon
-- [TN730 TN-730 Toner Cartridges Black Replacement for Brother TN730 TN-730 MFC-L27](/products/b0dfybsvb8-product/) · Buy on Amazon
-- [Epson EcoTank ET-2803 Wireless Color All-in-One Cartridge-Free Supertank Printer](/products/b0bhxnp6b1-product/) · Buy on Amazon
-- [B0963X6B5V](/products/b0963x6b5v-b0963x6b5v/) · Buy on Amazon
-- [B0FMBGXC2C](/products/b0fmbgxc2c-b0fmbgxc2c/) · Buy on Amazon
-- [Stuart Weitzman Women's Metro Slingback Sandal,Palomino Llama Calf,8 M US](/products/b001eq4g0o-stuart-weitzman-women-s-metro-slingback-sandal-palomino-llam/) · Buy on Amazon
-- [B0G6YZ5YFV](/products/b0g6yz5yfv-b0g6yz5yfv/) · Buy on Amazon
-- [B000N3BBW0](/products/b000n3bbw0-b000n3bbw0/) · Buy on Amazon
+- [B0FLXG5Z7Q](/products/b0flxg5z7q-b0flxg5z7q/)
+- [TN730 TN-730 Toner Cartridges Black Replacement for Brother TN730 TN-730 MFC-L27](/products/b0dfybsvb8-product/)
+- [Epson EcoTank ET-2803 Wireless Color All-in-One Cartridge-Free Supertank Printer](/products/b0bhxnp6b1-product/)
+- [B0963X6B5V](/products/b0963x6b5v-b0963x6b5v/)
+- [B0FMBGXC2C](/products/b0fmbgxc2c-b0fmbgxc2c/)
+- [Stuart Weitzman Women's Metro Slingback Sandal,Palomino Llama Calf,8 M US](/products/b001eq4g0o-stuart-weitzman-women-s-metro-slingback-sandal-palomino-llam/)
+- [B0G6YZ5YFV](/products/b0g6yz5yfv-b0g6yz5yfv/)
+- [B000N3BBW0](/products/b000n3bbw0-b000n3bbw0/)
 
 ## Products in this guide
 

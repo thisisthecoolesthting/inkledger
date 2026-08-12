@@ -172,14 +172,14 @@ Refill stations at stores like Earth Fare charge $0.15-$0.30/oz for plant-based 
 
 ## Watchdog picks
 
-- [B0GGYYBXP4](/products/b0ggyybxp4-b0ggyybxp4/) · Buy on Amazon
-- [B0FDL1LS3B](/products/b0fdl1ls3b-b0fdl1ls3b/) · Buy on Amazon
-- [B0F7KKY728](/products/b0f7kky728-b0f7kky728/) · Buy on Amazon
-- [B0CT8ZJ7ZC](/products/b0ct8zj7zc-b0ct8zj7zc/) · Buy on Amazon
-- [LEVOIT Air Purifier for Home Allergies Pet Hair in Bedroom, Covers Up to 1073 ft](/products/b07vvk39f7-levoit-air-purifier-for-home-allergies-pet-hair-in-bedroom-c/) · Buy on Amazon
-- [B0GYRCQLFV](/products/b0gyrcqlfv-b0gyrcqlfv/) · Buy on Amazon
-- [ecodot 552 Pigment Ink Refill Ink Bottle Replacement for Epson 552 Ink Used for ](/products/b09w9mf63y-ecodot-552-pigment-ink-refill-ink-bottle-replacement-for-eps/) · Buy on Amazon
-- [Toner Kingdom Compatible Toner-Cartridge Replacement for Canon 054H 054 High Yie](/products/b083bfpgd8-toner-kingdom-compatible-toner-cartridge-replacement-for-can/) · Buy on Amazon
+- [B0GGYYBXP4](/products/b0ggyybxp4-b0ggyybxp4/)
+- [B0FDL1LS3B](/products/b0fdl1ls3b-b0fdl1ls3b/)
+- [B0F7KKY728](/products/b0f7kky728-b0f7kky728/)
+- [B0CT8ZJ7ZC](/products/b0ct8zj7zc-b0ct8zj7zc/)
+- [LEVOIT Air Purifier for Home Allergies Pet Hair in Bedroom, Covers Up to 1073 ft](/products/b07vvk39f7-levoit-air-purifier-for-home-allergies-pet-hair-in-bedroom-c/)
+- [B0GYRCQLFV](/products/b0gyrcqlfv-b0gyrcqlfv/)
+- [ecodot 552 Pigment Ink Refill Ink Bottle Replacement for Epson 552 Ink Used for ](/products/b09w9mf63y-ecodot-552-pigment-ink-refill-ink-bottle-replacement-for-eps/)
+- [Toner Kingdom Compatible Toner-Cartridge Replacement for Canon 054H 054 High Yie](/products/b083bfpgd8-toner-kingdom-compatible-toner-cartridge-replacement-for-can/)
 
 ## Products in this guide
 

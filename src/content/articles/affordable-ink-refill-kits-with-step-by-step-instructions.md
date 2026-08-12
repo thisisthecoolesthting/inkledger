@@ -150,14 +150,14 @@ Affordable ink refill kits represent one of the most cost-effective solutions fo
 
 ## Watchdog picks
 
-- [B012IWR5X2](/products/b012iwr5x2-b012iwr5x2/) · Buy on Amazon
-- [B09ZVMYHGF](/products/b09zvmyhgf-b09zvmyhgf/) · Buy on Amazon
-- [B09W73NQPW](/products/b09w73nqpw-b09w73nqpw/) · Buy on Amazon
-- [B002R5AF1I](/products/b002r5af1i-b002r5af1i/) · Buy on Amazon
-- [B089CGSV4N](/products/b089cgsv4n-b089cgsv4n/) · Buy on Amazon
-- [HP Original 67 Tri-Color / 67XL Black Ink Cartridges (2-Pack) - Works DeskJet 12](/products/b08swn848g-product/) · Buy on Amazon
-- [ecodot 552 Pigment Ink Refill Ink Bottle Replacement for Epson 552 Ink Used for ](/products/b09w9mf63y-ecodot-552-pigment-ink-refill-ink-bottle-replacement-for-eps/) · Buy on Amazon
-- [Epson EcoTank ET-2400 Wireless Color All-in-One Cartridge-Free Supertank Printer](/products/b0bm9bflmx-product/) · Buy on Amazon
+- [B012IWR5X2](/products/b012iwr5x2-b012iwr5x2/)
+- [B09ZVMYHGF](/products/b09zvmyhgf-b09zvmyhgf/)
+- [B09W73NQPW](/products/b09w73nqpw-b09w73nqpw/)
+- [B002R5AF1I](/products/b002r5af1i-b002r5af1i/)
+- [B089CGSV4N](/products/b089cgsv4n-b089cgsv4n/)
+- [HP Original 67 Tri-Color / 67XL Black Ink Cartridges (2-Pack) - Works DeskJet 12](/products/b08swn848g-product/)
+- [ecodot 552 Pigment Ink Refill Ink Bottle Replacement for Epson 552 Ink Used for ](/products/b09w9mf63y-ecodot-552-pigment-ink-refill-ink-bottle-replacement-for-eps/)
+- [Epson EcoTank ET-2400 Wireless Color All-in-One Cartridge-Free Supertank Printer](/products/b0bm9bflmx-product/)
 
 ## Products in this guide
 

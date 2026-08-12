@@ -188,14 +188,14 @@ Effectively diagnosing and troubleshooting printer ink and toner error codes req
 
 ## Watchdog picks
 
-- [myCartridge SUPRINT Remanufactured Replacement for Epson 702 Ink Cartridges 702X](/products/b0fb96px2m-product/) · Buy on Amazon
-- [B0BJ194Z43](/products/b0bj194z43-b0bj194z43/) · Buy on Amazon
-- [B0GMMHC3G4](/products/b0gmmhc3g4-b0gmmhc3g4/) · Buy on Amazon
-- [HP 962XL Black High-Yield Ink Cartridge - Works with OfficeJet 9010, Pro 9010, 9](/products/b07mk5dg9v-product/) · Buy on Amazon
-- [B00063RWT8](/products/b00063rwt8-b00063rwt8/) · Buy on Amazon
-- [B0G1N9SX2M](/products/b0g1n9sx2m-b0g1n9sx2m/) · Buy on Amazon
-- [B0BTSZ81C7](/products/b0btsz81c7-b0btsz81c7/) · Buy on Amazon
-- [HP DeskJet 2923 Wireless All-in-One Color Inkjet Printer, Scanner, Copier, 6 Mon](/products/b0gmw9xt9x-product/) · Buy on Amazon
+- [myCartridge SUPRINT Remanufactured Replacement for Epson 702 Ink Cartridges 702X](/products/b0fb96px2m-product/)
+- [B0BJ194Z43](/products/b0bj194z43-b0bj194z43/)
+- [B0GMMHC3G4](/products/b0gmmhc3g4-b0gmmhc3g4/)
+- [HP 962XL Black High-Yield Ink Cartridge - Works with OfficeJet 9010, Pro 9010, 9](/products/b07mk5dg9v-product/)
+- [B00063RWT8](/products/b00063rwt8-b00063rwt8/)
+- [B0G1N9SX2M](/products/b0g1n9sx2m-b0g1n9sx2m/)
+- [B0BTSZ81C7](/products/b0btsz81c7-b0btsz81c7/)
+- [HP DeskJet 2923 Wireless All-in-One Color Inkjet Printer, Scanner, Copier, 6 Mon](/products/b0gmw9xt9x-product/)
 
 ## Products in this guide
 

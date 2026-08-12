@@ -131,14 +131,14 @@ By following these tips, you can save money on ink without sacrificing print qua
 
 ## Watchdog picks
 
-- [B09XT22566](/products/b09xt22566-b09xt22566/) · Buy on Amazon
-- [B07G82D89G](/products/b07g82d89g-b07g82d89g/) · Buy on Amazon
-- [LEVOIT Air Purifier for Home Allergies Pet Hair in Bedroom, Covers Up to 1073 ft](/products/b07vvk39f7-levoit-air-purifier-for-home-allergies-pet-hair-in-bedroom-c/) · Buy on Amazon
-- [HP DeskJet 2855e Wireless All-in-One Color Inkjet Printer, Scanner, Copier, Best](/products/b0ct2r7199-product/) · Buy on Amazon
-- [B0014D3N0Q](/products/b0014d3n0q-b0014d3n0q/) · Buy on Amazon
-- [Brother HL-L2300D Monochrome Laser Printer with Duplex Printing](/products/b00nq1clti-brother-hl-l2300d-monochrome-laser-printer-with-duplex-print/) · Buy on Amazon
-- [EPSON 502 EcoTank Ink Ultra-high Capacity Bottle Color Combo Pack Works with ET-](/products/b074rg6pn1-product/) · Buy on Amazon
-- [Printer Ink 67 Compatible for HP 67 Ink Cartridges Black/Color Combo Pack for HP](/products/b0flxghlhs-product/) · Buy on Amazon
+- [B09XT22566](/products/b09xt22566-b09xt22566/)
+- [B07G82D89G](/products/b07g82d89g-b07g82d89g/)
+- [LEVOIT Air Purifier for Home Allergies Pet Hair in Bedroom, Covers Up to 1073 ft](/products/b07vvk39f7-levoit-air-purifier-for-home-allergies-pet-hair-in-bedroom-c/)
+- [HP DeskJet 2855e Wireless All-in-One Color Inkjet Printer, Scanner, Copier, Best](/products/b0ct2r7199-product/)
+- [B0014D3N0Q](/products/b0014d3n0q-b0014d3n0q/)
+- [Brother HL-L2300D Monochrome Laser Printer with Duplex Printing](/products/b00nq1clti-brother-hl-l2300d-monochrome-laser-printer-with-duplex-print/)
+- [EPSON 502 EcoTank Ink Ultra-high Capacity Bottle Color Combo Pack Works with ET-](/products/b074rg6pn1-product/)
+- [Printer Ink 67 Compatible for HP 67 Ink Cartridges Black/Color Combo Pack for HP](/products/b0flxghlhs-product/)
 
 ## Products in this guide
 

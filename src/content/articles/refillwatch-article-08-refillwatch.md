@@ -152,14 +152,14 @@ A: Some manufacturers claim it does, but in many regions, consumer protection la
 
 ## Watchdog picks
 
-- [65 65XL Black Ink Cartridges Replacement for HP 65XL Black Ink Cartridge Work fo](/products/b0gvm6yy7b-product/) · Buy on Amazon
-- [B0F1FNZB62](/products/b0f1fnzb62-b0f1fnzb62/) · Buy on Amazon
-- [WEAREC Compatible Toner Cartridge Replacement for Brother TN760 TN-760 TN730 wit](/products/b0dj79lqp5-product/) · Buy on Amazon
-- [Valuetoner 245XL Ink Cartridge Replacement for Canon 245XL 246XL Combo Pack PG-2](/products/b07tj87ykb-product/) · Buy on Amazon
-- [B08JHWZ15B](/products/b08jhwz15b-b08jhwz15b/) · Buy on Amazon
-- [TN730 TN-730 Toner Cartridge 2-Pack Replacement for Brother TN730 Toner Cartridg](/products/b0cqqv1wsr-product/) · Buy on Amazon
-- [B0DHCKRWDL](/products/b0dhckrwdl-b0dhckrwdl/) · Buy on Amazon
-- [B00T6RWJMU](/products/b00t6rwjmu-b00t6rwjmu/) · Buy on Amazon
+- [65 65XL Black Ink Cartridges Replacement for HP 65XL Black Ink Cartridge Work fo](/products/b0gvm6yy7b-product/)
+- [B0F1FNZB62](/products/b0f1fnzb62-b0f1fnzb62/)
+- [WEAREC Compatible Toner Cartridge Replacement for Brother TN760 TN-760 TN730 wit](/products/b0dj79lqp5-product/)
+- [Valuetoner 245XL Ink Cartridge Replacement for Canon 245XL 246XL Combo Pack PG-2](/products/b07tj87ykb-product/)
+- [B08JHWZ15B](/products/b08jhwz15b-b08jhwz15b/)
+- [TN730 TN-730 Toner Cartridge 2-Pack Replacement for Brother TN730 Toner Cartridg](/products/b0cqqv1wsr-product/)
+- [B0DHCKRWDL](/products/b0dhckrwdl-b0dhckrwdl/)
+- [B00T6RWJMU](/products/b00t6rwjmu-b00t6rwjmu/)
 
 ## Products in this guide
 

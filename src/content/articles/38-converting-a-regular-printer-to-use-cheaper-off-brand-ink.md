@@ -174,14 +174,14 @@ Converting your printer to rely on cheaper off-brand ink isn’t risk-free, but 
 
 ## Watchdog picks
 
-- [65XL 65 Ink Cartridges Black/Color Combo Pack Replacement for HP 65XL Ink Work f](/products/b0gzw7vxwt-product/) · Buy on Amazon
-- [B0014D3N0Q](/products/b0014d3n0q-b0014d3n0q/) · Buy on Amazon
-- [EPSON 552 EcoTank Ink Ultra-high Capacity Bottle Five Color Combo Pack (T552920-](/products/b08tb5yd6r-product/) · Buy on Amazon
-- [B0CZSFG7VX](/products/b0czsfg7vx-b0czsfg7vx/) · Buy on Amazon
-- [EPSON 702 DURABrite Ultra Ink High Capacity Black & Standard Color Cartridge Com](/products/b071wb6bgn-product/) · Buy on Amazon
-- [Epson 522 EcoTank Ink Ultra-high Capacity Bottle Black & Color Combo Pack (T5221](/products/b0b4vp5cq4-product/) · Buy on Amazon
-- [B0FMB4JBJ8](/products/b0fmb4jbj8-b0fmb4jbj8/) · Buy on Amazon
-- [B0FDL1LS3B](/products/b0fdl1ls3b-b0fdl1ls3b/) · Buy on Amazon
+- [65XL 65 Ink Cartridges Black/Color Combo Pack Replacement for HP 65XL Ink Work f](/products/b0gzw7vxwt-product/)
+- [B0014D3N0Q](/products/b0014d3n0q-b0014d3n0q/)
+- [EPSON 552 EcoTank Ink Ultra-high Capacity Bottle Five Color Combo Pack (T552920-](/products/b08tb5yd6r-product/)
+- [B0CZSFG7VX](/products/b0czsfg7vx-b0czsfg7vx/)
+- [EPSON 702 DURABrite Ultra Ink High Capacity Black & Standard Color Cartridge Com](/products/b071wb6bgn-product/)
+- [Epson 522 EcoTank Ink Ultra-high Capacity Bottle Black & Color Combo Pack (T5221](/products/b0b4vp5cq4-product/)
+- [B0FMB4JBJ8](/products/b0fmb4jbj8-b0fmb4jbj8/)
+- [B0FDL1LS3B](/products/b0fdl1ls3b-b0fdl1ls3b/)
 
 ## Products in this guide
 

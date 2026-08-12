@@ -188,14 +188,14 @@ Price data for this article comes from Keepa, which logs every published price c
 
 ## Watchdog picks
 
-- [WEP 926LED V3 Soldering Station 130W MAX Soldering Iron Kit with Solder Wire, 5 ](/products/b0bx2n258s-wep-926led-v3-soldering-station-130w-max-soldering-iron-kit-/) · Buy on Amazon
-- [B07P5Y5QHG](/products/b07p5y5qhg-b07p5y5qhg/) · Buy on Amazon
-- [HP 134A Black Toner Cartridge Printers - Works with LaserJet M209 Series; LaserJ](/products/b08qmqnr76-product/) · Buy on Amazon
-- [Brother Genuine TN760 High Yield Black Toner Cartridge, (for use with MFC-L2710D](/products/b075x6c5zw-product/) · Buy on Amazon
-- [B012IWR5X2](/products/b012iwr5x2-b012iwr5x2/) · Buy on Amazon
-- [65 65XL Black Ink Cartridges Replacement for HP 65XL Black Ink Cartridge Work fo](/products/b0gvm6yy7b-product/) · Buy on Amazon
-- [Epson EcoTank ET-2800 Wireless Color All-in-One Cartridge-Free Ink Supertank Pri](/products/b096n8dn2h-product/) · Buy on Amazon
-- [HP Original 63/65XL Black High‑Yield + 63/65 Tri-Color- Works DeskJet 1110, 2100](/products/b0gvgg7qlt-product/) · Buy on Amazon
+- [WEP 926LED V3 Soldering Station 130W MAX Soldering Iron Kit with Solder Wire, 5 ](/products/b0bx2n258s-wep-926led-v3-soldering-station-130w-max-soldering-iron-kit-/)
+- [B07P5Y5QHG](/products/b07p5y5qhg-b07p5y5qhg/)
+- [HP 134A Black Toner Cartridge Printers - Works with LaserJet M209 Series; LaserJ](/products/b08qmqnr76-product/)
+- [Brother Genuine TN760 High Yield Black Toner Cartridge, (for use with MFC-L2710D](/products/b075x6c5zw-product/)
+- [B012IWR5X2](/products/b012iwr5x2-b012iwr5x2/)
+- [65 65XL Black Ink Cartridges Replacement for HP 65XL Black Ink Cartridge Work fo](/products/b0gvm6yy7b-product/)
+- [Epson EcoTank ET-2800 Wireless Color All-in-One Cartridge-Free Ink Supertank Pri](/products/b096n8dn2h-product/)
+- [HP Original 63/65XL Black High‑Yield + 63/65 Tri-Color- Works DeskJet 1110, 2100](/products/b0gvgg7qlt-product/)
 
 ## Products in this guide
 

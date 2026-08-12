@@ -278,14 +278,14 @@ Epson EcoTank 2850
 
 ## Watchdog picks
 
-- [B0G2LS7RMK](/products/b0g2ls7rmk-b0g2ls7rmk/) · Buy on Amazon
-- [TN730 TN-730 Black Toner Cartridges 2 Pack Compatible TN730 Toner Cartridge Repl](/products/b0c3qxmbc7-product/) · Buy on Amazon
-- [B01N4IWH2O](/products/b01n4iwh2o-b01n4iwh2o/) · Buy on Amazon
-- [B07RYXHN2M](/products/b07ryxhn2m-b07ryxhn2m/) · Buy on Amazon
-- [B0FDL1LS3B](/products/b0fdl1ls3b-b0fdl1ls3b/) · Buy on Amazon
-- [B01N4NLZJN](/products/b01n4nlzjn-b01n4nlzjn/) · Buy on Amazon
-- [Valuetoner 245XL Ink Cartridge Replacement for Canon 245XL 246XL Combo Pack PG-2](/products/b07tj87ykb-product/) · Buy on Amazon
-- [Epson EcoTank ET-2400 Wireless Color All-in-One Cartridge-Free Supertank Printer](/products/b0bm9bflmx-product/) · Buy on Amazon
+- [B0G2LS7RMK](/products/b0g2ls7rmk-b0g2ls7rmk/)
+- [TN730 TN-730 Black Toner Cartridges 2 Pack Compatible TN730 Toner Cartridge Repl](/products/b0c3qxmbc7-product/)
+- [B01N4IWH2O](/products/b01n4iwh2o-b01n4iwh2o/)
+- [B07RYXHN2M](/products/b07ryxhn2m-b07ryxhn2m/)
+- [B0FDL1LS3B](/products/b0fdl1ls3b-b0fdl1ls3b/)
+- [B01N4NLZJN](/products/b01n4nlzjn-b01n4nlzjn/)
+- [Valuetoner 245XL Ink Cartridge Replacement for Canon 245XL 246XL Combo Pack PG-2](/products/b07tj87ykb-product/)
+- [Epson EcoTank ET-2400 Wireless Color All-in-One Cartridge-Free Supertank Printer](/products/b0bm9bflmx-product/)
 
 ## Products in this guide
 

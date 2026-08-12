@@ -136,14 +136,14 @@ Properly disposing of used printer ink and toner cartridges is essential for env
 
 ## Watchdog picks
 
-- [EPSON 702 DURABrite Ultra Ink Standard Capacity Black Cartridge (T702120-S) Work](/products/b06xgmwmdw-product/) · Buy on Amazon
-- [B012IWR5X2](/products/b012iwr5x2-b012iwr5x2/) · Buy on Amazon
-- [JETSIR Dye Ink Refill Kit 100ML x5 Bottles for 950 951 952 902 901 60 61 62 63 2](/products/b01mqykrrz-product/) · Buy on Amazon
-- [B004QM8SLG](/products/b004qm8slg-b004qm8slg/) · Buy on Amazon
-- [AOLIBE MLT-D111S Toner Cartridge High Yield Compatible for Samsung 111S MLT111S ](/products/b0bpd45xg6-product/) · Buy on Amazon
-- [CEEBOO 522 High Capacity (5 Bottles) Refill Ink Replacement for Epson Compatible](/products/b0bqqlbmpv-product/) · Buy on Amazon
-- [B09TG52XT4](/products/b09tg52xt4-b09tg52xt4/) · Buy on Amazon
-- [STAROVER Compatible Toner Cartridge Replacement for Samsung MLT-D111S D111S 111S](/products/b075m8yx5n-product/) · Buy on Amazon
+- [EPSON 702 DURABrite Ultra Ink Standard Capacity Black Cartridge (T702120-S) Work](/products/b06xgmwmdw-product/)
+- [B012IWR5X2](/products/b012iwr5x2-b012iwr5x2/)
+- [JETSIR Dye Ink Refill Kit 100ML x5 Bottles for 950 951 952 902 901 60 61 62 63 2](/products/b01mqykrrz-product/)
+- [B004QM8SLG](/products/b004qm8slg-b004qm8slg/)
+- [AOLIBE MLT-D111S Toner Cartridge High Yield Compatible for Samsung 111S MLT111S ](/products/b0bpd45xg6-product/)
+- [CEEBOO 522 High Capacity (5 Bottles) Refill Ink Replacement for Epson Compatible](/products/b0bqqlbmpv-product/)
+- [B09TG52XT4](/products/b09tg52xt4-b09tg52xt4/)
+- [STAROVER Compatible Toner Cartridge Replacement for Samsung MLT-D111S D111S 111S](/products/b075m8yx5n-product/)
 
 ## Products in this guide
 

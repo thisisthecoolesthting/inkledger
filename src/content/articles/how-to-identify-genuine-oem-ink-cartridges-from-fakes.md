@@ -129,14 +129,14 @@ On the other hand, compatible or remanufactured cartridges may save money but ca
 
 ## Watchdog picks
 
-- [LxTek Compatible Toner Cartridge 6510 6515 106R03480 106R03477 106R03478 106R034](/products/b08gx3k9ys-lxtek-compatible-toner-cartridge-6510-6515-106r03480-106r034/) · Buy on Amazon
-- [B08KDQZJQ5](/products/b08kdqzjq5-b08kdqzjq5/) · Buy on Amazon
-- [B0FCS4HWPH](/products/b0fcs4hwph-b0fcs4hwph/) · Buy on Amazon
-- [Soldering Iron Kit, 80W 110V LCD Digital Solder Iron Pen with Ceramic Heater, Po](/products/b08r3515sf-soldering-iron-kit-80w-110v-lcd-digital-solder-iron-pen-with/) · Buy on Amazon
-- [HP OfficeJet Pro 9135 Wireless All-in-One Color Inkjet Printer, Print, Scan, Cop](/products/b0gpflm562-product/) · Buy on Amazon
-- [HP DeskJet 2755 All-in-One Wireless Printer Scanner Copier Instant Ink Ready Mob](/products/b08byz5n7q-product/) · Buy on Amazon
-- [B01N7V39UO](/products/b01n7v39uo-b01n7v39uo/) · Buy on Amazon
-- [B07P5Y5QHG](/products/b07p5y5qhg-b07p5y5qhg/) · Buy on Amazon
+- [LxTek Compatible Toner Cartridge 6510 6515 106R03480 106R03477 106R03478 106R034](/products/b08gx3k9ys-lxtek-compatible-toner-cartridge-6510-6515-106r03480-106r034/)
+- [B08KDQZJQ5](/products/b08kdqzjq5-b08kdqzjq5/)
+- [B0FCS4HWPH](/products/b0fcs4hwph-b0fcs4hwph/)
+- [Soldering Iron Kit, 80W 110V LCD Digital Solder Iron Pen with Ceramic Heater, Po](/products/b08r3515sf-soldering-iron-kit-80w-110v-lcd-digital-solder-iron-pen-with/)
+- [HP OfficeJet Pro 9135 Wireless All-in-One Color Inkjet Printer, Print, Scan, Cop](/products/b0gpflm562-product/)
+- [HP DeskJet 2755 All-in-One Wireless Printer Scanner Copier Instant Ink Ready Mob](/products/b08byz5n7q-product/)
+- [B01N7V39UO](/products/b01n7v39uo-b01n7v39uo/)
+- [B07P5Y5QHG](/products/b07p5y5qhg-b07p5y5qhg/)
 
 ## Products in this guide
 

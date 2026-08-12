@@ -133,14 +133,14 @@ A: Refillable ink systems or bulk ink tanks drastically reduce plastic waste and
 
 ## Watchdog picks
 
-- [B08JHWZ15B](/products/b08jhwz15b-b08jhwz15b/) · Buy on Amazon
-- [B0BVD54HPS](/products/b0bvd54hps-b0bvd54hps/) · Buy on Amazon
-- [HP Original 63/65XL Black High‑Yield + 63/65 Tri-Color- Works DeskJet 1110, 2100](/products/b0gvgg7qlt-product/) · Buy on Amazon
-- [TN730 TN-730 Toner Cartridge 2-Pack Replacement for Brother TN730 Toner Cartridg](/products/b0cqqv1wsr-product/) · Buy on Amazon
-- [280XXL 281XXL Ink for Canon Ink 280 281 Replacement for Canon TR8620 Ink Cartrid](/products/b0bvybvhk5-280xxl-281xxl-ink-for-canon-ink-280-281-replacement-for-cano/) · Buy on Amazon
-- [Skyink Compatible Ink Cartridge Replacement for Canon 245XL 246XL 245 246 XL (Bl](/products/b0dkjdrltz-product/) · Buy on Amazon
-- [B0F7KKY728](/products/b0f7kky728-b0f7kky728/) · Buy on Amazon
-- [JETSIR Dye Ink Refill Kit 100ML x5 Bottles for 950 951 952 902 901 60 61 62 63 2](/products/b01mqykrrz-product/) · Buy on Amazon
+- [B08JHWZ15B](/products/b08jhwz15b-b08jhwz15b/)
+- [B0BVD54HPS](/products/b0bvd54hps-b0bvd54hps/)
+- [HP Original 63/65XL Black High‑Yield + 63/65 Tri-Color- Works DeskJet 1110, 2100](/products/b0gvgg7qlt-product/)
+- [TN730 TN-730 Toner Cartridge 2-Pack Replacement for Brother TN730 Toner Cartridg](/products/b0cqqv1wsr-product/)
+- [280XXL 281XXL Ink for Canon Ink 280 281 Replacement for Canon TR8620 Ink Cartrid](/products/b0bvybvhk5-280xxl-281xxl-ink-for-canon-ink-280-281-replacement-for-cano/)
+- [Skyink Compatible Ink Cartridge Replacement for Canon 245XL 246XL 245 246 XL (Bl](/products/b0dkjdrltz-product/)
+- [B0F7KKY728](/products/b0f7kky728-b0f7kky728/)
+- [JETSIR Dye Ink Refill Kit 100ML x5 Bottles for 950 951 952 902 901 60 61 62 63 2](/products/b01mqykrrz-product/)
 
 ## Products in this guide
 

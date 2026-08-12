@@ -125,14 +125,14 @@ Before making a decision, take a look at your printing habits and compare the co
 
 ## Watchdog picks
 
-- [LEVOIT Air Purifier for Home Allergies Pet Hair in Bedroom, Covers Up to 1073 ft](/products/b07vvk39f7-levoit-air-purifier-for-home-allergies-pet-hair-in-bedroom-c/) · Buy on Amazon
-- [Brother Genuine TN760 High Yield Black Toner Cartridge, (for use with MFC-L2710D](/products/b075x6c5zw-product/) · Buy on Amazon
-- [HP 962 Cyan, Magenta, Yellow Ink Cartridges - Works with OfficeJet 9010, 9020 - ](/products/b07mcydd62-product/) · Buy on Amazon
-- [B002R5AF1I](/products/b002r5af1i-b002r5af1i/) · Buy on Amazon
-- [B01N7V39UO](/products/b01n7v39uo-b01n7v39uo/) · Buy on Amazon
-- [B0CT2R7199](/products/b0ct2r7199-b0ct2r7199/) · Buy on Amazon
-- [B08JHWZ15B](/products/b08jhwz15b-b08jhwz15b/) · Buy on Amazon
-- [Toner Kingdom Compatible Toner-Cartridge Replacement for Canon 054H 054 High Yie](/products/b083bfpgd8-toner-kingdom-compatible-toner-cartridge-replacement-for-can/) · Buy on Amazon
+- [LEVOIT Air Purifier for Home Allergies Pet Hair in Bedroom, Covers Up to 1073 ft](/products/b07vvk39f7-levoit-air-purifier-for-home-allergies-pet-hair-in-bedroom-c/)
+- [Brother Genuine TN760 High Yield Black Toner Cartridge, (for use with MFC-L2710D](/products/b075x6c5zw-product/)
+- [HP 962 Cyan, Magenta, Yellow Ink Cartridges - Works with OfficeJet 9010, 9020 - ](/products/b07mcydd62-product/)
+- [B002R5AF1I](/products/b002r5af1i-b002r5af1i/)
+- [B01N7V39UO](/products/b01n7v39uo-b01n7v39uo/)
+- [B0CT2R7199](/products/b0ct2r7199-b0ct2r7199/)
+- [B08JHWZ15B](/products/b08jhwz15b-b08jhwz15b/)
+- [Toner Kingdom Compatible Toner-Cartridge Replacement for Canon 054H 054 High Yie](/products/b083bfpgd8-toner-kingdom-compatible-toner-cartridge-replacement-for-can/)
 
 ## Products in this guide
 

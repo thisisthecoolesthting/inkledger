@@ -156,14 +156,14 @@ New third-party cartridges include smart chips that reset automatically, bypassi
 
 ## Watchdog picks
 
-- [B00CAZAU62](/products/b00cazau62-b00cazau62/) · Buy on Amazon
-- [HQ Replacement Soldering Iron For Hakko FX-8801 FX-888D Station](/products/b00wsaxbq0-hq-replacement-soldering-iron-for-hakko-fx-8801-fx-888d-stat/) · Buy on Amazon
-- [HP 134A Black Toner Cartridge Printers - Works with LaserJet M209 Series; LaserJ](/products/b08qmqnr76-product/) · Buy on Amazon
-- [B0F7K193ZR](/products/b0f7k193zr-b0f7k193zr/) · Buy on Amazon
-- [B073Q8P6CQ](/products/b073q8p6cq-b073q8p6cq/) · Buy on Amazon
-- [TEINO Remanufactured 65XL Ink Cartridge Replacement for HP Envy 5055 5052 DeskJe](/products/b081grvj5k-product/) · Buy on Amazon
-- [B07N1DF9VV](/products/b07n1df9vv-b07n1df9vv/) · Buy on Amazon
-- [HP 67 Black/Tri-Color Ink Cartridges (2-Pack) - Works with DeskJet 1255, 2700, 4](/products/b08412hxk9-product/) · Buy on Amazon
+- [B00CAZAU62](/products/b00cazau62-b00cazau62/)
+- [HQ Replacement Soldering Iron For Hakko FX-8801 FX-888D Station](/products/b00wsaxbq0-hq-replacement-soldering-iron-for-hakko-fx-8801-fx-888d-stat/)
+- [HP 134A Black Toner Cartridge Printers - Works with LaserJet M209 Series; LaserJ](/products/b08qmqnr76-product/)
+- [B0F7K193ZR](/products/b0f7k193zr-b0f7k193zr/)
+- [B073Q8P6CQ](/products/b073q8p6cq-b073q8p6cq/)
+- [TEINO Remanufactured 65XL Ink Cartridge Replacement for HP Envy 5055 5052 DeskJe](/products/b081grvj5k-product/)
+- [B07N1DF9VV](/products/b07n1df9vv-b07n1df9vv/)
+- [HP 67 Black/Tri-Color Ink Cartridges (2-Pack) - Works with DeskJet 1255, 2700, 4](/products/b08412hxk9-product/)
 
 ## Products in this guide
 

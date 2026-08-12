@@ -186,14 +186,14 @@ For most users, we recommend refillable tank systems or laser printers. Those st
 
 ## Watchdog picks
 
-- [Skyink Compatible Ink Cartridge Replacement for Canon 245XL 246XL 245 246 XL (Bl](/products/b0dkjdrltz-product/) · Buy on Amazon
-- [B0D3XGJ6HW](/products/b0d3xgj6hw-b0d3xgj6hw/) · Buy on Amazon
-- [B0G6Z1834N](/products/b0g6z1834n-b0g6z1834n/) · Buy on Amazon
-- [B0FMB4JBJ8](/products/b0fmb4jbj8-b0fmb4jbj8/) · Buy on Amazon
-- [67XL Ink Cartridge Replacement for HP 67 XL Remanufactured for HP Ink 67 67XL fo](/products/b0f6c98q8m-product/) · Buy on Amazon
-- [B08VF3XRQ8](/products/b08vf3xrq8-b08vf3xrq8/) · Buy on Amazon
-- [Epson 522 EcoTank Ink Ultra-high Capacity Bottle Black & Color Combo Pack (T5221](/products/b0b4vp5cq4-product/) · Buy on Amazon
-- [Soldering Iron Kit, 80W 110V LCD Digital Solder Iron Pen with Ceramic Heater, Po](/products/b08r3515sf-soldering-iron-kit-80w-110v-lcd-digital-solder-iron-pen-with/) · Buy on Amazon
+- [Skyink Compatible Ink Cartridge Replacement for Canon 245XL 246XL 245 246 XL (Bl](/products/b0dkjdrltz-product/)
+- [B0D3XGJ6HW](/products/b0d3xgj6hw-b0d3xgj6hw/)
+- [B0G6Z1834N](/products/b0g6z1834n-b0g6z1834n/)
+- [B0FMB4JBJ8](/products/b0fmb4jbj8-b0fmb4jbj8/)
+- [67XL Ink Cartridge Replacement for HP 67 XL Remanufactured for HP Ink 67 67XL fo](/products/b0f6c98q8m-product/)
+- [B08VF3XRQ8](/products/b08vf3xrq8-b08vf3xrq8/)
+- [Epson 522 EcoTank Ink Ultra-high Capacity Bottle Black & Color Combo Pack (T5221](/products/b0b4vp5cq4-product/)
+- [Soldering Iron Kit, 80W 110V LCD Digital Solder Iron Pen with Ceramic Heater, Po](/products/b08r3515sf-soldering-iron-kit-80w-110v-lcd-digital-solder-iron-pen-with/)
 
 ## Products in this guide
 

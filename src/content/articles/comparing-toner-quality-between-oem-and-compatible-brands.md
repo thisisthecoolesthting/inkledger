@@ -129,14 +129,14 @@ Before making a switch, consider your printing volume, quality expectations, tol
 
 ## Watchdog picks
 
-- [B0GTL8RCGK](/products/b0gtl8rcgk-b0gtl8rcgk/) · Buy on Amazon
-- [B07Q5J5XJL](/products/b07q5j5xjl-b07q5j5xjl/) · Buy on Amazon
-- [B07ZPSFVX5](/products/b07zpsfvx5-b07zpsfvx5/) · Buy on Amazon
-- [Brother Printer LC30193PK Super High Yield XXL 3 Pack Ink Cartridges- 1 Ea: Cyan](/products/b01n4k0zfe-product/) · Buy on Amazon
-- [Epson EcoTank ET-2988 Wireless All-in-One Color Supertank Printer with up to 3 Y](/products/b0h476662h-product/) · Buy on Amazon
-- [65XL Ink Cartridges Black/Color Combo Pack High-Yield Replacement for HP Ink 65 ](/products/b0f1cj93jj-product/) · Buy on Amazon
-- [Epson EcoTank ET-2800 Wireless Color All-in-One Cartridge-Free Ink Supertank Pri](/products/b096n8dn2h-product/) · Buy on Amazon
-- [EPSON 522 EcoTank Ink Ultra-high Capacity Bottle Black (T522120-S) Works with ET](/products/b07pn7g526-product/) · Buy on Amazon
+- [B0GTL8RCGK](/products/b0gtl8rcgk-b0gtl8rcgk/)
+- [B07Q5J5XJL](/products/b07q5j5xjl-b07q5j5xjl/)
+- [B07ZPSFVX5](/products/b07zpsfvx5-b07zpsfvx5/)
+- [Brother Printer LC30193PK Super High Yield XXL 3 Pack Ink Cartridges- 1 Ea: Cyan](/products/b01n4k0zfe-product/)
+- [Epson EcoTank ET-2988 Wireless All-in-One Color Supertank Printer with up to 3 Y](/products/b0h476662h-product/)
+- [65XL Ink Cartridges Black/Color Combo Pack High-Yield Replacement for HP Ink 65 ](/products/b0f1cj93jj-product/)
+- [Epson EcoTank ET-2800 Wireless Color All-in-One Cartridge-Free Ink Supertank Pri](/products/b096n8dn2h-product/)
+- [EPSON 522 EcoTank Ink Ultra-high Capacity Bottle Black (T522120-S) Works with ET](/products/b07pn7g526-product/)
 
 ## Products in this guide
 

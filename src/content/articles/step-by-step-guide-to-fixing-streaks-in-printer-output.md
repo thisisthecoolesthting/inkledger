@@ -146,14 +146,14 @@ Understanding how cartridge choice, printhead maintenance, and paper affect prin
 
 ## Watchdog picks
 
-- [YIHUA 939D+ Digital Soldering Station, 75W Equivalent with Precision Heat Contro](/products/b07rvmznyr-yihua-939d-digital-soldering-station-75w-equivalent-with-pre/) · Buy on Amazon
-- [HP 141A Black Toner Cartridge - Works with LaserJet M110, LaserJet MFP M139, M14](/products/b09n4z8dnl-product/) · Buy on Amazon
-- [B09J7946RJ](/products/b09j7946rj-b09j7946rj/) · Buy on Amazon
-- [TN760 Toner for Brother Printer TN730: Compatible for Brother TN-730/TN-760 TN 7](/products/b0flxjhgr7-product/) · Buy on Amazon
-- [B0GMKRR64P](/products/b0gmkrr64p-b0gmkrr64p/) · Buy on Amazon
-- [InkOwl Compatible Ink Cartridge Replacement for Roland ECO-SOL MAX 2 Printers ES](/products/b0cyjv9x52-inkowl-compatible-ink-cartridge-replacement-for-roland-eco-s/) · Buy on Amazon
-- [HP OfficeJet Pro 9125 Wireless All-in-One Color Inkjet Printer, Print, Scan, Cop](/products/b0gpfkgny7-product/) · Buy on Amazon
-- [B08K3J4WX6](/products/b08k3j4wx6-b08k3j4wx6/) · Buy on Amazon
+- [YIHUA 939D+ Digital Soldering Station, 75W Equivalent with Precision Heat Contro](/products/b07rvmznyr-yihua-939d-digital-soldering-station-75w-equivalent-with-pre/)
+- [HP 141A Black Toner Cartridge - Works with LaserJet M110, LaserJet MFP M139, M14](/products/b09n4z8dnl-product/)
+- [B09J7946RJ](/products/b09j7946rj-b09j7946rj/)
+- [TN760 Toner for Brother Printer TN730: Compatible for Brother TN-730/TN-760 TN 7](/products/b0flxjhgr7-product/)
+- [B0GMKRR64P](/products/b0gmkrr64p-b0gmkrr64p/)
+- [InkOwl Compatible Ink Cartridge Replacement for Roland ECO-SOL MAX 2 Printers ES](/products/b0cyjv9x52-inkowl-compatible-ink-cartridge-replacement-for-roland-eco-s/)
+- [HP OfficeJet Pro 9125 Wireless All-in-One Color Inkjet Printer, Print, Scan, Cop](/products/b0gpfkgny7-product/)
+- [B08K3J4WX6](/products/b08k3j4wx6-b08k3j4wx6/)
 
 ## Products in this guide
 

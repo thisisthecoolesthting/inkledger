@@ -121,14 +121,14 @@ While completely "free printing" is a myth, by combining the strategies outlined
 
 ## Watchdog picks
 
-- [B0CT2QHQVF](/products/b0ct2qhqvf-b0ct2qhqvf/) · Buy on Amazon
-- [Hakko T18S3P Tip for Fx-888 Station, 5.2mm](/products/b00762ahte-hakko-t18s3p-tip-for-fx-888-station-5-2mm/) · Buy on Amazon
-- [B08K3J4WX6](/products/b08k3j4wx6-b08k3j4wx6/) · Buy on Amazon
-- [67XL Ink Cartridge Replacement for HP 67 XL Remanufactured for HP Ink 67 67XL fo](/products/b0f6c98q8m-product/) · Buy on Amazon
-- [Epson EcoTank ET-2980 Wireless All-in-One Color Supertank Printer with Refillabl](/products/b0f1fbqrvb-product/) · Buy on Amazon
-- [B0041RRMQS](/products/b0041rrmqs-b0041rrmqs/) · Buy on Amazon
-- [B0CWP64QMT](/products/b0cwp64qmt-b0cwp64qmt/) · Buy on Amazon
-- [B0GMMHC3G4](/products/b0gmmhc3g4-b0gmmhc3g4/) · Buy on Amazon
+- [B0CT2QHQVF](/products/b0ct2qhqvf-b0ct2qhqvf/)
+- [Hakko T18S3P Tip for Fx-888 Station, 5.2mm](/products/b00762ahte-hakko-t18s3p-tip-for-fx-888-station-5-2mm/)
+- [B08K3J4WX6](/products/b08k3j4wx6-b08k3j4wx6/)
+- [67XL Ink Cartridge Replacement for HP 67 XL Remanufactured for HP Ink 67 67XL fo](/products/b0f6c98q8m-product/)
+- [Epson EcoTank ET-2980 Wireless All-in-One Color Supertank Printer with Refillabl](/products/b0f1fbqrvb-product/)
+- [B0041RRMQS](/products/b0041rrmqs-b0041rrmqs/)
+- [B0CWP64QMT](/products/b0cwp64qmt-b0cwp64qmt/)
+- [B0GMMHC3G4](/products/b0gmmhc3g4-b0gmmhc3g4/)
 
 ## Products in this guide
 

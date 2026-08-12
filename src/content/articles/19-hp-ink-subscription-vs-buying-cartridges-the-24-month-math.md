@@ -161,14 +161,14 @@ By understanding the 24-month cost math and weighing the trade-offs, you can mak
 
 ## Watchdog picks
 
-- [B00NQ1CLTI](/products/b00nq1clti-b00nq1clti/) · Buy on Amazon
-- [B01N7V39UO](/products/b01n7v39uo-b01n7v39uo/) · Buy on Amazon
-- [B08JHWZ15B](/products/b08jhwz15b-b08jhwz15b/) · Buy on Amazon
-- [B07N1DF9VV](/products/b07n1df9vv-b07n1df9vv/) · Buy on Amazon
-- [B08X4BQL7D](/products/b08x4bql7d-b08x4bql7d/) · Buy on Amazon
-- [B00WSAXBQ0](/products/b00wsaxbq0-b00wsaxbq0/) · Buy on Amazon
-- [B0G6Z1834N](/products/b0g6z1834n-b0g6z1834n/) · Buy on Amazon
-- [Remanufactured Replacement for Epson 702 Ink Cartridges for 702XL Ink cartridges](/products/b0ct2ltf55-product/) · Buy on Amazon
+- [B00NQ1CLTI](/products/b00nq1clti-b00nq1clti/)
+- [B01N7V39UO](/products/b01n7v39uo-b01n7v39uo/)
+- [B08JHWZ15B](/products/b08jhwz15b-b08jhwz15b/)
+- [B07N1DF9VV](/products/b07n1df9vv-b07n1df9vv/)
+- [B08X4BQL7D](/products/b08x4bql7d-b08x4bql7d/)
+- [B00WSAXBQ0](/products/b00wsaxbq0-b00wsaxbq0/)
+- [B0G6Z1834N](/products/b0g6z1834n-b0g6z1834n/)
+- [Remanufactured Replacement for Epson 702 Ink Cartridges for 702XL Ink cartridges](/products/b0ct2ltf55-product/)
 
 ## Products in this guide
 

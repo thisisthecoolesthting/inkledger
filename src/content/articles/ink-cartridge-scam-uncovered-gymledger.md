@@ -192,14 +192,14 @@ For the DIY-inclined, third-party solutions offer additional savings:
 
 ## Watchdog picks
 
-- [B0CT8ZJ7ZC](/products/b0ct8zj7zc-b0ct8zj7zc/) · Buy on Amazon
-- [Soldering Iron Kit, 60W Adjustable Temperature, Digital Multimeter, 5pcs Solderi](/products/b09vxq221k-soldering-iron-kit-60w-adjustable-temperature-digital-multim/) · Buy on Amazon
-- [B09TG52XT4](/products/b09tg52xt4-b09tg52xt4/) · Buy on Amazon
-- [Aomya Ink Refill Kit 100ml for HP 67 61 65 60 62 63 910 920 901 902 932 933 934 ](/products/b077qvskd5-product/) · Buy on Amazon
-- [TN730 TN-730 Black Toner Cartridges 2 Pack Compatible TN730 Toner Cartridge Repl](/products/b0c3qxmbc7-product/) · Buy on Amazon
-- [TEINO Remanufactured Ink Cartridge Replacement for HP 65 65XL 65 XL use with HP ](/products/b0836myjsd-product/) · Buy on Amazon
-- [B0FLXG5Z7Q](/products/b0flxg5z7q-b0flxg5z7q/) · Buy on Amazon
-- [Extra Deep Queen Sheet Set - 6 Piece Breathable and Cooling Sheets - Hotel Luxur](/products/b07f97mpyt-extra-deep-queen-sheet-set-6-piece-breathable-and-cooling-sh/) · Buy on Amazon
+- [B0CT8ZJ7ZC](/products/b0ct8zj7zc-b0ct8zj7zc/)
+- [Soldering Iron Kit, 60W Adjustable Temperature, Digital Multimeter, 5pcs Solderi](/products/b09vxq221k-soldering-iron-kit-60w-adjustable-temperature-digital-multim/)
+- [B09TG52XT4](/products/b09tg52xt4-b09tg52xt4/)
+- [Aomya Ink Refill Kit 100ml for HP 67 61 65 60 62 63 910 920 901 902 932 933 934 ](/products/b077qvskd5-product/)
+- [TN730 TN-730 Black Toner Cartridges 2 Pack Compatible TN730 Toner Cartridge Repl](/products/b0c3qxmbc7-product/)
+- [TEINO Remanufactured Ink Cartridge Replacement for HP 65 65XL 65 XL use with HP ](/products/b0836myjsd-product/)
+- [B0FLXG5Z7Q](/products/b0flxg5z7q-b0flxg5z7q/)
+- [Extra Deep Queen Sheet Set - 6 Piece Breathable and Cooling Sheets - Hotel Luxur](/products/b07f97mpyt-extra-deep-queen-sheet-set-6-piece-breathable-and-cooling-sh/)
 
 ## Products in this guide
 

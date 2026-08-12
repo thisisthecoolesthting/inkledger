@@ -160,14 +160,14 @@ By choosing an all-in-one printer wisely and pairing it with quality refill solu
 
 ## Watchdog picks
 
-- [TEINO Remanufactured 65XL Ink Cartridge Replacement for HP Envy 5055 5052 DeskJe](/products/b081grvj5k-product/) · Buy on Amazon
-- [EPSON 502 EcoTank Ink Ultra-high Capacity Bottle Black Works with ET-2750, 2760,](/products/b074rfmst8-product/) · Buy on Amazon
-- [HP 63XL/65XL Black High-Yield Ink Cartridge (Replaces and Works with Both 63XL &](/products/b0gltx2pnr-product/) · Buy on Amazon
-- [B0GYNVJ62W](/products/b0gynvj62w-b0gynvj62w/) · Buy on Amazon
-- [Miss Deer LC3019XXL Ink Cartridges, Comaptible Replacement for Brother LC3019 LC](/products/b0gfmh3d3x-product/) · Buy on Amazon
-- [65XL Ink Cartridge for HP 65 Black Ink Cartridge High-Yield Replacement for HP I](/products/b0fkbfh92q-product/) · Buy on Amazon
-- [HP Original 63/65XL Black High‑Yield + 63/65 Tri-Color- Works DeskJet 1110, 2100](/products/b0gvgg7qlt-product/) · Buy on Amazon
-- [YIHUA 939D+ Digital Soldering Station, 75W Equivalent with Precision Heat Contro](/products/b07rvmznyr-yihua-939d-digital-soldering-station-75w-equivalent-with-pre/) · Buy on Amazon
+- [TEINO Remanufactured 65XL Ink Cartridge Replacement for HP Envy 5055 5052 DeskJe](/products/b081grvj5k-product/)
+- [EPSON 502 EcoTank Ink Ultra-high Capacity Bottle Black Works with ET-2750, 2760,](/products/b074rfmst8-product/)
+- [HP 63XL/65XL Black High-Yield Ink Cartridge (Replaces and Works with Both 63XL &](/products/b0gltx2pnr-product/)
+- [B0GYNVJ62W](/products/b0gynvj62w-b0gynvj62w/)
+- [Miss Deer LC3019XXL Ink Cartridges, Comaptible Replacement for Brother LC3019 LC](/products/b0gfmh3d3x-product/)
+- [65XL Ink Cartridge for HP 65 Black Ink Cartridge High-Yield Replacement for HP I](/products/b0fkbfh92q-product/)
+- [HP Original 63/65XL Black High‑Yield + 63/65 Tri-Color- Works DeskJet 1110, 2100](/products/b0gvgg7qlt-product/)
+- [YIHUA 939D+ Digital Soldering Station, 75W Equivalent with Precision Heat Contro](/products/b07rvmznyr-yihua-939d-digital-soldering-station-75w-equivalent-with-pre/)
 
 ## Products in this guide
 

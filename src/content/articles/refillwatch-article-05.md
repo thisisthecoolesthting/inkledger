@@ -141,14 +141,14 @@ For graphic designers, the Canon PGI-280XL system costs $0.28/page for photo pri
 
 ## Watchdog picks
 
-- [B07Q5J5YXV](/products/b07q5j5yxv-b07q5j5yxv/) · Buy on Amazon
-- [Epson EcoTank ET-2800 Wireless Color All-in-One Cartridge-Free Ink Supertank Pri](/products/b096n8dn2h-product/) · Buy on Amazon
-- [EPSON 502 EcoTank Ink Ultra-high Capacity Bottle Black Works with ET-2750, 2760,](/products/b074rfmst8-product/) · Buy on Amazon
-- [Aomya Ink Refill Kit 100ml for HP 67 61 65 60 62 63 910 920 901 902 932 933 934 ](/products/b077qvskd5-product/) · Buy on Amazon
-- [B0FLXG5Z7Q](/products/b0flxg5z7q-b0flxg5z7q/) · Buy on Amazon
-- [B0D3XGJ6HW](/products/b0d3xgj6hw-b0d3xgj6hw/) · Buy on Amazon
-- [HP DeskJet 2855e Wireless All-in-One Color Inkjet Printer, Scanner, Copier, Best](/products/b0ct2r7199-product/) · Buy on Amazon
-- [B09MSPNYQ2](/products/b09mspnyq2-b09mspnyq2/) · Buy on Amazon
+- [B07Q5J5YXV](/products/b07q5j5yxv-b07q5j5yxv/)
+- [Epson EcoTank ET-2800 Wireless Color All-in-One Cartridge-Free Ink Supertank Pri](/products/b096n8dn2h-product/)
+- [EPSON 502 EcoTank Ink Ultra-high Capacity Bottle Black Works with ET-2750, 2760,](/products/b074rfmst8-product/)
+- [Aomya Ink Refill Kit 100ml for HP 67 61 65 60 62 63 910 920 901 902 932 933 934 ](/products/b077qvskd5-product/)
+- [B0FLXG5Z7Q](/products/b0flxg5z7q-b0flxg5z7q/)
+- [B0D3XGJ6HW](/products/b0d3xgj6hw-b0d3xgj6hw/)
+- [HP DeskJet 2855e Wireless All-in-One Color Inkjet Printer, Scanner, Copier, Best](/products/b0ct2r7199-product/)
+- [B09MSPNYQ2](/products/b09mspnyq2-b09mspnyq2/)
 
 ## Products in this guide
 

@@ -121,14 +121,14 @@ By carefully weighing your printing needs and understanding the trade-offs in co
 
 ## Watchdog picks
 
-- [HP OfficeJet Pro 9125e Wireless All-in-One Color Inkjet Printer, Print, scan, co](/products/b0cfm82ns2-product/) · Buy on Amazon
-- [Smart Ink Remanufactured Ink Cartridges Replacement for HP 962XL 962 XL Combo Pa](/products/b0dt1nnns3-product/) · Buy on Amazon
-- [Epson 522 EcoTank Ink Ultra-high Capacity Bottle Black & Color Combo Pack (T5221](/products/b0b4vp5cq4-product/) · Buy on Amazon
-- [B09DV14ZZL](/products/b09dv14zzl-b09dv14zzl/) · Buy on Amazon
-- [B07C11YW88](/products/b07c11yw88-b07c11yw88/) · Buy on Amazon
-- [HP DeskJet 2955 Wireless All-in-One Color Inkjet Printer, Scanner, Copier, Best-](/products/b0gkjz864r-product/) · Buy on Amazon
-- [Dikarsum 5 in 1 Ink Refill Tools Compatible with Hp Inkjet Ink Cartridges (Ink C](/products/b0cq4vhbmh-product/) · Buy on Amazon
-- [B0CPB11F85](/products/b0cpb11f85-b0cpb11f85/) · Buy on Amazon
+- [HP OfficeJet Pro 9125e Wireless All-in-One Color Inkjet Printer, Print, scan, co](/products/b0cfm82ns2-product/)
+- [Smart Ink Remanufactured Ink Cartridges Replacement for HP 962XL 962 XL Combo Pa](/products/b0dt1nnns3-product/)
+- [Epson 522 EcoTank Ink Ultra-high Capacity Bottle Black & Color Combo Pack (T5221](/products/b0b4vp5cq4-product/)
+- [B09DV14ZZL](/products/b09dv14zzl-b09dv14zzl/)
+- [B07C11YW88](/products/b07c11yw88-b07c11yw88/)
+- [HP DeskJet 2955 Wireless All-in-One Color Inkjet Printer, Scanner, Copier, Best-](/products/b0gkjz864r-product/)
+- [Dikarsum 5 in 1 Ink Refill Tools Compatible with Hp Inkjet Ink Cartridges (Ink C](/products/b0cq4vhbmh-product/)
+- [B0CPB11F85](/products/b0cpb11f85-b0cpb11f85/)
 
 ## Products in this guide
 

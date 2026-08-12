@@ -129,14 +129,14 @@ Pro tip: Services often grandfather pricing for 6-9 months after hikes. By creat
 
 ## Watchdog picks
 
-- [B0F7K193ZR](/products/b0f7k193zr-b0f7k193zr/) · Buy on Amazon
-- [YIHUA 939D+ Digital Soldering Station, 75W Equivalent with Precision Heat Contro](/products/b07rvmznyr-yihua-939d-digital-soldering-station-75w-equivalent-with-pre/) · Buy on Amazon
-- [B0CZSFG7VX](/products/b0czsfg7vx-b0czsfg7vx/) · Buy on Amazon
-- [B09TG52XT4](/products/b09tg52xt4-b09tg52xt4/) · Buy on Amazon
-- [B09W73NQPW](/products/b09w73nqpw-b09w73nqpw/) · Buy on Amazon
-- [B0DHCKRWDL](/products/b0dhckrwdl-b0dhckrwdl/) · Buy on Amazon
-- [AOLIBE MLT-D111S Toner Cartridge High Yield Compatible for Samsung 111S MLT111S ](/products/b0bpd45xg6-product/) · Buy on Amazon
-- [Eva-Dry Wireless Mini Dehumidifier, White (E-333)](/products/b000h0xfcs-eva-dry-wireless-mini-dehumidifier-white-e-333/) · Buy on Amazon
+- [B0F7K193ZR](/products/b0f7k193zr-b0f7k193zr/)
+- [YIHUA 939D+ Digital Soldering Station, 75W Equivalent with Precision Heat Contro](/products/b07rvmznyr-yihua-939d-digital-soldering-station-75w-equivalent-with-pre/)
+- [B0CZSFG7VX](/products/b0czsfg7vx-b0czsfg7vx/)
+- [B09TG52XT4](/products/b09tg52xt4-b09tg52xt4/)
+- [B09W73NQPW](/products/b09w73nqpw-b09w73nqpw/)
+- [B0DHCKRWDL](/products/b0dhckrwdl-b0dhckrwdl/)
+- [AOLIBE MLT-D111S Toner Cartridge High Yield Compatible for Samsung 111S MLT111S ](/products/b0bpd45xg6-product/)
+- [Eva-Dry Wireless Mini Dehumidifier, White (E-333)](/products/b000h0xfcs-eva-dry-wireless-mini-dehumidifier-white-e-333/)
 
 ## Products in this guide
 

@@ -191,14 +191,14 @@ For the DIY-inclined, third-party solutions offer additional savings:
 
 ## Watchdog picks
 
-- [B0BL466Y41](/products/b0bl466y41-b0bl466y41/) · Buy on Amazon
-- [B0G6Z1834N](/products/b0g6z1834n-b0g6z1834n/) · Buy on Amazon
-- [Skydo 141A Toner Cartridge 2 Black Replacement for HP 141A W1410A 141X W1410X To](/products/b0gf3bx4p4-product/) · Buy on Amazon
-- [HP OfficeJet Pro 9125e Wireless All-in-One Color Inkjet Printer, Print, scan, co](/products/b0cfm82ns2-product/) · Buy on Amazon
-- [JANMORE Universal Ink Refills Kit Dye Ink Refill Kit Compatible for HP Canon Bro](/products/b0drp3lwp5-product/) · Buy on Amazon
-- [EaseFusion Replacement for Epson 502 Ink Refill Bottles Work with ET-2850 ET-385](/products/b0g33t139m-product/) · Buy on Amazon
-- [B0D96T79YF](/products/b0d96t79yf-b0d96t79yf/) · Buy on Amazon
-- [B08VF3XRQ8](/products/b08vf3xrq8-b08vf3xrq8/) · Buy on Amazon
+- [B0BL466Y41](/products/b0bl466y41-b0bl466y41/)
+- [B0G6Z1834N](/products/b0g6z1834n-b0g6z1834n/)
+- [Skydo 141A Toner Cartridge 2 Black Replacement for HP 141A W1410A 141X W1410X To](/products/b0gf3bx4p4-product/)
+- [HP OfficeJet Pro 9125e Wireless All-in-One Color Inkjet Printer, Print, scan, co](/products/b0cfm82ns2-product/)
+- [JANMORE Universal Ink Refills Kit Dye Ink Refill Kit Compatible for HP Canon Bro](/products/b0drp3lwp5-product/)
+- [EaseFusion Replacement for Epson 502 Ink Refill Bottles Work with ET-2850 ET-385](/products/b0g33t139m-product/)
+- [B0D96T79YF](/products/b0d96t79yf-b0d96t79yf/)
+- [B08VF3XRQ8](/products/b08vf3xrq8-b08vf3xrq8/)
 
 ## Products in this guide
 

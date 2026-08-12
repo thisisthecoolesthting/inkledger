@@ -143,14 +143,14 @@ By understanding the trade-offs and applying these steps, you can confidently us
 
 ## Watchdog picks
 
-- [HP DeskJet 2755 Wireless All-in-One Printer, Mobile Print, Scan & Copy, Instant ](/products/b083zy6xfq-product/) · Buy on Amazon
-- [Extra Deep Queen Sheet Set - 6 Piece Breathable and Cooling Sheets - Hotel Luxur](/products/b07f97mpyt-extra-deep-queen-sheet-set-6-piece-breathable-and-cooling-sh/) · Buy on Amazon
-- [Hakko T18S3P Tip for Fx-888 Station, 5.2mm](/products/b00762ahte-hakko-t18s3p-tip-for-fx-888-station-5-2mm/) · Buy on Amazon
-- [B004QM8SLG](/products/b004qm8slg-b004qm8slg/) · Buy on Amazon
-- [B0G1N9SX2M](/products/b0g1n9sx2m-b0g1n9sx2m/) · Buy on Amazon
-- [B0GRGQR634](/products/b0grgqr634-b0grgqr634/) · Buy on Amazon
-- [B00NQ1CLTI](/products/b00nq1clti-b00nq1clti/) · Buy on Amazon
-- [AYMSous 5-Pack Universal Ink Refill Kit for All HP Canon Epsn Brother Printers C](/products/b0cct8h4yk-product/) · Buy on Amazon
+- [HP DeskJet 2755 Wireless All-in-One Printer, Mobile Print, Scan & Copy, Instant ](/products/b083zy6xfq-product/)
+- [Extra Deep Queen Sheet Set - 6 Piece Breathable and Cooling Sheets - Hotel Luxur](/products/b07f97mpyt-extra-deep-queen-sheet-set-6-piece-breathable-and-cooling-sh/)
+- [Hakko T18S3P Tip for Fx-888 Station, 5.2mm](/products/b00762ahte-hakko-t18s3p-tip-for-fx-888-station-5-2mm/)
+- [B004QM8SLG](/products/b004qm8slg-b004qm8slg/)
+- [B0G1N9SX2M](/products/b0g1n9sx2m-b0g1n9sx2m/)
+- [B0GRGQR634](/products/b0grgqr634-b0grgqr634/)
+- [B00NQ1CLTI](/products/b00nq1clti-b00nq1clti/)
+- [AYMSous 5-Pack Universal Ink Refill Kit for All HP Canon Epsn Brother Printers C](/products/b0cct8h4yk-product/)
 
 ## Products in this guide
 

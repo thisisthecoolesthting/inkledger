@@ -168,14 +168,14 @@ Understanding the strengths and weaknesses of your inkjet printer regarding comp
 
 ## Watchdog picks
 
-- [Aomya Ink Refill kit 5x100ml for Canon 250 251 270 271 280 281 1200 2200 PG240 C](/products/b07c4hmjfs-product/) · Buy on Amazon
-- [B01N7V39UO](/products/b01n7v39uo-b01n7v39uo/) · Buy on Amazon
-- [Miss Deer LC3019XXL Ink Cartridges, Comaptible Replacement for Brother LC3019 LC](/products/b0gfmh3d3x-product/) · Buy on Amazon
-- [Aomya Compatible Ink Refill kit for HP 60 61 63 64 65 902 932 952 564 Refillable](/products/b077gllzbw-product/) · Buy on Amazon
-- [Printer Ink 67 Compatible for HP 67 Ink Cartridges Black/Color Combo Pack for HP](/products/b0flxghlhs-product/) · Buy on Amazon
-- [B0BVD54HPS](/products/b0bvd54hps-b0bvd54hps/) · Buy on Amazon
-- [B0DMS3D2JT](/products/b0dms3d2jt-b0dms3d2jt/) · Buy on Amazon
-- [B0G1N9SX2M](/products/b0g1n9sx2m-b0g1n9sx2m/) · Buy on Amazon
+- [Aomya Ink Refill kit 5x100ml for Canon 250 251 270 271 280 281 1200 2200 PG240 C](/products/b07c4hmjfs-product/)
+- [B01N7V39UO](/products/b01n7v39uo-b01n7v39uo/)
+- [Miss Deer LC3019XXL Ink Cartridges, Comaptible Replacement for Brother LC3019 LC](/products/b0gfmh3d3x-product/)
+- [Aomya Compatible Ink Refill kit for HP 60 61 63 64 65 902 932 952 564 Refillable](/products/b077gllzbw-product/)
+- [Printer Ink 67 Compatible for HP 67 Ink Cartridges Black/Color Combo Pack for HP](/products/b0flxghlhs-product/)
+- [B0BVD54HPS](/products/b0bvd54hps-b0bvd54hps/)
+- [B0DMS3D2JT](/products/b0dms3d2jt-b0dms3d2jt/)
+- [B0G1N9SX2M](/products/b0g1n9sx2m-b0g1n9sx2m/)
 
 ## Products in this guide
 

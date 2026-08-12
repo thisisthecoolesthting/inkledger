@@ -139,14 +139,14 @@ Choosing the right toner cartridge means balancing cost, quality, and printer co
 
 ## Watchdog picks
 
-- [Canon PG-245 XL / CL-246 XL Genuine Ink Value Pack (2 Cartridges), Compatible wi](/products/b079y6fhkj-product/) · Buy on Amazon
-- [HP OfficeJet Pro 8125e Wireless All-in-One Color Inkjet Printer, Print, scan, Co](/products/b0ct8zj7zc-product/) · Buy on Amazon
-- [B0041RRMQS](/products/b0041rrmqs-b0041rrmqs/) · Buy on Amazon
-- [Brother Genuine TN760 High Yield Black Toner Cartridge, (for use with MFC-L2710D](/products/b075x6c5zw-product/) · Buy on Amazon
-- [Epson EcoTank ET-2980 Wireless All-in-One Color Supertank Printer with Refillabl](/products/b0f1fbqrvb-product/) · Buy on Amazon
-- [Skyink Compatible Ink Cartridge Replacement for Canon 245XL 246XL 245 246 XL (Bl](/products/b0dkjdrltz-product/) · Buy on Amazon
-- [HP Original 962 Cyan, Magenta, Yellow / 962XL Black Ink Cartridges (4-Pack) - Wo](/products/b07t2s3d6j-product/) · Buy on Amazon
-- [B0CT8ZJ7ZC](/products/b0ct8zj7zc-b0ct8zj7zc/) · Buy on Amazon
+- [Canon PG-245 XL / CL-246 XL Genuine Ink Value Pack (2 Cartridges), Compatible wi](/products/b079y6fhkj-product/)
+- [HP OfficeJet Pro 8125e Wireless All-in-One Color Inkjet Printer, Print, scan, Co](/products/b0ct8zj7zc-product/)
+- [B0041RRMQS](/products/b0041rrmqs-b0041rrmqs/)
+- [Brother Genuine TN760 High Yield Black Toner Cartridge, (for use with MFC-L2710D](/products/b075x6c5zw-product/)
+- [Epson EcoTank ET-2980 Wireless All-in-One Color Supertank Printer with Refillabl](/products/b0f1fbqrvb-product/)
+- [Skyink Compatible Ink Cartridge Replacement for Canon 245XL 246XL 245 246 XL (Bl](/products/b0dkjdrltz-product/)
+- [HP Original 962 Cyan, Magenta, Yellow / 962XL Black Ink Cartridges (4-Pack) - Wo](/products/b07t2s3d6j-product/)
+- [B0CT8ZJ7ZC](/products/b0ct8zj7zc-b0ct8zj7zc/)
 
 ## Products in this guide
 

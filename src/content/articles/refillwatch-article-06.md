@@ -156,14 +156,14 @@ After tracking prices across 37 ink models, we recommend the EZ Ink Refill Kit f
 
 ## Watchdog picks
 
-- [LxTek Compatible Toner Cartridge 6510 6515 106R03480 106R03477 106R03478 106R034](/products/b08gx3k9ys-lxtek-compatible-toner-cartridge-6510-6515-106r03480-106r034/) · Buy on Amazon
-- [B00762AHTE](/products/b00762ahte-b00762ahte/) · Buy on Amazon
-- [B07D5DN269](/products/b07d5dn269-b07d5dn269/) · Buy on Amazon
-- [B0D8B24CTB](/products/b0d8b24ctb-b0d8b24ctb/) · Buy on Amazon
-- [B0DPYJWX2F](/products/b0dpyjwx2f-b0dpyjwx2f/) · Buy on Amazon
-- [MLT-D111S 111S Toner Cartridge High Yield Replacement for Samsung MLT-D111S MLTD](/products/b0btxxq5tc-product/) · Buy on Amazon
-- [B07J2P2V7T](/products/b07j2p2v7t-b07j2p2v7t/) · Buy on Amazon
-- [B0F7K193ZR](/products/b0f7k193zr-b0f7k193zr/) · Buy on Amazon
+- [LxTek Compatible Toner Cartridge 6510 6515 106R03480 106R03477 106R03478 106R034](/products/b08gx3k9ys-lxtek-compatible-toner-cartridge-6510-6515-106r03480-106r034/)
+- [B00762AHTE](/products/b00762ahte-b00762ahte/)
+- [B07D5DN269](/products/b07d5dn269-b07d5dn269/)
+- [B0D8B24CTB](/products/b0d8b24ctb-b0d8b24ctb/)
+- [B0DPYJWX2F](/products/b0dpyjwx2f-b0dpyjwx2f/)
+- [MLT-D111S 111S Toner Cartridge High Yield Replacement for Samsung MLT-D111S MLTD](/products/b0btxxq5tc-product/)
+- [B07J2P2V7T](/products/b07j2p2v7t-b07j2p2v7t/)
+- [B0F7K193ZR](/products/b0f7k193zr-b0f7k193zr/)
 
 ## Products in this guide
 

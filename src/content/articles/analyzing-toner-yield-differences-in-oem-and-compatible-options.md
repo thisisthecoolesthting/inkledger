@@ -157,14 +157,14 @@ Understanding toner yield differences between OEM and compatible cartridges is c
 
 ## Watchdog picks
 
-- [MLT-D111S 111S Toner Cartridge High Yield Replacement for Samsung MLT-D111S MLTD](/products/b0btxxq5tc-product/) · Buy on Amazon
-- [B00T6RWJMU](/products/b00t6rwjmu-b00t6rwjmu/) · Buy on Amazon
-- [B0GYNVJ62W](/products/b0gynvj62w-b0gynvj62w/) · Buy on Amazon
-- [B07C11YW88](/products/b07c11yw88-b07c11yw88/) · Buy on Amazon
-- [TN730 TN-730 Toner Cartridges Black Replacement for Brother TN730 TN-730 MFC-L27](/products/b0dfybsvb8-product/) · Buy on Amazon
-- [B08R3R5KXJ](/products/b08r3r5kxj-b08r3r5kxj/) · Buy on Amazon
-- [HP DeskJet 2855e Wireless All-in-One Color Inkjet Printer, Scanner, Copier, Best](/products/b0ct2r7199-product/) · Buy on Amazon
-- [EPSON 502 EcoTank Ink Ultra-high Capacity Bottle Color Combo Pack Works with ET-](/products/b074rg6pn1-product/) · Buy on Amazon
+- [MLT-D111S 111S Toner Cartridge High Yield Replacement for Samsung MLT-D111S MLTD](/products/b0btxxq5tc-product/)
+- [B00T6RWJMU](/products/b00t6rwjmu-b00t6rwjmu/)
+- [B0GYNVJ62W](/products/b0gynvj62w-b0gynvj62w/)
+- [B07C11YW88](/products/b07c11yw88-b07c11yw88/)
+- [TN730 TN-730 Toner Cartridges Black Replacement for Brother TN730 TN-730 MFC-L27](/products/b0dfybsvb8-product/)
+- [B08R3R5KXJ](/products/b08r3r5kxj-b08r3r5kxj/)
+- [HP DeskJet 2855e Wireless All-in-One Color Inkjet Printer, Scanner, Copier, Best](/products/b0ct2r7199-product/)
+- [EPSON 502 EcoTank Ink Ultra-high Capacity Bottle Color Combo Pack Works with ET-](/products/b074rg6pn1-product/)
 
 ## Products in this guide
 

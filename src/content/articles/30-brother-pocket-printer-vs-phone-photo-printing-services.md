@@ -147,14 +147,14 @@ The Brother pocket printer and phone photo printing services serve different pri
 
 ## Watchdog picks
 
-- [BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face Mask, Po](/products/b0b2rm68g2-biodance-bio-collagen-real-deep-mask-hydrating-overnight-hyd/) · Buy on Amazon
-- [AYMSous 5-Pack Universal Ink Refill Kit for All HP Canon Epsn Brother Printers C](/products/b0cct8h4yk-product/) · Buy on Amazon
-- [B07C11YW88](/products/b07c11yw88-b07c11yw88/) · Buy on Amazon
-- [HP Samsung MLT-D116L (SU832A) MLT-D116L Toner Cartridge](/products/b00c18tycy-product/) · Buy on Amazon
-- [B0F7JTLB86](/products/b0f7jtlb86-b0f7jtlb86/) · Buy on Amazon
-- [inkgens 31 32XL Ink Bottle Set Refill for HP Smart Tank 7600 7602 7300 7301 7001](/products/b0dpkjjrbg-product/) · Buy on Amazon
-- [Soldering Iron Kit, 60W Adjustable Temperature, Digital Multimeter, 5pcs Solderi](/products/b09vxq221k-soldering-iron-kit-60w-adjustable-temperature-digital-multim/) · Buy on Amazon
-- [MLT-D116L High Yield Toner Cartridge - 1 Pack, Black Replacement for Samsung 116](/products/b0c8j8gy2v-product/) · Buy on Amazon
+- [BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face Mask, Po](/products/b0b2rm68g2-biodance-bio-collagen-real-deep-mask-hydrating-overnight-hyd/)
+- [AYMSous 5-Pack Universal Ink Refill Kit for All HP Canon Epsn Brother Printers C](/products/b0cct8h4yk-product/)
+- [B07C11YW88](/products/b07c11yw88-b07c11yw88/)
+- [HP Samsung MLT-D116L (SU832A) MLT-D116L Toner Cartridge](/products/b00c18tycy-product/)
+- [B0F7JTLB86](/products/b0f7jtlb86-b0f7jtlb86/)
+- [inkgens 31 32XL Ink Bottle Set Refill for HP Smart Tank 7600 7602 7300 7301 7001](/products/b0dpkjjrbg-product/)
+- [Soldering Iron Kit, 60W Adjustable Temperature, Digital Multimeter, 5pcs Solderi](/products/b09vxq221k-soldering-iron-kit-60w-adjustable-temperature-digital-multim/)
+- [MLT-D116L High Yield Toner Cartridge - 1 Pack, Black Replacement for Samsung 116](/products/b0c8j8gy2v-product/)
 
 ## Products in this guide
 

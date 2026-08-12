@@ -191,14 +191,14 @@ Price data for this article comes from Keepa, which logs every published price c
 
 ## Watchdog picks
 
-- [B0FMBGXC2C](/products/b0fmbgxc2c-b0fmbgxc2c/) · Buy on Amazon
-- [MLT-D116L High Yield Toner Cartridge - 1 Pack, Black Replacement for Samsung 116](/products/b0c8j8gy2v-product/) · Buy on Amazon
-- [B07Q5J5YXV](/products/b07q5j5yxv-b07q5j5yxv/) · Buy on Amazon
-- [B0963X6B5V](/products/b0963x6b5v-b0963x6b5v/) · Buy on Amazon
-- [EPSON 522 EcoTank Ink Ultra-high Capacity Bottle Black (T522120-S) Works with ET](/products/b07pn7g526-product/) · Buy on Amazon
-- [B0FMBTJLX6](/products/b0fmbtjlx6-b0fmbtjlx6/) · Buy on Amazon
-- [B0F1FNZB62](/products/b0f1fnzb62-b0f1fnzb62/) · Buy on Amazon
-- [B073Q8P6CQ](/products/b073q8p6cq-b073q8p6cq/) · Buy on Amazon
+- [B0FMBGXC2C](/products/b0fmbgxc2c-b0fmbgxc2c/)
+- [MLT-D116L High Yield Toner Cartridge - 1 Pack, Black Replacement for Samsung 116](/products/b0c8j8gy2v-product/)
+- [B07Q5J5YXV](/products/b07q5j5yxv-b07q5j5yxv/)
+- [B0963X6B5V](/products/b0963x6b5v-b0963x6b5v/)
+- [EPSON 522 EcoTank Ink Ultra-high Capacity Bottle Black (T522120-S) Works with ET](/products/b07pn7g526-product/)
+- [B0FMBTJLX6](/products/b0fmbtjlx6-b0fmbtjlx6/)
+- [B0F1FNZB62](/products/b0f1fnzb62-b0f1fnzb62/)
+- [B073Q8P6CQ](/products/b073q8p6cq-b073q8p6cq/)
 
 ## Products in this guide
 

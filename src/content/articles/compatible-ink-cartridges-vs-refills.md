@@ -108,14 +108,14 @@ Ultimately, both compatible ink cartridges and refill kits offer viable alternat
 
 ## Watchdog picks
 
-- [B09W73NQPW](/products/b09w73nqpw-b09w73nqpw/) · Buy on Amazon
-- [B08VF3XRQ8](/products/b08vf3xrq8-b08vf3xrq8/) · Buy on Amazon
-- [Brother LC3019BK Super High Yield Black Ink Cartridge](/products/b01lyfvg1v-product/) · Buy on Amazon
-- [HP Original 63/65XL Black High‑Yield + 63/65 Tri-Color- Works DeskJet 1110, 2100](/products/b0gvgg7qlt-product/) · Buy on Amazon
-- [B00FFJ0R1Q](/products/b00ffj0r1q-b00ffj0r1q/) · Buy on Amazon
-- [myCartridge SUPRINT 245XL Ink Cartridge Replacement for Canon 245XL 246XL Combo ](/products/b08j3ny6qv-product/) · Buy on Amazon
-- [EPSON 702 DURABrite Ultra Ink Standard Capacity Black & Color Cartridge Combo Pa](/products/b06xg5zjn3-product/) · Buy on Amazon
-- [Remanufactured Replacement for Epson 702 Ink Cartridges for 702XL Ink cartridges](/products/b0ct2ltf55-product/) · Buy on Amazon
+- [B09W73NQPW](/products/b09w73nqpw-b09w73nqpw/)
+- [B08VF3XRQ8](/products/b08vf3xrq8-b08vf3xrq8/)
+- [Brother LC3019BK Super High Yield Black Ink Cartridge](/products/b01lyfvg1v-product/)
+- [HP Original 63/65XL Black High‑Yield + 63/65 Tri-Color- Works DeskJet 1110, 2100](/products/b0gvgg7qlt-product/)
+- [B00FFJ0R1Q](/products/b00ffj0r1q-b00ffj0r1q/)
+- [myCartridge SUPRINT 245XL Ink Cartridge Replacement for Canon 245XL 246XL Combo ](/products/b08j3ny6qv-product/)
+- [EPSON 702 DURABrite Ultra Ink Standard Capacity Black & Color Cartridge Combo Pa](/products/b06xg5zjn3-product/)
+- [Remanufactured Replacement for Epson 702 Ink Cartridges for 702XL Ink cartridges](/products/b0ct2ltf55-product/)
 
 ## Products in this guide
 

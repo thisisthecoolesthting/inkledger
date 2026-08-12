@@ -142,14 +142,14 @@ A: Opt for refillable or third-party cartridges, buy in bulk, or choose printers
 
 ## Watchdog picks
 
-- [B000H0XFCS](/products/b000h0xfcs-b000h0xfcs/) · Buy on Amazon
-- [Compatible for EPT502 Ink Refill Bottles ET-2850 ET-3850 ET-4850 ET-15000 Ink Re](/products/b0gbvmmj3v-product/) · Buy on Amazon
-- [TN760 Toner for Brother Printer TN730: Compatible for Brother TN-730/TN-760 TN 7](/products/b0flxjhgr7-product/) · Buy on Amazon
-- [MLT-D111S 111S Toner Cartridge High Yield Replacement for Samsung MLT-D111S MLTD](/products/b0btxxq5tc-product/) · Buy on Amazon
-- [B09MSPNYQ2](/products/b09mspnyq2-b09mspnyq2/) · Buy on Amazon
-- [65 65XL Black Ink Cartridges Replacement for HP 65XL Black Ink Cartridge Work fo](/products/b0gvm6yy7b-product/) · Buy on Amazon
-- [Brother LC3019BK Super High Yield Black Ink Cartridge](/products/b01lyfvg1v-product/) · Buy on Amazon
-- [JETSIR Dye Ink Refill Kit 100ML x5 Bottles for 950 951 952 902 901 60 61 62 63 2](/products/b01mqykrrz-product/) · Buy on Amazon
+- [B000H0XFCS](/products/b000h0xfcs-b000h0xfcs/)
+- [Compatible for EPT502 Ink Refill Bottles ET-2850 ET-3850 ET-4850 ET-15000 Ink Re](/products/b0gbvmmj3v-product/)
+- [TN760 Toner for Brother Printer TN730: Compatible for Brother TN-730/TN-760 TN 7](/products/b0flxjhgr7-product/)
+- [MLT-D111S 111S Toner Cartridge High Yield Replacement for Samsung MLT-D111S MLTD](/products/b0btxxq5tc-product/)
+- [B09MSPNYQ2](/products/b09mspnyq2-b09mspnyq2/)
+- [65 65XL Black Ink Cartridges Replacement for HP 65XL Black Ink Cartridge Work fo](/products/b0gvm6yy7b-product/)
+- [Brother LC3019BK Super High Yield Black Ink Cartridge](/products/b01lyfvg1v-product/)
+- [JETSIR Dye Ink Refill Kit 100ML x5 Bottles for 950 951 952 902 901 60 61 62 63 2](/products/b01mqykrrz-product/)
 
 ## Products in this guide
 

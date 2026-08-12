@@ -203,14 +203,14 @@ Price data for this article comes from Keepa, which logs every published price c
 
 ## Watchdog picks
 
-- [B0GYNH6H2L](/products/b0gynh6h2l-b0gynh6h2l/) · Buy on Amazon
-- [67XL 67 XL 6055e 2755e 2800e 2855e 6000 Ink Cartridges Black/Color Combo Pack Co](/products/b0fw9lh3q5-product/) · Buy on Amazon
-- [B0B7MKRR58](/products/b0b7mkrr58-b0b7mkrr58/) · Buy on Amazon
-- [B0GYNVJ62W](/products/b0gynvj62w-b0gynvj62w/) · Buy on Amazon
-- [B09TG52XT4](/products/b09tg52xt4-b09tg52xt4/) · Buy on Amazon
-- [280XXL 281XXL Ink for Canon Ink 280 281 Replacement for Canon TR8620 Ink Cartrid](/products/b0bvybvhk5-280xxl-281xxl-ink-for-canon-ink-280-281-replacement-for-cano/) · Buy on Amazon
-- [Brother HL-L2300D Monochrome Laser Printer with Duplex Printing](/products/b00nq1clti-brother-hl-l2300d-monochrome-laser-printer-with-duplex-print/) · Buy on Amazon
-- [TN760 Toner for Brother Printer TN730: Compatible for Brother TN-730/TN-760 TN 7](/products/b0flxjhgr7-product/) · Buy on Amazon
+- [B0GYNH6H2L](/products/b0gynh6h2l-b0gynh6h2l/)
+- [67XL 67 XL 6055e 2755e 2800e 2855e 6000 Ink Cartridges Black/Color Combo Pack Co](/products/b0fw9lh3q5-product/)
+- [B0B7MKRR58](/products/b0b7mkrr58-b0b7mkrr58/)
+- [B0GYNVJ62W](/products/b0gynvj62w-b0gynvj62w/)
+- [B09TG52XT4](/products/b09tg52xt4-b09tg52xt4/)
+- [280XXL 281XXL Ink for Canon Ink 280 281 Replacement for Canon TR8620 Ink Cartrid](/products/b0bvybvhk5-280xxl-281xxl-ink-for-canon-ink-280-281-replacement-for-cano/)
+- [Brother HL-L2300D Monochrome Laser Printer with Duplex Printing](/products/b00nq1clti-brother-hl-l2300d-monochrome-laser-printer-with-duplex-print/)
+- [TN760 Toner for Brother Printer TN730: Compatible for Brother TN-730/TN-760 TN 7](/products/b0flxjhgr7-product/)
 
 ## Products in this guide
 

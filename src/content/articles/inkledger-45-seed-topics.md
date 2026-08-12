@@ -21,14 +21,14 @@ heroImage: ''
 Deprecated. This file was produced by the AFFILIATE-082 topic parser before the section-header fix. Status held at `draft` so it does not render. Safe to delete on the Windows host.
 ## Watchdog picks
 
-- [B07ZHTFF44](/products/b07zhtff44-b07zhtff44/) · Buy on Amazon
-- [B000N3BBW0](/products/b000n3bbw0-b000n3bbw0/) · Buy on Amazon
-- [B0GMMHC3G4](/products/b0gmmhc3g4-b0gmmhc3g4/) · Buy on Amazon
-- [HP DeskJet 2955 Wireless All-in-One Color Inkjet Printer, Scanner, Copier, Best-](/products/b0gkjz864r-product/) · Buy on Amazon
-- [B0G1N9SX2M](/products/b0g1n9sx2m-b0g1n9sx2m/) · Buy on Amazon
-- [B07C11YW88](/products/b07c11yw88-b07c11yw88/) · Buy on Amazon
-- [B09W73NQPW](/products/b09w73nqpw-b09w73nqpw/) · Buy on Amazon
-- [B09MSPNYQ2](/products/b09mspnyq2-b09mspnyq2/) · Buy on Amazon
+- [B07ZHTFF44](/products/b07zhtff44-b07zhtff44/)
+- [B000N3BBW0](/products/b000n3bbw0-b000n3bbw0/)
+- [B0GMMHC3G4](/products/b0gmmhc3g4-b0gmmhc3g4/)
+- [HP DeskJet 2955 Wireless All-in-One Color Inkjet Printer, Scanner, Copier, Best-](/products/b0gkjz864r-product/)
+- [B0G1N9SX2M](/products/b0g1n9sx2m-b0g1n9sx2m/)
+- [B07C11YW88](/products/b07c11yw88-b07c11yw88/)
+- [B09W73NQPW](/products/b09w73nqpw-b09w73nqpw/)
+- [B09MSPNYQ2](/products/b09mspnyq2-b09mspnyq2/)
 
 ## Products in this guide
 

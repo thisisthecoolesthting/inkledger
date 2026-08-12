@@ -178,14 +178,14 @@ Keep in mind that cost per page is the key metric for meaningful savings, not ju
 
 ## Watchdog picks
 
-- [TN760 Toner for Brother Printer TN730: Compatible for Brother TN-730/TN-760 TN 7](/products/b0flxjhgr7-product/) · Buy on Amazon
-- [B000VKGRF0](/products/b000vkgrf0-b000vkgrf0/) · Buy on Amazon
-- [Genuine Brother LC3019 (LC-3019) (BK/C/M/Y) High Yield Color Ink 4-Pack (Include](/products/b06xy6rsnb-product/) · Buy on Amazon
-- [65XL Ink Cartridges Black/Color Combo Pack High-Yield Replacement for HP Ink 65 ](/products/b0f1cj93jj-product/) · Buy on Amazon
-- [EPSON 702 DURABrite Ultra Ink Standard Capacity Black Cartridge (T702120-S) Work](/products/b06xgmwmdw-product/) · Buy on Amazon
-- [B08B3K9H7L](/products/b08b3k9h7l-b08b3k9h7l/) · Buy on Amazon
-- [Epson EcoTank ET-3850 Wireless Color All-in-One Cartridge-Free Supertank with Sc](/products/b096n7txr1-product/) · Buy on Amazon
-- [B08QR6P8KV](/products/b08qr6p8kv-b08qr6p8kv/) · Buy on Amazon
+- [TN760 Toner for Brother Printer TN730: Compatible for Brother TN-730/TN-760 TN 7](/products/b0flxjhgr7-product/)
+- [B000VKGRF0](/products/b000vkgrf0-b000vkgrf0/)
+- [Genuine Brother LC3019 (LC-3019) (BK/C/M/Y) High Yield Color Ink 4-Pack (Include](/products/b06xy6rsnb-product/)
+- [65XL Ink Cartridges Black/Color Combo Pack High-Yield Replacement for HP Ink 65 ](/products/b0f1cj93jj-product/)
+- [EPSON 702 DURABrite Ultra Ink Standard Capacity Black Cartridge (T702120-S) Work](/products/b06xgmwmdw-product/)
+- [B08B3K9H7L](/products/b08b3k9h7l-b08b3k9h7l/)
+- [Epson EcoTank ET-3850 Wireless Color All-in-One Cartridge-Free Supertank with Sc](/products/b096n7txr1-product/)
+- [B08QR6P8KV](/products/b08qr6p8kv-b08qr6p8kv/)
 
 ## Products in this guide
 

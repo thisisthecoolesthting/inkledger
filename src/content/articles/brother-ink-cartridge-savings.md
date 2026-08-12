@@ -144,14 +144,14 @@ By carefully evaluating your printing needs, comparing cartridge options, and co
 
 ## Watchdog picks
 
-- [B01N7V39UO](/products/b01n7v39uo-b01n7v39uo/) · Buy on Amazon
-- [EPSON 702 DURABrite Ultra Ink Standard Capacity Black Cartridge (T702120-S) Work](/products/b06xgmwmdw-product/) · Buy on Amazon
-- [Brother Genuine TN730 3-Pack Standard Yield Black Toner Cartridge with Approxima](/products/b07q8bd3mk-product/) · Buy on Amazon
-- [Eva-Dry Wireless Mini Dehumidifier, White (E-333)](/products/b000h0xfcs-eva-dry-wireless-mini-dehumidifier-white-e-333/) · Buy on Amazon
-- [B0GGYYBXP4](/products/b0ggyybxp4-b0ggyybxp4/) · Buy on Amazon
-- [B07R3N9X3F](/products/b07r3n9x3f-b07r3n9x3f/) · Buy on Amazon
-- [Downy Fabric Softener Dryer Sheets, April Fresh, 120 Count](/products/b0014d3n0q-downy-fabric-softener-dryer-sheets-april-fresh-120-count/) · Buy on Amazon
-- [B0DHCKRWDL](/products/b0dhckrwdl-b0dhckrwdl/) · Buy on Amazon
+- [B01N7V39UO](/products/b01n7v39uo-b01n7v39uo/)
+- [EPSON 702 DURABrite Ultra Ink Standard Capacity Black Cartridge (T702120-S) Work](/products/b06xgmwmdw-product/)
+- [Brother Genuine TN730 3-Pack Standard Yield Black Toner Cartridge with Approxima](/products/b07q8bd3mk-product/)
+- [Eva-Dry Wireless Mini Dehumidifier, White (E-333)](/products/b000h0xfcs-eva-dry-wireless-mini-dehumidifier-white-e-333/)
+- [B0GGYYBXP4](/products/b0ggyybxp4-b0ggyybxp4/)
+- [B07R3N9X3F](/products/b07r3n9x3f-b07r3n9x3f/)
+- [Downy Fabric Softener Dryer Sheets, April Fresh, 120 Count](/products/b0014d3n0q-downy-fabric-softener-dryer-sheets-april-fresh-120-count/)
+- [B0DHCKRWDL](/products/b0dhckrwdl-b0dhckrwdl/)
 
 ## Products in this guide
 

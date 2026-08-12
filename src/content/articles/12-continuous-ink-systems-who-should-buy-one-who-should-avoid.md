@@ -176,14 +176,14 @@ If your print volume justifies the effort and you want to stretch your ink budge
 
 ## Watchdog picks
 
-- [B0F2478Q95](/products/b0f2478q95-b0f2478q95/) · Buy on Amazon
-- [B09DV14ZZL](/products/b09dv14zzl-b09dv14zzl/) · Buy on Amazon
-- [B08KDQZJQ5](/products/b08kdqzjq5-b08kdqzjq5/) · Buy on Amazon
-- [EaseFusion Replacement for Epson 502 Ink Refill Bottles Work with ET-2850 ET-385](/products/b0g33t139m-product/) · Buy on Amazon
-- [Valuetoner 245XL Ink Cartridge Replacement for Canon 245XL 246XL Combo Pack PG-2](/products/b07tj87ykb-product/) · Buy on Amazon
-- [B0GMMHC3G4](/products/b0gmmhc3g4-b0gmmhc3g4/) · Buy on Amazon
-- [B0CZSFG7VX](/products/b0czsfg7vx-b0czsfg7vx/) · Buy on Amazon
-- [B001EQ4G0O](/products/b001eq4g0o-b001eq4g0o/) · Buy on Amazon
+- [B0F2478Q95](/products/b0f2478q95-b0f2478q95/)
+- [B09DV14ZZL](/products/b09dv14zzl-b09dv14zzl/)
+- [B08KDQZJQ5](/products/b08kdqzjq5-b08kdqzjq5/)
+- [EaseFusion Replacement for Epson 502 Ink Refill Bottles Work with ET-2850 ET-385](/products/b0g33t139m-product/)
+- [Valuetoner 245XL Ink Cartridge Replacement for Canon 245XL 246XL Combo Pack PG-2](/products/b07tj87ykb-product/)
+- [B0GMMHC3G4](/products/b0gmmhc3g4-b0gmmhc3g4/)
+- [B0CZSFG7VX](/products/b0czsfg7vx-b0czsfg7vx/)
+- [B001EQ4G0O](/products/b001eq4g0o-b001eq4g0o/)
 
 ## Products in this guide
 

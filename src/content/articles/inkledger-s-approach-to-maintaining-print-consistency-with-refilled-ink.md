@@ -145,14 +145,14 @@ Inkledger’s methodical approach ensures that refilled ink cartridges consisten
 
 ## Watchdog picks
 
-- [TEINO Remanufactured Ink Cartridge Replacement for HP 65 65XL 65 XL use with HP ](/products/b0836myjsd-product/) · Buy on Amazon
-- [Brother Genuine TN760 High Yield Black Toner Cartridge, (for use with MFC-L2710D](/products/b075x6c5zw-product/) · Buy on Amazon
-- [B08KDQZJQ5](/products/b08kdqzjq5-b08kdqzjq5/) · Buy on Amazon
-- [HP Original 962 Cyan, Magenta, Yellow / 962XL Black Ink Cartridges (4-Pack) - Wo](/products/b07t2s3d6j-product/) · Buy on Amazon
-- [GOTOBY Compatible Toner Cartridge Replacement for HP 48A CF248A for Pro M15w M15](/products/b0bx9hwn7w-product/) · Buy on Amazon
-- [65XL Ink Cartridges Black/Color Combo Pack High-Yield Replacement for HP Ink 65 ](/products/b0f1cj93jj-product/) · Buy on Amazon
-- [B01N4QAK9O](/products/b01n4qak9o-b01n4qak9o/) · Buy on Amazon
-- [B0041RRMQS](/products/b0041rrmqs-b0041rrmqs/) · Buy on Amazon
+- [TEINO Remanufactured Ink Cartridge Replacement for HP 65 65XL 65 XL use with HP ](/products/b0836myjsd-product/)
+- [Brother Genuine TN760 High Yield Black Toner Cartridge, (for use with MFC-L2710D](/products/b075x6c5zw-product/)
+- [B08KDQZJQ5](/products/b08kdqzjq5-b08kdqzjq5/)
+- [HP Original 962 Cyan, Magenta, Yellow / 962XL Black Ink Cartridges (4-Pack) - Wo](/products/b07t2s3d6j-product/)
+- [GOTOBY Compatible Toner Cartridge Replacement for HP 48A CF248A for Pro M15w M15](/products/b0bx9hwn7w-product/)
+- [65XL Ink Cartridges Black/Color Combo Pack High-Yield Replacement for HP Ink 65 ](/products/b0f1cj93jj-product/)
+- [B01N4QAK9O](/products/b01n4qak9o-b01n4qak9o/)
+- [B0041RRMQS](/products/b0041rrmqs-b0041rrmqs/)
 
 ## Products in this guide
 

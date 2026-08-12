@@ -150,14 +150,14 @@ By understanding and weighing these elements, you can control your printing expe
 
 ## Watchdog picks
 
-- [B089CGSV4N](/products/b089cgsv4n-b089cgsv4n/) · Buy on Amazon
-- [B0G1N9SX2M](/products/b0g1n9sx2m-b0g1n9sx2m/) · Buy on Amazon
-- [HP 65 Black Ink Cartridge - Works with AMP 100, DeskJet 2600, 3700; Envy 5000 - ](/products/b01bykui9c-product/) · Buy on Amazon
-- [962XL Ink Cartridges for HP 962XL Ink Cartridges Combo Pack Work for HP Officeje](/products/b0d3xgj6hw-product/) · Buy on Amazon
-- [B00CAZAU62](/products/b00cazau62-b00cazau62/) · Buy on Amazon
-- [B00762AHTE](/products/b00762ahte-b00762ahte/) · Buy on Amazon
-- [B0BJ194Z43](/products/b0bj194z43-b0bj194z43/) · Buy on Amazon
-- [B002BWQ6XK](/products/b002bwq6xk-b002bwq6xk/) · Buy on Amazon
+- [B089CGSV4N](/products/b089cgsv4n-b089cgsv4n/)
+- [B0G1N9SX2M](/products/b0g1n9sx2m-b0g1n9sx2m/)
+- [HP 65 Black Ink Cartridge - Works with AMP 100, DeskJet 2600, 3700; Envy 5000 - ](/products/b01bykui9c-product/)
+- [962XL Ink Cartridges for HP 962XL Ink Cartridges Combo Pack Work for HP Officeje](/products/b0d3xgj6hw-product/)
+- [B00CAZAU62](/products/b00cazau62-b00cazau62/)
+- [B00762AHTE](/products/b00762ahte-b00762ahte/)
+- [B0BJ194Z43](/products/b0bj194z43-b0bj194z43/)
+- [B002BWQ6XK](/products/b002bwq6xk-b002bwq6xk/)
 
 ## Products in this guide
 

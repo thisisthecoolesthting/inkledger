@@ -192,14 +192,14 @@ Price data for this article comes from Keepa, which logs every published price c
 
 ## Watchdog picks
 
-- [B07YPR2DGH](/products/b07ypr2dgh-b07ypr2dgh/) · Buy on Amazon
-- [B002R5AF1I](/products/b002r5af1i-b002r5af1i/) · Buy on Amazon
-- [B0GYNH6H2L](/products/b0gynh6h2l-b0gynh6h2l/) · Buy on Amazon
-- [962XL Ink Cartridges for HP 962XL Ink Cartridges Combo Pack Work for HP Officeje](/products/b0d3xgj6hw-product/) · Buy on Amazon
-- [AZ Compatible Toner Cartridge Replacement for Dell 1250, 1250BK / 1250C / 1250Y ](/products/b00qj88sb0-product/) · Buy on Amazon
-- [B01NBB1J9U](/products/b01nbb1j9u-b01nbb1j9u/) · Buy on Amazon
-- [B0854BN273](/products/b0854bn273-b0854bn273/) · Buy on Amazon
-- [B00762AHTE](/products/b00762ahte-b00762ahte/) · Buy on Amazon
+- [B07YPR2DGH](/products/b07ypr2dgh-b07ypr2dgh/)
+- [B002R5AF1I](/products/b002r5af1i-b002r5af1i/)
+- [B0GYNH6H2L](/products/b0gynh6h2l-b0gynh6h2l/)
+- [962XL Ink Cartridges for HP 962XL Ink Cartridges Combo Pack Work for HP Officeje](/products/b0d3xgj6hw-product/)
+- [AZ Compatible Toner Cartridge Replacement for Dell 1250, 1250BK / 1250C / 1250Y ](/products/b00qj88sb0-product/)
+- [B01NBB1J9U](/products/b01nbb1j9u-b01nbb1j9u/)
+- [B0854BN273](/products/b0854bn273-b0854bn273/)
+- [B00762AHTE](/products/b00762ahte-b00762ahte/)
 
 ## Products in this guide
 

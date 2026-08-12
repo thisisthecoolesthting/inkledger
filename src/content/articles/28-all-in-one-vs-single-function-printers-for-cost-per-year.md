@@ -146,14 +146,14 @@ Making the right choice between an all-in-one and single-function printer depend
 
 ## Watchdog picks
 
-- [Brother LC3019BK Super High Yield Black Ink Cartridge](/products/b01lyfvg1v-product/) · Buy on Amazon
-- [HP 67 Black/Tri-Color Ink Cartridges (2-Pack) - Works with DeskJet 1255, 2700, 4](/products/b08412hxk9-product/) · Buy on Amazon
-- [YIHUA 939D+ Digital Soldering Station, 75W Equivalent with Precision Heat Contro](/products/b07rvmznyr-yihua-939d-digital-soldering-station-75w-equivalent-with-pre/) · Buy on Amazon
-- [B0C1ZF94GW](/products/b0c1zf94gw-b0c1zf94gw/) · Buy on Amazon
-- [HP 962XL Black High-Yield Ink Cartridge - Works with OfficeJet 9010, Pro 9010, 9](/products/b07mk5dg9v-product/) · Buy on Amazon
-- [TN760 Toner for Brother Printer TN730: Compatible for Brother TN-730/TN-760 TN 7](/products/b0flxjhgr7-product/) · Buy on Amazon
-- [Brother Genuine High-Yield Black Toner Cartridge Twin Pack TN760 2Pk, TN7602PK,2](/products/b07ygl9xth-product/) · Buy on Amazon
-- [B09PH83KK5](/products/b09ph83kk5-b09ph83kk5/) · Buy on Amazon
+- [Brother LC3019BK Super High Yield Black Ink Cartridge](/products/b01lyfvg1v-product/)
+- [HP 67 Black/Tri-Color Ink Cartridges (2-Pack) - Works with DeskJet 1255, 2700, 4](/products/b08412hxk9-product/)
+- [YIHUA 939D+ Digital Soldering Station, 75W Equivalent with Precision Heat Contro](/products/b07rvmznyr-yihua-939d-digital-soldering-station-75w-equivalent-with-pre/)
+- [B0C1ZF94GW](/products/b0c1zf94gw-b0c1zf94gw/)
+- [HP 962XL Black High-Yield Ink Cartridge - Works with OfficeJet 9010, Pro 9010, 9](/products/b07mk5dg9v-product/)
+- [TN760 Toner for Brother Printer TN730: Compatible for Brother TN-730/TN-760 TN 7](/products/b0flxjhgr7-product/)
+- [Brother Genuine High-Yield Black Toner Cartridge Twin Pack TN760 2Pk, TN7602PK,2](/products/b07ygl9xth-product/)
+- [B09PH83KK5](/products/b09ph83kk5-b09ph83kk5/)
 
 ## Products in this guide
 

@@ -154,14 +154,14 @@ After tracking prices across 37 ink models, we recommend the EZ Ink Refill Kit f
 
 ## Watchdog picks
 
-- [B07C11YW88](/products/b07c11yw88-b07c11yw88/) · Buy on Amazon
-- [Canon PG-245 / CL-246 Genuine Ink Value Pack (2 Cartridges), Compatible with iP2](/products/b00trdoylw-product/) · Buy on Amazon
-- [Canon PG-245 XL / CL-246 XL Genuine Ink Value Pack (2 Cartridges), Compatible wi](/products/b079y6fhkj-product/) · Buy on Amazon
-- [B01N5Q9Q6J](/products/b01n5q9q6j-b01n5q9q6j/) · Buy on Amazon
-- [B0041RRMQS](/products/b0041rrmqs-b0041rrmqs/) · Buy on Amazon
-- [HP OfficeJet Pro 9125 Wireless All-in-One Color Inkjet Printer, Print, Scan, Cop](/products/b0gpfkgny7-product/) · Buy on Amazon
-- [B002R5AF1I](/products/b002r5af1i-b002r5af1i/) · Buy on Amazon
-- [Skydo LC3019XXL Ink Cartridges Replacement for LC3019 XXL LC 3019-XXL LC3019 Wor](/products/b0ds4m632h-product/) · Buy on Amazon
+- [B07C11YW88](/products/b07c11yw88-b07c11yw88/)
+- [Canon PG-245 / CL-246 Genuine Ink Value Pack (2 Cartridges), Compatible with iP2](/products/b00trdoylw-product/)
+- [Canon PG-245 XL / CL-246 XL Genuine Ink Value Pack (2 Cartridges), Compatible wi](/products/b079y6fhkj-product/)
+- [B01N5Q9Q6J](/products/b01n5q9q6j-b01n5q9q6j/)
+- [B0041RRMQS](/products/b0041rrmqs-b0041rrmqs/)
+- [HP OfficeJet Pro 9125 Wireless All-in-One Color Inkjet Printer, Print, Scan, Cop](/products/b0gpfkgny7-product/)
+- [B002R5AF1I](/products/b002r5af1i-b002r5af1i/)
+- [Skydo LC3019XXL Ink Cartridges Replacement for LC3019 XXL LC 3019-XXL LC3019 Wor](/products/b0ds4m632h-product/)
 
 ## Products in this guide
 

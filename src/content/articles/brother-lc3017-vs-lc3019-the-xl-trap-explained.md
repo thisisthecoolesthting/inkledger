@@ -59,14 +59,14 @@ For most home users:
 Remember: Printer manufacturers make their profits on ink, not printers. That 'XL' label is often just a psychological trick to get you to spend more.
 ## Watchdog picks
 
-- [B00762AHTE](/products/b00762ahte-b00762ahte/) · Buy on Amazon
-- [EPSON 702 DURABrite Ultra Ink Standard Capacity Black Cartridge (T702120-S) Work](/products/b06xgmwmdw-product/) · Buy on Amazon
-- [B000NL0T1K](/products/b000nl0t1k-b000nl0t1k/) · Buy on Amazon
-- [B07ZHTFF44](/products/b07zhtff44-b07zhtff44/) · Buy on Amazon
-- [B0FCS1B33K](/products/b0fcs1b33k-b0fcs1b33k/) · Buy on Amazon
-- [B0GRGQR634](/products/b0grgqr634-b0grgqr634/) · Buy on Amazon
-- [AYMSous 5-Pack Universal Ink Refill Kit for All HP Canon Epsn Brother Printers C](/products/b0cct8h4yk-product/) · Buy on Amazon
-- [B08R3R5KXJ](/products/b08r3r5kxj-b08r3r5kxj/) · Buy on Amazon
+- [B00762AHTE](/products/b00762ahte-b00762ahte/)
+- [EPSON 702 DURABrite Ultra Ink Standard Capacity Black Cartridge (T702120-S) Work](/products/b06xgmwmdw-product/)
+- [B000NL0T1K](/products/b000nl0t1k-b000nl0t1k/)
+- [B07ZHTFF44](/products/b07zhtff44-b07zhtff44/)
+- [B0FCS1B33K](/products/b0fcs1b33k-b0fcs1b33k/)
+- [B0GRGQR634](/products/b0grgqr634-b0grgqr634/)
+- [AYMSous 5-Pack Universal Ink Refill Kit for All HP Canon Epsn Brother Printers C](/products/b0cct8h4yk-product/)
+- [B08R3R5KXJ](/products/b08r3r5kxj-b08r3r5kxj/)
 
 ## Products in this guide
 

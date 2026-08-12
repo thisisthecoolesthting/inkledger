@@ -146,14 +146,14 @@ For office printers that see regular, high-volume use, switching to compatible i
 
 ## Watchdog picks
 
-- [Miss Deer LC3019XXL Ink Cartridges, Comaptible Replacement for Brother LC3019 LC](/products/b0gfmh3d3x-product/) · Buy on Amazon
-- [B09TG52XT4](/products/b09tg52xt4-b09tg52xt4/) · Buy on Amazon
-- [B0CCNKGY6J](/products/b0ccnkgy6j-b0ccnkgy6j/) · Buy on Amazon
-- [B07ZPSFVX5](/products/b07zpsfvx5-b07zpsfvx5/) · Buy on Amazon
-- [Dikarsum 5 in 1 Ink Refill Tools Compatible with Hp Inkjet Ink Cartridges (Ink C](/products/b0cq4vhbmh-product/) · Buy on Amazon
-- [B0G34F2S65](/products/b0g34f2s65-b0g34f2s65/) · Buy on Amazon
-- [B08FY8XQ3W](/products/b08fy8xq3w-b08fy8xq3w/) · Buy on Amazon
-- [Epson EcoTank ET-2400 Wireless Color All-in-One Cartridge-Free Supertank Printer](/products/b0bm9bflmx-product/) · Buy on Amazon
+- [Miss Deer LC3019XXL Ink Cartridges, Comaptible Replacement for Brother LC3019 LC](/products/b0gfmh3d3x-product/)
+- [B09TG52XT4](/products/b09tg52xt4-b09tg52xt4/)
+- [B0CCNKGY6J](/products/b0ccnkgy6j-b0ccnkgy6j/)
+- [B07ZPSFVX5](/products/b07zpsfvx5-b07zpsfvx5/)
+- [Dikarsum 5 in 1 Ink Refill Tools Compatible with Hp Inkjet Ink Cartridges (Ink C](/products/b0cq4vhbmh-product/)
+- [B0G34F2S65](/products/b0g34f2s65-b0g34f2s65/)
+- [B08FY8XQ3W](/products/b08fy8xq3w-b08fy8xq3w/)
+- [Epson EcoTank ET-2400 Wireless Color All-in-One Cartridge-Free Supertank Printer](/products/b0bm9bflmx-product/)
 
 ## Products in this guide
 

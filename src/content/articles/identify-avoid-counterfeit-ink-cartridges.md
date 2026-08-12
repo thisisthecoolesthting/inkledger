@@ -113,14 +113,14 @@ By staying informed and vigilant, you can significantly reduce your risk of fall
 
 ## Watchdog picks
 
-- [JETSIR Dye Ink Refill Kit 100ML x5 Bottles for 950 951 952 902 901 60 61 62 63 2](/products/b01mqykrrz-product/) · Buy on Amazon
-- [Epson EcoTank ET-2980 Wireless All-in-One Color Supertank Printer with Refillabl](/products/b0f1fbqrvb-product/) · Buy on Amazon
-- [Remanufactured Replacement for Epson 702 Ink Cartridges for 702XL Ink cartridges](/products/b0ct2ltf55-product/) · Buy on Amazon
-- [B0DPYJWX2F](/products/b0dpyjwx2f-b0dpyjwx2f/) · Buy on Amazon
-- [HP Original 962 Cyan, Magenta, Yellow / 962XL Black Ink Cartridges (4-Pack) - Wo](/products/b07t2s3d6j-product/) · Buy on Amazon
-- [B00PB6F2V4](/products/b00pb6f2v4-b00pb6f2v4/) · Buy on Amazon
-- [B00FFJ0R1Q](/products/b00ffj0r1q-b00ffj0r1q/) · Buy on Amazon
-- [B0GYNFD72N](/products/b0gynfd72n-b0gynfd72n/) · Buy on Amazon
+- [JETSIR Dye Ink Refill Kit 100ML x5 Bottles for 950 951 952 902 901 60 61 62 63 2](/products/b01mqykrrz-product/)
+- [Epson EcoTank ET-2980 Wireless All-in-One Color Supertank Printer with Refillabl](/products/b0f1fbqrvb-product/)
+- [Remanufactured Replacement for Epson 702 Ink Cartridges for 702XL Ink cartridges](/products/b0ct2ltf55-product/)
+- [B0DPYJWX2F](/products/b0dpyjwx2f-b0dpyjwx2f/)
+- [HP Original 962 Cyan, Magenta, Yellow / 962XL Black Ink Cartridges (4-Pack) - Wo](/products/b07t2s3d6j-product/)
+- [B00PB6F2V4](/products/b00pb6f2v4-b00pb6f2v4/)
+- [B00FFJ0R1Q](/products/b00ffj0r1q-b00ffj0r1q/)
+- [B0GYNFD72N](/products/b0gynfd72n-b0gynfd72n/)
 
 ## Products in this guide
 

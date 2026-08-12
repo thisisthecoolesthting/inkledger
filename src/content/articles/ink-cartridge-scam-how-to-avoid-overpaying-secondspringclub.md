@@ -136,14 +136,14 @@ Tradeoffs:
 
 ## Watchdog picks
 
-- [B09ZVMYHGF](/products/b09zvmyhgf-b09zvmyhgf/) · Buy on Amazon
-- [TN730 TN-730 Black Toner Cartridges 2 Pack Compatible TN730 Toner Cartridge Repl](/products/b0c3qxmbc7-product/) · Buy on Amazon
-- [Valuetoner 245XL Ink Cartridge Replacement for Canon 245XL 246XL Combo Pack PG-2](/products/b07tj87ykb-product/) · Buy on Amazon
-- [B074ND5RDT](/products/b074nd5rdt-b074nd5rdt/) · Buy on Amazon
-- [TN730 TN-730 Toner Cartridges Black Replacement for Brother TN730 TN-730 MFC-L27](/products/b0dfybsvb8-product/) · Buy on Amazon
-- [Brother LC3019BK Super High Yield Black Ink Cartridge](/products/b01lyfvg1v-product/) · Buy on Amazon
-- [B00T6RWJMU](/products/b00t6rwjmu-b00t6rwjmu/) · Buy on Amazon
-- [Brother Printer LC30193PK Super High Yield XXL 3 Pack Ink Cartridges- 1 Ea: Cyan](/products/b01n4k0zfe-product/) · Buy on Amazon
+- [B09ZVMYHGF](/products/b09zvmyhgf-b09zvmyhgf/)
+- [TN730 TN-730 Black Toner Cartridges 2 Pack Compatible TN730 Toner Cartridge Repl](/products/b0c3qxmbc7-product/)
+- [Valuetoner 245XL Ink Cartridge Replacement for Canon 245XL 246XL Combo Pack PG-2](/products/b07tj87ykb-product/)
+- [B074ND5RDT](/products/b074nd5rdt-b074nd5rdt/)
+- [TN730 TN-730 Toner Cartridges Black Replacement for Brother TN730 TN-730 MFC-L27](/products/b0dfybsvb8-product/)
+- [Brother LC3019BK Super High Yield Black Ink Cartridge](/products/b01lyfvg1v-product/)
+- [B00T6RWJMU](/products/b00t6rwjmu-b00t6rwjmu/)
+- [Brother Printer LC30193PK Super High Yield XXL 3 Pack Ink Cartridges- 1 Ea: Cyan](/products/b01n4k0zfe-product/)
 
 ## Products in this guide
 

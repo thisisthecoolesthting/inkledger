@@ -136,14 +136,14 @@ Continuous systems delivered strong results for small businesses printing 300+ p
 
 ## Watchdog picks
 
-- [B000H0XFCS](/products/b000h0xfcs-b000h0xfcs/) · Buy on Amazon
-- [AOLIBE MLT-D111S Toner Cartridge High Yield Compatible for Samsung 111S MLT111S ](/products/b0bpd45xg6-product/) · Buy on Amazon
-- [Aomya Ink Refill kit 5x100ml for Canon 250 251 270 271 280 281 1200 2200 PG240 C](/products/b07c4hmjfs-product/) · Buy on Amazon
-- [B0F1FNZB62](/products/b0f1fnzb62-b0f1fnzb62/) · Buy on Amazon
-- [B07P5Y5QHG](/products/b07p5y5qhg-b07p5y5qhg/) · Buy on Amazon
-- [B08JHWZ15B](/products/b08jhwz15b-b08jhwz15b/) · Buy on Amazon
-- [InkOwl Compatible Ink Cartridge Replacement for Roland ECO-SOL MAX 2 Printers ES](/products/b0cyjv9x52-inkowl-compatible-ink-cartridge-replacement-for-roland-eco-s/) · Buy on Amazon
-- [218A Toner Cartridges 4 Pack (with Chip) Compatible Replacement for HP 218A 218X](/products/b0fnmzclcg-product/) · Buy on Amazon
+- [B000H0XFCS](/products/b000h0xfcs-b000h0xfcs/)
+- [AOLIBE MLT-D111S Toner Cartridge High Yield Compatible for Samsung 111S MLT111S ](/products/b0bpd45xg6-product/)
+- [Aomya Ink Refill kit 5x100ml for Canon 250 251 270 271 280 281 1200 2200 PG240 C](/products/b07c4hmjfs-product/)
+- [B0F1FNZB62](/products/b0f1fnzb62-b0f1fnzb62/)
+- [B07P5Y5QHG](/products/b07p5y5qhg-b07p5y5qhg/)
+- [B08JHWZ15B](/products/b08jhwz15b-b08jhwz15b/)
+- [InkOwl Compatible Ink Cartridge Replacement for Roland ECO-SOL MAX 2 Printers ES](/products/b0cyjv9x52-inkowl-compatible-ink-cartridge-replacement-for-roland-eco-s/)
+- [218A Toner Cartridges 4 Pack (with Chip) Compatible Replacement for HP 218A 218X](/products/b0fnmzclcg-product/)
 
 ## Products in this guide
 

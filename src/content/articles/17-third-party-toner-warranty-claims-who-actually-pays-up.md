@@ -144,14 +144,14 @@ Navigating warranty claims involving third-party toner cartridges requires under
 
 ## Watchdog picks
 
-- [B000H0XFCS](/products/b000h0xfcs-b000h0xfcs/) · Buy on Amazon
-- [B001E10B9I](/products/b001e10b9i-b001e10b9i/) · Buy on Amazon
-- [B00B5JOC5C](/products/b00b5joc5c-b00b5joc5c/) · Buy on Amazon
-- [Epson EcoTank ET-2988 Wireless All-in-One Color Supertank Printer with up to 3 Y](/products/b0h476662h-product/) · Buy on Amazon
-- [EPSON 522 EcoTank Ink Ultra-high Capacity Bottle Black (T522120-S) Works with ET](/products/b07pn7g526-product/) · Buy on Amazon
-- [InkOwl Compatible Ink Cartridge Replacement for Roland ECO-SOL MAX 2 Printers ES](/products/b0cyjv9x52-inkowl-compatible-ink-cartridge-replacement-for-roland-eco-s/) · Buy on Amazon
-- [Soldering Iron Kit, 80W 110V LCD Digital Solder Iron Pen with Ceramic Heater, Po](/products/b08r3515sf-soldering-iron-kit-80w-110v-lcd-digital-solder-iron-pen-with/) · Buy on Amazon
-- [Canon PG-245 / CL-246 Genuine Ink Value Pack (2 Cartridges), Compatible with iP2](/products/b00trdoylw-product/) · Buy on Amazon
+- [B000H0XFCS](/products/b000h0xfcs-b000h0xfcs/)
+- [B001E10B9I](/products/b001e10b9i-b001e10b9i/)
+- [B00B5JOC5C](/products/b00b5joc5c-b00b5joc5c/)
+- [Epson EcoTank ET-2988 Wireless All-in-One Color Supertank Printer with up to 3 Y](/products/b0h476662h-product/)
+- [EPSON 522 EcoTank Ink Ultra-high Capacity Bottle Black (T522120-S) Works with ET](/products/b07pn7g526-product/)
+- [InkOwl Compatible Ink Cartridge Replacement for Roland ECO-SOL MAX 2 Printers ES](/products/b0cyjv9x52-inkowl-compatible-ink-cartridge-replacement-for-roland-eco-s/)
+- [Soldering Iron Kit, 80W 110V LCD Digital Solder Iron Pen with Ceramic Heater, Po](/products/b08r3515sf-soldering-iron-kit-80w-110v-lcd-digital-solder-iron-pen-with/)
+- [Canon PG-245 / CL-246 Genuine Ink Value Pack (2 Cartridges), Compatible with iP2](/products/b00trdoylw-product/)
 
 ## Products in this guide
 

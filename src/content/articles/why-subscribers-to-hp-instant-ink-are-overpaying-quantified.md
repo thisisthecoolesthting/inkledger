@@ -50,14 +50,14 @@ Compatible HP 61XL cartridges (yield: ~300 pages) currently sell for $12-$15:
 *Note: HP voids printer warranties if third-party ink causes damage, but our testing shows this occurs in <3% of cases with vetted compatible brands.*
 ## Watchdog picks
 
-- [B0CPB11F85](/products/b0cpb11f85-b0cpb11f85/) · Buy on Amazon
-- [Soldering Iron Kit, 80W 110V Fast Heat up in 10s LCD Digital Adjustable Temperat](/products/b08pzbpxlz-soldering-iron-kit-80w-110v-fast-heat-up-in-10s-lcd-digital-/) · Buy on Amazon
-- [B001QY8QXM](/products/b001qy8qxm-b001qy8qxm/) · Buy on Amazon
-- [B09XT22566](/products/b09xt22566-b09xt22566/) · Buy on Amazon
-- [Epson EcoTank ET-2803 Wireless Color All-in-One Cartridge-Free Supertank Printer](/products/b0bhxnp6b1-product/) · Buy on Amazon
-- [67XL Ink Cartridge Replacement for HP 67 XL Remanufactured for HP Ink 67 67XL fo](/products/b0f6c98q8m-product/) · Buy on Amazon
-- [B07RYXHN2M](/products/b07ryxhn2m-b07ryxhn2m/) · Buy on Amazon
-- [B07YPR2DGH](/products/b07ypr2dgh-b07ypr2dgh/) · Buy on Amazon
+- [B0CPB11F85](/products/b0cpb11f85-b0cpb11f85/)
+- [Soldering Iron Kit, 80W 110V Fast Heat up in 10s LCD Digital Adjustable Temperat](/products/b08pzbpxlz-soldering-iron-kit-80w-110v-fast-heat-up-in-10s-lcd-digital-/)
+- [B001QY8QXM](/products/b001qy8qxm-b001qy8qxm/)
+- [B09XT22566](/products/b09xt22566-b09xt22566/)
+- [Epson EcoTank ET-2803 Wireless Color All-in-One Cartridge-Free Supertank Printer](/products/b0bhxnp6b1-product/)
+- [67XL Ink Cartridge Replacement for HP 67 XL Remanufactured for HP Ink 67 67XL fo](/products/b0f6c98q8m-product/)
+- [B07RYXHN2M](/products/b07ryxhn2m-b07ryxhn2m/)
+- [B07YPR2DGH](/products/b07ypr2dgh-b07ypr2dgh/)
 
 ## Products in this guide
 

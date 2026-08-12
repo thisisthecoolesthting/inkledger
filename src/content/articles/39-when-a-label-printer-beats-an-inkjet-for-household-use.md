@@ -141,14 +141,14 @@ A well-chosen label printer complements your home printing arsenal and helps you
 
 ## Watchdog picks
 
-- [60W Adjustable Temperature Soldering Iron Kit - 9-in-1 With 5 Tips, Solder Wire ](/products/b09dy7ccw5-60w-adjustable-temperature-soldering-iron-kit-9-in-1-with-5-/) · Buy on Amazon
-- [B0BN57XFD8](/products/b0bn57xfd8-b0bn57xfd8/) · Buy on Amazon
-- [B08FY8XQ3W](/products/b08fy8xq3w-b08fy8xq3w/) · Buy on Amazon
-- [Downy Fabric Softener Dryer Sheets, April Fresh, 120 Count](/products/b0014d3n0q-downy-fabric-softener-dryer-sheets-april-fresh-120-count/) · Buy on Amazon
-- [Canon PG-245 / CL-246 Genuine Ink Value Pack (2 Cartridges), Compatible with iP2](/products/b00trdoylw-product/) · Buy on Amazon
-- [B01N5Q9Q6J](/products/b01n5q9q6j-b01n5q9q6j/) · Buy on Amazon
-- [B0BVD54HPS](/products/b0bvd54hps-b0bvd54hps/) · Buy on Amazon
-- [B08KDQZJQ5](/products/b08kdqzjq5-b08kdqzjq5/) · Buy on Amazon
+- [60W Adjustable Temperature Soldering Iron Kit - 9-in-1 With 5 Tips, Solder Wire ](/products/b09dy7ccw5-60w-adjustable-temperature-soldering-iron-kit-9-in-1-with-5-/)
+- [B0BN57XFD8](/products/b0bn57xfd8-b0bn57xfd8/)
+- [B08FY8XQ3W](/products/b08fy8xq3w-b08fy8xq3w/)
+- [Downy Fabric Softener Dryer Sheets, April Fresh, 120 Count](/products/b0014d3n0q-downy-fabric-softener-dryer-sheets-april-fresh-120-count/)
+- [Canon PG-245 / CL-246 Genuine Ink Value Pack (2 Cartridges), Compatible with iP2](/products/b00trdoylw-product/)
+- [B01N5Q9Q6J](/products/b01n5q9q6j-b01n5q9q6j/)
+- [B0BVD54HPS](/products/b0bvd54hps-b0bvd54hps/)
+- [B08KDQZJQ5](/products/b08kdqzjq5-b08kdqzjq5/)
 
 ## Products in this guide
 

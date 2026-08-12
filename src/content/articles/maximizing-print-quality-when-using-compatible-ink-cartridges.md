@@ -131,14 +131,14 @@ Compatible ink cartridges can provide meaningful savings but require more manage
 
 ## Watchdog picks
 
-- [B07L2MZW6B](/products/b07l2mzw6b-b07l2mzw6b/) · Buy on Amazon
-- [Fanttik T1 Max Soldering Iron Kit, Cordless Soldering Iron, 7 Seconds Fast Heati](/products/b0d41zmdpd-fanttik-t1-max-soldering-iron-kit-cordless-soldering-iron-7-/) · Buy on Amazon
-- [B0DPYJWX2F](/products/b0dpyjwx2f-b0dpyjwx2f/) · Buy on Amazon
-- [B01N4QAK9O](/products/b01n4qak9o-b01n4qak9o/) · Buy on Amazon
-- [B00JTE518E](/products/b00jte518e-b00jte518e/) · Buy on Amazon
-- [B0GMKRR64P](/products/b0gmkrr64p-b0gmkrr64p/) · Buy on Amazon
-- [Under Armour Women's UA Charged Assert 8 Running Shoes 12 Black](/products/b07g82d89g-under-armour-women-s-ua-charged-assert-8-running-shoes-12-bl/) · Buy on Amazon
-- [B0DMS3D2JT](/products/b0dms3d2jt-b0dms3d2jt/) · Buy on Amazon
+- [B07L2MZW6B](/products/b07l2mzw6b-b07l2mzw6b/)
+- [Fanttik T1 Max Soldering Iron Kit, Cordless Soldering Iron, 7 Seconds Fast Heati](/products/b0d41zmdpd-fanttik-t1-max-soldering-iron-kit-cordless-soldering-iron-7-/)
+- [B0DPYJWX2F](/products/b0dpyjwx2f-b0dpyjwx2f/)
+- [B01N4QAK9O](/products/b01n4qak9o-b01n4qak9o/)
+- [B00JTE518E](/products/b00jte518e-b00jte518e/)
+- [B0GMKRR64P](/products/b0gmkrr64p-b0gmkrr64p/)
+- [Under Armour Women's UA Charged Assert 8 Running Shoes 12 Black](/products/b07g82d89g-under-armour-women-s-ua-charged-assert-8-running-shoes-12-bl/)
+- [B0DMS3D2JT](/products/b0dms3d2jt-b0dms3d2jt/)
 
 ## Products in this guide
 

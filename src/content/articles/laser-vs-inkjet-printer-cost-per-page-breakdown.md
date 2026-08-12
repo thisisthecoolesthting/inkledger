@@ -238,14 +238,14 @@ Price data for this article comes from Keepa, which logs every published price c
 
 ## Watchdog picks
 
-- [HP 134A Black Toner Cartridge Printers - Works with LaserJet M209 Series; LaserJ](/products/b08qmqnr76-product/) · Buy on Amazon
-- [Smart Ink Remanufactured Ink Cartridges Replacement for HP 962XL 962 XL Combo Pa](/products/b0dt1nnns3-product/) · Buy on Amazon
-- [B09WDBHXB3](/products/b09wdbhxb3-b09wdbhxb3/) · Buy on Amazon
-- [B0C1ZF94GW](/products/b0c1zf94gw-b0c1zf94gw/) · Buy on Amazon
-- [B00SAYAKPK](/products/b00sayakpk-b00sayakpk/) · Buy on Amazon
-- [B002BWQ6XK](/products/b002bwq6xk-b002bwq6xk/) · Buy on Amazon
-- [HP 141A Black Toner Cartridge - Works with LaserJet M110, LaserJet MFP M139, M14](/products/b09n4z8dnl-product/) · Buy on Amazon
-- [B0GMKRR64P](/products/b0gmkrr64p-b0gmkrr64p/) · Buy on Amazon
+- [HP 134A Black Toner Cartridge Printers - Works with LaserJet M209 Series; LaserJ](/products/b08qmqnr76-product/)
+- [Smart Ink Remanufactured Ink Cartridges Replacement for HP 962XL 962 XL Combo Pa](/products/b0dt1nnns3-product/)
+- [B09WDBHXB3](/products/b09wdbhxb3-b09wdbhxb3/)
+- [B0C1ZF94GW](/products/b0c1zf94gw-b0c1zf94gw/)
+- [B00SAYAKPK](/products/b00sayakpk-b00sayakpk/)
+- [B002BWQ6XK](/products/b002bwq6xk-b002bwq6xk/)
+- [HP 141A Black Toner Cartridge - Works with LaserJet M110, LaserJet MFP M139, M14](/products/b09n4z8dnl-product/)
+- [B0GMKRR64P](/products/b0gmkrr64p-b0gmkrr64p/)
 
 ## Products in this guide
 

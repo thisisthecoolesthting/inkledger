@@ -146,14 +146,14 @@ The Petco WholeHearted refill program saves 15% but limits variety. For cats, Sm
 
 ## Watchdog picks
 
-- [B073Q8P6CQ](/products/b073q8p6cq-b073q8p6cq/) · Buy on Amazon
-- [EPSON 502 EcoTank Ink Ultra-high Capacity Bottle Black Works with ET-2750, 2760,](/products/b074rfmst8-product/) · Buy on Amazon
-- [B09J7946RJ](/products/b09j7946rj-b09j7946rj/) · Buy on Amazon
-- [Epson EcoTank ET-2988 Wireless All-in-One Color Supertank Printer with up to 3 Y](/products/b0h476662h-product/) · Buy on Amazon
-- [B0FMB4JBJ8](/products/b0fmb4jbj8-b0fmb4jbj8/) · Buy on Amazon
-- [B0GMMHC3G4](/products/b0gmmhc3g4-b0gmmhc3g4/) · Buy on Amazon
-- [B08X4BQL7D](/products/b08x4bql7d-b08x4bql7d/) · Buy on Amazon
-- [Canon PG-245 XL / CL-246 XL Genuine Ink Value Pack (2 Cartridges), Compatible wi](/products/b079y6fhkj-product/) · Buy on Amazon
+- [B073Q8P6CQ](/products/b073q8p6cq-b073q8p6cq/)
+- [EPSON 502 EcoTank Ink Ultra-high Capacity Bottle Black Works with ET-2750, 2760,](/products/b074rfmst8-product/)
+- [B09J7946RJ](/products/b09j7946rj-b09j7946rj/)
+- [Epson EcoTank ET-2988 Wireless All-in-One Color Supertank Printer with up to 3 Y](/products/b0h476662h-product/)
+- [B0FMB4JBJ8](/products/b0fmb4jbj8-b0fmb4jbj8/)
+- [B0GMMHC3G4](/products/b0gmmhc3g4-b0gmmhc3g4/)
+- [B08X4BQL7D](/products/b08x4bql7d-b08x4bql7d/)
+- [Canon PG-245 XL / CL-246 XL Genuine Ink Value Pack (2 Cartridges), Compatible wi](/products/b079y6fhkj-product/)
 
 ## Products in this guide
 

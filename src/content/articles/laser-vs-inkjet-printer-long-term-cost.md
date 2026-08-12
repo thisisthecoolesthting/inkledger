@@ -196,14 +196,14 @@ Price data for this article comes from Keepa, which logs every published price c
 
 ## Watchdog picks
 
-- [LxTek Compatible Toner Cartridge 6510 6515 106R03480 106R03477 106R03478 106R034](/products/b08gx3k9ys-lxtek-compatible-toner-cartridge-6510-6515-106r03480-106r034/) · Buy on Amazon
-- [B07J2P2V7T](/products/b07j2p2v7t-b07j2p2v7t/) · Buy on Amazon
-- [EPSON 522 EcoTank Ink Ultra-high Capacity Bottle Black (T522120-S) Works with ET](/products/b07pn7g526-product/) · Buy on Amazon
-- [B073Q8P6CQ](/products/b073q8p6cq-b073q8p6cq/) · Buy on Amazon
-- [HP 962XL Black High-Yield Ink Cartridge - Works with OfficeJet 9010, Pro 9010, 9](/products/b07mk5dg9v-product/) · Buy on Amazon
-- [Utopia Bedding Bed Pillows for Sleeping Queen Size (Blue), Set of 6, Cooling Hot](/products/b07j2p2v7t-utopia-bedding-bed-pillows-for-sleeping-queen-size-blue-set-/) · Buy on Amazon
-- [AYMSous Ink Refill Kit for HP 60 61 63 64 65 902 932 952 950 951 564 Refillable ](/products/b09qcg2pm6-product/) · Buy on Amazon
-- [B07N1DF9VV](/products/b07n1df9vv-b07n1df9vv/) · Buy on Amazon
+- [LxTek Compatible Toner Cartridge 6510 6515 106R03480 106R03477 106R03478 106R034](/products/b08gx3k9ys-lxtek-compatible-toner-cartridge-6510-6515-106r03480-106r034/)
+- [B07J2P2V7T](/products/b07j2p2v7t-b07j2p2v7t/)
+- [EPSON 522 EcoTank Ink Ultra-high Capacity Bottle Black (T522120-S) Works with ET](/products/b07pn7g526-product/)
+- [B073Q8P6CQ](/products/b073q8p6cq-b073q8p6cq/)
+- [HP 962XL Black High-Yield Ink Cartridge - Works with OfficeJet 9010, Pro 9010, 9](/products/b07mk5dg9v-product/)
+- [Utopia Bedding Bed Pillows for Sleeping Queen Size (Blue), Set of 6, Cooling Hot](/products/b07j2p2v7t-utopia-bedding-bed-pillows-for-sleeping-queen-size-blue-set-/)
+- [AYMSous Ink Refill Kit for HP 60 61 63 64 65 902 932 952 950 951 564 Refillable ](/products/b09qcg2pm6-product/)
+- [B07N1DF9VV](/products/b07n1df9vv-b07n1df9vv/)
 
 ## Products in this guide
 

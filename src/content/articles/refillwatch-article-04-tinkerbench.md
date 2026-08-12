@@ -169,14 +169,14 @@ Our testing of alternative solutions revealed:
 
 ## Watchdog picks
 
-- [B0GYNVJ62W](/products/b0gynvj62w-b0gynvj62w/) · Buy on Amazon
-- [HP DeskJet 2755 All-in-One Wireless Printer Scanner Copier Instant Ink Ready Mob](/products/b08byz5n7q-product/) · Buy on Amazon
-- [B01N7V39UO](/products/b01n7v39uo-b01n7v39uo/) · Buy on Amazon
-- [B00063RWT8](/products/b00063rwt8-b00063rwt8/) · Buy on Amazon
-- [Fanttik T1 Max Soldering Iron Kit, Cordless Soldering Iron, 7 Seconds Fast Heati](/products/b0d41zmdpd-fanttik-t1-max-soldering-iron-kit-cordless-soldering-iron-7-/) · Buy on Amazon
-- [B07G82D89G](/products/b07g82d89g-b07g82d89g/) · Buy on Amazon
-- [962XL Ink Cartridges for HP 962XL Ink Cartridges Combo Pack Work for HP Officeje](/products/b0d3xgj6hw-product/) · Buy on Amazon
-- [GOTOBY Compatible Toner Cartridge Replacement for HP 48A CF248A for Pro M15w M15](/products/b0bx9hwn7w-product/) · Buy on Amazon
+- [B0GYNVJ62W](/products/b0gynvj62w-b0gynvj62w/)
+- [HP DeskJet 2755 All-in-One Wireless Printer Scanner Copier Instant Ink Ready Mob](/products/b08byz5n7q-product/)
+- [B01N7V39UO](/products/b01n7v39uo-b01n7v39uo/)
+- [B00063RWT8](/products/b00063rwt8-b00063rwt8/)
+- [Fanttik T1 Max Soldering Iron Kit, Cordless Soldering Iron, 7 Seconds Fast Heati](/products/b0d41zmdpd-fanttik-t1-max-soldering-iron-kit-cordless-soldering-iron-7-/)
+- [B07G82D89G](/products/b07g82d89g-b07g82d89g/)
+- [962XL Ink Cartridges for HP 962XL Ink Cartridges Combo Pack Work for HP Officeje](/products/b0d3xgj6hw-product/)
+- [GOTOBY Compatible Toner Cartridge Replacement for HP 48A CF248A for Pro M15w M15](/products/b0bx9hwn7w-product/)
 
 ## Products in this guide
 

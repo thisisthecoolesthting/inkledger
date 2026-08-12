@@ -120,14 +120,14 @@ Switching to third-party ink for your Canon printer can be a smart way to save m
 
 ## Watchdog picks
 
-- [HP 962XL Black High-Yield Ink Cartridge - Works with OfficeJet 9010, Pro 9010, 9](/products/b07mk5dg9v-product/) · Buy on Amazon
-- [B07Q5J5XJL](/products/b07q5j5xjl-b07q5j5xjl/) · Buy on Amazon
-- [B07F97MPYT](/products/b07f97mpyt-b07f97mpyt/) · Buy on Amazon
-- [B000NL0T1K](/products/b000nl0t1k-b000nl0t1k/) · Buy on Amazon
-- [HP 962 Cyan, Magenta, Yellow Ink Cartridges - Works with OfficeJet 9010, 9020 - ](/products/b07mcydd62-product/) · Buy on Amazon
-- [B08KDQZJQ5](/products/b08kdqzjq5-b08kdqzjq5/) · Buy on Amazon
-- [B07L2MZW6B](/products/b07l2mzw6b-b07l2mzw6b/) · Buy on Amazon
-- [B0DT1NNNS3](/products/b0dt1nnns3-b0dt1nnns3/) · Buy on Amazon
+- [HP 962XL Black High-Yield Ink Cartridge - Works with OfficeJet 9010, Pro 9010, 9](/products/b07mk5dg9v-product/)
+- [B07Q5J5XJL](/products/b07q5j5xjl-b07q5j5xjl/)
+- [B07F97MPYT](/products/b07f97mpyt-b07f97mpyt/)
+- [B000NL0T1K](/products/b000nl0t1k-b000nl0t1k/)
+- [HP 962 Cyan, Magenta, Yellow Ink Cartridges - Works with OfficeJet 9010, 9020 - ](/products/b07mcydd62-product/)
+- [B08KDQZJQ5](/products/b08kdqzjq5-b08kdqzjq5/)
+- [B07L2MZW6B](/products/b07l2mzw6b-b07l2mzw6b/)
+- [B0DT1NNNS3](/products/b0dt1nnns3-b0dt1nnns3/)
 
 ## Products in this guide
 

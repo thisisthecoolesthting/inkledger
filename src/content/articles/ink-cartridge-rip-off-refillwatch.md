@@ -100,14 +100,14 @@ A: Refillable cartridges reduce plastic waste by up to 90% per year and cut carb
 
 ## Watchdog picks
 
-- [B07R3N9X3F](/products/b07r3n9x3f-b07r3n9x3f/) · Buy on Amazon
-- [Epson EcoTank ET-2800 Wireless Color All-in-One Cartridge-Free Ink Supertank Pri](/products/b096n8dn2h-product/) · Buy on Amazon
-- [Niagara Sleep Solution Ultra Soft Queen Size Mattress Topper - Rayon Derived fro](/products/b07d5dn269-niagara-sleep-solution-ultra-soft-queen-size-mattress-topper/) · Buy on Amazon
-- [B0D96T79YF](/products/b0d96t79yf-b0d96t79yf/) · Buy on Amazon
-- [B0DT1NNNS3](/products/b0dt1nnns3-b0dt1nnns3/) · Buy on Amazon
-- [B0D3XGJ6HW](/products/b0d3xgj6hw-b0d3xgj6hw/) · Buy on Amazon
-- [Compatible for EPT502 Ink Refill Bottles Eco Tank ET-2850 ET-3850 ET-4850 ET-150](/products/b0gczvz3sz-product/) · Buy on Amazon
-- [B00PB6F2V4](/products/b00pb6f2v4-b00pb6f2v4/) · Buy on Amazon
+- [B07R3N9X3F](/products/b07r3n9x3f-b07r3n9x3f/)
+- [Epson EcoTank ET-2800 Wireless Color All-in-One Cartridge-Free Ink Supertank Pri](/products/b096n8dn2h-product/)
+- [Niagara Sleep Solution Ultra Soft Queen Size Mattress Topper - Rayon Derived fro](/products/b07d5dn269-niagara-sleep-solution-ultra-soft-queen-size-mattress-topper/)
+- [B0D96T79YF](/products/b0d96t79yf-b0d96t79yf/)
+- [B0DT1NNNS3](/products/b0dt1nnns3-b0dt1nnns3/)
+- [B0D3XGJ6HW](/products/b0d3xgj6hw-b0d3xgj6hw/)
+- [Compatible for EPT502 Ink Refill Bottles Eco Tank ET-2850 ET-3850 ET-4850 ET-150](/products/b0gczvz3sz-product/)
+- [B00PB6F2V4](/products/b00pb6f2v4-b00pb6f2v4/)
 
 ## Products in this guide
 

@@ -147,14 +147,14 @@ Switching to compatible ink cartridges can be a smart financial move for printer
 
 ## Watchdog picks
 
-- [B0FBRH75LK](/products/b0fbrh75lk-b0fbrh75lk/) · Buy on Amazon
-- [B01N5Q9Q6J](/products/b01n5q9q6j-b01n5q9q6j/) · Buy on Amazon
-- [B000H0XFCS](/products/b000h0xfcs-b000h0xfcs/) · Buy on Amazon
-- [HP Original 962 Cyan, Magenta, Yellow / 962XL Black Ink Cartridges (4-Pack) - Wo](/products/b07t2s3d6j-product/) · Buy on Amazon
-- [Skydo LC3019XXL Ink Cartridges Replacement for LC3019 XXL LC 3019-XXL LC3019 Wor](/products/b0ds4m632h-product/) · Buy on Amazon
-- [B0F7K193ZR](/products/b0f7k193zr-b0f7k193zr/) · Buy on Amazon
-- [Toner Kingdom Compatible Toner-Cartridge Replacement for Canon 054H 054 High Yie](/products/b083bfpgd8-toner-kingdom-compatible-toner-cartridge-replacement-for-can/) · Buy on Amazon
-- [Brother LC3019BK Super High Yield Black Ink Cartridge](/products/b01lyfvg1v-product/) · Buy on Amazon
+- [B0FBRH75LK](/products/b0fbrh75lk-b0fbrh75lk/)
+- [B01N5Q9Q6J](/products/b01n5q9q6j-b01n5q9q6j/)
+- [B000H0XFCS](/products/b000h0xfcs-b000h0xfcs/)
+- [HP Original 962 Cyan, Magenta, Yellow / 962XL Black Ink Cartridges (4-Pack) - Wo](/products/b07t2s3d6j-product/)
+- [Skydo LC3019XXL Ink Cartridges Replacement for LC3019 XXL LC 3019-XXL LC3019 Wor](/products/b0ds4m632h-product/)
+- [B0F7K193ZR](/products/b0f7k193zr-b0f7k193zr/)
+- [Toner Kingdom Compatible Toner-Cartridge Replacement for Canon 054H 054 High Yie](/products/b083bfpgd8-toner-kingdom-compatible-toner-cartridge-replacement-for-can/)
+- [Brother LC3019BK Super High Yield Black Ink Cartridge](/products/b01lyfvg1v-product/)
 
 ## Products in this guide
 

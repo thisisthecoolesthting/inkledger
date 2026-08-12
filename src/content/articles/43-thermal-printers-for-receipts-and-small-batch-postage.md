@@ -155,14 +155,14 @@ Thermal printers provide an efficient and cost-effective solution for receipts a
 
 ## Watchdog picks
 
-- [EPSON 702 DURABrite Ultra Ink Standard Capacity Black & Color Cartridge Combo Pa](/products/b06xg5zjn3-product/) · Buy on Amazon
-- [TN730 TN-730 Toner Cartridge 2-Pack Replacement for Brother TN730 Toner Cartridg](/products/b0cqqv1wsr-product/) · Buy on Amazon
-- [B07R3N9X3F](/products/b07r3n9x3f-b07r3n9x3f/) · Buy on Amazon
-- [Smart Ink Remanufactured Ink Cartridges Replacement for HP 962XL 962 XL Combo Pa](/products/b0dt1nnns3-product/) · Buy on Amazon
-- [B00FFJ0R1Q](/products/b00ffj0r1q-b00ffj0r1q/) · Buy on Amazon
-- [HP 65 Black Ink Cartridge - Works with AMP 100, DeskJet 2600, 3700; Envy 5000 - ](/products/b01bykui9c-product/) · Buy on Amazon
-- [B000NL0T1K](/products/b000nl0t1k-b000nl0t1k/) · Buy on Amazon
-- [B0963X6B5V](/products/b0963x6b5v-b0963x6b5v/) · Buy on Amazon
+- [EPSON 702 DURABrite Ultra Ink Standard Capacity Black & Color Cartridge Combo Pa](/products/b06xg5zjn3-product/)
+- [TN730 TN-730 Toner Cartridge 2-Pack Replacement for Brother TN730 Toner Cartridg](/products/b0cqqv1wsr-product/)
+- [B07R3N9X3F](/products/b07r3n9x3f-b07r3n9x3f/)
+- [Smart Ink Remanufactured Ink Cartridges Replacement for HP 962XL 962 XL Combo Pa](/products/b0dt1nnns3-product/)
+- [B00FFJ0R1Q](/products/b00ffj0r1q-b00ffj0r1q/)
+- [HP 65 Black Ink Cartridge - Works with AMP 100, DeskJet 2600, 3700; Envy 5000 - ](/products/b01bykui9c-product/)
+- [B000NL0T1K](/products/b000nl0t1k-b000nl0t1k/)
+- [B0963X6B5V](/products/b0963x6b5v-b0963x6b5v/)
 
 ## Products in this guide
 

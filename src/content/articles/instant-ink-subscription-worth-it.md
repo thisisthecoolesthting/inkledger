@@ -207,14 +207,14 @@ Price data for this article comes from Keepa, which logs every published price c
 
 ## Watchdog picks
 
-- [B0CT2R7199](/products/b0ct2r7199-b0ct2r7199/) · Buy on Amazon
-- [B0BL466Y41](/products/b0bl466y41-b0bl466y41/) · Buy on Amazon
-- [Printer Ink 67 Compatible for HP 67 Ink Cartridges Black/Color Combo Pack for HP](/products/b0flxghlhs-product/) · Buy on Amazon
-- [B0F1FNZB62](/products/b0f1fnzb62-b0f1fnzb62/) · Buy on Amazon
-- [Genuine Brother LC3019 (LC-3019) (BK/C/M/Y) High Yield Color Ink 4-Pack (Include](/products/b06xy6rsnb-product/) · Buy on Amazon
-- [LEVOIT Air Purifier for Home Allergies Pet Hair in Bedroom, Covers Up to 1073 ft](/products/b07vvk39f7-levoit-air-purifier-for-home-allergies-pet-hair-in-bedroom-c/) · Buy on Amazon
-- [Aomya Ink Refill kit 5x100ml for Canon 250 251 270 271 280 281 1200 2200 PG240 C](/products/b07c4hmjfs-product/) · Buy on Amazon
-- [B07L2MZW6B](/products/b07l2mzw6b-b07l2mzw6b/) · Buy on Amazon
+- [B0CT2R7199](/products/b0ct2r7199-b0ct2r7199/)
+- [B0BL466Y41](/products/b0bl466y41-b0bl466y41/)
+- [Printer Ink 67 Compatible for HP 67 Ink Cartridges Black/Color Combo Pack for HP](/products/b0flxghlhs-product/)
+- [B0F1FNZB62](/products/b0f1fnzb62-b0f1fnzb62/)
+- [Genuine Brother LC3019 (LC-3019) (BK/C/M/Y) High Yield Color Ink 4-Pack (Include](/products/b06xy6rsnb-product/)
+- [LEVOIT Air Purifier for Home Allergies Pet Hair in Bedroom, Covers Up to 1073 ft](/products/b07vvk39f7-levoit-air-purifier-for-home-allergies-pet-hair-in-bedroom-c/)
+- [Aomya Ink Refill kit 5x100ml for Canon 250 251 270 271 280 281 1200 2200 PG240 C](/products/b07c4hmjfs-product/)
+- [B07L2MZW6B](/products/b07l2mzw6b-b07l2mzw6b/)
 
 ## Products in this guide
 

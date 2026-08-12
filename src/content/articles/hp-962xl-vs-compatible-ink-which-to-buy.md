@@ -50,14 +50,14 @@ Buy OEM when your printer is under warranty and print volume is low. Switch to h
 
 ## Watchdog picks
 
-- [B07P5Y5QHG](/products/b07p5y5qhg-b07p5y5qhg/) · Buy on Amazon
-- [HP 962 Cyan, Magenta, Yellow Ink Cartridges - Works with OfficeJet 9010, 9020 - ](/products/b07mcydd62-product/) · Buy on Amazon
-- [Remanufactured Replacement for Epson 702 Ink Cartridges for 702XL Ink cartridges](/products/b0ct2ltf55-product/) · Buy on Amazon
-- [65XL 65 Ink Cartridges Black/Color Combo Pack Replacement for HP 65XL Ink Work f](/products/b0gzw7vxwt-product/) · Buy on Amazon
-- [HP Original 67 Tri-Color / 67XL Black Ink Cartridges (2-Pack) - Works DeskJet 12](/products/b08swn848g-product/) · Buy on Amazon
-- [B0BN57XFD8](/products/b0bn57xfd8-b0bn57xfd8/) · Buy on Amazon
-- [B0FCS4HWPH](/products/b0fcs4hwph-b0fcs4hwph/) · Buy on Amazon
-- [B00T6RWJMU](/products/b00t6rwjmu-b00t6rwjmu/) · Buy on Amazon
+- [B07P5Y5QHG](/products/b07p5y5qhg-b07p5y5qhg/)
+- [HP 962 Cyan, Magenta, Yellow Ink Cartridges - Works with OfficeJet 9010, 9020 - ](/products/b07mcydd62-product/)
+- [Remanufactured Replacement for Epson 702 Ink Cartridges for 702XL Ink cartridges](/products/b0ct2ltf55-product/)
+- [65XL 65 Ink Cartridges Black/Color Combo Pack Replacement for HP 65XL Ink Work f](/products/b0gzw7vxwt-product/)
+- [HP Original 67 Tri-Color / 67XL Black Ink Cartridges (2-Pack) - Works DeskJet 12](/products/b08swn848g-product/)
+- [B0BN57XFD8](/products/b0bn57xfd8-b0bn57xfd8/)
+- [B0FCS4HWPH](/products/b0fcs4hwph-b0fcs4hwph/)
+- [B00T6RWJMU](/products/b00t6rwjmu-b00t6rwjmu/)
 
 ## Products in this guide
 

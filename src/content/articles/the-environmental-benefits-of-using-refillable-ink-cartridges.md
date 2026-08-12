@@ -169,14 +169,14 @@ Refillable ink cartridges offer an eco-friendly alternative to disposable OEM ca
 
 ## Watchdog picks
 
-- [65XL Black Ink Cartridge Replacement for HP Ink 65 Black HP65XL Black Ink Cartri](/products/b07nphds24-product/) · Buy on Amazon
-- [AZ Compatible Toner Cartridge Replacement for Dell 1250 (1250BK) use in Color La](/products/b00qj88odw-product/) · Buy on Amazon
-- [B0F7K193ZR](/products/b0f7k193zr-b0f7k193zr/) · Buy on Amazon
-- [HP OfficeJet Pro 9125e Wireless All-in-One Color Inkjet Printer, Print, scan, co](/products/b0cfm82ns2-product/) · Buy on Amazon
-- [B08QR6P8KV](/products/b08qr6p8kv-b08qr6p8kv/) · Buy on Amazon
-- [YIHUA 939D+ Digital Soldering Station, 75W Equivalent with Precision Heat Contro](/products/b07rvmznyr-yihua-939d-digital-soldering-station-75w-equivalent-with-pre/) · Buy on Amazon
-- [B08VF3XRQ8](/products/b08vf3xrq8-b08vf3xrq8/) · Buy on Amazon
-- [B0BJ194Z43](/products/b0bj194z43-b0bj194z43/) · Buy on Amazon
+- [65XL Black Ink Cartridge Replacement for HP Ink 65 Black HP65XL Black Ink Cartri](/products/b07nphds24-product/)
+- [AZ Compatible Toner Cartridge Replacement for Dell 1250 (1250BK) use in Color La](/products/b00qj88odw-product/)
+- [B0F7K193ZR](/products/b0f7k193zr-b0f7k193zr/)
+- [HP OfficeJet Pro 9125e Wireless All-in-One Color Inkjet Printer, Print, scan, co](/products/b0cfm82ns2-product/)
+- [B08QR6P8KV](/products/b08qr6p8kv-b08qr6p8kv/)
+- [YIHUA 939D+ Digital Soldering Station, 75W Equivalent with Precision Heat Contro](/products/b07rvmznyr-yihua-939d-digital-soldering-station-75w-equivalent-with-pre/)
+- [B08VF3XRQ8](/products/b08vf3xrq8-b08vf3xrq8/)
+- [B0BJ194Z43](/products/b0bj194z43-b0bj194z43/)
 
 ## Products in this guide
 

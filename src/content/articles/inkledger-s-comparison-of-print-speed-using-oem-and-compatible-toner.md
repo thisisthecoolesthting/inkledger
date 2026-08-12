@@ -161,14 +161,14 @@ For users printing moderately, good compatible brands often perform close to OEM
 
 ## Watchdog picks
 
-- [LxTek Compatible Toner Cartridge 6510 6515 106R03480 106R03477 106R03478 106R034](/products/b08gx3k9ys-lxtek-compatible-toner-cartridge-6510-6515-106r03480-106r034/) · Buy on Amazon
-- [B0748ZCG45](/products/b0748zcg45-b0748zcg45/) · Buy on Amazon
-- [Smart Ink Remanufactured Ink Cartridges Replacement for HP 962XL 962 XL Combo Pa](/products/b0dt1nnns3-product/) · Buy on Amazon
-- [Brother Printer LC30193PK Super High Yield XXL 3 Pack Ink Cartridges- 1 Ea: Cyan](/products/b01n4k0zfe-product/) · Buy on Amazon
-- [B001ET73J2](/products/b001et73j2-b001et73j2/) · Buy on Amazon
-- [HP (Refurbished) OfficeJet Pro 9015e All-in-One Wireless Color Printer for Home ](/products/b092t3gbwk-product/) · Buy on Amazon
-- [B0BTSZ81C7](/products/b0btsz81c7-b0btsz81c7/) · Buy on Amazon
-- [B0041RRMQS](/products/b0041rrmqs-b0041rrmqs/) · Buy on Amazon
+- [LxTek Compatible Toner Cartridge 6510 6515 106R03480 106R03477 106R03478 106R034](/products/b08gx3k9ys-lxtek-compatible-toner-cartridge-6510-6515-106r03480-106r034/)
+- [B0748ZCG45](/products/b0748zcg45-b0748zcg45/)
+- [Smart Ink Remanufactured Ink Cartridges Replacement for HP 962XL 962 XL Combo Pa](/products/b0dt1nnns3-product/)
+- [Brother Printer LC30193PK Super High Yield XXL 3 Pack Ink Cartridges- 1 Ea: Cyan](/products/b01n4k0zfe-product/)
+- [B001ET73J2](/products/b001et73j2-b001et73j2/)
+- [HP (Refurbished) OfficeJet Pro 9015e All-in-One Wireless Color Printer for Home ](/products/b092t3gbwk-product/)
+- [B0BTSZ81C7](/products/b0btsz81c7-b0btsz81c7/)
+- [B0041RRMQS](/products/b0041rrmqs-b0041rrmqs/)
 
 ## Products in this guide
 

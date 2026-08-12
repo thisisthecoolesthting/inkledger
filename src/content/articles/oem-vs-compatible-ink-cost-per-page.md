@@ -214,14 +214,14 @@ Price data for this article comes from Keepa, which logs every published price c
 
 ## Watchdog picks
 
-- [HP Samsung MLT-D116L (SU832A) MLT-D116L Toner Cartridge](/products/b00c18tycy-product/) · Buy on Amazon
-- [B001QY8QXM](/products/b001qy8qxm-b001qy8qxm/) · Buy on Amazon
-- [B0CPB11F85](/products/b0cpb11f85-b0cpb11f85/) · Buy on Amazon
-- [B0D8B24CTB](/products/b0d8b24ctb-b0d8b24ctb/) · Buy on Amazon
-- [B09W73NQPW](/products/b09w73nqpw-b09w73nqpw/) · Buy on Amazon
-- [EPSON 702 DURABrite Ultra Ink Standard Capacity Black & Color Cartridge Combo Pa](/products/b06xg5zjn3-product/) · Buy on Amazon
-- [B0GYNVJ62W](/products/b0gynvj62w-b0gynvj62w/) · Buy on Amazon
-- [Stuart Weitzman Women's Metro Slingback Sandal,Palomino Llama Calf,8 M US](/products/b001eq4g0o-stuart-weitzman-women-s-metro-slingback-sandal-palomino-llam/) · Buy on Amazon
+- [HP Samsung MLT-D116L (SU832A) MLT-D116L Toner Cartridge](/products/b00c18tycy-product/)
+- [B001QY8QXM](/products/b001qy8qxm-b001qy8qxm/)
+- [B0CPB11F85](/products/b0cpb11f85-b0cpb11f85/)
+- [B0D8B24CTB](/products/b0d8b24ctb-b0d8b24ctb/)
+- [B09W73NQPW](/products/b09w73nqpw-b09w73nqpw/)
+- [EPSON 702 DURABrite Ultra Ink Standard Capacity Black & Color Cartridge Combo Pa](/products/b06xg5zjn3-product/)
+- [B0GYNVJ62W](/products/b0gynvj62w-b0gynvj62w/)
+- [Stuart Weitzman Women's Metro Slingback Sandal,Palomino Llama Calf,8 M US](/products/b001eq4g0o-stuart-weitzman-women-s-metro-slingback-sandal-palomino-llam/)
 
 ## Products in this guide
 

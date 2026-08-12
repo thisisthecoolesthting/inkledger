@@ -266,14 +266,14 @@ Price data for this article comes from Keepa, which logs every published price c
 
 ## Watchdog picks
 
-- [962XL Ink Cartridges for HP 962XL Ink Cartridges Combo Pack Work for HP Officeje](/products/b0d3xgj6hw-product/) · Buy on Amazon
-- [218A Toner Cartridges 4 Pack (with Chip) Compatible Replacement for HP 218A 218X](/products/b0fnmzclcg-product/) · Buy on Amazon
-- [B01N7V39QJ](/products/b01n7v39qj-b01n7v39qj/) · Buy on Amazon
-- [B0DMS3D2JT](/products/b0dms3d2jt-b0dms3d2jt/) · Buy on Amazon
-- [B00PB6F2V4](/products/b00pb6f2v4-b00pb6f2v4/) · Buy on Amazon
-- [B000VKGRF0](/products/b000vkgrf0-b000vkgrf0/) · Buy on Amazon
-- [MLT-D116L High Yield Toner Cartridge - 1 Pack, Black Replacement for Samsung 116](/products/b0c8j8gy2v-product/) · Buy on Amazon
-- [B0GTL8RCGK](/products/b0gtl8rcgk-b0gtl8rcgk/) · Buy on Amazon
+- [962XL Ink Cartridges for HP 962XL Ink Cartridges Combo Pack Work for HP Officeje](/products/b0d3xgj6hw-product/)
+- [218A Toner Cartridges 4 Pack (with Chip) Compatible Replacement for HP 218A 218X](/products/b0fnmzclcg-product/)
+- [B01N7V39QJ](/products/b01n7v39qj-b01n7v39qj/)
+- [B0DMS3D2JT](/products/b0dms3d2jt-b0dms3d2jt/)
+- [B00PB6F2V4](/products/b00pb6f2v4-b00pb6f2v4/)
+- [B000VKGRF0](/products/b000vkgrf0-b000vkgrf0/)
+- [MLT-D116L High Yield Toner Cartridge - 1 Pack, Black Replacement for Samsung 116](/products/b0c8j8gy2v-product/)
+- [B0GTL8RCGK](/products/b0gtl8rcgk-b0gtl8rcgk/)
 
 ## Products in this guide
 

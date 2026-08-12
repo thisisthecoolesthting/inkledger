@@ -146,14 +146,14 @@ Choosing between refill kits and new compatible cartridges boils down to balanci
 
 ## Watchdog picks
 
-- [B08CDK75M8](/products/b08cdk75m8-b08cdk75m8/) · Buy on Amazon
-- [B09WDBHXB3](/products/b09wdbhxb3-b09wdbhxb3/) · Buy on Amazon
-- [Soldering Iron Kit, 80W 110V Fast Heat up in 10s LCD Digital Adjustable Temperat](/products/b08pzbpxlz-soldering-iron-kit-80w-110v-fast-heat-up-in-10s-lcd-digital-/) · Buy on Amazon
-- [B0BN57XFD8](/products/b0bn57xfd8-b0bn57xfd8/) · Buy on Amazon
-- [EPSON 522 EcoTank Ink Ultra-high Capacity Bottle Black (T522120-S) Works with ET](/products/b07pn7g526-product/) · Buy on Amazon
-- [B0BTSZ81C7](/products/b0btsz81c7-b0btsz81c7/) · Buy on Amazon
-- [B000N3BBW0](/products/b000n3bbw0-b000n3bbw0/) · Buy on Amazon
-- [B01N4IWH2O](/products/b01n4iwh2o-b01n4iwh2o/) · Buy on Amazon
+- [B08CDK75M8](/products/b08cdk75m8-b08cdk75m8/)
+- [B09WDBHXB3](/products/b09wdbhxb3-b09wdbhxb3/)
+- [Soldering Iron Kit, 80W 110V Fast Heat up in 10s LCD Digital Adjustable Temperat](/products/b08pzbpxlz-soldering-iron-kit-80w-110v-fast-heat-up-in-10s-lcd-digital-/)
+- [B0BN57XFD8](/products/b0bn57xfd8-b0bn57xfd8/)
+- [EPSON 522 EcoTank Ink Ultra-high Capacity Bottle Black (T522120-S) Works with ET](/products/b07pn7g526-product/)
+- [B0BTSZ81C7](/products/b0btsz81c7-b0btsz81c7/)
+- [B000N3BBW0](/products/b000n3bbw0-b000n3bbw0/)
+- [B01N4IWH2O](/products/b01n4iwh2o-b01n4iwh2o/)
 
 ## Products in this guide
 

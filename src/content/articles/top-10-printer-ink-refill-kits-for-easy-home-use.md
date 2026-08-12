@@ -128,14 +128,14 @@ Refilling your ink cartridges can be a great way to reduce printing costs if you
 
 ## Watchdog picks
 
-- [65XL 65 Ink Cartridges Black/Color Combo Pack Replacement for HP 65XL Ink Work f](/products/b0gzw7vxwt-product/) · Buy on Amazon
-- [B0BVD54HPS](/products/b0bvd54hps-b0bvd54hps/) · Buy on Amazon
-- [B0GRGQR634](/products/b0grgqr634-b0grgqr634/) · Buy on Amazon
-- [B09ZVMYHGF](/products/b09zvmyhgf-b09zvmyhgf/) · Buy on Amazon
-- [B0FHDJXJNZ](/products/b0fhdjxjnz-b0fhdjxjnz/) · Buy on Amazon
-- [B08K3J4WX6](/products/b08k3j4wx6-b08k3j4wx6/) · Buy on Amazon
-- [B07RYXHN2M](/products/b07ryxhn2m-b07ryxhn2m/) · Buy on Amazon
-- [Compatible for EPT502 Ink Refill Bottles ET-2850 ET-3850 ET-4850 ET-15000 Ink Re](/products/b0gbvmmj3v-product/) · Buy on Amazon
+- [65XL 65 Ink Cartridges Black/Color Combo Pack Replacement for HP 65XL Ink Work f](/products/b0gzw7vxwt-product/)
+- [B0BVD54HPS](/products/b0bvd54hps-b0bvd54hps/)
+- [B0GRGQR634](/products/b0grgqr634-b0grgqr634/)
+- [B09ZVMYHGF](/products/b09zvmyhgf-b09zvmyhgf/)
+- [B0FHDJXJNZ](/products/b0fhdjxjnz-b0fhdjxjnz/)
+- [B08K3J4WX6](/products/b08k3j4wx6-b08k3j4wx6/)
+- [B07RYXHN2M](/products/b07ryxhn2m-b07ryxhn2m/)
+- [Compatible for EPT502 Ink Refill Bottles ET-2850 ET-3850 ET-4850 ET-15000 Ink Re](/products/b0gbvmmj3v-product/)
 
 ## Products in this guide
 
