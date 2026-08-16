@@ -10,7 +10,7 @@ bsr: -1
 commissionPerSale: 0
 score: 0
 imageUrl: "https://images-na.ssl-images-amazon.com/images/P/B08TB5YD6R.01._SCLZZZZZZZ_.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B08TB5YD6R?tag=inkledger-20"
+affiliateUrl: ""
 isPrime: false
 status: published
 firstSeen: "2026-07-09"

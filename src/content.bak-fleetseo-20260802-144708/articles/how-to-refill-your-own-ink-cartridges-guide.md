@@ -60,7 +60,7 @@ We evaluated 12 popular refill kits based on ink quality, compatibility, tool in
 
 | Product Name | Price | Ink Volume | Colors | Compatibility | Notable Features |
 |---|---|---|---|---|---|
-| [Ink Refill Kit](https://www.amazon.com/dp/B08GX3K9YS?tag=inkledger-20) A | $15 | 100ml | CMYK | HP 60, 61, 62, 63, 302, 364 | Precision syringes, gloves included |
+| Ink Refill Kit A | $15 | 100ml | CMYK | HP 60, 61, 62, 63, 302, 364 | Precision syringes, gloves included |
 | Ink Refill Kit B | $20 | 150ml | CMYK + Photo Black | Epson 200, 201, 202, 203 | Includes cartridge reset tool |
 | Premium Ink Refill Kit Pro | $25 | 200ml | CMYK + 2 Photo Blacks | HP, Canon, Epson | Cleaning solution and video guide |
 | Eco-Friendly Refill Kit | $18 | 120ml | CMYK | Brother LC-1000 series | Soy-based ink, biodegradable packaging |
@@ -290,14 +290,14 @@ Price data for this article comes from Keepa, which logs every published price c
 
 ## Watchdog picks
 
-- [B0CYGN38RF](/products/b0cygn38rf-b0cygn38rf/) · [Buy on Amazon](https://www.amazon.com/dp/B0CYGN38RF?tag=inkledger-20)
-- [B0B7MKRR58](/products/b0b7mkrr58-b0b7mkrr58/) · [Buy on Amazon](https://www.amazon.com/dp/B0B7MKRR58?tag=inkledger-20)
-- [TN760 Toner for Brother Printer TN730: Compatible for Brother TN-730/TN-760 TN 7](/products/b0flxjhgr7-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0FLXJHGR7?tag=inkledger-20)
-- [B0CPB11F85](/products/b0cpb11f85-b0cpb11f85/) · [Buy on Amazon](https://www.amazon.com/dp/B0CPB11F85?tag=inkledger-20)
-- [HP DeskJet 2923 Wireless All-in-One Color Inkjet Printer, Scanner, Copier, 6 Mon](/products/b0gmw9xt9x-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0GMW9XT9X?tag=inkledger-20)
-- [TEINO Remanufactured Ink Cartridge Replacement for HP 65 65XL 65 XL use with HP ](/products/b0836myjsd-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0836MYJSD?tag=inkledger-20)
-- [B07P5BNQJG](/products/b07p5bnqjg-b07p5bnqjg/) · [Buy on Amazon](https://www.amazon.com/dp/B07P5BNQJG?tag=inkledger-20)
-- [B0FVFGX7Y5](/products/b0fvfgx7y5-b0fvfgx7y5/) · [Buy on Amazon](https://www.amazon.com/dp/B0FVFGX7Y5?tag=inkledger-20)
+- [B0CYGN38RF](/products/b0cygn38rf-b0cygn38rf/) · 
+- [B0B7MKRR58](/products/b0b7mkrr58-b0b7mkrr58/) · 
+- [TN760 Toner for Brother Printer TN730: Compatible for Brother TN-730/TN-760 TN 7](/products/b0flxjhgr7-product/) · 
+- [B0CPB11F85](/products/b0cpb11f85-b0cpb11f85/) · 
+- [HP DeskJet 2923 Wireless All-in-One Color Inkjet Printer, Scanner, Copier, 6 Mon](/products/b0gmw9xt9x-product/) · 
+- [TEINO Remanufactured Ink Cartridge Replacement for HP 65 65XL 65 XL use with HP ](/products/b0836myjsd-product/) · 
+- [B07P5BNQJG](/products/b07p5bnqjg-b07p5bnqjg/) · 
+- [B0FVFGX7Y5](/products/b0fvfgx7y5-b0fvfgx7y5/) · 
 
 ## Products in this guide
 

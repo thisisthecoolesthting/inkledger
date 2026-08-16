@@ -32,7 +32,7 @@ author: marcus-webb
 
 ## Introduction
 
-The economics of printer ink defy all logic when examined through traditional consumer pricing lenses. That moment at the office supply store checkout - where a 5ml cartridge costs more than a premium steak dinner - represents decades of perfected market manipulation. The $45 you pay for the [HP 61 Black Ink Cartridge](https://www.amazon.com/dp/B0CB75LML9?tag=inkledger-20) contains just pennies worth of actual ink, with the remainder funding an elaborate system designed to maintain manufacturer control.
+The economics of printer ink defy all logic when examined through traditional consumer pricing lenses. That moment at the office supply store checkout - where a 5ml cartridge costs more than a premium steak dinner - represents decades of perfected market manipulation. The $45 you pay for the HP 61 Black Ink Cartridge contains just pennies worth of actual ink, with the remainder funding an elaborate system designed to maintain manufacturer control.
 
 This pricing model traces back to King Camp Gillette's 1901 razor patent, where companies sell the base product (printers) near cost while monopolizing the necessary consumables (ink).
 
@@ -42,22 +42,22 @@ Modern implementations have become increasingly sophisticated. Consider these co
 - Human blood plasma: $1,500
 - 10W-30 motor oil: $25
 
-Manufacturers achieve these margins through multiple control points: microchipped cartridges that report false empty warnings, firmware updates that disable third-party alternatives, and complex patent protections on cartridge designs. The [Brother TN-760 High-Yield Toner](https://www.amazon.com/dp/B093TCYF9T?tag=inkledger-20) demonstrates how laser technology breaks this cycle with its 5,000-page yield at $0.022/page, but inkjet manufacturers continue resisting such efficiency in their core profit centers.
+Manufacturers achieve these margins through multiple control points: microchipped cartridges that report false empty warnings, firmware updates that disable third-party alternatives, and complex patent protections on cartridge designs. The Brother TN-760 High-Yield Toner demonstrates how laser technology breaks this cycle with its 5,000-page yield at $0.022/page, but inkjet manufacturers continue resisting such efficiency in their core profit centers.
 
 ## Why This Matters
 
-Beyond personal finance impacts, these practices create staggering environmental consequences. The EPA's estimated 375 million discarded cartridges annually represent enough plastic to circle the Earth three times if laid end-to-end. Most contain residual ink due to programmed early depletion warnings - our tear-down of the [HP 952XL Black](https://www.amazon.com/dp/B004QM8SLG?tag=inkledger-20) found 18% remaining usable ink when the printer declared it empty. This artificial obsolescence forces consumers into a perpetual repurchase cycle while generating unnecessary waste.
+Beyond personal finance impacts, these practices create staggering environmental consequences. The EPA's estimated 375 million discarded cartridges annually represent enough plastic to circle the Earth three times if laid end-to-end. Most contain residual ink due to programmed early depletion warnings - our tear-down of the HP 952XL Black found 18% remaining usable ink when the printer declared it empty. This artificial obsolescence forces consumers into a perpetual repurchase cycle while generating unnecessary waste.
 
 For different user segments, the financial impacts vary dramatically:
 
 **College Students:**
-Printing 500 pages per semester with OEM ink costs $125+ versus $35 with [InkOwl compatible cartridges](https://www.amazon.com/dp/B099NZC4PB?tag=inkledger-20) - enough savings to cover a semester's worth of coffee.
+Printing 500 pages per semester with OEM ink costs $125+ versus $35 with InkOwl compatible cartridges - enough savings to cover a semester's worth of coffee.
 
 **Small Law Firms:**
-A practice printing 5,000 pages monthly spends $3,000 annually on OEM ink but just $660 with the [Brother TN-760](https://www.amazon.com/dp/B093TCYF9T?tag=inkledger-20) laser system - potential savings covering a paralegal's health insurance.
+A practice printing 5,000 pages monthly spends $3,000 annually on OEM ink but just $660 with the Brother TN-760 laser system - potential savings covering a paralegal's health insurance.
 
 **Photography Enthusiasts:**
-While third-party inks may slightly alter color profiles, the [Aurora Refill System](https://www.amazon.com/dp/B0GF25F12C?tag=inkledger-20) reduces 8x10 photo costs from $1.50 to $0.25 - enabling more creative experimentation.
+While third-party inks may slightly alter color profiles, the Aurora Refill System reduces 8x10 photo costs from $1.50 to $0.25 - enabling more creative experimentation.
 
 Manufacturer countermeasures against alternatives have grown increasingly aggressive. Recent HP firmware updates disabled non-OEM cartridges mid-print, while Epson's patent lawsuits have shut down dozens of compatible manufacturers. These actions demonstrate how fiercely companies protect their ink profit margins, which often exceed 70% of total revenue.
 
@@ -67,16 +67,16 @@ Our expanded testing reveals crucial nuances in cartridge performance and econom
 
 | Model | Type | Page Yield | Current Price | Cost Per Page | Key Considerations |
 |-------|------|------------|---------------|---------------|--------------------|
-| [HP 952XL Black](https://www.amazon.com/dp/B004QM8SLG?tag=inkledger-20) | OEM Inkjet | 2,000 | $38.99 | $0.019 | Reliable but expensive; chips prevent refilling |
-| [Epson 502 Black](https://www.amazon.com/dp/B0C7ZTV376?tag=inkledger-20) | OEM Bulk Ink | 6,000 | $19.99 | $0.003 | Requires [Ecotank printer](https://www.amazon.com/dp/B08B3K9H7L?tag=inkledger-20); no cartridge swaps |
-| [InkOwl HP 952XL Compatible](https://www.amazon.com/dp/B099NZC4PB?tag=inkledger-20) | Third-party | 1,800 | $12.99 | $0.007 | 15% lower yield than OEM; occasional color shifts |
-| [Brother TN-760](https://www.amazon.com/dp/B093TCYF9T?tag=inkledger-20) | OEM Laser | 5,000 | $109.99 | $0.022 | Toner lasts years for light users; no drying issues |
-| [Aurora Refill Kit](https://www.amazon.com/dp/B0GF25F12C?tag=inkledger-20) | Refill System | 3,500 | $24.95 | $0.007 | Messy process; requires printhead cleaning |
-| [Aunika 2-Pack](https://www.amazon.com/dp/B0848Q34F8?tag=inkledger-20) | Third-party | 1,600 | $18.99 | $0.012 | Plug-and-play convenience; may trigger warnings |
+| HP 952XL Black | OEM Inkjet | 2,000 | $38.99 | $0.019 | Reliable but expensive; chips prevent refilling |
+| Epson 502 Black | OEM Bulk Ink | 6,000 | $19.99 | $0.003 | Requires Ecotank printer; no cartridge swaps |
+| InkOwl HP 952XL Compatible | Third-party | 1,800 | $12.99 | $0.007 | 15% lower yield than OEM; occasional color shifts |
+| Brother TN-760 | OEM Laser | 5,000 | $109.99 | $0.022 | Toner lasts years for light users; no drying issues |
+| Aurora Refill Kit | Refill System | 3,500 | $24.95 | $0.007 | Messy process; requires printhead cleaning |
+| Aunika 2-Pack | Third-party | 1,600 | $18.99 | $0.012 | Plug-and-play convenience; may trigger warnings |
 
 Key findings from six months of testing:
 - Epson's bulk ink systems deliver unmatched economy but require $200+ printer investments
-- Laser toners like the [Brother TN-760](https://www.amazon.com/dp/B07P3X73QD?tag=inkledger-20) outperform for text but can't match inkjet photo quality
+- Laser toners like the Brother TN-760 outperform for text but can't match inkjet photo quality
 - Third-party cartridges average 12-18% lower yields than claimed, still offering 60%+ savings
 - Refill systems produce variable results - our first attempt with the Aurora kit wasted 15% ink due to spills
 
@@ -85,16 +85,16 @@ Key findings from six months of testing:
 Document printing tests revealed surprising consistency among options. Using a standardized 20-page mixed document (text, charts, and images), we measured:
 
 **Text Quality:**
-All options scored within 5% of OEM quality in blind tests. The [Brother TN-760](https://www.amazon.com/dp/B093TCYF9T?tag=inkledger-20) produced slightly sharper edges, while refilled cartridges showed minimal feathering.
+All options scored within 5% of OEM quality in blind tests. The Brother TN-760 produced slightly sharper edges, while refilled cartridges showed minimal feathering.
 
 **Color Accuracy:**
-OEM cartridges maintained 98% Pantone matching versus 89-92% for third-party options. The [Epson 502 Black](https://www.amazon.com/dp/B0C7ZTV376?tag=inkledger-20) system achieved 95% accuracy in photo prints.
+OEM cartridges maintained 98% Pantone matching versus 89-92% for third-party options. The Epson 502 Black system achieved 95% accuracy in photo prints.
 
 **Reliability:**
 After 1,000 pages, OEM cartridges had zero failures versus 2% failure rate for compatibles (mostly chip recognition issues). Refill systems required 3x more maintenance cleaning.
 
 **Longevity:**
-Unused OEM ink lasts 2-3 years, while third-party inks average 18 months. The [Aurora Refill System](https://www.amazon.com/dp/B0GF25F12C?tag=inkledger-20) ink remained stable for 22 months in controlled testing.
+Unused OEM ink lasts 2-3 years, while third-party inks average 18 months. The Aurora Refill System ink remained stable for 22 months in controlled testing.
 
 For specialized needs:
 - **Archival Printing:** Only OEM inks guarantee 100+ year fade resistance
@@ -129,13 +129,13 @@ Break-even points:
 ## Alternatives and Refills
 
 **Third-Party Cartridges**
-The [Aunika 2-Pack](https://www.amazon.com/dp/B0848Q34F8?tag=inkledger-20) exemplifies plug-and-play convenience, though modern printers increasingly block these. Workarounds include:
+The Aunika 2-Pack exemplifies plug-and-play convenience, though modern printers increasingly block these. Workarounds include:
 - Resetting cartridge chips with $15 programmers
 - Using "starter" OEM cartridges then switching
 - Purchasing pre-chipped compatibles (when available)
 
 **Refill Systems**
-The [Aurora system](https://www.amazon.com/dp/B0GF25F12C?tag=inkledger-20) requires precision but offers ultimate savings. Pro tips:
+The Aurora system requires precision but offers ultimate savings. Pro tips:
 - Use latex gloves to prevent skin absorption
 - Warm ink to room temperature before filling
 - Perform cleaning cycles immediately after refilling
@@ -183,15 +183,15 @@ While possible, mixing can cause:
 Breaking free from OEM ink requires understanding your printing profile:
 
 **For Occasional Users (Under 100 pages/month):**
-- [InkOwl compatible cartridges](https://www.amazon.com/dp/B099NZC4PB?tag=inkledger-20) offer hassle-free savings
+- InkOwl compatible cartridges offer hassle-free savings
 - Consider local print shops for one-off projects
 
 **Moderate Volume (100-1,000 pages/month):**
-- [Epson Ecotank printers](https://www.amazon.com/dp/B0C7ZTV376?tag=inkledger-20) deliver unbeatable economics
-- Refill systems like [Aurora](https://www.amazon.com/dp/B0GF25F12C?tag=inkledger-20) work well with practice
+- Epson Ecotank printers deliver unbeatable economics
+- Refill systems like Aurora work well with practice
 
 **High-Volume Text (1,000+ pages/month):**
-- [Brother laser printers](https://www.amazon.com/dp/B093TCYF9T?tag=inkledger-20) with TN-760 toner provide reliability
+- Brother laser printers with TN-760 toner provide reliability
 - Investigate commercial leasing options
 
 **Photography Professionals:**
@@ -256,14 +256,14 @@ Price data for this article comes from Keepa, which logs every published price c
 
 ## Watchdog picks
 
-- [B01N5Q9Q6J](/products/b01n5q9q6j-b01n5q9q6j/) · [Buy on Amazon](https://www.amazon.com/dp/B01N5Q9Q6J?tag=inkledger-20)
-- [EPSON 702 DURABrite Ultra Ink High Capacity Black & Standard Color Cartridge Com](/products/b071wb6bgn-product/) · [Buy on Amazon](https://www.amazon.com/dp/B071WB6BGN?tag=inkledger-20)
-- [HP Original 962 Cyan, Magenta, Yellow / 962XL Black Ink Cartridges (4-Pack) - Wo](/products/b07t2s3d6j-product/) · [Buy on Amazon](https://www.amazon.com/dp/B07T2S3D6J?tag=inkledger-20)
-- [Miss Deer LC3019XXL Ink Cartridges, Comaptible Replacement for Brother LC3019 LC](/products/b0gfmh3d3x-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0GFMH3D3X?tag=inkledger-20)
-- [B08JHWZ15B](/products/b08jhwz15b-b08jhwz15b/) · [Buy on Amazon](https://www.amazon.com/dp/B08JHWZ15B?tag=inkledger-20)
-- [B00B5JOC5C](/products/b00b5joc5c-b00b5joc5c/) · [Buy on Amazon](https://www.amazon.com/dp/B00B5JOC5C?tag=inkledger-20)
-- [WEP 926LED V3 Soldering Station 130W MAX Soldering Iron Kit with Solder Wire, 5 ](/products/b0bx2n258s-wep-926led-v3-soldering-station-130w-max-soldering-iron-kit-/) · [Buy on Amazon](https://www.amazon.com/dp/B0BX2N258S?tag=inkledger-20)
-- [B0041RRMQS](/products/b0041rrmqs-b0041rrmqs/) · [Buy on Amazon](https://www.amazon.com/dp/B0041RRMQS?tag=inkledger-20)
+- [B01N5Q9Q6J](/products/b01n5q9q6j-b01n5q9q6j/) · 
+- [EPSON 702 DURABrite Ultra Ink High Capacity Black & Standard Color Cartridge Com](/products/b071wb6bgn-product/) · 
+- [HP Original 962 Cyan, Magenta, Yellow / 962XL Black Ink Cartridges (4-Pack) - Wo](/products/b07t2s3d6j-product/) · 
+- [Miss Deer LC3019XXL Ink Cartridges, Comaptible Replacement for Brother LC3019 LC](/products/b0gfmh3d3x-product/) · 
+- [B08JHWZ15B](/products/b08jhwz15b-b08jhwz15b/) · 
+- [B00B5JOC5C](/products/b00b5joc5c-b00b5joc5c/) · 
+- [WEP 926LED V3 Soldering Station 130W MAX Soldering Iron Kit with Solder Wire, 5 ](/products/b0bx2n258s-wep-926led-v3-soldering-station-130w-max-soldering-iron-kit-/) · 
+- [B0041RRMQS](/products/b0041rrmqs-b0041rrmqs/) · 
 
 ## Products in this guide
 

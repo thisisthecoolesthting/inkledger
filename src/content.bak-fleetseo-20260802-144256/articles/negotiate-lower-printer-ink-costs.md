@@ -122,14 +122,14 @@ By implementing these strategies, you can transform your relationship with your 
 
 ## Watchdog picks
 
-- [B0BTSZ81C7](/products/b0btsz81c7-b0btsz81c7/) · [Buy on Amazon](https://www.amazon.com/dp/B0BTSZ81C7?tag=inkledger-20)
-- [B0BJ194Z43](/products/b0bj194z43-b0bj194z43/) · [Buy on Amazon](https://www.amazon.com/dp/B0BJ194Z43?tag=inkledger-20)
-- [B0DHCKRWDL](/products/b0dhckrwdl-b0dhckrwdl/) · [Buy on Amazon](https://www.amazon.com/dp/B0DHCKRWDL?tag=inkledger-20)
-- [B07D5DN269](/products/b07d5dn269-b07d5dn269/) · [Buy on Amazon](https://www.amazon.com/dp/B07D5DN269?tag=inkledger-20)
-- [B00FFJ0R1Q](/products/b00ffj0r1q-b00ffj0r1q/) · [Buy on Amazon](https://www.amazon.com/dp/B00FFJ0R1Q?tag=inkledger-20)
-- [B000VKGRF0](/products/b000vkgrf0-b000vkgrf0/) · [Buy on Amazon](https://www.amazon.com/dp/B000VKGRF0?tag=inkledger-20)
-- [B00B5JOC5C](/products/b00b5joc5c-b00b5joc5c/) · [Buy on Amazon](https://www.amazon.com/dp/B00B5JOC5C?tag=inkledger-20)
-- [B0CT8ZJ7ZC](/products/b0ct8zj7zc-b0ct8zj7zc/) · [Buy on Amazon](https://www.amazon.com/dp/B0CT8ZJ7ZC?tag=inkledger-20)
+- [B0BTSZ81C7](/products/b0btsz81c7-b0btsz81c7/) · 
+- [B0BJ194Z43](/products/b0bj194z43-b0bj194z43/) · 
+- [B0DHCKRWDL](/products/b0dhckrwdl-b0dhckrwdl/) · 
+- [B07D5DN269](/products/b07d5dn269-b07d5dn269/) · 
+- [B00FFJ0R1Q](/products/b00ffj0r1q-b00ffj0r1q/) · 
+- [B000VKGRF0](/products/b000vkgrf0-b000vkgrf0/) · 
+- [B00B5JOC5C](/products/b00b5joc5c-b00b5joc5c/) · 
+- [B0CT8ZJ7ZC](/products/b0ct8zj7zc-b0ct8zj7zc/) · 
 
 ## Products in this guide
 

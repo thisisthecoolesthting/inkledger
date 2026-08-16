@@ -38,7 +38,7 @@ The average household spends $300+ annually on printer ink—a cost that ink tan
 
 We spent three months testing six models with 5,000+ pages across various paper types, print modes, and environmental conditions to answer one burning question: When every drop counts, does EcoTank's precision or MegaTank's speed give you more black for your buck?
 
-These refillable systems represent a fundamental shift from the razor-and-blades model, with upfront costs ranging from $200 to $600. The [Epson EcoTank ET-3850](https://www.amazon.com/dp/B0DHV8SCLS?tag=inkledger-20) and [HP Smart Tank Plus 651](https://www.amazon.com/dp/B0G63G9LRJ?tag=inkledger-20) lead their respective categories, but differ dramatically in ink delivery mechanisms, software locks, and real-world yield claims. Our tests reveal where manufacturers' specifications hold up — and where they quietly assume you'll never print enough to benefit from the advertised savings.
+These refillable systems represent a fundamental shift from the razor-and-blades model, with upfront costs ranging from $200 to $600. The Epson EcoTank ET-3850 and HP Smart Tank Plus 651 lead their respective categories, but differ dramatically in ink delivery mechanisms, software locks, and real-world yield claims. Our tests reveal where manufacturers' specifications hold up — and where they quietly assume you'll never print enough to benefit from the advertised savings.
 
 For instance, while HP advertises 12,000 black-and-white pages per set, our stress testing showed this drops to 9,800 pages when using standard 20lb copy paper versus the premium paper used in their labs.
 
@@ -47,14 +47,14 @@ For instance, while HP advertises 12,000 black-and-white pages per set, our stre
 Printer manufacturers lose money on hardware and recoup it through ink sales — a strategy that costs consumers $1,800 over five years for a typical cartridge-based model. Ink tank systems flip this equation with higher upfront costs but dramatically lower operating expenses. The stakes go beyond your wallet:
 
 - **Supply chain resilience**: During the 2023 ink shortage, tank systems kept printing while cartridge users faced months-long backorders. We interviewed 47 small business owners who switched to tank systems during the crisis — 89% reported uninterrupted operations compared to just 22% using cartridge systems.
-- **Environmental impact**: Each refill bottle replaces ~40 cartridges, reducing plastic waste by 80%. The [Epson 502 ink bottles](https://www.amazon.com/dp/B098JD8HD3?tag=inkledger-20) use 92% less packaging material than equivalent cartridge yields.
-- **Print freedom**: No more rationing family photos or school projects due to "low ink" warnings on half-full cartridges. Our test households printed 37% more photos after switching to tank systems, with the [Epson ET-4850](https://www.amazon.com/dp/B0DHV7ZWH2?tag=inkledger-20) users reporting the highest satisfaction for borderless 4x6" prints.
+- **Environmental impact**: Each refill bottle replaces ~40 cartridges, reducing plastic waste by 80%. The Epson 502 ink bottles use 92% less packaging material than equivalent cartridge yields.
+- **Print freedom**: No more rationing family photos or school projects due to "low ink" warnings on half-full cartridges. Our test households printed 37% more photos after switching to tank systems, with the Epson ET-4850 users reporting the highest satisfaction for borderless 4x6" prints.
 
-Our stress tests exposed critical differences in how these systems handle high-volume printing. While the [Epson EcoTank ET-4850](https://www.amazon.com/dp/B0DHV7ZWH2?tag=inkledger-20) maintained consistent quality through 2,000 pages, the HP MegaTank 751 developed feed issues at 1,500 pages without the automatic maintenance cycles Epson builds in. For home offices printing 300+ pages monthly, this reliability gap becomes decisive. We also discovered that HP's ink level monitoring becomes increasingly inaccurate after 3,000 pages, sometimes showing 20% remaining when bottles were actually empty.
+Our stress tests exposed critical differences in how these systems handle high-volume printing. While the Epson EcoTank ET-4850 maintained consistent quality through 2,000 pages, the HP MegaTank 751 developed feed issues at 1,500 pages without the automatic maintenance cycles Epson builds in. For home offices printing 300+ pages monthly, this reliability gap becomes decisive. We also discovered that HP's ink level monitoring becomes increasingly inaccurate after 3,000 pages, sometimes showing 20% remaining when bottles were actually empty.
 
 ## Head-to-head comparison
 
-| Feature               | Epson [EcoTank ET-3850](https://www.amazon.com/dp/B08GX3K9YS?tag=inkledger-20) | HP Smart Tank Plus 651 | Canon MegaTank G620 | [Brother INKvestment](https://www.amazon.com/dp/B07P5Y5HGC?tag=inkledger-20) Tank |
+| Feature               | Epson EcoTank ET-3850 | HP Smart Tank Plus 651 | Canon MegaTank G620 | Brother INKvestment Tank |
 |-----------------------|-----------------------|------------------------|---------------------|--------------------------|
 | **Ink Capacity**      | 70ml per color        | 50ml per color         | 135ml black         | 70ml integrated tanks    |
 | **Claimed Page Yield**| 7,500 color / 14,000 B&W | 5,000 color / 12,000 B&W | 6,000 color / 18,000 B&W | 5,000 color / 6,000 B&W |
@@ -63,17 +63,17 @@ Our stress tests exposed critical differences in how these systems handle high-v
 | **Warranty**          | 2 years               | 1 year                 | 1 year              | 1 year                   |
 | **ADF Capacity**      | 30 sheets             | 35 sheets              | Not available       | 20 sheets                |
 
-Real-world testing showed the [Canon PIXMA G620](https://www.amazon.com/dp/B09VXQ221K?tag=inkledger-20) delivered the highest actual yield (5,800 color pages vs. Epson's 6,200 and HP's 4,900), but its slower duplex printing and lack of an automatic document feeder make it less versatile for office use. The HP's faster print speeds come at a cost — its smart chips prevented third-party ink use in our tests, while the Epson and Canon accepted any dye-based ink without complaints.
+Real-world testing showed the Canon PIXMA G620 delivered the highest actual yield (5,800 color pages vs. Epson's 6,200 and HP's 4,900), but its slower duplex printing and lack of an automatic document feeder make it less versatile for office use. The HP's faster print speeds come at a cost — its smart chips prevented third-party ink use in our tests, while the Epson and Canon accepted any dye-based ink without complaints.
 
-Interestingly, the [Brother INKvestment Tank](https://www.amazon.com/dp/B0BX2N258S?tag=inkledger-20) performed best in our paper handling tests, successfully feeding 98% of wrinkled or slightly damp sheets that jammed in other systems.
+Interestingly, the Brother INKvestment Tank performed best in our paper handling tests, successfully feeding 98% of wrinkled or slightly damp sheets that jammed in other systems.
 
 ## Real-world performance
 
 Ink tank systems promise hassle-free operation, but our durability tests revealed three critical gotchas:
 
-1. **Clogging risks**: After 30 days of inactivity, the HP MegaTank required a 15-minute cleaning cycle (wasting 3ml of ink), while the Epson needed just a 30-second nozzle check. The [Epson EcoTank ET-2850](https://www.amazon.com/dp/B00WSAXBQ0?tag=inkledger-20) uses a vacuum-sealed print head that stayed clog-free for 60+ days idle. In humid climates (above 70% RH), HP nozzles clogged 3x more frequently than Epson's.
+1. **Clogging risks**: After 30 days of inactivity, the HP MegaTank required a 15-minute cleaning cycle (wasting 3ml of ink), while the Epson needed just a 30-second nozzle check. The Epson EcoTank ET-2850 uses a vacuum-sealed print head that stayed clog-free for 60+ days idle. In humid climates (above 70% RH), HP nozzles clogged 3x more frequently than Epson's.
 
-2. **Borderless printing**: Only Epson's system delivered true edge-to-edge photos without smudging — HP's MegaTank left 0.5mm white borders even with premium paper. For scrapbookers, this makes the [Epson ET-4850](https://www.amazon.com/dp/B0DHV7ZWH2?tag=inkledger-20) the clear choice. Our colorimeter tests showed Epson's photo blacks were 12% denser, producing deeper shadows in night shots.
+2. **Borderless printing**: Only Epson's system delivered true edge-to-edge photos without smudging — HP's MegaTank left 0.5mm white borders even with premium paper. For scrapbookers, this makes the Epson ET-4850 the clear choice. Our colorimeter tests showed Epson's photo blacks were 12% denser, producing deeper shadows in night shots.
 
 3. **Ink evaporation**: In our 90-day humidity test, HP's bottles lost 12% volume versus Epson's 7%, suggesting their thinner plastic allows more solvent evaporation between uses. This becomes significant for infrequent printers — if you print less than 50 pages monthly, Epson's system maintains better ink integrity.
 
@@ -96,7 +96,7 @@ Breaking down the numbers for 10,000 pages across three years of ownership:
 | **Electricity**      | $8.40         | $6.30             | $7.20      | $7.80               |
 | **Total 10K Pages**  | $473.40       | $540.30           | $511.20    | $506.80             |
 
-The [Epson 502 ink bottles](https://www.amazon.com/dp/B098JD8HD3?tag=inkledger-20) deliver a staggering 0.3¢ per color page versus HP's 1.2¢. But HP's faster speeds (15ppm vs 10ppm) mean labor savings for offices — at 50,000 pages annually, the HP system saves 55 work hours despite higher ink costs. For mixed-use scenarios (60% text, 30% graphics, 10% photos), Canon's system offered the best balance at 0.45¢/page.
+The Epson 502 ink bottles deliver a staggering 0.3¢ per color page versus HP's 1.2¢. But HP's faster speeds (15ppm vs 10ppm) mean labor savings for offices — at 50,000 pages annually, the HP system saves 55 work hours despite higher ink costs. For mixed-use scenarios (60% text, 30% graphics, 10% photos), Canon's system offered the best balance at 0.45¢/page.
 
 Our teardown analysis revealed Epson's more expensive chassis includes a stainless steel printhead carriage that lasts 2-3x longer than HP's plastic equivalent.
 
@@ -104,12 +104,12 @@ Our teardown analysis revealed Epson's more expensive chassis includes a stainle
 
 Third-party ink cuts costs further but carries risks we quantified through accelerated testing:
 
-- **Hybrid approach**: Using OEM black ink with third-party colors reduced [Epson ET-2850](https://www.amazon.com/dp/B00WSAXBQ0?tag=inkledger-20) costs to 0.2¢/page without quality loss in text printing. Photo quality dropped 8% in our gamut tests.
-- **Bulk purchases**: The [InkOwl EcoTank Refill Kit](https://www.amazon.com/dp/B08PZBPXLZ?tag=inkledger-20) drops costs to 0.1¢/page but requires careful syringe filling — our testers spilled an average of 3ml per 100ml refill.
+- **Hybrid approach**: Using OEM black ink with third-party colors reduced Epson ET-2850 costs to 0.2¢/page without quality loss in text printing. Photo quality dropped 8% in our gamut tests.
+- **Bulk purchases**: The InkOwl EcoTank Refill Kit drops costs to 0.1¢/page but requires careful syringe filling — our testers spilled an average of 3ml per 100ml refill.
 - **Warranty voiding**: HP's smart chips track non-OEM ink use and can deny warranty claims — we confirmed this voids coverage in 92% of cases versus Epson's 15%.
 - **Pigment risks**: Aftermarket pigment inks caused clogs in 3 of 5 test printers within 6 months, while dye-based alternatives performed nearly identically to OEM.
 
-For light users (under 500 pages/month), cartridge-free models like the [Brother INKvestment Tank](https://www.amazon.com/dp/B0BX2N258S?tag=inkledger-20) offer a middle ground with replaceable high-yield tanks instead of bottles. Our testing showed these systems average 1.1¢/page — better than cartridges but not as cheap as true tank systems.
+For light users (under 500 pages/month), cartridge-free models like the Brother INKvestment Tank offer a middle ground with replaceable high-yield tanks instead of bottles. Our testing showed these systems average 1.1¢/page — better than cartridges but not as cheap as true tank systems.
 
 ## FAQ
 
@@ -151,7 +151,7 @@ Unopened OEM ink lasts 3 years; after opening, use within 18 months to avoid pig
 
 ## Bottom line
 
-The [Epson EcoTank ET-3850](https://www.amazon.com/dp/B0DHV8SCLS?tag=inkledger-20) is the best all-around choice for home users—better warranty, lower ink cost per page, and a clog-resistant printhead that outperformed HP's in every inactivity test we ran. Small offices where print speed drives productivity should look at the [HP Smart Tank Plus 651](https://www.amazon.com/dp/B0G63G9LRJ?tag=inkledger-20) despite higher ink costs; 15 pages per minute versus 10 adds up fast at 5,000+ pages a month. Either system cuts your ink spend by 70–90% versus cartridge printers—print at least weekly to keep the ink flowing. Our final recommendations:
+The Epson EcoTank ET-3850 is the best all-around choice for home users—better warranty, lower ink cost per page, and a clog-resistant printhead that outperformed HP's in every inactivity test we ran. Small offices where print speed drives productivity should look at the HP Smart Tank Plus 651 despite higher ink costs; 15 pages per minute versus 10 adds up fast at 5,000+ pages a month. Either system cuts your ink spend by 70–90% versus cartridge printers—print at least weekly to keep the ink flowing. Our final recommendations:
 
 **Best Overall**: Epson ET-3850 (best cost-per-page)
 **Fastest Printing**: HP Smart Tank 651 (15ppm color)
@@ -215,14 +215,14 @@ Price data for this article comes from Keepa, which logs every published price c
 
 ## Watchdog picks
 
-- [B00CAZAU62](/products/b00cazau62-b00cazau62/) · [Buy on Amazon](https://www.amazon.com/dp/B00CAZAU62?tag=inkledger-20)
-- [Genuine Brother LC3019 (LC-3019) (BK/C/M/Y) High Yield Color Ink 4-Pack (Include](/products/b06xy6rsnb-product/) · [Buy on Amazon](https://www.amazon.com/dp/B06XY6RSNB?tag=inkledger-20)
-- [Hakko T18S3P Tip for Fx-888 Station, 5.2mm](/products/b00762ahte-hakko-t18s3p-tip-for-fx-888-station-5-2mm/) · [Buy on Amazon](https://www.amazon.com/dp/B00762AHTE?tag=inkledger-20)
-- [InkOwl Compatible Ink Cartridge Replacement for Roland ECO-SOL MAX 2 Printers ES](/products/b0cyjv9x52-inkowl-compatible-ink-cartridge-replacement-for-roland-eco-s/) · [Buy on Amazon](https://www.amazon.com/dp/B0CYJV9X52?tag=inkledger-20)
-- [B07ZHTFF44](/products/b07zhtff44-b07zhtff44/) · [Buy on Amazon](https://www.amazon.com/dp/B07ZHTFF44?tag=inkledger-20)
-- [Under Armour Women's UA Charged Assert 8 Running Shoes 12 Black](/products/b07g82d89g-under-armour-women-s-ua-charged-assert-8-running-shoes-12-bl/) · [Buy on Amazon](https://www.amazon.com/dp/B07G82D89G?tag=inkledger-20)
-- [B01N4QAK9O](/products/b01n4qak9o-b01n4qak9o/) · [Buy on Amazon](https://www.amazon.com/dp/B01N4QAK9O?tag=inkledger-20)
-- [B000VKGRF0](/products/b000vkgrf0-b000vkgrf0/) · [Buy on Amazon](https://www.amazon.com/dp/B000VKGRF0?tag=inkledger-20)
+- [B00CAZAU62](/products/b00cazau62-b00cazau62/) · 
+- [Genuine Brother LC3019 (LC-3019) (BK/C/M/Y) High Yield Color Ink 4-Pack (Include](/products/b06xy6rsnb-product/) · 
+- [Hakko T18S3P Tip for Fx-888 Station, 5.2mm](/products/b00762ahte-hakko-t18s3p-tip-for-fx-888-station-5-2mm/) · 
+- [InkOwl Compatible Ink Cartridge Replacement for Roland ECO-SOL MAX 2 Printers ES](/products/b0cyjv9x52-inkowl-compatible-ink-cartridge-replacement-for-roland-eco-s/) · 
+- [B07ZHTFF44](/products/b07zhtff44-b07zhtff44/) · 
+- [Under Armour Women's UA Charged Assert 8 Running Shoes 12 Black](/products/b07g82d89g-under-armour-women-s-ua-charged-assert-8-running-shoes-12-bl/) · 
+- [B01N4QAK9O](/products/b01n4qak9o-b01n4qak9o/) · 
+- [B000VKGRF0](/products/b000vkgrf0-b000vkgrf0/) · 
 
 ## Products in this guide
 

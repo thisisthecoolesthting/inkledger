@@ -36,7 +36,7 @@ updatedAt: 2026-05-12
 
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWKS?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Castile — Bulk Refill Base" data-card-pick="Same 18-in-1 concentrate—buy once, refill dispensers for months of household use.">
+
 <img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/414wogLMXDL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
@@ -44,9 +44,9 @@ updatedAt: 2026-05-12
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
 
-If you've ever stood in the office supply aisle staring at a $30 printer [cartridge](https://www.amazon.com/dp/B08GX3K9YS?tag=refillwatch-20) wondering how something smaller than a candy bar costs more than dinner, you're not alone. Printer ink remains one of the most marked-up consumer goods, with profit margins exceeding 300% for some OEM [cartridges](https://www.amazon.com/dp/B0BVYBVHK5?tag=refillwatch-20). Refill kits like the INKXPRO Refill Kit promise to slash costs by 80% or more, but is it really that simple?
+If you've ever stood in the office supply aisle staring at a $30 printer cartridge wondering how something smaller than a candy bar costs more than dinner, you're not alone. Printer ink remains one of the most marked-up consumer goods, with profit margins exceeding 300% for some OEM cartridges. Refill kits like the INKXPRO Refill Kit promise to slash costs by 80% or more, but is it really that simple?
 
-After tracking 14 months of price fluctuations across 17 inkjet [cartridge](https://www.amazon.com/dp/B0CYJV9X52?tag=refillwatch-20) models and testing six refill systems, we found the answer depends on your printer's age, your tolerance for mess, and how much you value your time. This guide breaks down the real math behind refill kits — including the hidden costs most manufacturers don't mention — to help you decide whether hacking your ink supply chain is worth the effort.
+After tracking 14 months of price fluctuations across 17 inkjet cartridge models and testing six refill systems, we found the answer depends on your printer's age, your tolerance for mess, and how much you value your time. This guide breaks down the real math behind refill kits — including the hidden costs most manufacturers don't mention — to help you decide whether hacking your ink supply chain is worth the effort.
 
 We conducted extensive testing with four printer models (Epson EcoTank ET-3850, HP Envy 6055, Canon Pixma TR8620, and Brother MFC-J995DW) across 500+ refill cycles. Our lab measured color accuracy with X-Rite i1Pro spectrophotometers, tracked nozzle clogs with microscopic imaging, and calculated true cost-per-page including labor time. The results reveal surprising patterns about which refill methods work best for different printing needs — from occasional school reports to daily photo printing businesses.
 
@@ -88,7 +88,7 @@ These tactics make the refill equation increasingly complex. For example, the Ep
 
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120V7VA?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Liquid Soap" data-card-pick="Refill your own pump bottle from one bulk jug—pennies per ounce when diluted.">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120V7VA" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Liquid Soap" data-card-pick="Refill your own pump bottle from one bulk jug—pennies per ounce when diluted.">
 <img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/414wogLMXDL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
@@ -106,12 +106,12 @@ We tested four popular refill methods against OEM cartridges in an Epson EcoTank
 | Continuous Ink System | $0.09 | 500+ | Unlimited | Very high | 8,000+ pages | 4.1 |
 
 Key findings:
-1. **Syringe kits** require [precision](https://www.amazon.com/dp/B07RVMZNYR?tag=refillwatch-20) but offer the best balance for occasional users
+1. **Syringe kits** require precision but offer the best balance for occasional users
 2. **Bulk ink systems** (CISS) save the most long-term but demand permanent printer mods
 3. OEM cartridges still win for convenience and warranty compliance
 
 Our stress testing revealed unexpected nuances:
-- **[Temperature](https://www.amazon.com/dp/B09DY7CCW5?tag=refillwatch-20) sensitivity**: Refill inks performed worse in cold environments (below 60°F), with viscosity changes causing 12-18% more clogs
+- **Temperature sensitivity**: Refill inks performed worse in cold environments (below 60°F), with viscosity changes causing 12-18% more clogs
 - **Humidity impact**: High humidity (above 70% RH) caused dye-based refills to feather on paper 23% more than OEM inks
 - **Paper quality**: Premium photo papers showed the greatest color variance (up to Delta-E 6.3) with refill inks versus OEM's Delta-E 1.8
 
@@ -121,7 +121,7 @@ For users needing professional-grade prints, the Canon CLI-281 Pigment Ink deliv
 For more on is hp instant ink worth it? a cost-benefit analysis, see [our coverage at inkledger.org](https://inkledger.org/articles/hp-instant-ink-review/).
 ## Real-world performance
 
-Refill kits introduce variables that don't appear in marketing claims. The Epson 502 Refillable Cartridge worked flawlessly for text documents but produced color shifts in photo prints after the second refill. Meanwhile, the budget Jettec [Compatible](https://www.amazon.com/dp/B07C11YW88?tag=refillwatch-20) Cartridge saved 60% upfront but required frequent print head cleanings that consumed extra ink.
+Refill kits introduce variables that don't appear in marketing claims. The Epson 502 Refillable Cartridge worked flawlessly for text documents but produced color shifts in photo prints after the second refill. Meanwhile, the budget Jettec Compatible Cartridge saved 60% upfront but required frequent print head cleanings that consumed extra ink.
 
 Three unexpected pain points emerged:
 
@@ -148,7 +148,7 @@ Surprisingly, the INKXPRO Refill Kit showed the most consistent results across d
 
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00BEYLTKY?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Soap Bar" data-card-pick="One concentrated bar dilutes into dozens of cleaners—ultimate refill economy.">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00BEYLTKY" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Soap Bar" data-card-pick="One concentrated bar dilutes into dozens of cleaners—ultimate refill economy.">
 <img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/81RK4MPMtHL.jpg" alt="Dr. Bronner's Pure-Castile Soap" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Soap</strong>
@@ -165,7 +165,7 @@ Let's break down the true cost per page across three scenarios (based on 5,000 p
 - Consistent color quality
 
 **Scenario 2: Syringe refills**
-- $25 kit (4 refills) + $10 for 2 [replacement](https://www.amazon.com/dp/B00WSAXBQ0?tag=refillwatch-20) cartridges = $35 total
+- $25 kit (4 refills) + $10 for 2 replacement cartridges = $35 total
 - 5 fills × 280 pages = 1,400 pages
 - $0.025 per page (75% savings)
 - 2 hours labor annually @ $15/hour = $0.006 per page
@@ -201,7 +201,7 @@ When factoring these in, actual savings drop from the advertised 80% to 55-65% f
 
 For those deterred by refilling's hands-on nature, two middle-ground options exist:
 
-1. **[Remanufactured](https://www.amazon.com/dp/B082Y7X9H5?tag=refillwatch-20) cartridges**: Companies like InkOwl professionally refill and reset chips for 40-50% savings
+1. **Remanufactured cartridges**: Companies like InkOwl professionally refill and reset chips for 40-50% savings
 2. **Ink subscription services**: HP Instant Ink plans average $0.03-0.10/page with automatic shipments
 
 Each has tradeoffs:
@@ -218,58 +218,58 @@ Surprisingly, ink subscriptions make financial sense for users printing 50-150 p
 ## Top Picks
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWKS?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Castile — Bulk Refill Base" data-card-pick="Same 18-in-1 concentrate—buy once, refill dispensers for months of household use.">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWKS" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Castile — Bulk Refill Base" data-card-pick="Same 18-in-1 concentrate—buy once, refill dispensers for months of household use.">
 <img class="amazon-inline-card__img" src="/images/amazon-picks/B00120VWKS.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
 <span class="amazon-inline-card__desc">The base for dozens of DIY cleaners, body wash, and floor cleaners—one bottle, 18 uses.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
-</a>
+
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120V7VA?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Liquid Soap" data-card-pick="Refill your own pump bottle from one bulk jug—pennies per ounce when diluted.">
+
 <img class="amazon-inline-card__img" src="/images/amazon-picks/B00120V7VA.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
 <span class="amazon-inline-card__desc">Mild castile base for DIY hand soap—dilute and refill your own dispenser.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
-</a>
+
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00BEYLTKY?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Soap Bar" data-card-pick="One concentrated bar dilutes into dozens of cleaners—ultimate refill economy.">
+
 <img class="amazon-inline-card__img" src="/images/amazon-picks/B00BEYLTKY.jpg" alt="Dr. Bronner's Pure-Castile Soap" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Soap</strong>
 <span class="amazon-inline-card__desc">Concentrated refillable cleaner for body, home, and laundry dilutions.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
-</a>
+
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B01N7VKWVO?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Arm &amp; Hammer Pure Baking Soda 5 lb" data-card-pick="Bulk bag beats tiny boxes—staple for DIY cleaners, deodorizing, and laundry boosts.">
+
 <img class="amazon-inline-card__img" src="/images/amazon-picks/B01N7VKWVO.jpg" alt="Arm & Hammer Pure Baking Soda 5 lb" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Arm & Hammer Pure Baking Soda 5 lb</strong>
 <span class="amazon-inline-card__desc">Food-grade baking soda in a large bag—the backbone of most DIY cleaning recipes.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
-</a>
+
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00YBXVLWK?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Bee's Wrap Organic Cotton Food Wrap Set" data-card-pick="Reusable wraps replace single-use film—kitchen staple that pays back in weeks.">
+
 <img class="amazon-inline-card__img" src="/images/amazon-picks/B00YBXVLWK.jpg" alt="Bee's Wrap Organic Cotton Food Wrap Set" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Bee's Wrap Organic Cotton Food Wrap Set</strong>
 <span class="amazon-inline-card__desc">Beeswax + organic cotton keeps food fresh, replaces cling film, compostable end-of-life.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
-</a>
+
 </div>
 
 
@@ -387,14 +387,14 @@ A: Yes, refilling reduces plastic waste and landfill use, making them a greener 
 
 ## Watchdog picks
 
-- [HP Original 67 Tri-Color / 67XL Black Ink Cartridges (2-Pack) - Works DeskJet 12](/products/b08swn848g-product/) · [Buy on Amazon](https://www.amazon.com/dp/B08SWN848G?tag=inkledger-20)
-- [B01NBB1J9U](/products/b01nbb1j9u-b01nbb1j9u/) · [Buy on Amazon](https://www.amazon.com/dp/B01NBB1J9U?tag=inkledger-20)
-- [Soldering Iron Kit, 60W LED Display Digital Solder Pen, 5 Replaceable Tips, 21-i](/products/b0d92pvdqh-soldering-iron-kit-60w-led-display-digital-solder-pen-5-repl/) · [Buy on Amazon](https://www.amazon.com/dp/B0D92PVDQH?tag=inkledger-20)
-- [Brother Genuine TN760 High Yield Black Toner Cartridge, (for use with MFC-L2710D](/products/b075x6c5zw-product/) · [Buy on Amazon](https://www.amazon.com/dp/B075X6C5ZW?tag=inkledger-20)
-- [B0DT1NNNS3](/products/b0dt1nnns3-b0dt1nnns3/) · [Buy on Amazon](https://www.amazon.com/dp/B0DT1NNNS3?tag=inkledger-20)
-- [B01N4QAK9O](/products/b01n4qak9o-b01n4qak9o/) · [Buy on Amazon](https://www.amazon.com/dp/B01N4QAK9O?tag=inkledger-20)
-- [B0CZSFG7VX](/products/b0czsfg7vx-b0czsfg7vx/) · [Buy on Amazon](https://www.amazon.com/dp/B0CZSFG7VX?tag=inkledger-20)
-- [B0GYNVJ62W](/products/b0gynvj62w-b0gynvj62w/) · [Buy on Amazon](https://www.amazon.com/dp/B0GYNVJ62W?tag=inkledger-20)
+- [HP Original 67 Tri-Color / 67XL Black Ink Cartridges (2-Pack) - Works DeskJet 12](/products/b08swn848g-product/) · 
+- [B01NBB1J9U](/products/b01nbb1j9u-b01nbb1j9u/) · 
+- [Soldering Iron Kit, 60W LED Display Digital Solder Pen, 5 Replaceable Tips, 21-i](/products/b0d92pvdqh-soldering-iron-kit-60w-led-display-digital-solder-pen-5-repl/) · 
+- [Brother Genuine TN760 High Yield Black Toner Cartridge, (for use with MFC-L2710D](/products/b075x6c5zw-product/) · 
+- [B0DT1NNNS3](/products/b0dt1nnns3-b0dt1nnns3/) · 
+- [B01N4QAK9O](/products/b01n4qak9o-b01n4qak9o/) · 
+- [B0CZSFG7VX](/products/b0czsfg7vx-b0czsfg7vx/) · 
+- [B0GYNVJ62W](/products/b0gynvj62w-b0gynvj62w/) · 
 
 ## Products in this guide
 

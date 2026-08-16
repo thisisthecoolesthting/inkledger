@@ -48,21 +48,21 @@ The toner–ink cost gap translates to real money:
 
 A family printing 1,000 pages annually with premium OEM ink could spend $800/year. A small office (10 people, 50 pages daily = ~15,000 pages/year) faces $2,250 annually in inkjet costs versus $450 in toner—a $1,800 annual difference.
 
-Here's the catch: **page yields are fiction**. Manufacturers test using 5% coverage (mostly blank pages). Real documents average 15–20% coverage. We pressure-tested cartridges from [HP](https://www.amazon.com/dp/B08GX3K9YS?tag=inkledger-20), [Brother](https://www.amazon.com/dp/B0BVYBVHK5?tag=inkledger-20), and [Epson](https://www.amazon.com/dp/B07C11YW88?tag=inkledger-20) to reveal what you *actually* get.
+Here's the catch: **page yields are fiction**. Manufacturers test using 5% coverage (mostly blank pages). Real documents average 15–20% coverage. We pressure-tested cartridges from HP, Brother, and Epson to reveal what you *actually* get.
 
 # Head-to-Head Comparison
 
 | Model | Type | Rated Yield | Real Yield (15% Coverage) | Cartridge Cost | Actual Cost/Page |
 |---|---|---|---|---|---|
-| [HP 962XL](https://www.amazon.com/dp/B07GRRXJXG?tag=inkledger-20) | Inkjet | 2,000 | 1,100 | $42.99 | $0.039 |
+| HP 962XL | Inkjet | 2,000 | 1,100 | $42.99 | $0.039 |
 | Brother TN-660 | Laser Toner | 3,000 | 2,800 | $59.95 | $0.021 |
 | Epson EcoTank 502 | Bulk Ink | 7,500 | 6,200 | $24.99 (refill) | $0.004 |
 
 **Key findings from our testing:**
 
-1. **Inkjet shortfall**: The [HP 962XL](https://www.amazon.com/dp/B08GX3K9YS?tag=inkledger-20) delivered 45% *fewer* pages than rated when printing realistic documents (15% coverage)
-2. **Toner holds its promise**: The [Brother TN-660](https://www.amazon.com/dp/B0BVYBVHK5?tag=inkledger-20) exceeded its rated yield by 7% under stress testing
-3. **EcoTank dominates**: [Epson's bulk ink system](https://www.amazon.com/dp/B07C11YW88?tag=inkledger-20) matched its claims and crushed all other options on cost per page
+1. **Inkjet shortfall**: The HP 962XL delivered 45% *fewer* pages than rated when printing realistic documents (15% coverage)
+2. **Toner holds its promise**: The Brother TN-660 exceeded its rated yield by 7% under stress testing
+3. **EcoTank dominates**: Epson's bulk ink system matched its claims and crushed all other options on cost per page
 
 # Real-World Performance Differences
 
@@ -81,7 +81,7 @@ Cost per page tells only half the story. Each technology has hidden operational 
 - Superior handling of text-heavy, high-volume workloads
 
 **Laser drawbacks:**
-- The [Brother HL-L2350DW](https://www.amazon.com/dp/B083BFPGD8?tag=inkledger-20) showed "toner dusting" on heavy graphics, requiring drum unit replacements ($99 every 15,000 pages)
+- The Brother HL-L2350DW showed "toner dusting" on heavy graphics, requiring drum unit replacements ($99 every 15,000 pages)
 - Larger upfront printer investment ($150–$300)
 - Slower ramp-up to warm-up speed
 
@@ -114,12 +114,12 @@ Cost per page tells only half the story. Each technology has hidden operational 
 Third-party options compress these numbers further:
 
 **Inkjet refills:**
-- [InkOwl HP 63XL Refill Kit](https://www.amazon.com/dp/B0FT32PL8L?tag=inkledger-20): Cuts cost to ~$0.02/page but requires steady hand and clean workspace
-- [LD Products 962XL compatible](https://www.amazon.com/dp/B0CYJV9X52?tag=inkledger-20): 40% below OEM, works in most HP models (check your unit)
+- InkOwl HP 63XL Refill Kit: Cuts cost to ~$0.02/page but requires steady hand and clean workspace
+- LD Products 962XL compatible: 40% below OEM, works in most HP models (check your unit)
 - HP Instant Ink subscription: $5.99/month = ~$0.06/page; useful only if volume is predictable and your printer model qualifies
 
 **Laser alternatives:**
-- [TigerJet TN-660 remanufactured](https://www.amazon.com/dp/B0DYNQ1WP7?tag=inkledger-20): 60% below OEM, performs nearly identically in quality; lower risk than inkjet refills
+- TigerJet TN-660 remanufactured: 60% below OEM, performs nearly identically in quality; lower risk than inkjet refills
 
 **Important caveats:**
 - Newer HP printers increasingly block third-party cartridges via firmware; check compatibility before buying
@@ -154,8 +154,8 @@ Only for predictable, moderate volumes. HP Instant Ink ($5.99/month for 100 page
 Choose your technology based on **annual printing volume**:
 
 - **Under 500 pages/year**: Desktop inkjet with compatible cartridges (cost < $50/year)
-- **500–1,200 pages/year**: Inkjet with [third-party refills](https://www.amazon.com/dp/B0FT32PL8L?tag=inkledger-20) or [Epson EcoTank entry model](https://www.amazon.com/dp/B07C11YW88?tag=inkledger-20) (cost $30–$60/year after printer amortization)
-- **1,200+ pages/year**: [Brother laser printer](https://www.amazon.com/dp/B083BFPGD8?tag=inkledger-20) or [Epson EcoTank](https://www.amazon.com/dp/B07C11YW88?tag=inkledger-20) with bulk refills (cost < $50/year after Year 1)
+- **500–1,200 pages/year**: Inkjet with third-party refills or Epson EcoTank entry model (cost $30–$60/year after printer amortization)
+- **1,200+ pages/year**: Brother laser printer or Epson EcoTank with bulk refills (cost < $50/year after Year 1)
 
 Our pressure testing exposed a 45% yield gap between OEM claims and real-world performance on standard documents. Know your actual volume, ignore manufacturer projections, and you'll cut printing costs by half or more.
 
@@ -213,14 +213,14 @@ Price data for this article comes from Keepa, which logs every published price c
 
 ## Watchdog picks
 
-- [218A Toner Cartridges 4 Pack (with Chip) Compatible Replacement for HP 218A 218X](/products/b0fnmzclcg-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0FNMZCLCG?tag=inkledger-20)
-- [HP 134A Black Toner Cartridge Printers - Works with LaserJet M209 Series; LaserJ](/products/b08qmqnr76-product/) · [Buy on Amazon](https://www.amazon.com/dp/B08QMQNR76?tag=inkledger-20)
-- [B09W73NQPW](/products/b09w73nqpw-b09w73nqpw/) · [Buy on Amazon](https://www.amazon.com/dp/B09W73NQPW?tag=inkledger-20)
-- [B09ZVMYHGF](/products/b09zvmyhgf-b09zvmyhgf/) · [Buy on Amazon](https://www.amazon.com/dp/B09ZVMYHGF?tag=inkledger-20)
-- [B0G6Z1834N](/products/b0g6z1834n-b0g6z1834n/) · [Buy on Amazon](https://www.amazon.com/dp/B0G6Z1834N?tag=inkledger-20)
-- [Smart Ink Remanufactured Ink Cartridges Replacement for HP 962XL 962 XL Combo Pa](/products/b0dt1nnns3-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0DT1NNNS3?tag=inkledger-20)
-- [HP Original 67 Tri-Color / 67XL Black Ink Cartridges (2-Pack) - Works DeskJet 12](/products/b08swn848g-product/) · [Buy on Amazon](https://www.amazon.com/dp/B08SWN848G?tag=inkledger-20)
-- [STAROVER Compatible Toner Cartridge Replacement for Samsung MLT-D111S D111S 111S](/products/b075m8yx5n-product/) · [Buy on Amazon](https://www.amazon.com/dp/B075M8YX5N?tag=inkledger-20)
+- [218A Toner Cartridges 4 Pack (with Chip) Compatible Replacement for HP 218A 218X](/products/b0fnmzclcg-product/) · 
+- [HP 134A Black Toner Cartridge Printers - Works with LaserJet M209 Series; LaserJ](/products/b08qmqnr76-product/) · 
+- [B09W73NQPW](/products/b09w73nqpw-b09w73nqpw/) · 
+- [B09ZVMYHGF](/products/b09zvmyhgf-b09zvmyhgf/) · 
+- [B0G6Z1834N](/products/b0g6z1834n-b0g6z1834n/) · 
+- [Smart Ink Remanufactured Ink Cartridges Replacement for HP 962XL 962 XL Combo Pa](/products/b0dt1nnns3-product/) · 
+- [HP Original 67 Tri-Color / 67XL Black Ink Cartridges (2-Pack) - Works DeskJet 12](/products/b08swn848g-product/) · 
+- [STAROVER Compatible Toner Cartridge Replacement for Samsung MLT-D111S D111S 111S](/products/b075m8yx5n-product/) · 
 
 ## Products in this guide
 

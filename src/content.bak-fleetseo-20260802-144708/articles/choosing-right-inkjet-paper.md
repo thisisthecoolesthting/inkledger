@@ -101,14 +101,14 @@ Ultimately, choosing the right inkjet paper depends on your specific needs and b
 
 ## Watchdog picks
 
-- [inkgens 31 32XL Ink Bottle Set Refill for HP Smart Tank 7600 7602 7300 7301 7001](/products/b0dpkjjrbg-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0DPKJJRBG?tag=inkledger-20)
-- [B0748ZCG45](/products/b0748zcg45-b0748zcg45/) · [Buy on Amazon](https://www.amazon.com/dp/B0748ZCG45?tag=inkledger-20)
-- [ecodot 552 Pigment Ink Refill Ink Bottle Replacement for Epson 552 Ink Used for ](/products/b09w9mf63y-ecodot-552-pigment-ink-refill-ink-bottle-replacement-for-eps/) · [Buy on Amazon](https://www.amazon.com/dp/B09W9MF63Y?tag=inkledger-20)
-- [B002R5AF1I](/products/b002r5af1i-b002r5af1i/) · [Buy on Amazon](https://www.amazon.com/dp/B002R5AF1I?tag=inkledger-20)
-- [EPSON 702 DURABrite Ultra Ink Standard Capacity Black & Color Cartridge Combo Pa](/products/b06xg5zjn3-product/) · [Buy on Amazon](https://www.amazon.com/dp/B06XG5ZJN3?tag=inkledger-20)
-- [B074ND5RDT](/products/b074nd5rdt-b074nd5rdt/) · [Buy on Amazon](https://www.amazon.com/dp/B074ND5RDT?tag=inkledger-20)
-- [B08PDT1Y3H](/products/b08pdt1y3h-b08pdt1y3h/) · [Buy on Amazon](https://www.amazon.com/dp/B08PDT1Y3H?tag=inkledger-20)
-- [B0DMS3D2JT](/products/b0dms3d2jt-b0dms3d2jt/) · [Buy on Amazon](https://www.amazon.com/dp/B0DMS3D2JT?tag=inkledger-20)
+- [inkgens 31 32XL Ink Bottle Set Refill for HP Smart Tank 7600 7602 7300 7301 7001](/products/b0dpkjjrbg-product/) · 
+- [B0748ZCG45](/products/b0748zcg45-b0748zcg45/) · 
+- [ecodot 552 Pigment Ink Refill Ink Bottle Replacement for Epson 552 Ink Used for ](/products/b09w9mf63y-ecodot-552-pigment-ink-refill-ink-bottle-replacement-for-eps/) · 
+- [B002R5AF1I](/products/b002r5af1i-b002r5af1i/) · 
+- [EPSON 702 DURABrite Ultra Ink Standard Capacity Black & Color Cartridge Combo Pa](/products/b06xg5zjn3-product/) · 
+- [B074ND5RDT](/products/b074nd5rdt-b074nd5rdt/) · 
+- [B08PDT1Y3H](/products/b08pdt1y3h-b08pdt1y3h/) · 
+- [B0DMS3D2JT](/products/b0dms3d2jt-b0dms3d2jt/) · 
 
 ## Products in this guide
 

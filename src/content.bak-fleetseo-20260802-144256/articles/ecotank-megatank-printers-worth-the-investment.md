@@ -47,7 +47,7 @@ We tested four tank models against cartridge-based counterparts for six months, 
 
 Printer manufacturers lose money on hardware sales, recouping profits through ink—a strategy so lucrative that HP's operating margin on ink is 54% (SEC filings, 2025). Tank printers flip this model: You pay more upfront for the device but gain:
 
-1. **Transparent pricing**: Each milliliter of ink has a fixed cost, unlike cartridges where yields vary by document type. The Epson [EcoTank ET-3850](https://www.amazon.com/dp/B08GX3K9YS?tag=inkledger-20) ships with 140ml bottles costing $0.075/ml, while HP 302 cartridges run $0.30/ml. During our testing, we found cartridge printers could vary ink consumption by up to 300% depending on whether you're printing dense PowerPoint slides versus plain text documents, while tank printers maintained consistent 5–10% variance.
+1. **Transparent pricing**: Each milliliter of ink has a fixed cost, unlike cartridges where yields vary by document type. The Epson EcoTank ET-3850 ships with 140ml bottles costing $0.075/ml, while HP 302 cartridges run $0.30/ml. During our testing, we found cartridge printers could vary ink consumption by up to 300% depending on whether you're printing dense PowerPoint slides versus plain text documents, while tank printers maintained consistent 5–10% variance.
 
 2. **No chip locks**: Most tank printers lack cartridge DRM, allowing third-party inks without automatic warranty voidance—critical for the 37% of users who refill (InkLedger survey). We tested six third-party ink brands in the Canon G6020 and found three that matched OEM print quality while cutting costs to $0.002/ml. However, Epson's warranty language states it may deny claims if non-OEM ink is detected through printer logs, despite the physical ability to use third-party inks. Canon explicitly allows third-party inks but requires Genuine Canon Ink for warranty claims on printhead issues.
 
@@ -61,7 +61,7 @@ Printer manufacturers lose money on hardware sales, recouping profits through in
 |-------|------|--------------|--------------------|---------------|-----------------|
 | Epson EcoTank ET-3850 | Tank | $399 | 6,500 pages (B&W) | $0.005 (B&W) | Slow photo printing (1.2 ppm) |
 | Canon PIXMA G6020 | Tank | $349 | 6,000 pages (B&W) | $0.006 (B&W) | No automatic duplex |
-| [HP OfficeJet Pro](https://www.amazon.com/dp/B08NQSHX3N?tag=inkledger-20) 9015e | Cartridge | $299 | 1,200 pages (B&W) | $0.024 (B&W) | DRM blocks refills |
+| HP OfficeJet Pro 9015e | Cartridge | $299 | 1,200 pages (B&W) | $0.024 (B&W) | DRM blocks refills |
 | Brother MFC-J4335DW | Cartridge | $199 | 1,000 pages (B&W) | $0.019 (B&W) | Compatible with refill kits |
 
 **Key findings**:
@@ -132,7 +132,7 @@ We also tested borderless printing performance—a common need for photo project
 
 **2. Bulk ink subscriptions**: HP Instant Ink at 300 pages/month costs $9.99—cheaper than tanks until year 3. However, unused pages don't roll over and overages cost $1 per 10 pages. HP also monitors page counts remotely and can throttle printing if over limits.
 
-**3. Laser printers**: The [Brother HL-L2350DW](https://www.amazon.com/dp/B00MFG54B6?tag=inkledger-20) hits $0.016/page with toner yields of 1,200 pages. Ideal for text but poor for photos (max 600×600 dpi). Laser prints survived our water spill test 100% versus 23% for inkjet.
+**3. Laser printers**: The Brother HL-L2350DW hits $0.016/page with toner yields of 1,200 pages. Ideal for text but poor for photos (max 600×600 dpi). Laser prints survived our water spill test 100% versus 23% for inkjet.
 
 **Hybrid approach for small businesses**:
 - Use a tank printer for color work and a monochrome laser for bulk text ($0.016/page).
@@ -239,14 +239,14 @@ Price data for this article comes from Keepa, which logs every published price c
 
 ## Watchdog picks
 
-- [B0G1NBKD38](/products/b0g1nbkd38-b0g1nbkd38/) · [Buy on Amazon](https://www.amazon.com/dp/B0G1NBKD38?tag=inkledger-20)
-- [Compatible for EPT502 Ink Refill Bottles Eco Tank ET-2850 ET-3850 ET-4850 ET-150](/products/b0gczvz3sz-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0GCZVZ3SZ?tag=inkledger-20)
-- [B0G34F2S65](/products/b0g34f2s65-b0g34f2s65/) · [Buy on Amazon](https://www.amazon.com/dp/B0G34F2S65?tag=inkledger-20)
-- [HP 962 Cyan, Magenta, Yellow Ink Cartridges - Works with OfficeJet 9010, 9020 - ](/products/b07mcydd62-product/) · [Buy on Amazon](https://www.amazon.com/dp/B07MCYDD62?tag=inkledger-20)
-- [65 65XL Black Ink Cartridges Replacement for HP 65XL Black Ink Cartridge Work fo](/products/b0gvm6yy7b-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0GVM6YY7B?tag=inkledger-20)
-- [B08VF3XRQ8](/products/b08vf3xrq8-b08vf3xrq8/) · [Buy on Amazon](https://www.amazon.com/dp/B08VF3XRQ8?tag=inkledger-20)
-- [Soldering Iron Kit, 60W LED Display Digital Solder Pen, 5 Replaceable Tips, 21-i](/products/b0d92pvdqh-soldering-iron-kit-60w-led-display-digital-solder-pen-5-repl/) · [Buy on Amazon](https://www.amazon.com/dp/B0D92PVDQH?tag=inkledger-20)
-- [Epson EcoTank ET-2980 Wireless All-in-One Color Supertank Printer with Refillabl](/products/b0f1fbqrvb-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0F1FBQRVB?tag=inkledger-20)
+- [B0G1NBKD38](/products/b0g1nbkd38-b0g1nbkd38/) · 
+- [Compatible for EPT502 Ink Refill Bottles Eco Tank ET-2850 ET-3850 ET-4850 ET-150](/products/b0gczvz3sz-product/) · 
+- [B0G34F2S65](/products/b0g34f2s65-b0g34f2s65/) · 
+- [HP 962 Cyan, Magenta, Yellow Ink Cartridges - Works with OfficeJet 9010, 9020 - ](/products/b07mcydd62-product/) · 
+- [65 65XL Black Ink Cartridges Replacement for HP 65XL Black Ink Cartridge Work fo](/products/b0gvm6yy7b-product/) · 
+- [B08VF3XRQ8](/products/b08vf3xrq8-b08vf3xrq8/) · 
+- [Soldering Iron Kit, 60W LED Display Digital Solder Pen, 5 Replaceable Tips, 21-i](/products/b0d92pvdqh-soldering-iron-kit-60w-led-display-digital-solder-pen-5-repl/) · 
+- [Epson EcoTank ET-2980 Wireless All-in-One Color Supertank Printer with Refillabl](/products/b0f1fbqrvb-product/) · 
 
 ## Products in this guide
 

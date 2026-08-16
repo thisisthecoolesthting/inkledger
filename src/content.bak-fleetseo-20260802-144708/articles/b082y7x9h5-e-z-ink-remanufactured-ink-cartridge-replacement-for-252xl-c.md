@@ -10,7 +10,7 @@ bsr: 1434
 commissionPerSale: 0
 score: 0
 imageUrl: "https://m.media-amazon.com/images/I/51VZ-evJt2L.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B082Y7X9H5?tag=castironcanon-20"
+affiliateUrl: "https://www.amazon.com/dp/B082Y7X9H5"
 isPrime: false
 status: draft
 firstSeen: "2026-06-02"
@@ -77,14 +77,14 @@ Our desk scores **value**, **spec clarity**, and **review credibility** for inkj
 
 ## Watchdog picks
 
-- [B0FGC43YCL](/products/b0fgc43ycl-b0fgc43ycl/) · [Buy on Amazon](https://www.amazon.com/dp/B0FGC43YCL?tag=inkledger-20)
-- [myCartridge SUPRINT 245XL Ink Cartridge Replacement for Canon 245XL 246XL Combo ](/products/b08j3ny6qv-product/) · [Buy on Amazon](https://www.amazon.com/dp/B08J3NY6QV?tag=inkledger-20)
-- [65XL Ink Cartridge for HP 65 Black Ink Cartridge High-Yield Replacement for HP I](/products/b0fkbfh92q-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0FKBFH92Q?tag=inkledger-20)
-- [TN730 TN-730 Black Toner Cartridges 2 Pack Compatible TN730 Toner Cartridge Repl](/products/b0c3qxmbc7-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0C3QXMBC7?tag=inkledger-20)
-- [67XL 67 XL 6055e 2755e 2800e 2855e 6000 Ink Cartridges Black/Color Combo Pack Co](/products/b0fw9lh3q5-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0FW9LH3Q5?tag=inkledger-20)
-- [TN730 TN-730 Toner Cartridge 2-Pack Replacement for Brother TN730 Toner Cartridg](/products/b0cqqv1wsr-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0CQQV1WSR?tag=inkledger-20)
-- [HP DeskJet 2755 All-in-One Wireless Printer Scanner Copier Instant Ink Ready Mob](/products/b08byz5n7q-product/) · [Buy on Amazon](https://www.amazon.com/dp/B08BYZ5N7Q?tag=inkledger-20)
-- [EaseFusion Replacement for Epson 502 Ink Refill Bottles Work with ET-2850 ET-385](/products/b0g33t139m-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0G33T139M?tag=inkledger-20)
+- [B0FGC43YCL](/products/b0fgc43ycl-b0fgc43ycl/) · 
+- [myCartridge SUPRINT 245XL Ink Cartridge Replacement for Canon 245XL 246XL Combo ](/products/b08j3ny6qv-product/) · 
+- [65XL Ink Cartridge for HP 65 Black Ink Cartridge High-Yield Replacement for HP I](/products/b0fkbfh92q-product/) · 
+- [TN730 TN-730 Black Toner Cartridges 2 Pack Compatible TN730 Toner Cartridge Repl](/products/b0c3qxmbc7-product/) · 
+- [67XL 67 XL 6055e 2755e 2800e 2855e 6000 Ink Cartridges Black/Color Combo Pack Co](/products/b0fw9lh3q5-product/) · 
+- [TN730 TN-730 Toner Cartridge 2-Pack Replacement for Brother TN730 Toner Cartridg](/products/b0cqqv1wsr-product/) · 
+- [HP DeskJet 2755 All-in-One Wireless Printer Scanner Copier Instant Ink Ready Mob](/products/b08byz5n7q-product/) · 
+- [EaseFusion Replacement for Epson 502 Ink Refill Bottles Work with ET-2850 ET-385](/products/b0g33t139m-product/) · 
 
 ## Products in this guide
 

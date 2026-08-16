@@ -135,14 +135,14 @@ Ultimately, the best choice depends on your individual needs and printing habits
 
 ## Watchdog picks
 
-- [B01N4IWH2O](/products/b01n4iwh2o-b01n4iwh2o/) · [Buy on Amazon](https://www.amazon.com/dp/B01N4IWH2O?tag=inkledger-20)
-- [Fanttik T1 Max Soldering Iron Kit, Cordless Soldering Iron, 7 Seconds Fast Heati](/products/b0d41zmdpd-fanttik-t1-max-soldering-iron-kit-cordless-soldering-iron-7-/) · [Buy on Amazon](https://www.amazon.com/dp/B0D41ZMDPD?tag=inkledger-20)
-- [B00PB6F2V4](/products/b00pb6f2v4-b00pb6f2v4/) · [Buy on Amazon](https://www.amazon.com/dp/B00PB6F2V4?tag=inkledger-20)
-- [B0DHCKRWDL](/products/b0dhckrwdl-b0dhckrwdl/) · [Buy on Amazon](https://www.amazon.com/dp/B0DHCKRWDL?tag=inkledger-20)
-- [Niagara Sleep Solution Ultra Soft Queen Size Mattress Topper - Rayon Derived fro](/products/b07d5dn269-niagara-sleep-solution-ultra-soft-queen-size-mattress-topper/) · [Buy on Amazon](https://www.amazon.com/dp/B07D5DN269?tag=inkledger-20)
-- [B0FDL1LS3B](/products/b0fdl1ls3b-b0fdl1ls3b/) · [Buy on Amazon](https://www.amazon.com/dp/B0FDL1LS3B?tag=inkledger-20)
-- [B07J2P2V7T](/products/b07j2p2v7t-b07j2p2v7t/) · [Buy on Amazon](https://www.amazon.com/dp/B07J2P2V7T?tag=inkledger-20)
-- [B08R3R5KXJ](/products/b08r3r5kxj-b08r3r5kxj/) · [Buy on Amazon](https://www.amazon.com/dp/B08R3R5KXJ?tag=inkledger-20)
+- [B01N4IWH2O](/products/b01n4iwh2o-b01n4iwh2o/) · 
+- [Fanttik T1 Max Soldering Iron Kit, Cordless Soldering Iron, 7 Seconds Fast Heati](/products/b0d41zmdpd-fanttik-t1-max-soldering-iron-kit-cordless-soldering-iron-7-/) · 
+- [B00PB6F2V4](/products/b00pb6f2v4-b00pb6f2v4/) · 
+- [B0DHCKRWDL](/products/b0dhckrwdl-b0dhckrwdl/) · 
+- [Niagara Sleep Solution Ultra Soft Queen Size Mattress Topper - Rayon Derived fro](/products/b07d5dn269-niagara-sleep-solution-ultra-soft-queen-size-mattress-topper/) · 
+- [B0FDL1LS3B](/products/b0fdl1ls3b-b0fdl1ls3b/) · 
+- [B07J2P2V7T](/products/b07j2p2v7t-b07j2p2v7t/) · 
+- [B08R3R5KXJ](/products/b08r3r5kxj-b08r3r5kxj/) · 
 
 ## Products in this guide
 

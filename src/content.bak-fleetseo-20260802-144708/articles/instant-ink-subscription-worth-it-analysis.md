@@ -34,16 +34,16 @@ author: marcus-webb
 
 If you've ever stared at an empty ink cartridge warning while trying to print a school project at midnight, HP's Instant Ink subscription seems like a lifesaver. For a monthly fee, the company ships replacement cartridges before you run out, with prices based on page counts rather than milliliter markups. But is this convenience actually costing you more than just buying cartridges outright?
 
-Our analysis of 18 months of pricing data reveals that Instant Ink's value depends entirely on your printing habits—and that for many households, [third-party cartridges](https://www.amazon.com/dp/B0CB75LML9?tag=inkledger-20) or [refill kits](https://www.amazon.com/dp/B0GF25F12C?tag=inkledger-20) can slash costs by 60% or more.
+Our analysis of 18 months of pricing data reveals that Instant Ink's value depends entirely on your printing habits—and that for many households, third-party cartridges or refill kits can slash costs by 60% or more.
 
-We tested six common household scenarios—from students printing lecture notes to small businesses shipping labels—tracking actual ink consumption across 47 printer models. The results show that HP's algorithm for predicting cartridge replacement often triggers shipments 12-18 days before true depletion, creating artificial scarcity that pushes users toward higher-tier plans. Meanwhile, bulk purchases of [high-yield cartridges](https://www.amazon.com/dp/B004QM8SLG?tag=inkledger-20) during Amazon Prime Day or Black Friday sales can drop per-page costs below even the most aggressive Instant Ink tiers.
+We tested six common household scenarios—from students printing lecture notes to small businesses shipping labels—tracking actual ink consumption across 47 printer models. The results show that HP's algorithm for predicting cartridge replacement often triggers shipments 12-18 days before true depletion, creating artificial scarcity that pushes users toward higher-tier plans. Meanwhile, bulk purchases of high-yield cartridges during Amazon Prime Day or Black Friday sales can drop per-page costs below even the most aggressive Instant Ink tiers.
 
 ## Why this matters
 
 Printer manufacturers earn 40-60% margins on ink—far more than on hardware. HP's Instant Ink locks users into proprietary cartridges while obscuring true cost-per-page math. Our testing found:
 
 - Subscription plans range from $0.99/month (15 pages) to $24.99/month (700 pages), with overage fees up to $1 per extra page
-- Non-subscription HP cartridges like the [HP 962XL](https://www.amazon.com/dp/B093TCYF9T?tag=inkledger-20) average 2.3¢/page, while Instant Ink ranges from 1.3¢ to 6.6¢ depending on plan
+- Non-subscription HP cartridges like the HP 962XL average 2.3¢/page, while Instant Ink ranges from 1.3¢ to 6.6¢ depending on plan
 - 68% of households print under 50 pages monthly, making mid-tier plans wasteful
 
 This razor-and-blades model exploits infrequent printers who overestimate their usage. HP's own data shows the average subscriber pays for 47 unused pages monthly—essentially donating $5.64/month to HP's bottom line. The program's interface deliberately obscures historical usage patterns, making it difficult for users to downgrade to appropriate plans. We reverse-engineered the data transmission between Instant Ink cartridges and HP servers, discovering the chips report remaining ink levels in 5% increments while charging users for exact decimal-point consumption.
@@ -54,20 +54,20 @@ This razor-and-blades model exploits infrequent printers who overestimate their 
 |---------------------|------------|----------------|-------------|------------------|---------------------|
 | Instant Ink 15      | $0.99      | 15             | $1.00       | 6.6¢             | $1.00               |
 | Instant Ink 100     | $5.99      | 100            | $1.00       | 6.0¢             | $1.00               |
-| [HP 962XL](https://www.amazon.com/dp/B093TCYF9T?tag=inkledger-20) (OEM) | N/A        | ~500           | N/A         | 2.3¢             | N/A                 |
-| [InkArt 962XL](https://www.amazon.com/dp/B0CB75LML9?tag=inkledger-20) (3rd-party) | N/A        | ~400           | N/A         | 1.2¢             | N/A                 |
+| HP 962XL (OEM) | N/A        | ~500           | N/A         | 2.3¢             | N/A                 |
+| InkArt 962XL (3rd-party) | N/A        | ~400           | N/A         | 1.2¢             | N/A                 |
 
 Key findings:
 - Subscriptions only beat OEM costs at 300+ monthly pages
 - Heavy users (500+ pages) pay 4.9¢/page on Instant Ink's $24.99 plan vs 2.3¢ with OEM
 - The $0.99 plan becomes the most expensive option at just 16 pages ($1 overage)
-- Small businesses using [HP OfficeJet Pro 9015e](https://www.amazon.com/dp/B0CGW48C3G?tag=inkledger-20) see 22% higher effective yields from OEM cartridges due to superior nozzle cleaning cycles
+- Small businesses using HP OfficeJet Pro 9015e see 22% higher effective yields from OEM cartridges due to superior nozzle cleaning cycles
 
 We pressure-tested these numbers by printing 1,000 pages of mixed content (text, graphics, photos) across all options. Third-party cartridges showed marginally higher failure rates (3.2% vs HP's 1.7%), but the cost differential still favored alternatives even after accounting for duds. Instant Ink's environmental claims also falter under scrutiny—while HP touts cartridge recycling, their program ships replacement ink in 43% more packaging material than retail cartridges.
 
 ## Real-world performance
 
-Third-party cartridges like the [InkArt 962XL](https://www.amazon.com/dp/B0CB75LML9?tag=inkledger-20) often match OEM print quality for documents, though some users report:
+Third-party cartridges like the InkArt 962XL often match OEM print quality for documents, though some users report:
 - Slightly weaker color saturation on photos
 - Occasional chip recognition errors requiring re-seating
 - 8-12% lower yield on pigment-based black ink formulations
@@ -77,7 +77,7 @@ Instant Ink's "rollover pages" feature (unused pages carry over) benefits incons
 - Cancellation forfeits all banked pages
 - The system counts partial pages (e.g., a 1/4-page logo counts as a full page)
 
-During our stress test, we discovered Instant Ink cartridges enter a "conservation mode" when nearing depletion, reducing ink flow to extend cartridge life. This caused visible banding on photos and graphics 48 hours before official "empty" warnings appeared. By contrast, [refillable cartridge systems](https://www.amazon.com/dp/B0F4X2YBP1?tag=inkledger-20) maintain consistent output until complete exhaustion, though they require more frequent manual intervention.
+During our stress test, we discovered Instant Ink cartridges enter a "conservation mode" when nearing depletion, reducing ink flow to extend cartridge life. This caused visible banding on photos and graphics 48 hours before official "empty" warnings appeared. By contrast, refillable cartridge systems maintain consistent output until complete exhaustion, though they require more frequent manual intervention.
 
 ## Cost math
 
@@ -85,18 +85,18 @@ During our stress test, we discovered Instant Ink cartridges enter a "conservati
 - 30 pages/month
 - Instant Ink 100: $5.99/month = 20¢/page
 - OEM cartridges: $35/500 pages = 7¢/page
-- [Epson EcoTank ET-2800](https://www.amazon.com/dp/B0CGW2TFSV?tag=inkledger-20) alternative: $0.5¢/page
+- Epson EcoTank ET-2800 alternative: $0.5¢/page
 
 **Scenario 2 (Moderate User):**
 - 150 pages/month
 - Instant Ink 300: $11.99/month = 8¢/page
-- Mix of [OEM color](https://www.amazon.com/dp/B093TCYF9T?tag=inkledger-20) + [third-party black](https://www.amazon.com/dp/B0CB75LML9?tag=inkledger-20): 3.1¢/page
+- Mix of OEM color + third-party black: 3.1¢/page
 
 **Scenario 3 (Heavy User):**
 - 600 pages/month
 - Instant Ink 700 + overages: $24.99 + $0 = 4.2¢/page
-- [InkArt 962XL](https://www.amazon.com/dp/B0CB75LML9?tag=inkledger-20): $19/400 pages = 4.8¢/page
-- [Brother TN-760](https://www.amazon.com/dp/B0DWD9NQ57?tag=inkledger-20) laser toner: 1.4¢/page
+- InkArt 962XL: $19/400 pages = 4.8¢/page
+- Brother TN-760 laser toner: 1.4¢/page
 
 Breakeven analysis reveals:
 - Instant Ink only saves money above 450 monthly pages vs OEM
@@ -106,18 +106,18 @@ Breakeven analysis reveals:
 ## Alternatives and refills
 
 For under 100 pages/month:
-1. [Refill kits](https://www.amazon.com/dp/B0GF25F12C?tag=inkledger-20) (0.8¢/page) - Best for those comfortable with syringes
-2. [Third-party cartridges](https://www.amazon.com/dp/B0CB75LML9?tag=inkledger-20) (1.2¢/page) - Ideal for plug-and-play simplicity
-3. [Epson EcoTank](https://www.amazon.com/dp/B0CGW2TFSV?tag=inkledger-20) - Upfront cost offset by 2-year ink supply
+1. Refill kits (0.8¢/page) - Best for those comfortable with syringes
+2. Third-party cartridges (1.2¢/page) - Ideal for plug-and-play simplicity
+3. Epson EcoTank - Upfront cost offset by 2-year ink supply
 
 For 100-300 pages/month:
 - Mix OEM and third-party (use OEM for critical documents)
-- Buy [XL cartridges](https://www.amazon.com/dp/B004QM8SLG?tag=inkledger-20) during holiday sales
-- Consider [continuous ink systems](https://www.amazon.com/dp/B0F4X2YBP1?tag=inkledger-20) for art studios
+- Buy XL cartridges during holiday sales
+- Consider continuous ink systems for art studios
 
 Over 300 pages/month:
-- [High-yield cartridges](https://www.amazon.com/dp/B004QM8SLG?tag=inkledger-20) reduce per-unit costs
-- Laser printers like [Brother HL-L2350DW](https://www.amazon.com/dp/B0DWD9NQ57?tag=inkledger-20) offer 2,600-page toner yields
+- High-yield cartridges reduce per-unit costs
+- Laser printers like Brother HL-L2350DW offer 2,600-page toner yields
 - Commercial inkjet systems better for photo-heavy workflows
 
 ## FAQ
@@ -148,12 +148,12 @@ No. Unsubscribed cartridges enter "limited functionality" mode, allowing only em
 ## Bottom line
 
 HP Instant Ink makes financial sense only for consistent high-volume printers (450+ pages/month) who value convenience over absolute savings. For most users, a hybrid approach delivers better value:
-- Keep an [OEM cartridge](https://www.amazon.com/dp/B093TCYF9T?tag=inkledger-20) for important documents
-- Use [third-party XL cartridges](https://www.amazon.com/dp/B0CB75LML9?tag=inkledger-20) for everyday printing
-- Consider [refill kits](https://www.amazon.com/dp/B0GF25F12C?tag=inkledger-20) if you're comfortable with the mess
-- Invest in a [laser printer](https://www.amazon.com/dp/B0CGW2TFSV?tag=inkledger-20) for monochrome needs
+- Keep an OEM cartridge for important documents
+- Use third-party XL cartridges for everyday printing
+- Consider refill kits if you're comfortable with the mess
+- Invest in a laser printer for monochrome needs
 
-Our data shows the average household saves $127/year avoiding subscriptions—enough to buy a backup [laser printer](https://www.amazon.com/dp/B0CGW2TFSV?tag=inkledger-20) for black-and-white needs. Small businesses printing 800+ pages monthly should evaluate [commercial inkjet systems](https://www.amazon.com/dp/B0CGW48C3G?tag=inkledger-20) with bulk ink tanks that achieve sub-1¢ per-page costs without subscription lock-in.
+Our data shows the average household saves $127/year avoiding subscriptions—enough to buy a backup laser printer for black-and-white needs. Small businesses printing 800+ pages monthly should evaluate commercial inkjet systems with bulk ink tanks that achieve sub-1¢ per-page costs without subscription lock-in.
 
 <!-- padded-no-api-v2 -->
 
@@ -209,14 +209,14 @@ Price data for this article comes from Keepa, which logs every published price c
 
 ## Watchdog picks
 
-- [B001E10B9I](/products/b001e10b9i-b001e10b9i/) · [Buy on Amazon](https://www.amazon.com/dp/B001E10B9I?tag=inkledger-20)
-- [HP Original 962 Cyan, Magenta, Yellow / 962XL Black Ink Cartridges (4-Pack) - Wo](/products/b07t2s3d6j-product/) · [Buy on Amazon](https://www.amazon.com/dp/B07T2S3D6J?tag=inkledger-20)
-- [B0GMKRR64P](/products/b0gmkrr64p-b0gmkrr64p/) · [Buy on Amazon](https://www.amazon.com/dp/B0GMKRR64P?tag=inkledger-20)
-- [LEVOIT Air Purifier for Home Allergies Pet Hair in Bedroom, Covers Up to 1073 ft](/products/b07vvk39f7-levoit-air-purifier-for-home-allergies-pet-hair-in-bedroom-c/) · [Buy on Amazon](https://www.amazon.com/dp/B07VVK39F7?tag=inkledger-20)
-- [JANMORE Universal Ink Refills Kit Dye Ink Refill Kit Compatible for HP Canon Bro](/products/b0drp3lwp5-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0DRP3LWP5?tag=inkledger-20)
-- [inkgens 31 32XL Ink Bottle Set Refill for HP Smart Tank 7600 7602 7300 7301 7001](/products/b0dpkjjrbg-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0DPKJJRBG?tag=inkledger-20)
-- [HP 962 Cyan, Magenta, Yellow Ink Cartridges - Works with OfficeJet 9010, 9020 - ](/products/b07mcydd62-product/) · [Buy on Amazon](https://www.amazon.com/dp/B07MCYDD62?tag=inkledger-20)
-- [65 65XL Black Ink Cartridges Replacement for HP 65XL Black Ink Cartridge Work fo](/products/b0gvm6yy7b-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0GVM6YY7B?tag=inkledger-20)
+- [B001E10B9I](/products/b001e10b9i-b001e10b9i/) · 
+- [HP Original 962 Cyan, Magenta, Yellow / 962XL Black Ink Cartridges (4-Pack) - Wo](/products/b07t2s3d6j-product/) · 
+- [B0GMKRR64P](/products/b0gmkrr64p-b0gmkrr64p/) · 
+- [LEVOIT Air Purifier for Home Allergies Pet Hair in Bedroom, Covers Up to 1073 ft](/products/b07vvk39f7-levoit-air-purifier-for-home-allergies-pet-hair-in-bedroom-c/) · 
+- [JANMORE Universal Ink Refills Kit Dye Ink Refill Kit Compatible for HP Canon Bro](/products/b0drp3lwp5-product/) · 
+- [inkgens 31 32XL Ink Bottle Set Refill for HP Smart Tank 7600 7602 7300 7301 7001](/products/b0dpkjjrbg-product/) · 
+- [HP 962 Cyan, Magenta, Yellow Ink Cartridges - Works with OfficeJet 9010, 9020 - ](/products/b07mcydd62-product/) · 
+- [65 65XL Black Ink Cartridges Replacement for HP 65XL Black Ink Cartridge Work fo](/products/b0gvm6yy7b-product/) · 
 
 ## Products in this guide
 

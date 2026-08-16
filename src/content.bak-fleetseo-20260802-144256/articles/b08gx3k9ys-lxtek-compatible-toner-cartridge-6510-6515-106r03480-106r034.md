@@ -10,7 +10,7 @@ bsr: 1598
 commissionPerSale: 0
 score: 0
 imageUrl: "https://m.media-amazon.com/images/I/41gNXmpaM+L.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B08GX3K9YS?tag=castironcanon-20"
+affiliateUrl: "https://www.amazon.com/dp/B08GX3K9YS"
 isPrime: false
 status: draft
 firstSeen: "2026-06-02"
@@ -77,14 +77,14 @@ Our desk scores **value**, **spec clarity**, and **review credibility** for tone
 
 ## Watchdog picks
 
-- [AZ Compatible Toner Cartridge Replacement for Dell 1250, 1250BK / 1250C / 1250Y ](/products/b00qj88sb0-product/) · [Buy on Amazon](https://www.amazon.com/dp/B00QJ88SB0?tag=inkledger-20)
-- [B00CAZAU62](/products/b00cazau62-b00cazau62/) · [Buy on Amazon](https://www.amazon.com/dp/B00CAZAU62?tag=inkledger-20)
-- [B01N4NLZJN](/products/b01n4nlzjn-b01n4nlzjn/) · [Buy on Amazon](https://www.amazon.com/dp/B01N4NLZJN?tag=inkledger-20)
-- [EaseFusion Replacement for Epson 502 Ink Refill Bottles Work with ET-2850 ET-385](/products/b0g33t139m-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0G33T139M?tag=inkledger-20)
-- [Smart Ink Remanufactured Ink Cartridges Replacement for HP 962XL 962 XL Combo Pa](/products/b0dt1nnns3-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0DT1NNNS3?tag=inkledger-20)
-- [B0041RRMQS](/products/b0041rrmqs-b0041rrmqs/) · [Buy on Amazon](https://www.amazon.com/dp/B0041RRMQS?tag=inkledger-20)
-- [B0C1ZF94GW](/products/b0c1zf94gw-b0c1zf94gw/) · [Buy on Amazon](https://www.amazon.com/dp/B0C1ZF94GW?tag=inkledger-20)
-- [B07N1DF9VV](/products/b07n1df9vv-b07n1df9vv/) · [Buy on Amazon](https://www.amazon.com/dp/B07N1DF9VV?tag=inkledger-20)
+- [AZ Compatible Toner Cartridge Replacement for Dell 1250, 1250BK / 1250C / 1250Y ](/products/b00qj88sb0-product/) · 
+- [B00CAZAU62](/products/b00cazau62-b00cazau62/) · 
+- [B01N4NLZJN](/products/b01n4nlzjn-b01n4nlzjn/) · 
+- [EaseFusion Replacement for Epson 502 Ink Refill Bottles Work with ET-2850 ET-385](/products/b0g33t139m-product/) · 
+- [Smart Ink Remanufactured Ink Cartridges Replacement for HP 962XL 962 XL Combo Pa](/products/b0dt1nnns3-product/) · 
+- [B0041RRMQS](/products/b0041rrmqs-b0041rrmqs/) · 
+- [B0C1ZF94GW](/products/b0c1zf94gw-b0c1zf94gw/) · 
+- [B07N1DF9VV](/products/b07n1df9vv-b07n1df9vv/) · 
 
 ## Products in this guide
 

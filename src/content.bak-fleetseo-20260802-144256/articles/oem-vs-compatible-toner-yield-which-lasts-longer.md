@@ -143,22 +143,22 @@ Understanding toner yield is crucial: don’t just buy based on sticker price �
 
 ## Top Picks
 
-<a href="https://www.amazon.com/dp/B079HGN3SG?tag=inkledger-20" rel="sponsored noopener" target="_blank" style="display:flex;align-items:center;gap:12px;text-decoration:none;margin:8px 0;padding:10px 12px;border:1px solid #e2e8f0;border-radius:10px;background:#f8fafc;"><img src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B079HGN3SG&Format=_SL100_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=inkledger-20" alt="Wacom Intuos Medium Bluetooth Tablet" width="80" height="80" loading="lazy" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;border-radius:6px;background:#fff;" /><div style="min-width:0;"><strong style="display:block;color:#1e293b;font-size:0.9em;">Wacom Intuos Medium Bluetooth Tablet</strong><span style="color:#64748b;font-size:0.82em;line-height:1.4;">2048 levels of pressure, Bluetooth, compatible with Photoshop, Illustrator, and Clip Studio.</span></div></a>
+<img src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B079HGN3SG&Format=_SL100_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=inkledger-20" alt="Wacom Intuos Medium Bluetooth Tablet" width="80" height="80" loading="lazy" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;border-radius:6px;background:#fff;" /><div style="min-width:0;"><strong style="display:block;color:#1e293b;font-size:0.9em;">Wacom Intuos Medium Bluetooth Tablet</strong><span style="color:#64748b;font-size:0.82em;line-height:1.4;">2048 levels of pressure, Bluetooth, compatible with Photoshop, Illustrator, and Clip Studio.</span></div>
 
-<a href="https://www.amazon.com/dp/B07X4SR5MN?tag=inkledger-20" rel="sponsored noopener" target="_blank" style="display:flex;align-items:center;gap:12px;text-decoration:none;margin:8px 0;padding:10px 12px;border:1px solid #e2e8f0;border-radius:10px;background:#f8fafc;"><img src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07X4SR5MN&Format=_SL100_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=inkledger-20" alt="Arteza Expert Colored Pencils 72-Pack" width="80" height="80" loading="lazy" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;border-radius:6px;background:#fff;" /><div style="min-width:0;"><strong style="display:block;color:#1e293b;font-size:0.9em;">Arteza Expert Colored Pencils 72-Pack</strong><span style="color:#64748b;font-size:0.82em;line-height:1.4;">Soft wax-oil core, 72 highly pigmented colors, in a sturdy metal tin.</span></div></a>
+<img src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07X4SR5MN&Format=_SL100_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=inkledger-20" alt="Arteza Expert Colored Pencils 72-Pack" width="80" height="80" loading="lazy" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;border-radius:6px;background:#fff;" /><div style="min-width:0;"><strong style="display:block;color:#1e293b;font-size:0.9em;">Arteza Expert Colored Pencils 72-Pack</strong><span style="color:#64748b;font-size:0.82em;line-height:1.4;">Soft wax-oil core, 72 highly pigmented colors, in a sturdy metal tin.</span></div>
 
-<a href="https://www.amazon.com/dp/B00EWUNJN4?tag=inkledger-20" rel="sponsored noopener" target="_blank" style="display:flex;align-items:center;gap:12px;text-decoration:none;margin:8px 0;padding:10px 12px;border:1px solid #e2e8f0;border-radius:10px;background:#f8fafc;"><img src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00EWUNJN4&Format=_SL100_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=inkledger-20" alt="Canon PIXMA iX6820 Wireless Printer" width="80" height="80" loading="lazy" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;border-radius:6px;background:#fff;" /><div style="min-width:0;"><strong style="display:block;color:#1e293b;font-size:0.9em;">Canon PIXMA iX6820 Wireless Printer</strong><span style="color:#64748b;font-size:0.82em;line-height:1.4;">Wireless 13x19 borderless printing—affordable wide-format for small art print runs.</span></div></a>
+<img src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00EWUNJN4&Format=_SL100_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=inkledger-20" alt="Canon PIXMA iX6820 Wireless Printer" width="80" height="80" loading="lazy" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;border-radius:6px;background:#fff;" /><div style="min-width:0;"><strong style="display:block;color:#1e293b;font-size:0.9em;">Canon PIXMA iX6820 Wireless Printer</strong><span style="color:#64748b;font-size:0.82em;line-height:1.4;">Wireless 13x19 borderless printing—affordable wide-format for small art print runs.</span></div>
 
 ## Watchdog picks
 
-- [B09WDBHXB3](/products/b09wdbhxb3-b09wdbhxb3/) · [Buy on Amazon](https://www.amazon.com/dp/B09WDBHXB3?tag=inkledger-20)
-- [Epson EcoTank ET-2980 Wireless All-in-One Color Supertank Printer with Refillabl](/products/b0f1fbqrvb-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0F1FBQRVB?tag=inkledger-20)
-- [B0GRGQR634](/products/b0grgqr634-b0grgqr634/) · [Buy on Amazon](https://www.amazon.com/dp/B0GRGQR634?tag=inkledger-20)
-- [B0G1NBKD38](/products/b0g1nbkd38-b0g1nbkd38/) · [Buy on Amazon](https://www.amazon.com/dp/B0G1NBKD38?tag=inkledger-20)
-- [myCartridge SUPRINT Remanufactured Replacement for Epson 702 Ink Cartridges 702X](/products/b0fb96px2m-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0FB96PX2M?tag=inkledger-20)
-- [JANMORE Universal Ink Refills Kit Dye Ink Refill Kit Compatible for HP Canon Bro](/products/b0drp3lwp5-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0DRP3LWP5?tag=inkledger-20)
-- [B0CYGN38RF](/products/b0cygn38rf-b0cygn38rf/) · [Buy on Amazon](https://www.amazon.com/dp/B0CYGN38RF?tag=inkledger-20)
-- [B09ZVMYHGF](/products/b09zvmyhgf-b09zvmyhgf/) · [Buy on Amazon](https://www.amazon.com/dp/B09ZVMYHGF?tag=inkledger-20)
+- [B09WDBHXB3](/products/b09wdbhxb3-b09wdbhxb3/) · 
+- [Epson EcoTank ET-2980 Wireless All-in-One Color Supertank Printer with Refillabl](/products/b0f1fbqrvb-product/) · 
+- [B0GRGQR634](/products/b0grgqr634-b0grgqr634/) · 
+- [B0G1NBKD38](/products/b0g1nbkd38-b0g1nbkd38/) · 
+- [myCartridge SUPRINT Remanufactured Replacement for Epson 702 Ink Cartridges 702X](/products/b0fb96px2m-product/) · 
+- [JANMORE Universal Ink Refills Kit Dye Ink Refill Kit Compatible for HP Canon Bro](/products/b0drp3lwp5-product/) · 
+- [B0CYGN38RF](/products/b0cygn38rf-b0cygn38rf/) · 
+- [B09ZVMYHGF](/products/b09zvmyhgf-b09zvmyhgf/) · 
 
 ## Products in this guide
 

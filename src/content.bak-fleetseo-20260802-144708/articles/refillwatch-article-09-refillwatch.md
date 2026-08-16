@@ -37,7 +37,7 @@ updatedAt: 2026-05-12
 
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWKS?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Castile — Bulk Refill Base" data-card-pick="Same 18-in-1 concentrate—buy once, refill dispensers for months of household use.">
+
 <img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/414wogLMXDL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
@@ -45,11 +45,11 @@ updatedAt: 2026-05-12
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
 
-Why does printer ink cost more than champagne? If you've ever paid $50+ for a [cartridge](https://www.amazon.com/dp/B08GX3K9YS?tag=refillwatch-20) containing just a few milliliters of liquid, you're not alone. Our price tracking shows HP and Canon have raised ink costs 17–23% since early 2024—without changing [cartridge](https://www.amazon.com/dp/B0CYJV9X52?tag=refillwatch-20) design or volume.
+Why does printer ink cost more than champagne? If you've ever paid $50+ for a cartridge containing just a few milliliters of liquid, you're not alone. Our price tracking shows HP and Canon have raised ink costs 17–23% since early 2024—without changing cartridge design or volume.
 
-The HP 67XL Black Ink Cartridge now costs $39.95 for 190 pages, up from $34.99 in 2023. That's 21¢ per page—versus 3–5¢ for laser printers. This analysis examines 18 months of pricing across 24 bestselling [cartridges](https://www.amazon.com/dp/B0BVYBVHK5?tag=refillwatch-20) to expose which brands hike prices most aggressively and how switching to refillable systems can save households $200+ annually.
+The HP 67XL Black Ink Cartridge now costs $39.95 for 190 pages, up from $34.99 in 2023. That's 21¢ per page—versus 3–5¢ for laser printers. This analysis examines 18 months of pricing across 24 bestselling cartridges to expose which brands hike prices most aggressively and how switching to refillable systems can save households $200+ annually.
 
-**What We Tested**: We tracked real-world cartridge prices from three major retailers (Amazon, Walmart, Best Buy), conducted lab measurements of actual ink volumes, and ran 6-month stress tests with 15 household printers [printing](https://www.amazon.com/dp/B00NQ1CLTI?tag=refillwatch-20) 4,200+ pages total.
+**What We Tested**: We tracked real-world cartridge prices from three major retailers (Amazon, Walmart, Best Buy), conducted lab measurements of actual ink volumes, and ran 6-month stress tests with 15 household printers printing 4,200+ pages total.
 
 **The Findings**: Eight of 12 HP cartridges we tested contained 5–8% less ink than their labeled weight, while Brother cartridges averaged just 2% variance. Manufacturers often change product codes (e.g., "V1" to "V2") without visible packaging changes—allowing silent price increases. We tracked 34 such instances in 18 months.
 
@@ -81,7 +81,7 @@ For families printing 50 pages weekly, these hikes add $85–120 annually. A den
 
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120V7VA?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Liquid Soap" data-card-pick="Refill your own pump bottle from one bulk jug—pennies per ounce when diluted.">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120V7VA" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Liquid Soap" data-card-pick="Refill your own pump bottle from one bulk jug—pennies per ounce when diluted.">
 <img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/414wogLMXDL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
@@ -101,7 +101,7 @@ For families printing 50 pages weekly, these hikes add $85–120 annually. A den
 - Brother offers the lowest cost-per-page in traditional cartridge systems (7.5¢)
 - Epson high-yield cartridges cost more per page due to required proprietary chips
 - HP's price hikes outpace inflation by 3.6× while yields decline
-- EcoTank systems achieve near-[perfect](https://www.amazon.com/dp/B07Z6TV9Y7?tag=refillwatch-20) yield accuracy with zero DRM
+- EcoTank systems achieve near-perfect yield accuracy with zero DRM
 
 
 For more on printer ink price hikes: how manufacturers play the razor-and-blade game, see [our coverage at inkledger.org](https://inkledger.org/articles/printer-ink-price-hikes-exposed/).
@@ -115,10 +115,10 @@ Only Brother LC-203XL met its 300-page claim (averaging 298). HP 67XL averaged j
 **DRM Restrictions**  
 HP OfficeJet Pro 9015e displays "non-HP ink" warnings and disables features with refilled cartridges:
 - Print speed reduced 30–40%
-- [Wireless](https://www.amazon.com/dp/B000H0XFCS?tag=refillwatch-20) printing disabled
+- Wireless printing disabled
 - Scanner functionality limited
 
-The Epson EcoTank ET-2800 has no such restrictions and works with any [compatible](https://www.amazon.com/dp/B07C11YW88?tag=refillwatch-20) ink.
+The Epson EcoTank ET-2800 has no such restrictions and works with any compatible ink.
 
 **Cartridge Lifespan**  
 Brother cartridges lasted 14 months before drying, versus 9 months for HP. Epson EcoTank showed zero evaporation over 2 years thanks to sealed reservoirs.
@@ -136,7 +136,7 @@ Graphic designers evaluated 500 test pages from each system:
 
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00BEYLTKY?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Soap Bar" data-card-pick="One concentrated bar dilutes into dozens of cleaners—ultimate refill economy.">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00BEYLTKY" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Soap Bar" data-card-pick="One concentrated bar dilutes into dozens of cleaners—ultimate refill economy.">
 <img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/81RK4MPMtHL.jpg" alt="Dr. Bronner's Pure-Castile Soap" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Soap</strong>
@@ -179,7 +179,7 @@ The InkOwl HP 67 Refill Kit cuts costs to 4¢/page but voids warranties. Our tes
 - Requires careful syringe handling
 - Lasts 80% as long as OEM ink
 
-**2. [Remanufactured](https://www.amazon.com/dp/B082Y7X9H5?tag=refillwatch-20) Cartridges**  
+**2. Remanufactured Cartridges**  
 LD Products Brother LC-203XL compatibles cost $14.99 (33% savings):
 - Recycled shells with new ink
 - Often include warranty
@@ -196,58 +196,58 @@ Starts at $0.99/month but:
 ## Top Picks
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWKS?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Castile — Bulk Refill Base" data-card-pick="Same 18-in-1 concentrate—buy once, refill dispensers for months of household use.">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWKS" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Castile — Bulk Refill Base" data-card-pick="Same 18-in-1 concentrate—buy once, refill dispensers for months of household use.">
 <img class="amazon-inline-card__img" src="/images/amazon-picks/B00120VWKS.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
 <span class="amazon-inline-card__desc">The base for dozens of DIY cleaners, body wash, and floor cleaners—one bottle, 18 uses.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
-</a>
+
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120V7VA?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Liquid Soap" data-card-pick="Refill your own pump bottle from one bulk jug—pennies per ounce when diluted.">
+
 <img class="amazon-inline-card__img" src="/images/amazon-picks/B00120V7VA.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
 <span class="amazon-inline-card__desc">Mild castile base for DIY hand soap—dilute and refill your own dispenser.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
-</a>
+
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00BEYLTKY?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Soap Bar" data-card-pick="One concentrated bar dilutes into dozens of cleaners—ultimate refill economy.">
+
 <img class="amazon-inline-card__img" src="/images/amazon-picks/B00BEYLTKY.jpg" alt="Dr. Bronner's Pure-Castile Soap" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Soap</strong>
 <span class="amazon-inline-card__desc">Concentrated refillable cleaner for body, home, and laundry dilutions.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
-</a>
+
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B01N7VKWVO?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Arm &amp; Hammer Pure Baking Soda 5 lb" data-card-pick="Bulk bag beats tiny boxes—staple for DIY cleaners, deodorizing, and laundry boosts.">
+
 <img class="amazon-inline-card__img" src="/images/amazon-picks/B01N7VKWVO.jpg" alt="Arm & Hammer Pure Baking Soda 5 lb" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Arm & Hammer Pure Baking Soda 5 lb</strong>
 <span class="amazon-inline-card__desc">Food-grade baking soda in a large bag—the backbone of most DIY cleaning recipes.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
-</a>
+
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00YBXVLWK?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Bee's Wrap Organic Cotton Food Wrap Set" data-card-pick="Reusable wraps replace single-use film—kitchen staple that pays back in weeks.">
+
 <img class="amazon-inline-card__img" src="/images/amazon-picks/B00YBXVLWK.jpg" alt="Bee's Wrap Organic Cotton Food Wrap Set" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Bee's Wrap Organic Cotton Food Wrap Set</strong>
 <span class="amazon-inline-card__desc">Beeswax + organic cotton keeps food fresh, replaces cling film, compostable end-of-life.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
-</a>
+
 </div>
 
 
@@ -338,14 +338,14 @@ A: Switching to refillable ink systems, using compatible cartridges, or opting f
 
 ## Watchdog picks
 
-- [B0DMS3D2JT](/products/b0dms3d2jt-b0dms3d2jt/) · [Buy on Amazon](https://www.amazon.com/dp/B0DMS3D2JT?tag=inkledger-20)
-- [InkOwl Compatible Ink Cartridge Replacement for Roland ECO-SOL MAX Printers ESL3](/products/b07c11yw88-inkowl-compatible-ink-cartridge-replacement-for-roland-eco-s/) · [Buy on Amazon](https://www.amazon.com/dp/B07C11YW88?tag=inkledger-20)
-- [Skydo LC3019XXL Ink Cartridges Replacement for LC3019 XXL LC 3019-XXL LC3019 Wor](/products/b0ds4m632h-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0DS4M632H?tag=inkledger-20)
-- [WEP 927-IV Soldering Station Kit High-Power 110W with 3 Preset Channels, Sleep M](/products/b09txp1kdv-wep-927-iv-soldering-station-kit-high-power-110w-with-3-pres/) · [Buy on Amazon](https://www.amazon.com/dp/B09TXP1KDV?tag=inkledger-20)
-- [TN730 TN-730 Toner Cartridges Black Replacement for Brother TN730 TN-730 MFC-L27](/products/b0dfybsvb8-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0DFYBSVB8?tag=inkledger-20)
-- [EPSON 502 EcoTank Ink Ultra-high Capacity Bottle Color Combo Pack Works with ET-](/products/b074rg6pn1-product/) · [Buy on Amazon](https://www.amazon.com/dp/B074RG6PN1?tag=inkledger-20)
-- [60W Adjustable Temperature Soldering Iron Kit - 9-in-1 With 5 Tips, Solder Wire ](/products/b09dy7ccw5-60w-adjustable-temperature-soldering-iron-kit-9-in-1-with-5-/) · [Buy on Amazon](https://www.amazon.com/dp/B09DY7CCW5?tag=inkledger-20)
-- [Brother Genuine High-Yield Black Toner Cartridge Twin Pack TN760 2Pk, TN7602PK,2](/products/b07ygl9xth-product/) · [Buy on Amazon](https://www.amazon.com/dp/B07YGL9XTH?tag=inkledger-20)
+- [B0DMS3D2JT](/products/b0dms3d2jt-b0dms3d2jt/) · 
+- [InkOwl Compatible Ink Cartridge Replacement for Roland ECO-SOL MAX Printers ESL3](/products/b07c11yw88-inkowl-compatible-ink-cartridge-replacement-for-roland-eco-s/) · 
+- [Skydo LC3019XXL Ink Cartridges Replacement for LC3019 XXL LC 3019-XXL LC3019 Wor](/products/b0ds4m632h-product/) · 
+- [WEP 927-IV Soldering Station Kit High-Power 110W with 3 Preset Channels, Sleep M](/products/b09txp1kdv-wep-927-iv-soldering-station-kit-high-power-110w-with-3-pres/) · 
+- [TN730 TN-730 Toner Cartridges Black Replacement for Brother TN730 TN-730 MFC-L27](/products/b0dfybsvb8-product/) · 
+- [EPSON 502 EcoTank Ink Ultra-high Capacity Bottle Color Combo Pack Works with ET-](/products/b074rg6pn1-product/) · 
+- [60W Adjustable Temperature Soldering Iron Kit - 9-in-1 With 5 Tips, Solder Wire ](/products/b09dy7ccw5-60w-adjustable-temperature-soldering-iron-kit-9-in-1-with-5-/) · 
+- [Brother Genuine High-Yield Black Toner Cartridge Twin Pack TN760 2Pk, TN7602PK,2](/products/b07ygl9xth-product/) · 
 
 ## Products in this guide
 

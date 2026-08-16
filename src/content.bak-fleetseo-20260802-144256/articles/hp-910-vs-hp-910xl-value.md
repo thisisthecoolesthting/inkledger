@@ -116,14 +116,14 @@ The choice between HP 910 and HP 910XL cartridges ultimately depends on your ind
 
 ## Watchdog picks
 
-- [65 65XL Black Ink Cartridges Replacement for HP 65XL Black Ink Cartridge Work fo](/products/b0gvm6yy7b-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0GVM6YY7B?tag=inkledger-20)
-- [B07G82D89G](/products/b07g82d89g-b07g82d89g/) · [Buy on Amazon](https://www.amazon.com/dp/B07G82D89G?tag=inkledger-20)
-- [B0CC7TVR2F](/products/b0cc7tvr2f-b0cc7tvr2f/) · [Buy on Amazon](https://www.amazon.com/dp/B0CC7TVR2F?tag=inkledger-20)
-- [B07YPR2DGH](/products/b07ypr2dgh-b07ypr2dgh/) · [Buy on Amazon](https://www.amazon.com/dp/B07YPR2DGH?tag=inkledger-20)
-- [HP DeskJet 2755 All-in-One Wireless Printer Scanner Copier Instant Ink Ready Mob](/products/b08byz5n7q-product/) · [Buy on Amazon](https://www.amazon.com/dp/B08BYZ5N7Q?tag=inkledger-20)
-- [280XXL 281XXL Ink for Canon Ink 280 281 Replacement for Canon TR8620 Ink Cartrid](/products/b0bvybvhk5-280xxl-281xxl-ink-for-canon-ink-280-281-replacement-for-cano/) · [Buy on Amazon](https://www.amazon.com/dp/B0BVYBVHK5?tag=inkledger-20)
-- [B0G6YZ5YFV](/products/b0g6yz5yfv-b0g6yz5yfv/) · [Buy on Amazon](https://www.amazon.com/dp/B0G6YZ5YFV?tag=inkledger-20)
-- [TN760 Toner for Brother Printer TN730: Compatible for Brother TN-730/TN-760 TN 7](/products/b0flxjhgr7-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0FLXJHGR7?tag=inkledger-20)
+- [65 65XL Black Ink Cartridges Replacement for HP 65XL Black Ink Cartridge Work fo](/products/b0gvm6yy7b-product/) · 
+- [B07G82D89G](/products/b07g82d89g-b07g82d89g/) · 
+- [B0CC7TVR2F](/products/b0cc7tvr2f-b0cc7tvr2f/) · 
+- [B07YPR2DGH](/products/b07ypr2dgh-b07ypr2dgh/) · 
+- [HP DeskJet 2755 All-in-One Wireless Printer Scanner Copier Instant Ink Ready Mob](/products/b08byz5n7q-product/) · 
+- [280XXL 281XXL Ink for Canon Ink 280 281 Replacement for Canon TR8620 Ink Cartrid](/products/b0bvybvhk5-280xxl-281xxl-ink-for-canon-ink-280-281-replacement-for-cano/) · 
+- [B0G6YZ5YFV](/products/b0g6yz5yfv-b0g6yz5yfv/) · 
+- [TN760 Toner for Brother Printer TN730: Compatible for Brother TN-730/TN-760 TN 7](/products/b0flxjhgr7-product/) · 
 
 ## Products in this guide
 

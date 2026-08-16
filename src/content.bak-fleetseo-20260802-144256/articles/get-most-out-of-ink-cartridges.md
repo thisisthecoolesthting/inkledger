@@ -108,14 +108,14 @@ By implementing these expert tips, you can significantly extend the life of your
 
 ## Watchdog picks
 
-- [Compatible for EPT502 Ink Refill Bottles Eco Tank ET-2850 ET-3850 ET-4850 ET-150](/products/b0gczvz3sz-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0GCZVZ3SZ?tag=inkledger-20)
-- [Soldering Iron Kit, 80W 110V Fast Heat up in 10s LCD Digital Adjustable Temperat](/products/b08pzbpxlz-soldering-iron-kit-80w-110v-fast-heat-up-in-10s-lcd-digital-/) · [Buy on Amazon](https://www.amazon.com/dp/B08PZBPXLZ?tag=inkledger-20)
-- [YIHUA 939D+ Digital Soldering Station, 75W Equivalent with Precision Heat Contro](/products/b07rvmznyr-yihua-939d-digital-soldering-station-75w-equivalent-with-pre/) · [Buy on Amazon](https://www.amazon.com/dp/B07RVMZNYR?tag=inkledger-20)
-- [B0014D3N0Q](/products/b0014d3n0q-b0014d3n0q/) · [Buy on Amazon](https://www.amazon.com/dp/B0014D3N0Q?tag=inkledger-20)
-- [B0G6Z1834N](/products/b0g6z1834n-b0g6z1834n/) · [Buy on Amazon](https://www.amazon.com/dp/B0G6Z1834N?tag=inkledger-20)
-- [B00PB6F2V4](/products/b00pb6f2v4-b00pb6f2v4/) · [Buy on Amazon](https://www.amazon.com/dp/B00PB6F2V4?tag=inkledger-20)
-- [B00B5JOC5C](/products/b00b5joc5c-b00b5joc5c/) · [Buy on Amazon](https://www.amazon.com/dp/B00B5JOC5C?tag=inkledger-20)
-- [EPSON 702 DURABrite Ultra Ink High Capacity Black & Standard Color Cartridge Com](/products/b071wb6bgn-product/) · [Buy on Amazon](https://www.amazon.com/dp/B071WB6BGN?tag=inkledger-20)
+- [Compatible for EPT502 Ink Refill Bottles Eco Tank ET-2850 ET-3850 ET-4850 ET-150](/products/b0gczvz3sz-product/) · 
+- [Soldering Iron Kit, 80W 110V Fast Heat up in 10s LCD Digital Adjustable Temperat](/products/b08pzbpxlz-soldering-iron-kit-80w-110v-fast-heat-up-in-10s-lcd-digital-/) · 
+- [YIHUA 939D+ Digital Soldering Station, 75W Equivalent with Precision Heat Contro](/products/b07rvmznyr-yihua-939d-digital-soldering-station-75w-equivalent-with-pre/) · 
+- [B0014D3N0Q](/products/b0014d3n0q-b0014d3n0q/) · 
+- [B0G6Z1834N](/products/b0g6z1834n-b0g6z1834n/) · 
+- [B00PB6F2V4](/products/b00pb6f2v4-b00pb6f2v4/) · 
+- [B00B5JOC5C](/products/b00b5joc5c-b00b5joc5c/) · 
+- [EPSON 702 DURABrite Ultra Ink High Capacity Black & Standard Color Cartridge Com](/products/b071wb6bgn-product/) · 
 
 ## Products in this guide
 

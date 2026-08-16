@@ -46,15 +46,6 @@ const productSchema: Record<string, any> = {
   url: `https://https://inkledger.org/products/${product.slug}`,
 };
 if (data.imageUrl) productSchema.image = [data.imageUrl];
-if (data.price) {
-  productSchema.offers = {
-    '@type': 'Offer',
-    price: data.price.toFixed(2),
-    priceCurrency: 'USD',
-    availability: 'https://schema.org/InStock',
-    priceValidUntil: new Date(Date.now() + 30 * 86400000).toISOString().substring(0, 10),
-  };
-}
 
 productSchema.review = {
   '@type': 'Review',

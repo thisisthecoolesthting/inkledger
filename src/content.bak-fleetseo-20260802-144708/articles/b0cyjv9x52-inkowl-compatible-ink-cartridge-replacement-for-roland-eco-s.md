@@ -10,7 +10,7 @@ bsr: 16543
 commissionPerSale: 0
 score: 0
 imageUrl: "https://m.media-amazon.com/images/I/315R+yuAkjL.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B0CYJV9X52?tag=castironcanon-20"
+affiliateUrl: "https://www.amazon.com/dp/B0CYJV9X52"
 isPrime: false
 status: draft
 firstSeen: "2026-06-02"
@@ -77,14 +77,14 @@ Our desk scores **value**, **spec clarity**, and **review credibility** for inkj
 
 ## Watchdog picks
 
-- [B07RYXHN2M](/products/b07ryxhn2m-b07ryxhn2m/) · [Buy on Amazon](https://www.amazon.com/dp/B07RYXHN2M?tag=inkledger-20)
-- [EPSON 702 DURABrite Ultra Ink High Capacity Black & Standard Color Cartridge Com](/products/b071wb6bgn-product/) · [Buy on Amazon](https://www.amazon.com/dp/B071WB6BGN?tag=inkledger-20)
-- [B09J7946RJ](/products/b09j7946rj-b09j7946rj/) · [Buy on Amazon](https://www.amazon.com/dp/B09J7946RJ?tag=inkledger-20)
-- [Aomya Ink Refill Kit 100ml for HP 67 61 65 60 62 63 910 920 901 902 932 933 934 ](/products/b077qvskd5-product/) · [Buy on Amazon](https://www.amazon.com/dp/B077QVSKD5?tag=inkledger-20)
-- [B0G2LS7RMK](/products/b0g2ls7rmk-b0g2ls7rmk/) · [Buy on Amazon](https://www.amazon.com/dp/B0G2LS7RMK?tag=inkledger-20)
-- [B07P5Y5QHG](/products/b07p5y5qhg-b07p5y5qhg/) · [Buy on Amazon](https://www.amazon.com/dp/B07P5Y5QHG?tag=inkledger-20)
-- [B09MSPNYQ2](/products/b09mspnyq2-b09mspnyq2/) · [Buy on Amazon](https://www.amazon.com/dp/B09MSPNYQ2?tag=inkledger-20)
-- [Valuetoner 245XL Ink Cartridge Replacement for Canon 245XL 246XL Combo Pack PG-2](/products/b07tj87ykb-product/) · [Buy on Amazon](https://www.amazon.com/dp/B07TJ87YKB?tag=inkledger-20)
+- [B07RYXHN2M](/products/b07ryxhn2m-b07ryxhn2m/) · 
+- [EPSON 702 DURABrite Ultra Ink High Capacity Black & Standard Color Cartridge Com](/products/b071wb6bgn-product/) · 
+- [B09J7946RJ](/products/b09j7946rj-b09j7946rj/) · 
+- [Aomya Ink Refill Kit 100ml for HP 67 61 65 60 62 63 910 920 901 902 932 933 934 ](/products/b077qvskd5-product/) · 
+- [B0G2LS7RMK](/products/b0g2ls7rmk-b0g2ls7rmk/) · 
+- [B07P5Y5QHG](/products/b07p5y5qhg-b07p5y5qhg/) · 
+- [B09MSPNYQ2](/products/b09mspnyq2-b09mspnyq2/) · 
+- [Valuetoner 245XL Ink Cartridge Replacement for Canon 245XL 246XL Combo Pack PG-2](/products/b07tj87ykb-product/) · 
 
 ## Products in this guide
 

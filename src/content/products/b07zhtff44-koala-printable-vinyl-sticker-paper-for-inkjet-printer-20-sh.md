@@ -10,7 +10,7 @@ bsr: 23
 commissionPerSale: 0
 score: 0
 imageUrl: "https://m.media-amazon.com/images/I/51iPcMliAaL.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B07ZHTFF44?tag=inkledger-20"
+affiliateUrl: ""
 isPrime: false
 status: published
 firstSeen: "2026-07-23"

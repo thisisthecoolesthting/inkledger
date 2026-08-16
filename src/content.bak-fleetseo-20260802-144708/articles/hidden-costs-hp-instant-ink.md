@@ -128,14 +128,14 @@ HP Instant Ink can be a convenient option for some users, but it's essential to 
 
 ## Watchdog picks
 
-- [B000VKGRF0](/products/b000vkgrf0-b000vkgrf0/) · [Buy on Amazon](https://www.amazon.com/dp/B000VKGRF0?tag=inkledger-20)
-- [B0CZSFG7VX](/products/b0czsfg7vx-b0czsfg7vx/) · [Buy on Amazon](https://www.amazon.com/dp/B0CZSFG7VX?tag=inkledger-20)
-- [B07ZHTFF44](/products/b07zhtff44-b07zhtff44/) · [Buy on Amazon](https://www.amazon.com/dp/B07ZHTFF44?tag=inkledger-20)
-- [Soldering Iron Kit, 60W LED Display Digital Solder Pen, 5 Replaceable Tips, 21-i](/products/b0d92pvdqh-soldering-iron-kit-60w-led-display-digital-solder-pen-5-repl/) · [Buy on Amazon](https://www.amazon.com/dp/B0D92PVDQH?tag=inkledger-20)
-- [B001ET73J2](/products/b001et73j2-b001et73j2/) · [Buy on Amazon](https://www.amazon.com/dp/B001ET73J2?tag=inkledger-20)
-- [B0F7KKY728](/products/b0f7kky728-b0f7kky728/) · [Buy on Amazon](https://www.amazon.com/dp/B0F7KKY728?tag=inkledger-20)
-- [B08VF3XRQ8](/products/b08vf3xrq8-b08vf3xrq8/) · [Buy on Amazon](https://www.amazon.com/dp/B08VF3XRQ8?tag=inkledger-20)
-- [B0GMKRR64P](/products/b0gmkrr64p-b0gmkrr64p/) · [Buy on Amazon](https://www.amazon.com/dp/B0GMKRR64P?tag=inkledger-20)
+- [B000VKGRF0](/products/b000vkgrf0-b000vkgrf0/) · 
+- [B0CZSFG7VX](/products/b0czsfg7vx-b0czsfg7vx/) · 
+- [B07ZHTFF44](/products/b07zhtff44-b07zhtff44/) · 
+- [Soldering Iron Kit, 60W LED Display Digital Solder Pen, 5 Replaceable Tips, 21-i](/products/b0d92pvdqh-soldering-iron-kit-60w-led-display-digital-solder-pen-5-repl/) · 
+- [B001ET73J2](/products/b001et73j2-b001et73j2/) · 
+- [B0F7KKY728](/products/b0f7kky728-b0f7kky728/) · 
+- [B08VF3XRQ8](/products/b08vf3xrq8-b08vf3xrq8/) · 
+- [B0GMKRR64P](/products/b0gmkrr64p-b0gmkrr64p/) · 
 
 ## Products in this guide
 

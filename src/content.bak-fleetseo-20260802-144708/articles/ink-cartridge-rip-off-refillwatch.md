@@ -34,7 +34,7 @@ updatedAt: 2026-05-12
 
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWKS?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Castile — Bulk Refill Base" data-card-pick="Same 18-in-1 concentrate—buy once, refill dispensers for months of household use.">
+
 <img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/414wogLMXDL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
@@ -46,15 +46,15 @@ updatedAt: 2026-05-12
 | Printer Model | Ink Type       | Price Increase (%) | Yearly Cost ($) |
 |---------------|----------------|--------------------|------------------|
 | Model A       | Original       | 20%                | 120              |
-| Model B       | [Compatible](https://www.amazon.com/dp/B07C11YW88?tag=refillwatch-20)     | 15%                | 90               |
+| Model B       | Compatible     | 15%                | 90               |
 | Model C       | Refilled       | 30%                | 80               |
 ```
 
-Our tracking data shows a consistent pattern: major printer manufacturers have raised [cartridge](https://www.amazon.com/dp/B082Y7X9H5?tag=refillwatch-20) prices 15–30% over the past 12 months while simultaneously reducing ink volume per [cartridge](https://www.amazon.com/dp/B08GX3K9YS?tag=refillwatch-20). Here's the breakdown:
+Our tracking data shows a consistent pattern: major printer manufacturers have raised cartridge prices 15–30% over the past 12 months while simultaneously reducing ink volume per cartridge. Here's the breakdown:
 
 - **HP 64XL Black Ink**: Rose from $39.99 to $49.99 (+25%) since January
-- **[Brother](https://www.amazon.com/dp/B00NQ1CLTI?tag=refillwatch-20) LC2030**: Hit $49.99 after three price increases in six months
-- **Epson 202**: 18% price increase despite 10% less ink per [cartridge](https://www.amazon.com/dp/B0CYJV9X52?tag=refillwatch-20)
+- **Brother LC2030**: Hit $49.99 after three price increases in six months
+- **Epson 202**: 18% price increase despite 10% less ink per cartridge
 
 
 
@@ -67,7 +67,7 @@ Our tracking data shows a consistent pattern: major printer manufacturers have r
 
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120V7VA?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Liquid Soap" data-card-pick="Refill your own pump bottle from one bulk jug—pennies per ounce when diluted.">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120V7VA" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Liquid Soap" data-card-pick="Refill your own pump bottle from one bulk jug—pennies per ounce when diluted.">
 <img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/414wogLMXDL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
@@ -90,7 +90,7 @@ Printer manufacturers use a proven playbook: sell the hardware cheap, then profi
 
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00BEYLTKY?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Soap Bar" data-card-pick="One concentrated bar dilutes into dozens of cleaners—ultimate refill economy.">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00BEYLTKY" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Soap Bar" data-card-pick="One concentrated bar dilutes into dozens of cleaners—ultimate refill economy.">
 <img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/81RK4MPMtHL.jpg" alt="Dr. Bronner's Pure-Castile Soap" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Soap</strong>
@@ -98,7 +98,7 @@ Printer manufacturers use a proven playbook: sell the hardware cheap, then profi
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
 
-**Refillable systems save 60% or more.** Epson's refill tanks (like the [EcoTank](https://www.amazon.com/dp/B09W9MF63Y?tag=refillwatch-20) line) cost more upfront but deliver 5,000+ pages per tank versus 200–500 from OEM [cartridges](https://www.amazon.com/dp/B0BVYBVHK5?tag=refillwatch-20). A single refill kit costs less than one [replacement](https://www.amazon.com/dp/B00WSAXBQ0?tag=refillwatch-20) cartridge.
+**Refillable systems save 60% or more.** Epson's refill tanks (like the EcoTank line) cost more upfront but deliver 5,000+ pages per tank versus 200–500 from OEM cartridges. A single refill kit costs less than one replacement cartridge.
 
 **Laser printers cut per-page costs to 1.3¢.** The Brother HL-L2350DW and similar models cost 5¢ less per page than inkjets and handle high-volume households much better.
 
@@ -117,58 +117,58 @@ Printer ink is one of the most expensive liquids by volume—retailers knowingly
 ## Top Picks
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWKS?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Castile — Bulk Refill Base" data-card-pick="Same 18-in-1 concentrate—buy once, refill dispensers for months of household use.">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWKS" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Castile — Bulk Refill Base" data-card-pick="Same 18-in-1 concentrate—buy once, refill dispensers for months of household use.">
 <img class="amazon-inline-card__img" src="/images/amazon-picks/B00120VWKS.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
 <span class="amazon-inline-card__desc">The base for dozens of DIY cleaners, body wash, and floor cleaners—one bottle, 18 uses.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
-</a>
+
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120V7VA?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Liquid Soap" data-card-pick="Refill your own pump bottle from one bulk jug—pennies per ounce when diluted.">
+
 <img class="amazon-inline-card__img" src="/images/amazon-picks/B00120V7VA.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
 <span class="amazon-inline-card__desc">Mild castile base for DIY hand soap—dilute and refill your own dispenser.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
-</a>
+
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00BEYLTKY?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Soap Bar" data-card-pick="One concentrated bar dilutes into dozens of cleaners—ultimate refill economy.">
+
 <img class="amazon-inline-card__img" src="/images/amazon-picks/B00BEYLTKY.jpg" alt="Dr. Bronner's Pure-Castile Soap" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Soap</strong>
 <span class="amazon-inline-card__desc">Concentrated refillable cleaner for body, home, and laundry dilutions.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
-</a>
+
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B01N7VKWVO?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Arm &amp; Hammer Pure Baking Soda 5 lb" data-card-pick="Bulk bag beats tiny boxes—staple for DIY cleaners, deodorizing, and laundry boosts.">
+
 <img class="amazon-inline-card__img" src="/images/amazon-picks/B01N7VKWVO.jpg" alt="Arm & Hammer Pure Baking Soda 5 lb" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Arm & Hammer Pure Baking Soda 5 lb</strong>
 <span class="amazon-inline-card__desc">Food-grade baking soda in a large bag—the backbone of most DIY cleaning recipes.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
-</a>
+
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00YBXVLWK?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Bee's Wrap Organic Cotton Food Wrap Set" data-card-pick="Reusable wraps replace single-use film—kitchen staple that pays back in weeks.">
+
 <img class="amazon-inline-card__img" src="/images/amazon-picks/B00YBXVLWK.jpg" alt="Bee's Wrap Organic Cotton Food Wrap Set" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Bee's Wrap Organic Cotton Food Wrap Set</strong>
 <span class="amazon-inline-card__desc">Beeswax + organic cotton keeps food fresh, replaces cling film, compostable end-of-life.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
-</a>
+
 </div>
 
 
@@ -230,14 +230,14 @@ A: Refillable cartridges reduce plastic waste by up to 90% per year and cut carb
 
 ## Watchdog picks
 
-- [B07R3N9X3F](/products/b07r3n9x3f-b07r3n9x3f/) · [Buy on Amazon](https://www.amazon.com/dp/B07R3N9X3F?tag=inkledger-20)
-- [Epson EcoTank ET-2800 Wireless Color All-in-One Cartridge-Free Ink Supertank Pri](/products/b096n8dn2h-product/) · [Buy on Amazon](https://www.amazon.com/dp/B096N8DN2H?tag=inkledger-20)
-- [Niagara Sleep Solution Ultra Soft Queen Size Mattress Topper - Rayon Derived fro](/products/b07d5dn269-niagara-sleep-solution-ultra-soft-queen-size-mattress-topper/) · [Buy on Amazon](https://www.amazon.com/dp/B07D5DN269?tag=inkledger-20)
-- [B0D96T79YF](/products/b0d96t79yf-b0d96t79yf/) · [Buy on Amazon](https://www.amazon.com/dp/B0D96T79YF?tag=inkledger-20)
-- [B0DT1NNNS3](/products/b0dt1nnns3-b0dt1nnns3/) · [Buy on Amazon](https://www.amazon.com/dp/B0DT1NNNS3?tag=inkledger-20)
-- [B0D3XGJ6HW](/products/b0d3xgj6hw-b0d3xgj6hw/) · [Buy on Amazon](https://www.amazon.com/dp/B0D3XGJ6HW?tag=inkledger-20)
-- [Compatible for EPT502 Ink Refill Bottles Eco Tank ET-2850 ET-3850 ET-4850 ET-150](/products/b0gczvz3sz-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0GCZVZ3SZ?tag=inkledger-20)
-- [B00PB6F2V4](/products/b00pb6f2v4-b00pb6f2v4/) · [Buy on Amazon](https://www.amazon.com/dp/B00PB6F2V4?tag=inkledger-20)
+- [B07R3N9X3F](/products/b07r3n9x3f-b07r3n9x3f/) · 
+- [Epson EcoTank ET-2800 Wireless Color All-in-One Cartridge-Free Ink Supertank Pri](/products/b096n8dn2h-product/) · 
+- [Niagara Sleep Solution Ultra Soft Queen Size Mattress Topper - Rayon Derived fro](/products/b07d5dn269-niagara-sleep-solution-ultra-soft-queen-size-mattress-topper/) · 
+- [B0D96T79YF](/products/b0d96t79yf-b0d96t79yf/) · 
+- [B0DT1NNNS3](/products/b0dt1nnns3-b0dt1nnns3/) · 
+- [B0D3XGJ6HW](/products/b0d3xgj6hw-b0d3xgj6hw/) · 
+- [Compatible for EPT502 Ink Refill Bottles Eco Tank ET-2850 ET-3850 ET-4850 ET-150](/products/b0gczvz3sz-product/) · 
+- [B00PB6F2V4](/products/b00pb6f2v4-b00pb6f2v4/) · 
 
 ## Products in this guide
 

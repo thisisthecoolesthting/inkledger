@@ -101,14 +101,14 @@ By carefully considering your printing needs and comparing the cost per page of 
 
 ## Watchdog picks
 
-- [STAROVER Compatible Toner Cartridge Replacement for Samsung MLT-D111S D111S 111S](/products/b075m8yx5n-product/) · [Buy on Amazon](https://www.amazon.com/dp/B075M8YX5N?tag=inkledger-20)
-- [B07ZHTFF44](/products/b07zhtff44-b07zhtff44/) · [Buy on Amazon](https://www.amazon.com/dp/B07ZHTFF44?tag=inkledger-20)
-- [B0014D3N0Q](/products/b0014d3n0q-b0014d3n0q/) · [Buy on Amazon](https://www.amazon.com/dp/B0014D3N0Q?tag=inkledger-20)
-- [B00B5JOC5C](/products/b00b5joc5c-b00b5joc5c/) · [Buy on Amazon](https://www.amazon.com/dp/B00B5JOC5C?tag=inkledger-20)
-- [Brother Genuine Standard Yield Toner Cartridge, TN730, Replacement Black Toner, ](/products/b075x7tfy5-product/) · [Buy on Amazon](https://www.amazon.com/dp/B075X7TFY5?tag=inkledger-20)
-- [B0FCS1B33K](/products/b0fcs1b33k-b0fcs1b33k/) · [Buy on Amazon](https://www.amazon.com/dp/B0FCS1B33K?tag=inkledger-20)
-- [B09PH83KK5](/products/b09ph83kk5-b09ph83kk5/) · [Buy on Amazon](https://www.amazon.com/dp/B09PH83KK5?tag=inkledger-20)
-- [HP OfficeJet Pro 9125e Wireless All-in-One Color Inkjet Printer, Print, scan, co](/products/b0cfm82ns2-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0CFM82NS2?tag=inkledger-20)
+- [STAROVER Compatible Toner Cartridge Replacement for Samsung MLT-D111S D111S 111S](/products/b075m8yx5n-product/) · 
+- [B07ZHTFF44](/products/b07zhtff44-b07zhtff44/) · 
+- [B0014D3N0Q](/products/b0014d3n0q-b0014d3n0q/) · 
+- [B00B5JOC5C](/products/b00b5joc5c-b00b5joc5c/) · 
+- [Brother Genuine Standard Yield Toner Cartridge, TN730, Replacement Black Toner, ](/products/b075x7tfy5-product/) · 
+- [B0FCS1B33K](/products/b0fcs1b33k-b0fcs1b33k/) · 
+- [B09PH83KK5](/products/b09ph83kk5-b09ph83kk5/) · 
+- [HP OfficeJet Pro 9125e Wireless All-in-One Color Inkjet Printer, Print, scan, co](/products/b0cfm82ns2-product/) · 
 
 ## Products in this guide
 

@@ -129,14 +129,14 @@ By implementing these **printer settings** and adopting ink-saving habits, you c
 
 ## Watchdog picks
 
-- [B001E10B9I](/products/b001e10b9i-b001e10b9i/) · [Buy on Amazon](https://www.amazon.com/dp/B001E10B9I?tag=inkledger-20)
-- [B08KDQZJQ5](/products/b08kdqzjq5-b08kdqzjq5/) · [Buy on Amazon](https://www.amazon.com/dp/B08KDQZJQ5?tag=inkledger-20)
-- [STAROVER Compatible Toner Cartridge Replacement for Samsung MLT-D111S D111S 111S](/products/b075m8yx5n-product/) · [Buy on Amazon](https://www.amazon.com/dp/B075M8YX5N?tag=inkledger-20)
-- [MLT-D116L High Yield Toner Cartridge - 1 Pack, Black Replacement for Samsung 116](/products/b0c8j8gy2v-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0C8J8GY2V?tag=inkledger-20)
-- [B000H0XFCS](/products/b000h0xfcs-b000h0xfcs/) · [Buy on Amazon](https://www.amazon.com/dp/B000H0XFCS?tag=inkledger-20)
-- [TN730 TN-730 Toner Cartridges Black Replacement for Brother TN730 TN-730 MFC-L27](/products/b0dfybsvb8-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0DFYBSVB8?tag=inkledger-20)
-- [B000VKGRF0](/products/b000vkgrf0-b000vkgrf0/) · [Buy on Amazon](https://www.amazon.com/dp/B000VKGRF0?tag=inkledger-20)
-- [B0F7KKY728](/products/b0f7kky728-b0f7kky728/) · [Buy on Amazon](https://www.amazon.com/dp/B0F7KKY728?tag=inkledger-20)
+- [B001E10B9I](/products/b001e10b9i-b001e10b9i/) · 
+- [B08KDQZJQ5](/products/b08kdqzjq5-b08kdqzjq5/) · 
+- [STAROVER Compatible Toner Cartridge Replacement for Samsung MLT-D111S D111S 111S](/products/b075m8yx5n-product/) · 
+- [MLT-D116L High Yield Toner Cartridge - 1 Pack, Black Replacement for Samsung 116](/products/b0c8j8gy2v-product/) · 
+- [B000H0XFCS](/products/b000h0xfcs-b000h0xfcs/) · 
+- [TN730 TN-730 Toner Cartridges Black Replacement for Brother TN730 TN-730 MFC-L27](/products/b0dfybsvb8-product/) · 
+- [B000VKGRF0](/products/b000vkgrf0-b000vkgrf0/) · 
+- [B0F7KKY728](/products/b0f7kky728-b0f7kky728/) · 
 
 ## Products in this guide
 

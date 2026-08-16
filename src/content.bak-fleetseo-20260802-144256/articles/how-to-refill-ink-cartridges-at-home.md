@@ -36,7 +36,7 @@ author: marcus-webb
 
 The price tag on a replacement ink cartridge—something smaller than a candy bar—routinely exceeds what the printer itself cost after a couple of years. The average household spends $150–$300 annually on printer ink. But there's a better way: refilling your own cartridges can slash your printing costs by 60-80%.
 
-This guide isn't about cutting corners. We'll show you how to refill cartridges properly to avoid leaks and clogs, compare the best refill kits like the [InkWell Pro Refill Kit](https://www.amazon.com/dp/B0DHV8SCLS?tag=inkledger-20) and [EZ-Fill Universal Kit](https://www.amazon.com/dp/B0G63G9LRJ?tag=inkledger-20), and reveal which printer models work best with refilled cartridges. Whether you're printing school projects, work documents, or family photos, mastering this skill could save you hundreds per year.
+This guide isn't about cutting corners. We'll show you how to refill cartridges properly to avoid leaks and clogs, compare the best refill kits like the InkWell Pro Refill Kit and EZ-Fill Universal Kit, and reveal which printer models work best with refilled cartridges. Whether you're printing school projects, work documents, or family photos, mastering this skill could save you hundreds per year.
 
 We've tested 15 different refill methods across 8 printer brands to bring you the most comprehensive data available. You'll learn exactly how much pressure to apply when injecting ink (3.5 psi is ideal), which cartridge sponge materials absorb best (polyurethane outperforms polyester by 22%), and how to modify Brother printers' waste ink counters for unlimited refills. Our test lab printed over 10,000 pages to verify these techniques work in real-world conditions.
 
@@ -44,7 +44,7 @@ We've tested 15 different refill methods across 8 printer brands to bring you th
 
 Printer manufacturers employ a classic razor-and-blade business model - they sell printers at cost (or even at a loss) and make profits on the ink. An HP study revealed they make 70% gross margins on ink, with some cartridges costing $8,000 per gallon when calculated by volume. Meanwhile, third-party ink costs pennies by comparison.
 
-Beyond cost, there's an environmental impact. Over 375 million cartridges end up in landfills annually, with each one taking 450-1,000 years to decompose. Refilling lets you reuse cartridges 3-5 times before they wear out. The [HP 962XL](https://www.amazon.com/dp/B00WSAXBQ0?tag=inkledger-20) cartridge, for example, holds enough ink for 2-3 refills before the print head degrades.
+Beyond cost, there's an environmental impact. Over 375 million cartridges end up in landfills annually, with each one taking 450-1,000 years to decompose. Refilling lets you reuse cartridges 3-5 times before they wear out. The HP 962XL cartridge, for example, holds enough ink for 2-3 refills before the print head degrades.
 
 Legal protections favor consumers here. The Magnuson-Moss Warranty Act prohibits printer manufacturers from voiding warranties simply for using third-party ink—they must prove the third-party ink caused the specific damage being claimed. Some manufacturers still push firmware updates that block refilled cartridges; we cover the printer-specific workarounds below.
 
@@ -52,7 +52,7 @@ Our environmental testing revealed shocking results: Manufacturing a new cartrid
 
 # Head-to-Head Comparison
 
-| Feature               | [InkWell Pro Kit](https://www.amazon.com/dp/B0DHV8SCLS?tag=inkledger-20) | [EZ-Fill Universal](https://www.amazon.com/dp/B0G63G9LRJ?tag=inkledger-20) | [PrecisionFill](https://www.amazon.com/dp/B0DHV7ZWH2?tag=inkledger-20) |
+| Feature               | InkWell Pro Kit | EZ-Fill Universal | PrecisionFill |
 |-----------------------|--------------------------------|--------------------------------|--------------------------------|
 | Price                 | $29.99                         | $24.99                         | $34.99                         |
 | Included Colors       | CMYK (4)                       | CMYK + Photo Black (5)         | CMYK (4)                       |
@@ -70,7 +70,7 @@ We conducted spectrophotometer testing on 50 paper types and found the Precision
 
 # Real-World Performance
 
-Refilled cartridges can match OEM quality when done correctly. In our stress test, the [HP 61](https://www.amazon.com/dp/B09VXQ221K?tag=inkledger-20) cartridge refilled with InkWell ink produced 287 pages before fading, compared to HP's advertised 300 pages. However, we found three key differences:
+Refilled cartridges can match OEM quality when done correctly. In our stress test, the HP 61 cartridge refilled with InkWell ink produced 287 pages before fading, compared to HP's advertised 300 pages. However, we found three key differences:
 
 1. Drying Time: Refilled ink takes 15-20% longer to dry on glossy paper
 2. Color Accuracy: Blues tend to shift slightly cyan without proprietary color profiles
@@ -79,9 +79,9 @@ Refilled cartridges can match OEM quality when done correctly. In our stress tes
 Our 6-month longevity study revealed these surprising findings:
 - Refilled black ink maintained 98% density after 500 pages vs OEM's 99%
 - Color cartridges showed 5-8% more banding on gradients
-- Print heads lasted 23% longer when flushed with [cleaning solution](https://www.amazon.com/dp/B098JD8HD3?tag=inkledger-20) between refills
+- Print heads lasted 23% longer when flushed with cleaning solution between refills
 
-The [Brother TN-660](https://www.amazon.com/dp/B098JD8HD3?tag=inkledger-20) toner cartridge proved most refill-friendly in our tests, accepting 4 refills before the drum unit needed replacement. Inkjet cartridges with integrated print heads (like most Epson models) typically last 2-3 refills before print quality degrades.
+The Brother TN-660 toner cartridge proved most refill-friendly in our tests, accepting 4 refills before the drum unit needed replacement. Inkjet cartridges with integrated print heads (like most Epson models) typically last 2-3 refills before print quality degrades.
 
 We developed a proprietary scoring system evaluating 12 performance metrics across 100 refill cycles. The results showed:
 - First refill: 92% of OEM quality
@@ -93,7 +93,7 @@ We developed a proprietary scoring system evaluating 12 performance metrics acro
 Let's break down the savings for a typical home office printing 500 pages/month:
 
 **OEM Cartridges**
-- [HP 962XL](https://www.amazon.com/dp/B07GRRXJXG?tag=inkledger-20) (Black): $42.99 for 600 pages = $0.072/page
+- HP 962XL (Black): $42.99 for 600 pages = $0.072/page
 - HP 962XL (Color): $54.99 for 400 pages = $0.137/page
 - Annual Cost: $1,260.60
 
@@ -103,7 +103,7 @@ Let's break down the savings for a typical home office printing 500 pages/month:
 - Cost per page: $0.008 (black), $0.012 (color)
 - Annual Cost: $119.96
 
-That's 89% savings - enough to pay for a new [EcoTank printer](https://www.amazon.com/dp/B08PZBPXLZ?tag=inkledger-20) in the first year. The breakeven point comes after just 3-4 months for most users.
+That's 89% savings - enough to pay for a new EcoTank printer in the first year. The breakeven point comes after just 3-4 months for most users.
 
 Our financial modeling across 5 years shows:
 - Year 1: $1,140 saved
@@ -120,7 +120,7 @@ We also calculated time investments:
 
 For those who want savings without the mess, consider:
 
-1. **High-Yield Cartridges**: The [HP 952XL](https://www.amazon.com/dp/B0BX2N258S?tag=inkledger-20) offers 2x capacity at 1.5x price
+1. **High-Yield Cartridges**: The HP 952XL offers 2x capacity at 1.5x price
 2. **Ink Subscriptions**: HP Instant Ink can save 50% if you print consistently
 3. **Remanufactured Cartridges**: Companies like InkJet SuperStore refill professionally
 4. **Laser Printers**: Toner doesn't dry out and costs less per page long-term
@@ -154,7 +154,7 @@ Most inkjet cartridges last 2-4 refills before the print head wears out. Laser t
 
 ### Why does my printer say "non-genuine cartridge"?
 
-Many printers have chips that track ink use. You can reset these with a [chip resetter](https://www.amazon.com/dp/B09VXQ221K?tag=inkledger-20) or ignore the message - it doesn't affect functionality. Some workarounds:
+Many printers have chips that track ink use. You can reset these with a chip resetter or ignore the message - it doesn't affect functionality. Some workarounds:
 - Cover the chip contacts with tape
 - Use a universal resetter tool
 - Flash custom firmware (advanced users only)
@@ -175,7 +175,7 @@ We don't recommend it. Different ink formulations can react chemically, causing 
 
 # Bottom Line
 
-After testing 12 refill kits and tracking 6 months of real-world use, the [InkWell Pro Refill Kit](https://www.amazon.com/dp/B0DHV8SCLS?tag=inkledger-20) delivers the best combination of value, ease of use, and print quality. Pair it with compatible cartridges like the [HP 962XL](https://www.amazon.com/dp/B00WSAXBQ0?tag=inkledger-20) for maximum savings.
+After testing 12 refill kits and tracking 6 months of real-world use, the InkWell Pro Refill Kit delivers the best combination of value, ease of use, and print quality. Pair it with compatible cartridges like the HP 962XL for maximum savings.
 
 For those printing less than 50 pages/month, a subscription service like HP Instant Ink may be more convenient. But if you're ready to break free from overpriced ink, refilling your cartridges is the most cost-effective solution - just be prepared for a slight learning curve and occasional mess during your first few attempts.
 
@@ -241,14 +241,14 @@ Price data for this article comes from Keepa, which logs every published price c
 
 ## Watchdog picks
 
-- [B07D5DN269](/products/b07d5dn269-b07d5dn269/) · [Buy on Amazon](https://www.amazon.com/dp/B07D5DN269?tag=inkledger-20)
-- [B0G2LS7RMK](/products/b0g2ls7rmk-b0g2ls7rmk/) · [Buy on Amazon](https://www.amazon.com/dp/B0G2LS7RMK?tag=inkledger-20)
-- [B0C1ZF94GW](/products/b0c1zf94gw-b0c1zf94gw/) · [Buy on Amazon](https://www.amazon.com/dp/B0C1ZF94GW?tag=inkledger-20)
-- [B00B5JOC5C](/products/b00b5joc5c-b00b5joc5c/) · [Buy on Amazon](https://www.amazon.com/dp/B00B5JOC5C?tag=inkledger-20)
-- [Soldering Iron Kit, 80W 110V Fast Heat up in 10s LCD Digital Adjustable Temperat](/products/b08pzbpxlz-soldering-iron-kit-80w-110v-fast-heat-up-in-10s-lcd-digital-/) · [Buy on Amazon](https://www.amazon.com/dp/B08PZBPXLZ?tag=inkledger-20)
-- [HP OfficeJet Pro 9125 Wireless All-in-One Color Inkjet Printer, Print, Scan, Cop](/products/b0gpfkgny7-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0GPFKGNY7?tag=inkledger-20)
-- [Epson EcoTank ET-2800 Wireless Color All-in-One Cartridge-Free Ink Supertank Pri](/products/b096n8dn2h-product/) · [Buy on Amazon](https://www.amazon.com/dp/B096N8DN2H?tag=inkledger-20)
-- [B0CT2QHQVF](/products/b0ct2qhqvf-b0ct2qhqvf/) · [Buy on Amazon](https://www.amazon.com/dp/B0CT2QHQVF?tag=inkledger-20)
+- [B07D5DN269](/products/b07d5dn269-b07d5dn269/) · 
+- [B0G2LS7RMK](/products/b0g2ls7rmk-b0g2ls7rmk/) · 
+- [B0C1ZF94GW](/products/b0c1zf94gw-b0c1zf94gw/) · 
+- [B00B5JOC5C](/products/b00b5joc5c-b00b5joc5c/) · 
+- [Soldering Iron Kit, 80W 110V Fast Heat up in 10s LCD Digital Adjustable Temperat](/products/b08pzbpxlz-soldering-iron-kit-80w-110v-fast-heat-up-in-10s-lcd-digital-/) · 
+- [HP OfficeJet Pro 9125 Wireless All-in-One Color Inkjet Printer, Print, Scan, Cop](/products/b0gpfkgny7-product/) · 
+- [Epson EcoTank ET-2800 Wireless Color All-in-One Cartridge-Free Ink Supertank Pri](/products/b096n8dn2h-product/) · 
+- [B0CT2QHQVF](/products/b0ct2qhqvf-b0ct2qhqvf/) · 
 
 ## Products in this guide
 

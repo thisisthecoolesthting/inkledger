@@ -37,7 +37,7 @@ updatedAt: 2026-05-12
 
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWKS?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Castile — Bulk Refill Base" data-card-pick="Same 18-in-1 concentrate—buy once, refill dispensers for months of household use.">
+
 <img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/414wogLMXDL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
@@ -45,14 +45,14 @@ updatedAt: 2026-05-12
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
 
-"Why does my printer ink cost more than champagne?" This isn't sticker shock—it's by design. Over 18 months, we tracked 24 [cartridges](https://www.amazon.com/dp/B0BVYBVHK5?tag=refillwatch-20) across HP, Epson, [Brother](https://www.amazon.com/dp/B00NQ1CLTI?tag=refillwatch-20), and Canon and found a pattern of deliberate price hikes paired with shrinking volumes.
+"Why does my printer ink cost more than champagne?" This isn't sticker shock—it's by design. Over 18 months, we tracked 24 cartridges across HP, Epson, Brother, and Canon and found a pattern of deliberate price hikes paired with shrinking volumes.
 
 **What we found:**
-- The average HP [cartridge](https://www.amazon.com/dp/B07C11YW88?tag=refillwatch-20) increased 9.3% in price while containing 12% less ink
+- The average HP cartridge increased 9.3% in price while containing 12% less ink
 - Epson's "high yield" cartridges now cost 22% more per milliliter than their 2024 counterparts
 - Printer ink prices have risen 300% since 2010, while printer costs stayed flat—a textbook razor-blade lock-in strategy
 
-In 2025 alone, [cartridge](https://www.amazon.com/dp/B082Y7X9H5?tag=refillwatch-20) prices climbed an average of 11.4%, far outpacing inflation. Retailers use three main tactics to maximize profit: shrinkflation (smaller cartridges, higher prices), chip technology that wastes remaining ink, and subscription services that charge $0.13 per page instead of $0.03 with refill systems.
+In 2025 alone, cartridge prices climbed an average of 11.4%, far outpacing inflation. Retailers use three main tactics to maximize profit: shrinkflation (smaller cartridges, higher prices), chip technology that wastes remaining ink, and subscription services that charge $0.13 per page instead of $0.03 with refill systems.
 
 We tested refill alternatives, decoded cost-per-page math, and identified which systems actually save money without voiding warranties. Here's what we learned.
 
@@ -86,7 +86,7 @@ HP Instant Ink charges $1.99/month for 15 pages (15-page plans) or $9.99/month f
 
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120V7VA?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Liquid Soap" data-card-pick="Refill your own pump bottle from one bulk jug—pennies per ounce when diluted.">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120V7VA" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Liquid Soap" data-card-pick="Refill your own pump bottle from one bulk jug—pennies per ounce when diluted.">
 <img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/414wogLMXDL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
@@ -117,7 +117,7 @@ We stress-tested 6 cartridges for page yield, ink waste, and compatibility.
 - Epson 502 hit 412 pages (3% over) but required 3 cleaning cycles, wasting ink
 - Brother LC203BK hit 298 pages (0.7% under)
 
-**[Cartridge](https://www.amazon.com/dp/B08GX3K9YS?tag=refillwatch-20) Waste**
+**Cartridge Waste**
 All cartridges still contained usable ink when declaring "empty":
 - HP: 3.1mL average residual
 - Epson: 2.2mL average residual
@@ -134,7 +134,7 @@ The Epson 502 triggered "non-genuine ink" warnings on newer Expression models, e
 
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00BEYLTKY?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Soap Bar" data-card-pick="One concentrated bar dilutes into dozens of cleaners—ultimate refill economy.">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00BEYLTKY" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Soap Bar" data-card-pick="One concentrated bar dilutes into dozens of cleaners—ultimate refill economy.">
 <img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/81RK4MPMtHL.jpg" alt="Dr. Bronner's Pure-Castile Soap" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Soap</strong>
@@ -143,7 +143,7 @@ The Epson 502 triggered "non-genuine ink" warnings on newer Expression models, e
 </div>
 
 **OEM Cartridges (HP 962XL)**
-- Cost: $38.99 per [cartridge](https://www.amazon.com/dp/B0CYJV9X52?tag=refillwatch-20)
+- Cost: $38.99 per cartridge
 - Pages: 600 per cartridge
 - Monthly cost: $32.49 (buying ~1 cartridge per month)
 - Annual cost: **$389.88**
@@ -154,7 +154,7 @@ The Epson 502 triggered "non-genuine ink" warnings on newer Expression models, e
 - Monthly cost: $9.99 + $200 = $209.99
 - Annual cost: **$2,519.88** (not practical for heavy users)
 
-**Bulk Ink System (Epson [EcoTank](https://www.amazon.com/dp/B09W9MF63Y?tag=refillwatch-20) ET-2800)**
+**Bulk Ink System (Epson EcoTank ET-2800)**
 - Initial printer: $229 (amortized over 3 years = $6.36/month)
 - Refill cost: $13.99 per bottle (covers 6,500 pages)
 - Monthly refill cost: $1.08
@@ -186,7 +186,7 @@ The Epson 502 triggered "non-genuine ink" warnings on newer Expression models, e
 - Cost per page: $0.003 (including amortized printer cost)
 - Warranty: Full coverage for refills
 
-**Our testing:** No page yield degradation after 6 months. Ink cartridge swap is mess-free and takes 30 [seconds](https://www.amazon.com/dp/B0D41ZMDPD?tag=refillwatch-20).
+**Our testing:** No page yield degradation after 6 months. Ink cartridge swap is mess-free and takes 30 seconds.
 
 ### Not Recommended: Amazon Renewed Cartridges
 
@@ -203,58 +203,58 @@ The Epson 502 triggered "non-genuine ink" warnings on newer Expression models, e
 ## Top Picks
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWKS?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Castile — Bulk Refill Base" data-card-pick="Same 18-in-1 concentrate—buy once, refill dispensers for months of household use.">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWKS" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Castile — Bulk Refill Base" data-card-pick="Same 18-in-1 concentrate—buy once, refill dispensers for months of household use.">
 <img class="amazon-inline-card__img" src="/images/amazon-picks/B00120VWKS.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
 <span class="amazon-inline-card__desc">The base for dozens of DIY cleaners, body wash, and floor cleaners—one bottle, 18 uses.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
-</a>
+
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120V7VA?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Liquid Soap" data-card-pick="Refill your own pump bottle from one bulk jug—pennies per ounce when diluted.">
+
 <img class="amazon-inline-card__img" src="/images/amazon-picks/B00120V7VA.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
 <span class="amazon-inline-card__desc">Mild castile base for DIY hand soap—dilute and refill your own dispenser.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
-</a>
+
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00BEYLTKY?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Soap Bar" data-card-pick="One concentrated bar dilutes into dozens of cleaners—ultimate refill economy.">
+
 <img class="amazon-inline-card__img" src="/images/amazon-picks/B00BEYLTKY.jpg" alt="Dr. Bronner's Pure-Castile Soap" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Soap</strong>
 <span class="amazon-inline-card__desc">Concentrated refillable cleaner for body, home, and laundry dilutions.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
-</a>
+
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B01N7VKWVO?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Arm &amp; Hammer Pure Baking Soda 5 lb" data-card-pick="Bulk bag beats tiny boxes—staple for DIY cleaners, deodorizing, and laundry boosts.">
+
 <img class="amazon-inline-card__img" src="/images/amazon-picks/B01N7VKWVO.jpg" alt="Arm & Hammer Pure Baking Soda 5 lb" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Arm & Hammer Pure Baking Soda 5 lb</strong>
 <span class="amazon-inline-card__desc">Food-grade baking soda in a large bag—the backbone of most DIY cleaning recipes.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
-</a>
+
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00YBXVLWK?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Bee's Wrap Organic Cotton Food Wrap Set" data-card-pick="Reusable wraps replace single-use film—kitchen staple that pays back in weeks.">
+
 <img class="amazon-inline-card__img" src="/images/amazon-picks/B00YBXVLWK.jpg" alt="Bee's Wrap Organic Cotton Food Wrap Set" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Bee's Wrap Organic Cotton Food Wrap Set</strong>
 <span class="amazon-inline-card__desc">Beeswax + organic cotton keeps food fresh, replaces cling film, compostable end-of-life.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
-</a>
+
 </div>
 
 
@@ -363,14 +363,14 @@ A: Some manufacturers claim it does, but in many regions, consumer protection la
 
 ## Watchdog picks
 
-- [65 65XL Black Ink Cartridges Replacement for HP 65XL Black Ink Cartridge Work fo](/products/b0gvm6yy7b-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0GVM6YY7B?tag=inkledger-20)
-- [B0F1FNZB62](/products/b0f1fnzb62-b0f1fnzb62/) · [Buy on Amazon](https://www.amazon.com/dp/B0F1FNZB62?tag=inkledger-20)
-- [WEAREC Compatible Toner Cartridge Replacement for Brother TN760 TN-760 TN730 wit](/products/b0dj79lqp5-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0DJ79LQP5?tag=inkledger-20)
-- [Valuetoner 245XL Ink Cartridge Replacement for Canon 245XL 246XL Combo Pack PG-2](/products/b07tj87ykb-product/) · [Buy on Amazon](https://www.amazon.com/dp/B07TJ87YKB?tag=inkledger-20)
-- [B08JHWZ15B](/products/b08jhwz15b-b08jhwz15b/) · [Buy on Amazon](https://www.amazon.com/dp/B08JHWZ15B?tag=inkledger-20)
-- [TN730 TN-730 Toner Cartridge 2-Pack Replacement for Brother TN730 Toner Cartridg](/products/b0cqqv1wsr-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0CQQV1WSR?tag=inkledger-20)
-- [B0DHCKRWDL](/products/b0dhckrwdl-b0dhckrwdl/) · [Buy on Amazon](https://www.amazon.com/dp/B0DHCKRWDL?tag=inkledger-20)
-- [B00T6RWJMU](/products/b00t6rwjmu-b00t6rwjmu/) · [Buy on Amazon](https://www.amazon.com/dp/B00T6RWJMU?tag=inkledger-20)
+- [65 65XL Black Ink Cartridges Replacement for HP 65XL Black Ink Cartridge Work fo](/products/b0gvm6yy7b-product/) · 
+- [B0F1FNZB62](/products/b0f1fnzb62-b0f1fnzb62/) · 
+- [WEAREC Compatible Toner Cartridge Replacement for Brother TN760 TN-760 TN730 wit](/products/b0dj79lqp5-product/) · 
+- [Valuetoner 245XL Ink Cartridge Replacement for Canon 245XL 246XL Combo Pack PG-2](/products/b07tj87ykb-product/) · 
+- [B08JHWZ15B](/products/b08jhwz15b-b08jhwz15b/) · 
+- [TN730 TN-730 Toner Cartridge 2-Pack Replacement for Brother TN730 Toner Cartridg](/products/b0cqqv1wsr-product/) · 
+- [B0DHCKRWDL](/products/b0dhckrwdl-b0dhckrwdl/) · 
+- [B00T6RWJMU](/products/b00t6rwjmu-b00t6rwjmu/) · 
 
 ## Products in this guide
 

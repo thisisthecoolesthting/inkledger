@@ -63,9 +63,9 @@ Consider replacing if:
 
 | Product | Price | Pages/Yield | Cost Per Page |
 |---------|-------|-------------|---------------|
-| [HP 61 Compatible (2-pack)](https://www.amazon.com/dp/B0G1R37VJC) | $16.99 | 400 | $0.042 |
-| [Canon PG-245XL Refill Kit](https://www.amazon.com/dp/B0FVY8TTVN) | $49.99 | 1,200 | $0.041 |
-| [Epson 502 Bulk Ink](https://www.amazon.com/dp/B0DVT2JTRN) | $37.89 | 6,000 | $0.006 |
+| HP 61 Compatible (2-pack) | $16.99 | 400 | $0.042 |
+| Canon PG-245XL Refill Kit | $49.99 | 1,200 | $0.041 |
+| Epson 502 Bulk Ink | $37.89 | 6,000 | $0.006 |
 
 💡 Pro Tip: Laser printers (like Brother HL-L2350DW) avoid clog issues entirely with toner - worth considering if you print infrequently.
 

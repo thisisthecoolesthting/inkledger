@@ -14,7 +14,7 @@ bsr: 15
 commissionPerSale: 0.0
 score: 68.0
 imageUrl: "/images/products/b07gxxsrd2-epson-502-4-color-multipack.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B07GXXSRD2?tag=inkledger-20&linkCode=ll1&language=en_US"
+affiliateUrl: "https://www.amazon.com/dp/B07GXXSRD2&language=en_US"
 isPrime: true
 status: "published"
 firstSeen: "2026-04-24T00:00:00+00:00"

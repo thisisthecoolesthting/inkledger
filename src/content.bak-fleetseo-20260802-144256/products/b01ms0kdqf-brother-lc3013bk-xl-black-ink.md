@@ -14,7 +14,7 @@ bsr: 12
 commissionPerSale: 0.0
 score: 82.0
 imageUrl: "/images/products/b01ms0kdqf-brother-lc3013bk-xl-black-ink.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B01MS0KDQF?tag=inkledger-20&linkCode=ll1&language=en_US"
+affiliateUrl: "https://www.amazon.com/dp/B01MS0KDQF&language=en_US"
 isPrime: true
 status: "published"
 firstSeen: "2026-04-24T00:00:00+00:00"

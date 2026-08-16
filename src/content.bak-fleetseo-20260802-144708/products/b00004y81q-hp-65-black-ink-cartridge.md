@@ -14,7 +14,7 @@ bsr: 8
 commissionPerSale: 0.0
 score: 72.0
 imageUrl: "/images/products/b00004y81q-hp-65-black-ink-cartridge.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B00004Y81Q?tag=inkledger-20&linkCode=ll1&language=en_US"
+affiliateUrl: "https://www.amazon.com/dp/B00004Y81Q&language=en_US"
 isPrime: true
 status: "published"
 firstSeen: "2026-04-24T00:00:00+00:00"

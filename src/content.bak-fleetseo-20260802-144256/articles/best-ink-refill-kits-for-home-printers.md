@@ -32,9 +32,9 @@ author: marcus-webb
 
 # Introduction
 
-"Why does a tiny bottle of printer ink cost more than champagne?" If you've stared at a $40 [HP 962XL](https://www.amazon.com/dp/B07GRRXJXG?tag=inkledger-20) cartridge and wondered how 5ml of liquid commands such a price, you're not alone. Printer manufacturers rely on captive pricing once you own their hardware—the average household spends $120/year on ink, often paying the equivalent of $8,000 per gallon by volume. Refill kits offer a practical alternative: bypass OEM cartridges and refill your own for a fraction of the cost.
+"Why does a tiny bottle of printer ink cost more than champagne?" If you've stared at a $40 HP 962XL cartridge and wondered how 5ml of liquid commands such a price, you're not alone. Printer manufacturers rely on captive pricing once you own their hardware—the average household spends $120/year on ink, often paying the equivalent of $8,000 per gallon by volume. Refill kits offer a practical alternative: bypass OEM cartridges and refill your own for a fraction of the cost.
 
-We tested six top-rated refill kits across 500+ pages of real printing, tracking print quality, clogging, and longevity against OEM standards. Our findings reveal a clear hierarchy: some $15 third-party kits deliver print quality comparable to $50 name-brand cartridges, while budget options can clog print heads or fade quickly. Whether you're refilling HP 62, [Canon 245](https://www.amazon.com/dp/B00QKWTIJ4?tag=inkledger-20), or Epson 502 cartridges, this guide shows which kits work and how much you'll actually save.
+We tested six top-rated refill kits across 500+ pages of real printing, tracking print quality, clogging, and longevity against OEM standards. Our findings reveal a clear hierarchy: some $15 third-party kits deliver print quality comparable to $50 name-brand cartridges, while budget options can clog print heads or fade quickly. Whether you're refilling HP 62, Canon 245, or Epson 502 cartridges, this guide shows which kits work and how much you'll actually save.
 
 # Why refill kits matter
 
@@ -105,8 +105,8 @@ Other budget-friendly printing options:
 
 1. **Compatible cartridges**: Brands like InkOwl sell pre-filled third-party cartridges at 60% below OEM prices. Convenient but generates plastic waste with each cartridge.
 2. **Ink subscriptions** (HP Instant Ink, Epson Plus): Cost $0.99–$5.99/month based on page count. Only economical for users printing under 50 pages/month.
-3. **Laser printers**: [Brother HL-L2350DW](https://www.amazon.com/dp/B00MFG54B6?tag=inkledger-20) delivers 3,000-page toner yields for $60 ($0.02/page). Higher upfront cost but ideal for text-heavy households.
-4. **Ink tank printers**: Epson [EcoTank ET-2800](https://www.amazon.com/dp/B08B3K9H7L?tag=inkledger-20) includes 2 years' ink supply upfront ($250). Lower long-term costs but not suitable for photo-lab-quality color work.
+3. **Laser printers**: Brother HL-L2350DW delivers 3,000-page toner yields for $60 ($0.02/page). Higher upfront cost but ideal for text-heavy households.
+4. **Ink tank printers**: Epson EcoTank ET-2800 includes 2 years' ink supply upfront ($250). Lower long-term costs but not suitable for photo-lab-quality color work.
 
 For most households, refilling offers the best balance of savings and print quality. The Brother InkWell system is particularly efficient—its sponge design reduces ink waste during startup cycles, and the included chip resetter prevents "empty cartridge" errors.
 
@@ -192,14 +192,14 @@ Price data for this article comes from Keepa, which logs every published price c
 
 ## Watchdog picks
 
-- [B0FMBGXC2C](/products/b0fmbgxc2c-b0fmbgxc2c/) · [Buy on Amazon](https://www.amazon.com/dp/B0FMBGXC2C?tag=inkledger-20)
-- [MLT-D116L High Yield Toner Cartridge - 1 Pack, Black Replacement for Samsung 116](/products/b0c8j8gy2v-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0C8J8GY2V?tag=inkledger-20)
-- [B07Q5J5YXV](/products/b07q5j5yxv-b07q5j5yxv/) · [Buy on Amazon](https://www.amazon.com/dp/B07Q5J5YXV?tag=inkledger-20)
-- [B0963X6B5V](/products/b0963x6b5v-b0963x6b5v/) · [Buy on Amazon](https://www.amazon.com/dp/B0963X6B5V?tag=inkledger-20)
-- [EPSON 522 EcoTank Ink Ultra-high Capacity Bottle Black (T522120-S) Works with ET](/products/b07pn7g526-product/) · [Buy on Amazon](https://www.amazon.com/dp/B07PN7G526?tag=inkledger-20)
-- [B0FMBTJLX6](/products/b0fmbtjlx6-b0fmbtjlx6/) · [Buy on Amazon](https://www.amazon.com/dp/B0FMBTJLX6?tag=inkledger-20)
-- [B0F1FNZB62](/products/b0f1fnzb62-b0f1fnzb62/) · [Buy on Amazon](https://www.amazon.com/dp/B0F1FNZB62?tag=inkledger-20)
-- [B073Q8P6CQ](/products/b073q8p6cq-b073q8p6cq/) · [Buy on Amazon](https://www.amazon.com/dp/B073Q8P6CQ?tag=inkledger-20)
+- [B0FMBGXC2C](/products/b0fmbgxc2c-b0fmbgxc2c/) · 
+- [MLT-D116L High Yield Toner Cartridge - 1 Pack, Black Replacement for Samsung 116](/products/b0c8j8gy2v-product/) · 
+- [B07Q5J5YXV](/products/b07q5j5yxv-b07q5j5yxv/) · 
+- [B0963X6B5V](/products/b0963x6b5v-b0963x6b5v/) · 
+- [EPSON 522 EcoTank Ink Ultra-high Capacity Bottle Black (T522120-S) Works with ET](/products/b07pn7g526-product/) · 
+- [B0FMBTJLX6](/products/b0fmbtjlx6-b0fmbtjlx6/) · 
+- [B0F1FNZB62](/products/b0f1fnzb62-b0f1fnzb62/) · 
+- [B073Q8P6CQ](/products/b073q8p6cq-b073q8p6cq/) · 
 
 ## Products in this guide
 

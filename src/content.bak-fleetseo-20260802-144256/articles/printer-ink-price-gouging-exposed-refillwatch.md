@@ -38,7 +38,7 @@ updatedAt: 2026-05-12
 
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWKS?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Castile — Bulk Refill Base" data-card-pick="Same 18-in-1 concentrate—buy once, refill dispensers for months of household use.">
+
 <img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/414wogLMXDL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
@@ -54,8 +54,8 @@ Consider these shocking comparisons:
   - Dom Pérignon champagne ($50/oz)
   - Chanel No. 5 perfume ($38/oz)
   - Human blood plasma ($7/oz)
-- **Price Escalation**: The average HP [cartridge](https://www.amazon.com/dp/B082Y7X9H5?tag=refillwatch-20) price increased 23% since 2023, far outpacing the 3.4% general inflation rate
-- **Yield Deception**: Epson's 'high yield' [cartridges](https://www.amazon.com/dp/B0BVYBVHK5?tag=refillwatch-20) actually cost 11% more per page than standard ones when tested under real-world conditions
+- **Price Escalation**: The average HP cartridge price increased 23% since 2023, far outpacing the 3.4% general inflation rate
+- **Yield Deception**: Epson's 'high yield' cartridges actually cost 11% more per page than standard ones when tested under real-world conditions
 
 We purchased and tested 15 best-selling cartridges from major brands and third-party manufacturers, running them through:
 
@@ -63,7 +63,7 @@ We purchased and tested 15 best-selling cartridges from major brands and third-p
 2. Real-world document printing simulations
 3. Long-term durability monitoring
 
-The results expose an industry-wide pattern of artificial scarcity. For example, HP's patented 'dynamic security' chips actively prevent cartridges from being refilled, while Epson's EcoTank printers use proprietary bottle designs that only accept their branded inks. Meanwhile, third-party alternatives like INKredible [Compatible](https://www.amazon.com/dp/B07C11YW88?tag=refillwatch-20) Ink performed equally well in our tests while costing 60% less.
+The results expose an industry-wide pattern of artificial scarcity. For example, HP's patented 'dynamic security' chips actively prevent cartridges from being refilled, while Epson's EcoTank printers use proprietary bottle designs that only accept their branded inks. Meanwhile, third-party alternatives like INKredible Compatible Ink performed equally well in our tests while costing 60% less.
 
 This report will arm you with:
 
@@ -86,7 +86,7 @@ For the average American household that prints 25 pages per week:
 
 - **Annual Ink Costs**: $120-$180 for OEM cartridges
 - **Wasted Ink**: 30% of cartridge capacity goes unused due to 'low ink' warnings
-- **Printer [Replacement](https://www.amazon.com/dp/B00WSAXBQ0?tag=refillwatch-20) Cycle**: 3-5 years due to forced obsolescence
+- **Printer Replacement Cycle**: 3-5 years due to forced obsolescence
 
 Small businesses suffer even more. A dental office printing 200 pages daily spends:
 
@@ -100,7 +100,7 @@ The consequences extend beyond your wallet:
 
 - **Landfill Waste**: 375 million cartridges discarded annually in the US alone
 - **Plastic Pollution**: Each cartridge takes 450-1,000 years to decompose
-- **Carbon Footprint**: Manufacturing one cartridge produces 4.8kg CO2 - [equivalent](https://www.amazon.com/dp/B07RVMZNYR?tag=refillwatch-20) to driving 12 miles
+- **Carbon Footprint**: Manufacturing one cartridge produces 4.8kg CO2 - equivalent to driving 12 miles
 
 ### 3. Technological Lock-Ins
 
@@ -123,7 +123,7 @@ We documented multiple cases where:
 
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120V7VA?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Liquid Soap" data-card-pick="Refill your own pump bottle from one bulk jug—pennies per ounce when diluted.">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120V7VA" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Liquid Soap" data-card-pick="Refill your own pump bottle from one bulk jug—pennies per ounce when diluted.">
 <img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/414wogLMXDL.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
@@ -138,7 +138,7 @@ Our lab tested four cartridge types across three key metrics: actual yield, prin
 | HP 67XL Black | $38.99 | 600 pages | 420 pages | $0.093 | 3 refills | 2.1 |
 | Epson 502 Black | $25.49 | 400 pages | 310 pages | $0.082 | 2 refills | 1.8 |
 | Brother LC301BK | $27.99 | 500 pages | 480 pages | $0.058 | 5 refills | 2.3 |
-| INKredible [Compatible](https://www.amazon.com/dp/B083BFPGD8?tag=refillwatch-20) | $15.99 | 500 pages | 460 pages | $0.035 | 4 refills | 2.7 |
+| INKredible Compatible | $15.99 | 500 pages | 460 pages | $0.035 | 4 refills | 2.7 |
 
 Key revelations from 6 months of testing:
 
@@ -156,7 +156,7 @@ Key revelations from 6 months of testing:
    - All OEM cartridges maintained ΔE<3 (professional print standard)
    - Third-party inks averaged ΔE 2.7-3.2 - noticeable only in photo printing
 
-For text documents, the INKredible [Compatible](https://www.amazon.com/dp/B08GX3K9YS?tag=refillwatch-20) cartridges performed indistinguishably from OEM while costing 62% less per page. The only noticeable difference occurred in:
+For text documents, the INKredible Compatible cartridges performed indistinguishably from OEM while costing 62% less per page. The only noticeable difference occurred in:
 
 - High-gloss photo paper (OEM inks had 12% better color gamut)
 - Water resistance (OEM inks lasted 15% longer when wet)
@@ -193,7 +193,7 @@ Beyond controlled lab tests, we monitored these cartridges in three real-world e
 
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00BEYLTKY?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Soap Bar" data-card-pick="One concentrated bar dilutes into dozens of cleaners—ultimate refill economy.">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00BEYLTKY" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Soap Bar" data-card-pick="One concentrated bar dilutes into dozens of cleaners—ultimate refill economy.">
 <img class="amazon-inline-card__img" src="https://m.media-amazon.com/images/I/81RK4MPMtHL.jpg" alt="Dr. Bronner's Pure-Castile Soap" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Soap</strong>
@@ -226,7 +226,7 @@ Let's analyze the true financial impact with detailed cost breakdowns:
 ### Alternative Solutions
 
 **Third-Party Cartridges**
-- INKredible [Compatible](https://www.amazon.com/dp/B0CYJV9X52?tag=refillwatch-20): $0.035/page ($45.50 annual)
+- INKredible Compatible: $0.035/page ($45.50 annual)
 - LD Products: $0.040/page ($52 annual)
 
 **Refill Systems**
@@ -297,58 +297,58 @@ Epson EcoTank 2850
 ## Top Picks
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWKS?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Castile — Bulk Refill Base" data-card-pick="Same 18-in-1 concentrate—buy once, refill dispensers for months of household use.">
+<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120VWKS" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Castile — Bulk Refill Base" data-card-pick="Same 18-in-1 concentrate—buy once, refill dispensers for months of household use.">
 <img class="amazon-inline-card__img" src="/images/amazon-picks/B00120VWKS.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
 <span class="amazon-inline-card__desc">The base for dozens of DIY cleaners, body wash, and floor cleaners—one bottle, 18 uses.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
-</a>
+
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00120V7VA?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Liquid Soap" data-card-pick="Refill your own pump bottle from one bulk jug—pennies per ounce when diluted.">
+
 <img class="amazon-inline-card__img" src="/images/amazon-picks/B00120V7VA.jpg" alt="Dr. Bronner's Pure-Castile Liquid Soap" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Liquid Soap</strong>
 <span class="amazon-inline-card__desc">Mild castile base for DIY hand soap—dilute and refill your own dispenser.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
-</a>
+
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00BEYLTKY?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Dr. Bronner's Pure-Castile Soap Bar" data-card-pick="One concentrated bar dilutes into dozens of cleaners—ultimate refill economy.">
+
 <img class="amazon-inline-card__img" src="/images/amazon-picks/B00BEYLTKY.jpg" alt="Dr. Bronner's Pure-Castile Soap" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Dr. Bronner's Pure-Castile Soap</strong>
 <span class="amazon-inline-card__desc">Concentrated refillable cleaner for body, home, and laundry dilutions.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
-</a>
+
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B01N7VKWVO?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Arm &amp; Hammer Pure Baking Soda 5 lb" data-card-pick="Bulk bag beats tiny boxes—staple for DIY cleaners, deodorizing, and laundry boosts.">
+
 <img class="amazon-inline-card__img" src="/images/amazon-picks/B01N7VKWVO.jpg" alt="Arm & Hammer Pure Baking Soda 5 lb" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Arm & Hammer Pure Baking Soda 5 lb</strong>
 <span class="amazon-inline-card__desc">Food-grade baking soda in a large bag—the backbone of most DIY cleaning recipes.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
-</a>
+
 </div>
 
 <div class="amazon-inline-card not-prose">
-<a class="amazon-inline-card__link" href="https://www.amazon.com/dp/B00YBXVLWK?tag=refillwatch-20" rel="nofollow sponsored noopener" target="_blank" data-card-title="Bee's Wrap Organic Cotton Food Wrap Set" data-card-pick="Reusable wraps replace single-use film—kitchen staple that pays back in weeks.">
+
 <img class="amazon-inline-card__img" src="/images/amazon-picks/B00YBXVLWK.jpg" alt="Bee's Wrap Organic Cotton Food Wrap Set" width="80" height="80" loading="lazy" decoding="async">
 <div class="amazon-inline-card__body">
 <strong class="amazon-inline-card__title">Bee's Wrap Organic Cotton Food Wrap Set</strong>
 <span class="amazon-inline-card__desc">Beeswax + organic cotton keeps food fresh, replaces cling film, compostable end-of-life.</span>
 <span class="amazon-inline-card__cta">Shop on Amazon →</span>
 </div>
-</a>
+
 </div>
 
 
@@ -478,14 +478,14 @@ A: Eco-conscious consumers can opt for refillable ink systems, remanufactured ca
 
 ## Watchdog picks
 
-- [B0CYGN38RF](/products/b0cygn38rf-b0cygn38rf/) · [Buy on Amazon](https://www.amazon.com/dp/B0CYGN38RF?tag=inkledger-20)
-- [B0FBRH75LK](/products/b0fbrh75lk-b0fbrh75lk/) · [Buy on Amazon](https://www.amazon.com/dp/B0FBRH75LK?tag=inkledger-20)
-- [B0GYNFD72N](/products/b0gynfd72n-b0gynfd72n/) · [Buy on Amazon](https://www.amazon.com/dp/B0GYNFD72N?tag=inkledger-20)
-- [Genuine Brother LC3019 (LC-3019) (BK/C/M/Y) High Yield Color Ink 4-Pack (Include](/products/b06xy6rsnb-product/) · [Buy on Amazon](https://www.amazon.com/dp/B06XY6RSNB?tag=inkledger-20)
-- [B0BJ194Z43](/products/b0bj194z43-b0bj194z43/) · [Buy on Amazon](https://www.amazon.com/dp/B0BJ194Z43?tag=inkledger-20)
-- [Canon PG-245 / CL-246 Genuine Ink Value Pack (2 Cartridges), Compatible with iP2](/products/b00trdoylw-product/) · [Buy on Amazon](https://www.amazon.com/dp/B00TRDOYLW?tag=inkledger-20)
-- [Extra Deep Queen Sheet Set - 6 Piece Breathable and Cooling Sheets - Hotel Luxur](/products/b07f97mpyt-extra-deep-queen-sheet-set-6-piece-breathable-and-cooling-sh/) · [Buy on Amazon](https://www.amazon.com/dp/B07F97MPYT?tag=inkledger-20)
-- [Brother Genuine TN730 3-Pack Standard Yield Black Toner Cartridge with Approxima](/products/b07q8bd3mk-product/) · [Buy on Amazon](https://www.amazon.com/dp/B07Q8BD3MK?tag=inkledger-20)
+- [B0CYGN38RF](/products/b0cygn38rf-b0cygn38rf/) · 
+- [B0FBRH75LK](/products/b0fbrh75lk-b0fbrh75lk/) · 
+- [B0GYNFD72N](/products/b0gynfd72n-b0gynfd72n/) · 
+- [Genuine Brother LC3019 (LC-3019) (BK/C/M/Y) High Yield Color Ink 4-Pack (Include](/products/b06xy6rsnb-product/) · 
+- [B0BJ194Z43](/products/b0bj194z43-b0bj194z43/) · 
+- [Canon PG-245 / CL-246 Genuine Ink Value Pack (2 Cartridges), Compatible with iP2](/products/b00trdoylw-product/) · 
+- [Extra Deep Queen Sheet Set - 6 Piece Breathable and Cooling Sheets - Hotel Luxur](/products/b07f97mpyt-extra-deep-queen-sheet-set-6-piece-breathable-and-cooling-sh/) · 
+- [Brother Genuine TN730 3-Pack Standard Yield Black Toner Cartridge with Approxima](/products/b07q8bd3mk-product/) · 
 
 ## Products in this guide
 

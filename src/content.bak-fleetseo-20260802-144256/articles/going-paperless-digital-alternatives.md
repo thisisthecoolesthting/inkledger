@@ -40,7 +40,7 @@ The modern printer ink racket operates on principles that would make a pharmaceu
 
 Yet despite these absurd economics, 68% of households still maintain printers according to Pew Research, primarily for school forms (42%), tax documents (31%), and contracts (19%). The perceived convenience of paper creates a psychological barrier to change, even as digital alternatives now surpass printing in both functionality and cost efficiency.
 
-This guide goes beyond surface-level comparisons. Using actual yield data from [HP 61 cartridges](https://www.amazon.com/dp/B004QM8SLG?tag=inkledger-20) (190 pages at 5% coverage) and [Epson 302XL](https://www.amazon.com/dp/B093TCYF9T?tag=inkledger-20) (1,200 pages), we'll demonstrate:
+This guide goes beyond surface-level comparisons. Using actual yield data from HP 61 cartridges (190 pages at 5% coverage) and Epson 302XL (1,200 pages), we'll demonstrate:
 
 1. The true cost per page when accounting for cartridge yield manipulation
 2. Seven digital solutions that cover 95% of printing use cases
@@ -63,12 +63,12 @@ This 52% reduction in ink volume per cartridge occurred alongside a 15% price in
 - Printer-related energy use equals 1.5 million homes annually (Energy Star)
 
 **Digital Superiority**
-A [Fujitsu ScanSnap iX1500](https://www.amazon.com/dp/B0CB75LML9?tag=inkledger-20) ($399) with cloud storage eliminates:
+A Fujitsu ScanSnap iX1500 ($399) with cloud storage eliminates:
 - Ink costs (saving $180/year)
 - Physical storage (40% of home offices dedicate 50+ sq. ft. to files)
 - Retrieval time (4.3 weeks/year lost searching for documents)
 
-Case Study: A Chicago law firm reduced document retrieval time from 22 minutes to 38 seconds after implementing the [Brother ADS-1700W](https://www.amazon.com/dp/B0GF25F12C?tag=inkledger-20) with OCR indexing.
+Case Study: A Chicago law firm reduced document retrieval time from 22 minutes to 38 seconds after implementing the Brother ADS-1700W with OCR indexing.
 
 ## Head-to-Head Comparison
 
@@ -77,9 +77,9 @@ We evaluated seven solutions across 14 metrics using real-world testing:
 | Solution               | Upfront Cost | Cost Per "Page" | Speed (PPM) | OCR Accuracy | Legal Admissibility | Best For               |
 |------------------------|--------------|------------------|-------------|--------------|---------------------|------------------------|
 | Inkjet Printing        | $100         | $0.18 (color)    | 5           | N/A          | Excellent           | Photos, school projects|
-| [Brother ADS-1700W](https://www.amazon.com/dp/B0GF25F12C?tag=inkledger-20) | $299        | $0.003 (scan)    | 35          | 99.7%        | Yes (UETA compliant)| Receipts, contracts    |
+| Brother ADS-1700W | $299        | $0.003 (scan)    | 35          | 99.7%        | Yes (UETA compliant)| Receipts, contracts    |
 | Rocketbook Core        | $34          | $0.00 (reusable) | Instant     | 94.2%        | No                  | Notes, diagrams        |
-| [Epson ES-500W](https://www.amazon.com/dp/B0F54TYKF9?tag=inkledger-20) | $399        | $0.002 (scan)    | 50          | 98.1%        | Yes                 | Document archiving     |
+| Epson ES-500W | $399        | $0.002 (scan)    | 50          | 98.1%        | Yes                 | Document archiving     |
 | Adobe Acrobat Pro      | $180/year    | $0.001 (PDF edit)| N/A         | 99.9%        | Yes                 | Legal documents        |
 | reMarkable 2 Tablet    | $299         | $0.00 (digital)  | N/A         | 91.3%        | Case-by-case        | Handwritten notes      |
 | Library Printing       | $0           | $0.10/page       | Varies      | N/A          | Excellent           | Occasional needs       |
@@ -106,7 +106,7 @@ Key Findings:
 ## Real-World Performance
 
 **Searchability Deep Dive**
-The [Fujitsu ScanSnap](https://www.amazon.com/dp/B0CB75LML9?tag=inkledger-20)'s OCR can:
+The Fujitsu ScanSnap's OCR can:
 - Find "Section 12.3(c)" across 500 contracts in 2.3 seconds
 - Convert handwritten notes to searchable text (85% accuracy)
 - Auto-extract dates, amounts, and names to spreadsheets
@@ -117,7 +117,7 @@ Wilhelm Research findings:
 - Thermal paper receipts become unreadable in 3-7 years
 - Digital PDF/A files remain perfect indefinitely with proper backups
 
-The [Brother ADS-1700W](https://www.amazon.com/dp/B0GF25F12C?tag=inkledger-20) produces archival-grade PDFs meeting:
+The Brother ADS-1700W produces archival-grade PDFs meeting:
 - ISO 19005-1 (PDF/A)
 - U.S. Court rules for electronic evidence
 - HIPAA retention requirements
@@ -125,7 +125,7 @@ The [Brother ADS-1700W](https://www.amazon.com/dp/B0GF25F12C?tag=inkledger-20) p
 **Workflow Case Studies**
 1. **Medical Practice**
    - Problem: 12 filing cabinets, $8,000/year in records management
-   - Solution: Scanned 1.2 million pages to [Epson ES-500W](https://www.amazon.com/dp/B0F54TYKF9?tag=inkledger-20)
+   - Solution: Scanned 1.2 million pages to Epson ES-500W
    - Result: 92% reduction in storage costs, instant insurance audits
 
 2. **School District**
@@ -157,14 +157,14 @@ A 10-person office printing 15,000 pages/year:
 ## Alternatives and Refills
 
 **1. Refillable Ink Systems**
-The [Epson EcoTank ET-3850](https://www.amazon.com/dp/B085VZPR2Y?tag=inkledger-20) ($399) uses bottled ink:
+The Epson EcoTank ET-3850 ($399) uses bottled ink:
 - Cost/page: $0.01 (black), $0.035 (color)
 - Bottle equivalent: 70 cartridges
 - Catch: Still requires physical storage
 
 **2. Library Printing Hacks**
 - Free at 78% of U.S. libraries (limit 50-100 pages/day)
-- Pro Tip: Combine with [Adobe Acrobat](https://www.amazon.com/dp/B0CGW2TFSV?tag=inkledger-20) to pre-format documents
+- Pro Tip: Combine with Adobe Acrobat to pre-format documents
 
 **3. Digital Note-Taking**
 - reMarkable 2: Feels like paper (21ms latency)
@@ -174,14 +174,14 @@ The [Epson EcoTank ET-3850](https://www.amazon.com/dp/B085VZPR2Y?tag=inkledger-2
 ## FAQ
 
 **Q: How do I handle documents requiring wet signatures?**
-A: Maintain one [HP 61 cartridge](https://www.amazon.com/dp/B004QM8SLG?tag=inkledger-20) for rare cases. Under the ESIGN Act, most documents (including mortgages) now accept e-signatures. For notarization, services like Notarize.com provide remote options.
+A: Maintain one HP 61 cartridge for rare cases. Under the ESIGN Act, most documents (including mortgages) now accept e-signatures. For notarization, services like Notarize.com provide remote options.
 
 **Q: Are scanned documents legally valid for taxes?**
 A: Yes. IRS Publication 583 explicitly accepts scanned records if they're:
 1. Accurate reproductions
 2. Readable
 3. Stored in non-rewriteable format (like PDF/A)
-The [Brother ADS-1700W](https://www.amazon.com/dp/B0GF25F12C?tag=inkledger-20) meets all requirements.
+The Brother ADS-1700W meets all requirements.
 
 **Q: What about photo printing?**
 A: For occasional prints:
@@ -191,7 +191,7 @@ A: For occasional prints:
 
 **Q: How secure are digital documents versus paper?**
 A: Properly configured digital wins:
-- AES-256 encryption (standard in [Adobe Acrobat](https://www.amazon.com/dp/B0CGW2TFSV?tag=inkledger-20))
+- AES-256 encryption (standard in Adobe Acrobat)
 - Blockchain timestamping available
 - Physical files vulnerable to fire/theft
 
@@ -203,14 +203,14 @@ A: Realistically, 85-90%. The remaining 10% falls into:
 
 ## Bottom Line
 
-The [Fujitsu ScanSnap iX1500](https://www.amazon.com/dp/B0CB75LML9?tag=inkledger-20) paired with iCloud or Google Drive delivers the fastest ROI for most households—breaking even in 12-18 months while eliminating:
+The Fujitsu ScanSnap iX1500 paired with iCloud or Google Drive delivers the fastest ROI for most households—breaking even in 12-18 months while eliminating:
 - 90% of ink costs
 - 75% of home office clutter
 - 100% of "where's that document?" stress
 
 For the 5-10% of documents still needing physical copies:
 - Use library printing ($0.10/page)
-- Keep a budget [HP Envy 6055](https://www.amazon.com/dp/B074ND5RDT?tag=inkledger-20) with third-party ink
+- Keep a budget HP Envy 6055 with third-party ink
 - Request physical copies from senders when possible
 
 This balanced approach saves the average household $400+/year while maintaining all necessary functionality. The only thing you'll miss? Those monthly trips to buy overpriced ink.
@@ -269,14 +269,14 @@ Price data for this article comes from Keepa, which logs every published price c
 
 ## Watchdog picks
 
-- [962XL Ink Cartridges for HP 962XL Ink Cartridges Combo Pack Work for HP Officeje](/products/b0d3xgj6hw-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0D3XGJ6HW?tag=inkledger-20)
-- [218A Toner Cartridges 4 Pack (with Chip) Compatible Replacement for HP 218A 218X](/products/b0fnmzclcg-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0FNMZCLCG?tag=inkledger-20)
-- [B01N7V39QJ](/products/b01n7v39qj-b01n7v39qj/) · [Buy on Amazon](https://www.amazon.com/dp/B01N7V39QJ?tag=inkledger-20)
-- [B0DMS3D2JT](/products/b0dms3d2jt-b0dms3d2jt/) · [Buy on Amazon](https://www.amazon.com/dp/B0DMS3D2JT?tag=inkledger-20)
-- [B00PB6F2V4](/products/b00pb6f2v4-b00pb6f2v4/) · [Buy on Amazon](https://www.amazon.com/dp/B00PB6F2V4?tag=inkledger-20)
-- [B000VKGRF0](/products/b000vkgrf0-b000vkgrf0/) · [Buy on Amazon](https://www.amazon.com/dp/B000VKGRF0?tag=inkledger-20)
-- [MLT-D116L High Yield Toner Cartridge - 1 Pack, Black Replacement for Samsung 116](/products/b0c8j8gy2v-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0C8J8GY2V?tag=inkledger-20)
-- [B0GTL8RCGK](/products/b0gtl8rcgk-b0gtl8rcgk/) · [Buy on Amazon](https://www.amazon.com/dp/B0GTL8RCGK?tag=inkledger-20)
+- [962XL Ink Cartridges for HP 962XL Ink Cartridges Combo Pack Work for HP Officeje](/products/b0d3xgj6hw-product/) · 
+- [218A Toner Cartridges 4 Pack (with Chip) Compatible Replacement for HP 218A 218X](/products/b0fnmzclcg-product/) · 
+- [B01N7V39QJ](/products/b01n7v39qj-b01n7v39qj/) · 
+- [B0DMS3D2JT](/products/b0dms3d2jt-b0dms3d2jt/) · 
+- [B00PB6F2V4](/products/b00pb6f2v4-b00pb6f2v4/) · 
+- [B000VKGRF0](/products/b000vkgrf0-b000vkgrf0/) · 
+- [MLT-D116L High Yield Toner Cartridge - 1 Pack, Black Replacement for Samsung 116](/products/b0c8j8gy2v-product/) · 
+- [B0GTL8RCGK](/products/b0gtl8rcgk-b0gtl8rcgk/) · 
 
 ## Products in this guide
 

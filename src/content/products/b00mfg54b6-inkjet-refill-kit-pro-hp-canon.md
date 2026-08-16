@@ -14,7 +14,7 @@ bsr: 45
 commissionPerSale: 0.0
 score: 79.0
 imageUrl: "/images/products/b00mfg54b6-inkjet-refill-kit-pro-hp-canon.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B00MFG54B6?tag=inkledger-20&linkCode=ll1&language=en_US"
+affiliateUrl: ""
 isPrime: false
 status: "published"
 firstSeen: "2026-04-24T00:00:00+00:00"

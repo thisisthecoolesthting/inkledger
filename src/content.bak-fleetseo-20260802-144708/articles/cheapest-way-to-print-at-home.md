@@ -261,14 +261,14 @@ Price data for this article comes from Keepa, which logs every published price c
 
 ## Watchdog picks
 
-- [B00T6RWJMU](/products/b00t6rwjmu-b00t6rwjmu/) · [Buy on Amazon](https://www.amazon.com/dp/B00T6RWJMU?tag=inkledger-20)
-- [myCartridge SUPRINT Remanufactured Replacement for Epson 702 Ink Cartridges 702X](/products/b0fb96px2m-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0FB96PX2M?tag=inkledger-20)
-- [Epson EcoTank ET-2400 Wireless Color All-in-One Cartridge-Free Supertank Printer](/products/b0bm9bflmx-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0BM9BFLMX?tag=inkledger-20)
-- [Aomya Compatible Ink Refill kit for HP 60 61 63 64 65 902 932 952 564 Refillable](/products/b077gllzbw-product/) · [Buy on Amazon](https://www.amazon.com/dp/B077GLLZBW?tag=inkledger-20)
-- [B01N4IWH2O](/products/b01n4iwh2o-b01n4iwh2o/) · [Buy on Amazon](https://www.amazon.com/dp/B01N4IWH2O?tag=inkledger-20)
-- [B08PDHVZ4N](/products/b08pdhvz4n-b08pdhvz4n/) · [Buy on Amazon](https://www.amazon.com/dp/B08PDHVZ4N?tag=inkledger-20)
-- [Brother Genuine High-Yield Black Toner Cartridge Twin Pack TN760 2Pk, TN7602PK,2](/products/b07ygl9xth-product/) · [Buy on Amazon](https://www.amazon.com/dp/B07YGL9XTH?tag=inkledger-20)
-- [inkgens 31 32XL Ink Bottle Set Refill for HP Smart Tank 7600 7602 7300 7301 7001](/products/b0dpkjjrbg-product/) · [Buy on Amazon](https://www.amazon.com/dp/B0DPKJJRBG?tag=inkledger-20)
+- [B00T6RWJMU](/products/b00t6rwjmu-b00t6rwjmu/) · 
+- [myCartridge SUPRINT Remanufactured Replacement for Epson 702 Ink Cartridges 702X](/products/b0fb96px2m-product/) · 
+- [Epson EcoTank ET-2400 Wireless Color All-in-One Cartridge-Free Supertank Printer](/products/b0bm9bflmx-product/) · 
+- [Aomya Compatible Ink Refill kit for HP 60 61 63 64 65 902 932 952 564 Refillable](/products/b077gllzbw-product/) · 
+- [B01N4IWH2O](/products/b01n4iwh2o-b01n4iwh2o/) · 
+- [B08PDHVZ4N](/products/b08pdhvz4n-b08pdhvz4n/) · 
+- [Brother Genuine High-Yield Black Toner Cartridge Twin Pack TN760 2Pk, TN7602PK,2](/products/b07ygl9xth-product/) · 
+- [inkgens 31 32XL Ink Bottle Set Refill for HP Smart Tank 7600 7602 7300 7301 7001](/products/b0dpkjjrbg-product/) · 
 
 ## Products in this guide
 

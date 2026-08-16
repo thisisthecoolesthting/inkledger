@@ -14,7 +14,7 @@ bsr: 6
 commissionPerSale: 0.0
 score: 83.0
 imageUrl: "/images/products/b07rrf8fsx-hp-63xl-black-ink-cartridge.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B07RRF8FSX?tag=inkledger-20&linkCode=ll1&language=en_US"
+affiliateUrl: ""
 isPrime: true
 status: "published"
 firstSeen: "2026-04-24T00:00:00+00:00"

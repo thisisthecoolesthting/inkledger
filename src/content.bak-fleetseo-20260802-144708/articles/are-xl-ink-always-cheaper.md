@@ -122,14 +122,14 @@ Ultimately, the decision of whether to buy XL ink cartridges depends on your ind
 
 ## Watchdog picks
 
-- [Extra Deep Queen Sheet Set - 6 Piece Breathable and Cooling Sheets - Hotel Luxur](/products/b07f97mpyt-extra-deep-queen-sheet-set-6-piece-breathable-and-cooling-sh/) · [Buy on Amazon](https://www.amazon.com/dp/B07F97MPYT?tag=inkledger-20)
-- [B001E10B9I](/products/b001e10b9i-b001e10b9i/) · [Buy on Amazon](https://www.amazon.com/dp/B001E10B9I?tag=inkledger-20)
-- [B07D5DN269](/products/b07d5dn269-b07d5dn269/) · [Buy on Amazon](https://www.amazon.com/dp/B07D5DN269?tag=inkledger-20)
-- [Valuetoner 245XL Ink Cartridge Replacement for Canon 245XL 246XL Combo Pack PG-2](/products/b07tj87ykb-product/) · [Buy on Amazon](https://www.amazon.com/dp/B07TJ87YKB?tag=inkledger-20)
-- [EPSON 702 DURABrite Ultra Ink High Capacity Black & Standard Color Cartridge Com](/products/b071wb6bgn-product/) · [Buy on Amazon](https://www.amazon.com/dp/B071WB6BGN?tag=inkledger-20)
-- [Aomya Compatible Ink Refill kit for HP 60 61 63 64 65 902 932 952 564 Refillable](/products/b077gllzbw-product/) · [Buy on Amazon](https://www.amazon.com/dp/B077GLLZBW?tag=inkledger-20)
-- [B0014D3N0Q](/products/b0014d3n0q-b0014d3n0q/) · [Buy on Amazon](https://www.amazon.com/dp/B0014D3N0Q?tag=inkledger-20)
-- [B0CHJ8T7XS](/products/b0chj8t7xs-b0chj8t7xs/) · [Buy on Amazon](https://www.amazon.com/dp/B0CHJ8T7XS?tag=inkledger-20)
+- [Extra Deep Queen Sheet Set - 6 Piece Breathable and Cooling Sheets - Hotel Luxur](/products/b07f97mpyt-extra-deep-queen-sheet-set-6-piece-breathable-and-cooling-sh/) · 
+- [B001E10B9I](/products/b001e10b9i-b001e10b9i/) · 
+- [B07D5DN269](/products/b07d5dn269-b07d5dn269/) · 
+- [Valuetoner 245XL Ink Cartridge Replacement for Canon 245XL 246XL Combo Pack PG-2](/products/b07tj87ykb-product/) · 
+- [EPSON 702 DURABrite Ultra Ink High Capacity Black & Standard Color Cartridge Com](/products/b071wb6bgn-product/) · 
+- [Aomya Compatible Ink Refill kit for HP 60 61 63 64 65 902 932 952 564 Refillable](/products/b077gllzbw-product/) · 
+- [B0014D3N0Q](/products/b0014d3n0q-b0014d3n0q/) · 
+- [B0CHJ8T7XS](/products/b0chj8t7xs-b0chj8t7xs/) · 
 
 ## Products in this guide
 
