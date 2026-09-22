@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /draft/
-
-Sitemap: https://inkledger.org/sitemap.xml
