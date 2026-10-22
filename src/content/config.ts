@@ -10,6 +10,7 @@
 // author slug in frontmatter when adding a guest contributor.
 
 import { defineCollection, z } from 'astro:content';
+import { niceTitle } from '../utils/article-seo';
 
 // Coerce null → [] for relatedProducts (some articles have bare `relatedProducts:` in frontmatter)
 const relatedProductsField = z.preprocess((v) => (v == null ? [] : v), z.array(z.string())).optional().default([]);
@@ -82,7 +83,7 @@ const pillars = defineCollection({
 const articles = defineCollection({
   type: 'content',
   schema: z.object({
-    title: z.string(),
+    title: z.string().transform(niceTitle),
     metaDescription: z.string().optional().default(''),
     publishedAt: z.coerce.date().optional(),
     updatedAt: z.coerce.date().optional(),

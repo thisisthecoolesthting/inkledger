@@ -1,0 +1,55 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import { niceTitle } from '@/utils/article-seo';
+
+export interface Props {
+  currentSlug: string;
+  articles: CollectionEntry<'articles'>[];
+  subtopic?: string;
+  tags?: string[];
+  limit?: number;
+}
+
+// Always renders >= 3 internal links: topical matches first, then newest articles as filler.
+const { currentSlug, articles, subtopic = '', tags = [], limit = 5 } = Astro.props;
+const tagSet = new Set((tags || []).map((t) => t.toLowerCase()));
+
+function score(entry: CollectionEntry<'articles'>): number {
+  let s = 0;
+  const d = entry.data as { subtopic?: string; tags?: string[] };
+  if (subtopic && d.subtopic === subtopic) s += 3;
+  for (const t of d.tags || []) if (tagSet.has(String(t).toLowerCase())) s += 1;
+  return s;
+}
+
+const byDate = (a: CollectionEntry<'articles'>, b: CollectionEntry<'articles'>) =>
+  String(b.data.publishedAt).localeCompare(String(a.data.publishedAt));
+
+const pool = articles.filter((a) => a.slug !== currentSlug && a.data.status !== 'draft');
+const ranked = pool
+  .map((a) => ({ entry: a, s: score(a) }))
+  .filter((x) => x.s > 0)
+  .sort((a, b) => b.s - a.s || byDate(a.entry, b.entry))
+  .map((x) => x.entry);
+const seen = new Set(ranked.map((a) => a.slug));
+const filler = pool.filter((a) => !seen.has(a.slug)).sort(byDate);
+const related = [...ranked, ...filler].slice(0, limit);
+---
+
+{related.length >= 3 && (
+  <aside class="not-prose mt-10 pt-8 border-t border-cream-200" aria-labelledby="related-articles-heading">
+    <h2 id="related-articles-heading" class="font-display text-xl text-ink-900 mb-4 !mt-0">Keep reading</h2>
+    <ul class="space-y-3">
+      {related.map((a) => (
+        <li>
+          <a
+            href={`/articles/${a.slug}/`}
+            class="block rounded-xl border border-cream-200 bg-white px-4 py-3 no-underline shadow-soft transition hover:border-terracotta-300 hover:shadow-soft-lg"
+          >
+            <span class="font-semibold text-sm text-ink-900 leading-snug">{niceTitle(a.data.title)}</span>
+          </a>
+        </li>
+      ))}
+    </ul>
+  </aside>
+)}
