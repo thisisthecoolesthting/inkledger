@@ -70,7 +70,9 @@ const hero = home.homepage.heroImageUrl;
 const defaultOg = (image && image.length) ? image : (hero && hero.length ? hero : '/og-default.png');
 const og = defaultOg;
 const isAbs = (u: string) => /^https?:\/\//i.test(u);
-const fullTitle = title.includes(b.fullName) ? title : `${title} | ${b.fullName}`;
+const rawFullTitle = title.includes(b.fullName) ? title : `${title} | ${b.fullName}`;
+const fullTitle = rawFullTitle.length <= 65 ? rawFullTitle : (title.length <= 65 ? title : title.slice(0, 64).replace(/\s+\S*$/, '') + '\u2026');
+const metaDescription = description && description.length > 160 ? description.slice(0, 157).replace(/\s+\S*$/, '') + '\u2026' : description;
 const shareTitle = ogTitle?.trim() || fullTitle;
 const canonicalUrl = canonical ?? (siteUrl ? new URL(Astro.url.pathname, siteUrl + '/').toString() : Astro.url.href);
 const ogImageUrl = isAbs(og) ? og : siteUrl ? new URL(og, siteUrl + '/').toString() : og;
@@ -86,7 +88,7 @@ const ogImageUrl = isAbs(og) ? og : siteUrl ? new URL(og, siteUrl + '/').toStrin
     {id.fontCssHref ? <link rel="stylesheet" href={id.fontCssHref} /> : null}
 
     <title>{fullTitle}</title>
-    <meta name="description" content={description} />
+    <meta name="description" content={metaDescription} />
     <link rel="canonical" href={canonicalUrl} />
     {noindex && <meta name="robots" content="noindex, nofollow" />}
 
